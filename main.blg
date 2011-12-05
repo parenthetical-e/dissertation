@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: main.aux
+The style file: apacite.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: bibmin.bib
+Repeated entry---line 5002 of file bibmin.bib
+ : @article{Menon:2007p6529
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6986 of file bibmin.bib
+ : @article{Bjorklund:2007p2585
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8234 of file bibmin.bib
+ : @article{Kakade:2002p6414
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9367 of file bibmin.bib
+ : @article{Roesch:2007p2519
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9377 of file bibmin.bib
+ : @article{Birn:2002p1777
+ :                        ,
+I'm skipping whatever remains of this entry
+apacite.bst [2009/03/01 v4.05 APA bibliography style]
+You've used 17 entries,
+            6361 wiz_defined-function locations,
+            1303 strings with 12979 characters,
+and the built_in function-call counts, 37685 in all, are:
+= -- 4440
+> -- 320
+< -- 2114
++ -- 2251
+- -- 34
+* -- 2674
+:= -- 7624
+add.period$ -- 66
+call.type$ -- 17
+change.case$ -- 115
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 980
+empty$ -- 1322
+format.name$ -- 570
+if$ -- 6654
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 0
+newline$ -- 426
+num.names$ -- 136
+pop$ -- 460
+preamble$ -- 1
+purify$ -- 98
+quote$ -- 0
+skip$ -- 2115
+stack$ -- 0
+substring$ -- 2426
+swap$ -- 571
+text.length$ -- 64
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1360
+warning$ -- 0
+while$ -- 218
+width$ -- 0
+write$ -- 560
+(There were 5 error messages)
