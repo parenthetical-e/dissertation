@@ -4,66 +4,90 @@ The style file: apacite.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: bibmin.bib
-Repeated entry---line 5002 of file bibmin.bib
- : @article{Menon:2007p6529
- :                         ,
+Repeated entry---line 2443 of file bibmin.bib
+ : @article{Seymour:2008p6518
+ :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6986 of file bibmin.bib
- : @article{Bjorklund:2007p2585
- :                             ,
+Repeated entry---line 7190 of file bibmin.bib
+ : @article{OReilly:2006p1161
+ :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 8234 of file bibmin.bib
- : @article{Kakade:2002p6414
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9367 of file bibmin.bib
- : @article{Roesch:2007p2519
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9377 of file bibmin.bib
+Repeated entry---line 8342 of file bibmin.bib
  : @article{Birn:2002p1777
  :                        ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 9331 of file bibmin.bib
+ : @article{Kakade:2002p6414
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9401 of file bibmin.bib
+ : @article{Menon:2007p6529
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9596 of file bibmin.bib
+ : @article{Roesch:2007p2519
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9762 of file bibmin.bib
+ : @article{Spiering:2008p5008
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10354 of file bibmin.bib
+ : @article{Cooper:2008p5238
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10391 of file bibmin.bib
+ : @article{DArdenne:2008p1505
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10994 of file bibmin.bib
+ : @article{Montague:2006mz
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11040 of file bibmin.bib
+ : @article{Bjorklund:2007p2585
+ :                             ,
+I'm skipping whatever remains of this entry
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 17 entries,
+You've used 44 entries,
             6361 wiz_defined-function locations,
-            1303 strings with 12979 characters,
-and the built_in function-call counts, 37685 in all, are:
-= -- 4440
-> -- 320
-< -- 2114
-+ -- 2251
-- -- 34
-* -- 2674
-:= -- 7624
-add.period$ -- 66
-call.type$ -- 17
-change.case$ -- 115
+            1468 strings with 17396 characters,
+and the built_in function-call counts, 90212 in all, are:
+= -- 10689
+> -- 760
+< -- 4846
++ -- 5089
+- -- 88
+* -- 6261
+:= -- 17789
+add.period$ -- 173
+call.type$ -- 44
+change.case$ -- 289
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 980
-empty$ -- 1322
-format.name$ -- 570
-if$ -- 6654
+cite$ -- 88
+duplicate$ -- 2399
+empty$ -- 3347
+format.name$ -- 1333
+if$ -- 16276
 int.to.chr$ -- 0
-int.to.str$ -- 34
+int.to.str$ -- 88
 missing$ -- 0
-newline$ -- 426
-num.names$ -- 136
-pop$ -- 460
+newline$ -- 1076
+num.names$ -- 352
+pop$ -- 1157
 preamble$ -- 1
-purify$ -- 98
+purify$ -- 245
 quote$ -- 0
-skip$ -- 2115
+skip$ -- 5325
 stack$ -- 0
-substring$ -- 2426
-swap$ -- 571
-text.length$ -- 64
+substring$ -- 5527
+swap$ -- 1394
+text.length$ -- 157
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1360
+type$ -- 3520
 warning$ -- 0
-while$ -- 218
+while$ -- 512
 width$ -- 0
-write$ -- 560
-(There were 5 error messages)
+write$ -- 1386
+(There were 11 error messages)
