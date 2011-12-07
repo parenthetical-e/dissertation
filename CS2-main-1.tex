@@ -1,0 +1,149 @@
+\documentclass[doc,12pt]{apa}        % use: 'man' for submission type; 'jou' for
+                                % journal type, and 'doc' for typical latex
+                                % but with figures inline with text
+\usepackage{geometry} 
+%\geometry{a4paper} 
+\usepackage[parfill]{parskip}   % paragraphs delimited by an empty line
+
+\usepackage{graphicx} 
+\usepackage{amssymb}            % no idea what this does...
+\usepackage{epstopdf}           % no idea what this does...
+%\usepackage{gensymb}            % no idea what this does...
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png} \setcounter{secnumdepth}{0}  % no idea what this does...
+
+\usepackage{apacite}
+%%%%%%%%% END HEADER %%%%%%%%%
+
+\title{Categories of rewards.} 
+\author{Erik J. Peterson} \affiliation{Dept. of Psychology \\ Colorado State University \\ Fort Collins, CO} 
+
+%%%%%%%%%%%%%%%%
+\begin{document} 
+%%%%%%%%%%%%%%%%
+\maketitle
+
+\section{Prologue} % (fold)
+\label{sec:prologue}
+My original dissertation study aimed to test the theory that, from a dopaminergic point of view, novelty \emph{is} a reward, not merely is \emph{like} a reward. Based on previous computational arguments \cite{Kakade:2002p6414}, I predicted that when positive and novel outcomes combined, they would act sympathetically to accelerate learning compared to either alone.  Likewise negative and novel outcomes would interfere, diminishing learning. Three consecutive pilot experiments using a simple two-choice abstract category learning task were consistent with these predictions; these studies formed the foundatior for the dissertation proposal discussed and approved last we met.  I am now forced to conclude, after another 20 experiments, that these promising positive results were (at best) highly brittle - in total less the 12\% of participants exhibited the effect and I have been unable to reproduce it at all in the last 10 or so experiments, two of which were direct replications of previous successful trials.  Analysis of the combined datasets from nearly all 23 experiments suggested the promising three were driven by noise alone, even though each of the three closely approached or exceeded $p < 0.05$ threshold, even when using non-parametric statistics\footnote{Wilcox rank sum, to be specific.}.  Having spent a year then hunting mirages, I stopped to rethink. 
+
+My motivation for studying novelty and reward had two facets.  First, much of work establishing the reward predictions error (RPE) hypothesis of dopamine has been correlative, and hence limited, even though the correlations in some cases were very strong.  All prior casual studies in humans have used doses of dopaminergic drugs whose effects are (1) not well understood physiologically and (2) extend beyond the VTA/SNc (i.e. the dopamenergic midbrain) and the striatum into all of cortex \cite{Menon:2007p6529,Pizzagalli:2008p6521,Schonberg:2009p6669}.  That is while drug-based experiments show casual behavioral effects consistent with the reward predictions error (RPE) hypothesis, their specificity %to what? 
+is doubtful.  By holding everything constant but the presence or absence of novelty the prior proposal allowed for a causal test of the relation between reward, novelty and learning in healthy young adults (as well as a quantitative test via the novelty-extended RPE equations provided by \citeNP{Kakade:2002p6414}).  Given the noise and reliability problems described above though this approach appears to be intractable.  
+
+The second motivation though was, in a sense, larger.  Anything in principle, and so far I am aware in practice, can be novel (i.e. contextually unexpected) but if anything can be novel, this implies that everything we experience is linked to primary or secondary reinforcers when in a novel situation (i.e. rewards \citeNP{Bjorklund:2007p2585}).  It is not possible for everything we experience to have potential reward value without driving the potency of the reward value to zero.  This implies that if novelty is a reward it must derive its reward value from another source besides simple contextual unxepectedness.  This source is unlikely to be a direct association to evolutionary primitive rewards such as food, pain and sex.  It would instead seem to be a type of cognitive reward that requires evaluation of and derivation from current sense experience and past memories, from an endogenous criterion alone.  Reviewing again the literature with cognitive rewards in mind lead to other separate examples of rewards that also seem cognitive (see the introduction for more).  In fact, that are more than enough examples to assert that cognitive rewards have been demonstrated as fact.  So then I began to wonder what other under-appreciated or undiscovered complexities reward representations possess.  Cognitive rewards could certainly be more flexible than evolutionarily primitive rewards; perhaps instead of being coded as individual exemplars (e.g., each tasty sip of juice is a wholly independent neural entity), rewards are actually represented as categories of rewarding experiences.  That is while rewards can facilitate category learning perhaps, quasi-paradoxically, they are categories themselves.  Past research is certainly suggestive of this, and will be discussed in greater detail below.  
+% section prologue (end)
+
+\section{Introduction} % (fold)
+\label{sec:introduction}
+This introduction is tripartite.  First I make a case for cognitive rewards and the utility of categorical reward representations.  Second is a discussion of prior studies of instrumental generalization (in pigeons) and multi-valued decision making (in humans) -- both of which can be viewed as evidence for categorical reward representations.  Finally, I outline the exact methods and goals of this proposed work.
+
+\textbf{TODO:}
+\emph{Cognitive:} Dicuss, Tricomi \cite{Tricomi:2008p6663}, the two fictive reward papers \cite{Hayden:2009p6545,Lohrenz:2007p7240,Dayan:2006p6539}, and Dayan's information about outcome report \cite{BrombergMartin:2009p7220}.  Also discuss how fictive rewards and Tricomi's report may suggest categorical rewards - when do subjects really have a specific outcome in mind or a general sense or category of outcomes that would serve?
+
+\textbf{TODO:}
+\emph{Category-ish}: Devote 2 short paragraphs to instrumental generalization in pigeons and the one multi-valued decision fMRI paper \cite{Kahnt:2010p7677}.  Add in the better option firing in rats \cite{Roesch:2007p2519}?  Make the point at the end that none of these were tested as proper categories (which imply a generalization to never before experienced events), but were instead just previously viewed simple visual information presented in new contexts.
+
+% Relevance of \cite{Pessoa:2010p8060}?  Relevance of Ashby's neuroscon and categories paper?
+% I think at this point you have enough studies in the introduction -- you can of course add these others to the final dissertation.
+
+\textbf{TODO:}
+\emph{Finally}:  The task painted as one big picture....also not that we are jittering between stimulus-response and feedback portions of each trial.
+% subsection  (end)
+% section introduction (end)
+
+\section{Methods and Analyses} % (fold)
+\label{sec:methods}
+\subsection{Task} % (fold)
+\label{sub:task}
+As discussed at the end of the introduction, the experimental procedure consists of two parts or tasks.  Depicted in Fig~\ref{fig:task} (top), the first is a passive classical conditioning where participants will learn reward categories by pairing randomly selected (without replacement) black and white sinusoidal gratings with ``Gain \$1'' or ``Lose \$1'' in, respectively, green or red letters.  Reward categories will be derived from a information integration parameter distribution (Fig.~\ref{fig:II}).  The grating is onscreen for 0.5 seconds, followed by 0.5 seconds gap, with the outcome displayed for another 0.5 seconds with a 1 second fixation cross between each trial. Task 1, which will be completed outside the fMRI scanner, lasts just over 6 minutes displaying 175 examples approximately evenly divided among the two categories.  Each participant will be instructed to ``Attend to the screen in order to learn which types of gratings lead to winning money and which types lead to losses''.  The category distribution to value mapping will randomized for each participant.
+
+The second task (Fig~\ref{fig:task}, bottom) is an abstract deterministic category learning task that replace direct verbal feedback or reward with an appropriate grating from task 1; gratings associated with monetary wins will be used for positive reinforcement, and gratings associated with losses for negative reinforcement.   Each trial begins with an abstract black and white ``tree'' stimuli, which belongs to one of two arbitrarily named categories (``q'' or ``w'').  Subjects will indicate their categorization response by button press using either the right index or middle finger (respectively) on a magnet compatible response box placed on the participants thigh.  The response window lasts up to 2.5 seconds.  During the response period the ``tree'' remains onscreen.  Once either time has elapsed or the participant responds, the ``tree'' disappears and 1-8 seconds later (as defined by the jitter optimization routine, below) is replaced by a sinusoidal grating.  If the response was correct a new, that is never before experienced, exemplar grating from the ``gain'' distribution is used; if it was incorrect, a new ``lose'' grating appears.  The feedback grating stays onscreen for 1 second and is then immediately replaced by a fixation cross, whose duration is again governed by the jitter optimization routine.  Participants will learn to classify 6 ``trees'' (randomly selected at the start of the experiment out of a pool of 16). Each of the 6 are experienced a total of 40 times for total of 240 trials/scanning session. In this task participants are in part instructed to, ``Use what you learned about the rewarding properties of the gratings to try and earn as much money as possible in this portion of the experiment''.  Participants will be instructed about both tasks orally by the experimenter using Fig~\ref{fig:task} as a visual aid.
+
+\begin{figure}[tp]
+	\label{fig:task}
+	\fitfigure{task}
+	\caption{Depiction of the behavioral task. The top is the (passive) classical conditioning participants learn the reward categories.  The bottom is the active abstract two-choice category learning.}
+\end{figure}
+
+\begin{figure}[tp]
+	\label{fig:II}
+	\fitfigure{II}
+	\caption{Sinusoidal grating distributions. \textbf{TODO} Describe the parameters of II and why I use it here}
+\end{figure}
+
+In fMRI (as in time-series signal analysis in general) there is an intrinsic tradeoff between simply detecting that a signal has occurred in the presence of noise and then estimating the timecourse (i.e. shape) of that signal \cite{Dale:1999p7901,Birn:2002p1777,Liu:2004p2141}.   The state of the art method for setting trial ordering in an attempt to maximize both signal detection and estimation is a genetic algorithm design by \citeNP{Kao:2009p7899}.  Without extensive modification unfortunately their methodology cannot account for epoch-style designs\footnote{This flaw is common to all methods of stimulus timing optimization, so far as I am aware.} that this experiment requires; each trial needs to contain stimulus-response, jitter and feedback delivery periods.  To account for this, Koa's methods will be applied twice, once using a 6.5 second ISI (the estimated average length of a trial) and once with a 1 second ISI (the length of the feedback display in task 2).  These two designs will then be manually interpolated to create a series of stimulus-response, jitter, feedback, and ITI events.  To create the final trial ordering each stimulus-response event will then be subsequently randomly recoded to match one of the 6 ``tree'' stimuli.  This randomization step will be performed independently for each subject so that stimulus assignment to events will be counterbalanced across subjects to control for specific item effects.  
+
+Finally, as not all participants can successfully learn task 2 (see \emph{Behavioral Results} below) subjects will be prescreened with a variation of task 2, using colored fractals as stimuli, ``a'' and ``b'' as category labels, and written feedback (e.g. ``Correct'').  To be included in the study participants must reach 0.65 accuracy (measured with a rolling average) within 60 training examples during prescreening.  Prescreening will occur immediately following Task 1 training and immediately preceeding the scanning session.
+% subsection task (end)
+
+\subsection{fMRI acquisition and analyses} % (fold)
+\label{sub:fmri}
+
+fMRI data for about 15 participants will be acquired  (approximately half female, age range 18-35, right handed).   All participants will be prescreened for the typical exclusion factors (e.g. metal implants, mental disorders, etc) and will be compensated at a base rate of \$15.00 earning up to \$30 more depending on behavioral performance. 30 trials will be randomly selected from the 240 possible and the participant will be paid an additional dollar for every correct response and will lose a dollar for every incorrect. Scanning data will be acquired at the Intermountain Neuroimaging Consortium (INC) facility located at the University of Colorado at Boulder The exact scanning parameters (TR, TE, in-plane resolution, etc) are to be determined as this is the Lab's first use of the INC machine but will be typical of a whole-brain rapid event-related fMRI acquisition.
+
+Standard fMRI data preprocessing (motion correction, slice-time correction, drift correction, temporal, spatial smoothing and Tailarach normalization) will be carried out in BrainVoyager, version 2.1.  The main focus of this work will be to test how reward categories are represented and processed in specific regions of interest (ROIs).  \emph{A priori} regions of interest are the VTA/SNc, ventral and dorsal striatum, ventromedial and dorsolateral PFC (the latter two have been show to correlate with reinforcement learning value computation \citeNP{Kahnt:2010p7677}).  All regions will be define by anatomical tracings based of an average of all participants anatomical MRI scans.  
+%Did you want to say more about what analyses will be done on an ROI basis?
+
+Since this is, so far as I am aware, the first time rewards have been treated as categories in an fMRI experiment, whole brain activation mapping is also of interest.  This will be done in BrainVoyager with the final maps reported as set of two overlaid probability maps - heat maps where the value in each voxel is the fraction of participants who had significant activity (defined here as either $p < 0.05$ or $p < 001$; RFX correction) at that voxel.   This is an improvement over the typical thresholded t-value maps as probability maps include information not just about the strength of the effect but also its consistency.  \emph{A priori} whole brain contrasts of interest are all trials compared to fixation (the most powerful contrast which will provide an overall picture of activity patterns), all stimulus-response periods compared to baseline as well as all feedback periods compared to fixation, and feedback period contrasted to stimulus-response period (and the reverse). In addition the effect of outcome valance (gain or loss) will be compared for each of the prior contrasts.  Finally probability maps will be qualitatively compared to results from a similar experiment (that used verbal feedback - ``correct'' or ``incorrect'') carried out by Lopez-Paniagua, PhD, for his masters work (Lopez-Paniagua & Seger, 2011). 
+% subsection fmri (end)
+
+\subsection{Computational analyses} % (fold)
+\label{sub:Computational}
+Reinforcement learning measures will be derived from a Rescorla-Wagner models (Eq.~\ref{eq:V} and \ref{eq:rpe}.), with decision making approximated by the logistic function (i.e. softmax, Eq.~\ref{eq:softmax}).  The parameters ($\alpha$ and $\beta$) are minimized by maximum log-likelihood.  Two separate Rescorla-Wagner models will be considered to examine two different reward representations (Eq.~\ref{eq:r1} and \ref{eq:r2}).  The first reward representation is all or none, whereas the other incorporates the categorical structure by incorporating a parameter, D, which is is the Euclidean distance from the average angle ($\bar{\theta}$) and width ($\bar{W}$) in one of the two reward categories versus a given parameter set for a single example grating (i.e. $\theta$ and $w$).   We test whether the BOLD signal in the ventral striatum and VTA/SNc is best described by the prediction error term (Eq~\ref{eq:rpe}) combined with with Eq.~\ref{eq:r1} or with Eq.~\ref{eq:r2}.    Similarly BOLD changes in the dorsal striatum and in the two prefrontal regions of interest (see \emph{fMRI}) will be modeled by $V(s,t)$ (Eq~\ref{eq:V}), again comparing the two methods for calculating r(t).
+
+To restate, Rescorla-Wagner value updates are defined by,
+\begin{equation} \label{eq:V} V(s,t) \leftarrow V(s,t) + \alpha*\delta \end{equation} where 
+\begin{equation} \label{eq:rpe} \delta = r(t) - V(s,t) \end{equation}
+with $r(t)$ calculated as either
+\begin{equation}
+	\label{eq:r1}
+	r_{c}(t) = \{1,0\}
+\end{equation}
+or
+\begin{equation}
+	\label{eq:r2}
+    r_{d}(t) = \frac{r_{c}(t)}{D}
+\end{equation}
+where
+\begin{equation}
+	\label{eq:D}\\
+	D = \sqrt{(\bar{\theta} - \theta)^2 + (\bar{W}-w)^2}
+\end{equation}
+and in all cases
+\begin{equation} \label{eq:V0} V_{initial}(s,t) = 0. \end{equation}
+\begin{equation}
+	\label{eq:softmax}
+	p(s_1) = {e^{\beta V(s_1,t)}\over{e^{\beta V(s_1,a)} + e^{\beta V(s_2,a)}}};\ s_1 = (s_{i},q), \ s_2 = (s_{i}, w).
+\end{equation}
+
+Prior to regression analysis, for each regions of interest outlined above, all reinforcement measures will be convolved with the canonical (``double-gamma'') hemodynamic response function and to be consistent with the treatment of BOLD data, z-scored and 4Hz high-pass filtered.  Model fits will be compared by AIC and BIC\footnote{There is so far as I can tell some debate over the best criterion, in general, and it seems there is no harm in calculating both and hoping for agreement.  In case of disagreement I propose using their F1 score to decide the best model fit ($F1 := \frac{AIC*BIC}{AIC+BIC}$) }. Assuming AIC and BIC agree (as is likely) the best fit model will only be accepted as valid if it is also significant predictor in the regression.
+
+\textbf{TODO} statistical mediation analysis plan - motivate and briefly describe.
+
+Two quick notes: First, all models in this work assume reward related activity in both VTA/SNc and ventral striatum is bivalent, i.e. positive outcomes lead to an increase in firing and negative outcomes lead to a suppression.  This is assumption has been made by nearly all RPE work to date so is not unjustified.  However recent recordings in monkeys suggest that there are multiple sub-populations of cells, some of which are bivalent in the predicted direction, but others of which fire positively to both both positive and negative outcomes, and yet others with an inverted bivalent pattern (suppression to positive  outcomes and increased firing to negative outcomes).  Even among these subpopulations individual neurons showed trial-by-trial variance.  So without further information it would difficult, nigh impossible, to model these complex and opposing patterns as a single timecourse model as is necessary for regression analysis.  Second, data will be exported from BrainVoyager in the NIFTI format (http://nifti.nimh.nih.gov/) and all computational analyses will be carried out using custom Python (2.7.1) code developed for this proposal, as well as ongoing unrelated machine learning (MVPA) and fMRI simulation experiments.  Code is complete and ready for use, excepting that of statistical mediation testing, which will be ported from the Wagner Lab's related Matlab toolbox (available at http://wagerlab.colorado.edu/tools).
+% subsection Computational (end)
+% section methods (end)
+
+\section{Behavioral results} % (fold)
+\label{sec:behavioral_results}
+The experiment protocol outlined above was completed by 33 participants (2/3 female; see Fig~\ref{fig:acc} and ~\ref{fig:rt}).  Using 63\% as the cutoff which is near the $p < 0.05$ threshold of the binomial test, learning significantly exceeded chance at trial 19.  This learning rate is consistent with past work in the lab using just verbal or monetary feedback.  Also consistent with prior work was the mean reaction time remaining steady (near 750 ms) as learning proceeded.  In summary, the categorical rewards appear behaviorally very similar to direct verbal or monetary rewards.
+
+\begin{figure}[tp]
+	\label{fig:acc}
+	\fitfigure{acc}
+	\caption{Mean accuracy (black), averaged for all 6 stimuli by trial, blue line and grey represent a binomial regression fit of the data and bootstrapped 95\% confidence intervals, respectively.  53\% were learners (left) defined by a mean accuracy in the last 10 trials (for all 6 stimuli) greater than 63\%. Note: the trial order randomization procedure in this pilot did not enforce equal number of trials in for each of the 6 stimuli (\emph{M}=38) leading to artifactual increases in variability above trial 35 or so.  This oversight will be corrected prior to fMRI data acquisition.}
+\end{figure}
+
+\begin{figure}[tp]
+	\label{fig:rt}
+	\fitfigure{rt}
+	\caption{Mean reaction time (black), averaged for all 6 stimuli by trial, blue line and grey represent a linear regression fit of the data and bootstrapped 95\% confidence intervals, respectively. See Fig~\ref{fig:acc} for learning criterion and other relevant details.}
+\end{figure}
+% section behavioral_results (end)
+
+\newpage
+\bibliography {bibmin}
+
+%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%
