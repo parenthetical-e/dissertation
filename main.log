@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.17)  6 DEC 2011 15:29
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.17)  6 DEC 2011 17:24
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -291,14 +291,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 <acc.pdf, id=57, 413.20955pt x 211.26167pt>
 File: acc.pdf Graphic file (type pdf)
  <use acc.pdf>
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 <rt.pdf, id=58, 413.20955pt x 211.26167pt>
 File: rt.pdf Graphic file (type pdf)
  <use rt.pdf>
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
@@ -371,7 +371,7 @@ Here is how much of TeX's memory you used:
  6084 multiletter control sequences out of 15000+200000
  19920 words of font info for 73 fonts, out of 3000000 for 9000
  188 hyphenation exceptions out of 8191
- 41i,8n,24p,2346b,283s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,24p,2273b,283s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2009basic/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2009basic/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2009basic/texmf-dist/fonts
@@ -389,7 +389,7 @@ ve/2009basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2009basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/loca
 l/texlive/2009basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2009basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (16 pages, 731229 bytes).
+Output written on main.pdf (16 pages, 731202 bytes).
 PDF statistics:
  284 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
