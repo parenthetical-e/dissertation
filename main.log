@@ -1,6 +1,5 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.17)  6 DEC 2011 17:24
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.17)  13 DEC 2011 18:47
 entering extended mode
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -306,7 +305,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--136
 Underfull \vbox (badness 1867) has occurred while \output is active []
 
  [14]
-./main.bbl:689: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.689 3083}
@@ -314,14 +313,14 @@ l.689 3083}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./main.bbl:689: Double subscript.
+! Double subscript.
 <argument> http://dx.doi.org/10.1162/jocn_a_
                                             00008
 l.689 3083}
            .
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./main.bbl:689: Extra }, or forgotten $.
+! Extra }, or forgotten $.
 <recently read> \egroup 
                         
 l.689 3083}
@@ -332,7 +331,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./main.bbl:691: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.691 
@@ -340,7 +339,7 @@ l.691
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./main.bbl:691: Missing } inserted.
+! Missing } inserted.
 <inserted text> 
                 }
 l.691 
@@ -389,7 +388,7 @@ ve/2009basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2009basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/loca
 l/texlive/2009basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2009basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (16 pages, 731202 bytes).
+Output written on main.pdf (16 pages, 731205 bytes).
 PDF statistics:
  284 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
