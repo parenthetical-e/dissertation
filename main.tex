@@ -10,6 +10,8 @@
 \usepackage{epstopdf}           % no idea what this does...
 %\usepackage{gensymb}            % no idea what this does...
 
+\usepackage{setspace}
+
 \DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png} \setcounter{secnumdepth}{0}  % no idea what this does...
 
 \usepackage{apacite}
@@ -22,20 +24,57 @@
 \begin{document} 
 %%%%%%%%%%%%%%%%
 \maketitle
+\doublespacing
 
 \section{Introduction} % (fold)
 \label{sec:introduction}
-This introduction is of four parts.  First I discuss ``classical'' rewards and the brain.  Second I begin making a case for cognitive rewards, discussing as an example novelty, then moving onto other examples and finally arguing for the utility of flexible (synonymous here with categorical or generalizable or inferable) reward representations in the cognitive case as compared to simple exemplar representations (e.g. say a sip of raspberry juice taken after a long run on the afternoon of July the 2nd 1982 compared to the more general category of ``drinking fruit juice'') .  Third is a discussion of prior studies of instrumental generalization (in pigeons) and multi-valued decision making (in humans) - both of which can be viewed as evidence for categorical reward representations.  Fourth, I outline the specific goals and methods of this work.  Fifth and finally is a diversion discussing other (non-rewarding) theories of phasic dopamine.
+Birds will peck repeatedly, as mice will push levers, monkeys will hit buttons, and men will buy flowers, if each of these actions is followed by a primary reward -- food and sex.  Buttons, levers and flowers have no value alone, so reinforcement theory goes, it is only by the \emph{statiscally regular pairing} with primary rewards that value is transfered.  This is, what I'll call, the classical view.  And while it is an inadaquate theory in some other regards I'll not discuss (REFS), it has held up many years now.  In fact, the neural basis of such learning has recently received substantial attention.  However, reinforcement learning theories can't account for two new key findings in the nueral correlates of human learning. (1) Rewards seem to neurally appear by cognition alone. (2) Value can be transfered by inference, no pairing is needed.  For the first time using a mixture of fMRI and computational modeling, I examine possible united mechanisms of both of these aspects. By treating rewards as a kind of category I also offer a framework for extending formal theories of human reinforcement learning to some cognitive and inferential cases.
+
+This introduction has six parts.  First I discuss classical rewards and their neural correlates.  Second I make a case for cognitive rewards, discussing as an example novelty, then moving onto other examples, and finally arguing for the necessity of generalizable reward representations.  Third is a discussion of prior studies of reward generalization in pigeons and other non-human animals as well as in humans, though the literature on the latter is sparse.   All of the above will be done under the banner of the reward prediction error hypothesis of phasic dopamine function (``RPE hypothesis'' from here on).  Which brings us to the fourth section, a diversion discussing alternative non-rewarding theories of phasic dopamine.  Fifth, I breifly review formal models of categorization, which leads into the sixth and final section, the specfic goals and methods of this work.
 
 \subsection{The classics.} % (fold)
 \label{sub:the_classics}
 % * Phasic DA has something to do with signaling rewards - discuss past best links.
 % How DA effects striatum and the importance of their interaction on learning.
-Classically rewards and reinforcers have been linked to (or simply were) food \cite{ODoherty:2006p2875}, pain \cite{Becerra:2011p7581,schultz:2007aa} and presumably sex though for, err, logistical reasons this is not often used in the laboratory; however physical contact with a loved one has been shown to activate the reward circuitry \cite{Izuma:2008p2822,Fliessbach:2007gf}).  These rewards are certainly potent, being used for over 50 successful years in studying learning in animal models \cite{iversen:2007aa} and people \cite{Kim:2010p7248,Montague:2006mz}.  However these kinds of rewards are not the only event that can lead to phasic firing the in the VTA/SNc accompanied by activity changes in the striatum (i.e. activation of the reward circuitry).  Novelty is an example.
+Classically rewards and reinforcers have been linked to (or simply were) food \cite{ODoherty:2006p2875}, pain \cite{Becerra:2011p7581,schultz:2007aa} and presumably sex though for, err, logistical reasons this is not often used in the laboratory; however physical contact with a loved one has been shown to activate the reward circuitry \cite{Izuma:2008p2822,Fliessbach:2007gf}).  These rewards are certainly potent, being used for over 50 successful years in studying learning in animal models \cite{iversen:2007aa} and people \cite{Kim:2010p7248,Montague:2006mz}.  
+
+% TODO -- add section on past theories of reward and dopamine... context for the RPE hyptothesis
+
+% Below is from DISSERTATION 1
+
+The VTA/SNc is a small brainstem nucleus whose dopamine-releasing neurons project strongly to both the striatum and the hippocampus.  Electrophysiological recordings of VTA/SNc neurons show two firing modes -- tonic and phasic \cite{DawNW:2006p6343}.  The phasic mode is of interest here.  It has long been known that phasic firing in VTA/SNc immediately follows reward delivery \cite{iversen:2007aa}. \citeNP{Mirenowicz:1994p7185}, observed that the magnitude of phasic activity was dependent not on the absolute or relative value of a reward, as was previously thought, but instead was related to both the value of the reward and how expected that reward was.  This dependence on expectation was similar, the authors noted, to the reward prediction error signal generated in reinforcement learning models.  
+
+\citeNP{Fiorillo:2003p6375}, along with \citeNP{Bayer:2005ul}, quantified the relationship between the unexpectedness of a reward and phasic activity in dopamine neurons.  Both groups showed that the RPE from their reinforcement learning models was strongly correlated to the observed dopamine response.  Complementing these electrophysiological recordings of monkey VTA/SNc, fMRI experiments in humans (for example, \citeNP{ODoherty:2003p6329}), as well as recordings in rat \cite{Roesch:2007p2519}, have also found the characteristic patterns of the RPE hypothesis: a phasic increase with unexpected rewards and a phasic depression when expected rewards were omitted.  These latter studies have also showed another important consistency between the RPE signal and phasic dopamine activity -- back-propagation.  For example, if an image of a green arrow often precedes reward delivery, recordings in VTA/SNc will initially show phasic activity immediately after reward delivery.  However, trial after trial this reward-related response will decrease, while simultaneously a phasic response to the green arrow will develop \cite{Roesch:2007p2519}.  That is, the reward response back-propagates to an informative stimulus. 
+
+% TODO Change the below to RW rule - the one I use in the work...
+One of the simplest reinforcement learning models, the Rescorla-Wagner rule, proceeds as follows: At time $t+1$ an agent selects an action prompted by a stimulus, denoted here as an S-R (stimulus-response) pair or as $v(s,a,t+1)$. Action selection is followed by reward $r(t+1)$, confined to values of either 1 or 0, present or absent.  Reward is then compared to the current estimate of value.  This comparison is the reward prediction error (RPE) seen in \emph{Eq 1}.   If the reward is greater than expected a positive RPE results.  If the reward is less than expected, a negative RPE is generated.  If expectations are perfectly met the RPE signal is zero.  The RPE is then used by the agent to update the value of the S-R pair, increasing or decreasing its value, respectively, if the RPE was positive or negative (\emph{Eq. 2}).  If the RPE was zero the value of the S-R pair is unchanged.  The rate at which S-R pair's value changes depends (in nearly all models of human learning) on one free parameter, the learning rate ($\alpha$).  Just as the RPE signal is necessary for a computational agent to improve its performance, so too, the theory goes, is the phasic firing of dopamine neurons necessary for an animal to learn from reward.
+
+\begin{equation} RPE = r(t+1) - v(s,a,t) \end{equation}
+\begin{equation} v(s,a,t) \leftarrow v(s,a,t) + \alpha*RPE \end{equation}
+  
+% subsection phasic_dopamine_and_the_reward_prediction_error_hypothesis (end)
+
+\subsection{Physiological basis of VTA/SNc phasic firing} % (fold)
+\label{sub:physiological_basis_of_vta_snc_phasic_firing}
+VTA/SNc receives input from the internal globus pallidus or GPi (a major output structure of the basal ganglia with widespread cortical connections), thalamus, and the central nucleus of the amygdala \cite{Botvinick:2008p6594}.  Recent work though has highlighted the habenula (a small nucleus posterior to the thalamus) as being especially important in generating RPE-like phasic activity.  The lateral habenula has reciprocal connections to the GPi and projections into the VTA/SNc. Based on this anatomy, it has been suggested that this nucleus serves a point of intersection between the striatum and the limbic system (e.g. the amygdala, hippocampus and the serotonergic dorsal raphe nucleus) \cite{Hikosaka:2008p4455}.  The habenula acts to tonically inhibit or disinhibit dopamine release in VTA/SNc neurons.  As habenula activity decreases, burst firing in VTA/SNc results; as habenula firing increases VTA/SNc firing is temporarily paused.  Dual recordings of the habenula and GPi suggest they form a functional loop capable of calculating the value of S-R pairs \cite{BrombergMartin:2010p7221}.  Reversible chemical inhibition of the habenula also increases VTA/SNc phasic activity.  Lesions to the habenula also result in marked increases in dopamine levels in the dorsal and ventral striatum \cite{BrombergMartin:2010p7221}.  In summary, the GPi (withs its access to cortical inputs via the striatum) and habenula (with its capability for altering VTA/SNc activity) may form the physiological loop necessary to calculate the RPE. Though the precise origins of the terms of \emph{Eq 1} and \emph{2}. remain unclear, \citeNP{BrombergMartin:2010p7218}, hint that this loop can signal both initial value estimates ($v(s,a,t)$, \emph{Eq 2}.) and rewarding outcomes ($r(t+1)$, \emph{Eq 1}.).
+% subsection physiological_basis_of_vta_snc_phasic_firing (end)
+
+\subsection{Dopamine and the striatum} % (fold)
+\label{sub:dopamine_and_the_basal_ganglia}
+The striatum is an input area of the basal ganglia, a brain region highly involved in categorization, logical inference, habit formation, working memory and feedback mediated S-R learning \cite{Frank:2001p1996,Jin:2010p7199,SchmitzerTorbert:2004p5410,Seger:2008p6401,Seger:2010p7189,Yin:2006p5080}.  In S-R learning, two of the five striatal subregions (the head of the caudate and the ventral striatum) process reward information \cite{Yin:2005p5101,Yin:2008p6347,Schonberg:2009p6669}.  These two are highly innervated by projections from the VTA/SNc, but only the ventral striatum correlates with the RPE signal \cite{Haruno:2006p3979,Seger:2010p7189}.  The remaining three regions (the body and tail of the caudate and the putamen) are involved with S-R pair formation, visual categorization and response selection, respectively \cite{Seger:2008p6401,Seger:2010p7189}.  Though these three also receive VTA/SNc projections and are sometimes sensitive to reward level \cite{BischoffGrethe:2009p4570}, the BOLD signal does not correlate with the RPE \cite{Seger:2010p7189}; dopamine's exact role in these areas is less clear.  Overall though, intact dopamine projections and complete striatal function is necessary for rapid S-R learning.
+   
+Administering dopamine antagonists to human and non-human animals adversely affects S-R learning \cite{Pizzagalli:2010p7205}, as does lesioning the VTA/SNc.  Complete lesions of the striatum also prevent S-R learning \cite{Packard:2002p5074}.  Administering dopamine agonists or the readily converted precursor L-DOPA leads to increases in response vigor and the ability of a Pavlovian-conditioned stimulus to bias unrelated instrumental responses (i.e. pavlovian instrumental transfer or PIT) \cite{Winterbauer:2007p6352}. Both PIT and response vigor are, in part, facilitated by phasic dopamine increasing activity in the ventral striatum.  Unmedicated Parkinson's patients, who have low striatal dopamine levels, show marked decreases in S-R learning with rewarding outcomes when compared to patients on medication and healthy age and intellect matched controls \cite{Pizzagalli:2010p7205}.  These same patients show an enhanced capability to learn from negative feedback which suggests that decreases in dopamine convey negative outcome information \cite{Frank:2004p4709}.  Finally, there is a solid body of evidence suggesting that phasic dopamine alters the plasticity of neurons in the striatum which presumably facilitates stimulus-response learning \cite{Calabresi:2007p4284}.
+% subsection dopamine_and_the_basal_ganglia (end)
+
+% TODO MORE CONTENT, integrate the above...
+
+% LEAD IN for next
+However these kinds of rewards are not the only event that can lead to phasic firing the in the VTA/SNc accompanied by activity changes in the striatum (i.e. activation of the reward circuitry).  Novelty is an example.
 % subsection the_classics (end)
 
 \subsection{It's novel} % (fold)
 \label{sub:it_s_novel}
+% KEY:  Its is not primary, and it can't be secondary - it's novel, there are no posssible past associations.
 % * define novelty
 % * discuss Reed (both visual and auditory; reed showed novelty did not require reward nearby) then Shultz initial finding and later supporting work - just 			
 %	recordings/fMRI (Zink) first.
@@ -77,13 +116,13 @@ The second task (Fig 1, bottom) is an abstract deterministic category learning t
 
 \begin{figure}[tp]
 	\label{fig:task}
-	\fitfigure{task}
+	\fitfigure{f1task}
 	\caption{Depiction of the behavioral task. The top is the (passive) classical conditioning participants learn the reward categories.  The bottom is the active abstract two-choice category learning.}
 \end{figure}
 
 \begin{figure}[tp]
 	\label{fig:II}
-	\fitfigure{II}
+	\fitfigure{f3II}
 	\caption{A diagram of sinusoidal grating distributions for an information integration (II) category.  As II categories span the diagonal of the gratings parameter space (line width ($W$) and angle ($\theta$)) successful learning requires consideration of both dimensions preventing participants from solving the categorization problem with simple rule based strategies (e.g. if the lines are wide is category ``a'')}
 \end{figure}
 
@@ -144,13 +183,13 @@ Two quick notes: First, all models in this work assume reward related activity i
 
 \begin{figure}[tp]
 	\label{fig:acc}
-	\fitfigure{acc}
+	\fitfigure{f2acc}
 	\caption{Mean accuracy (black), averaged for all 6 stimuli by trial, blue line and grey represent a binomial regression fit of the data and bootstrapped 95\% confidence intervals, respectively.  53\% were learners (left) defined by a mean accuracy in the last 10 trials (for all 6 stimuli) greater than 63\%. Note: the trial order randomization procedure in this pilot did not enforce equal number of trials in for each of the 6 stimuli (\emph{M}=38) leading to artifactual increases in variability above trial 35 or so.  This oversight will be corrected prior to fMRI data acquisition.}
 \end{figure}
 
 \begin{figure}[tp]
 	\label{fig:rt}
-	\fitfigure{rt}
+	\fitfigure{f2rt}
 	\caption{Mean reaction time (black), averaged for all 6 stimuli by trial, blue line and grey represent a linear regression fit of the data and bootstrapped 95\% confidence intervals, respectively. See Fig 3 for learning criterion and other relevant details.}
 \end{figure}
 

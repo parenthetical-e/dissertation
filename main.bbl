@@ -1,6 +1,32 @@
 \begin{thebibliography}{}
 
 \bibitem[\protect\citeauthoryear{%
+Bayer%
+\ \BBA{} Glimcher%
+}{%
+Bayer%
+\ \BBA{} Glimcher%
+}{%
+{\protect\APACyear{2005}}%
+}]{%
+Bayer:2005ul}%
+\APACinsertmetastar{%
+Bayer:2005ul}%
+Bayer, H.%
+\BCBT{}\ \BBA{} Glimcher, P\BPBI W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Midbrain Dopamine Neurons Encode a Quantitative Reward
+  Prediction Error Signal}{Midbrain dopamine neurons encode a quantitative
+  reward prediction error signal}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuron}{47}{}{129--141}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Becerra%
 \ \BBA{} Borsook%
 }{%
@@ -52,6 +78,36 @@ Birn, R\BPBI M.%
   event-related fmri: choosing the optimal stimulus timing}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuroimage}{15}{1}{252--64}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Bischoff-Grethe%
+, Hazeltine%
+, Bergren%
+, Ivry%
+\BCBL{}\ \BBA{} Grafton%
+}{%
+Bischoff-Grethe%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2009}}%
+}]{%
+BischoffGrethe:2009p4570}%
+\APACinsertmetastar{%
+BischoffGrethe:2009p4570}%
+Bischoff-Grethe, A.%
+, Hazeltine, E.%
+, Bergren, L.%
+, Ivry, R\BPBI B.%
+\BCBL{}\ \BBA{} Grafton, S\BPBI T.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{The influence of feedback valence in associative
+  learning}{The influence of feedback valence in associative learning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{44}{1}{243--51}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -128,6 +184,34 @@ Bornstein, A\BPBI M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Botvinick%
+, Niv%
+\BCBL{}\ \BBA{} Barto%
+}{%
+Botvinick%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2008}}%
+}]{%
+Botvinick:2008p6594}%
+\APACinsertmetastar{%
+Botvinick:2008p6594}%
+Botvinick, M.%
+, Niv, Y.%
+\BCBL{}\ \BBA{} Barto, A.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Oct}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Hierarchically organized behavior and its neural
+  foundations: A reinforcement learning perspective}{Hierarchically organized
+  behavior and its neural foundations: A reinforcement learning
+  perspective}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Cognition}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Bromberg-Martin%
 \ \BBA{} Hikosaka%
 }{%
@@ -151,6 +235,93 @@ Bromberg-Martin, E\BPBI S.%
   preference for advance information about upcoming rewards}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuron}{63}{1}{119--126}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Bromberg-Martin%
+, Matsumoto%
+\BCBL{}\ \BBA{} Hikosaka%
+}{%
+Bromberg-Martin%
+, Matsumoto%
+\BCBL{}\ \BBA{} Hikosaka%
+}{%
+{\protect\APACyear{2010}}%
+}]{%
+BrombergMartin:2010p7221}%
+\APACinsertmetastar{%
+BrombergMartin:2010p7221}%
+Bromberg-Martin, E\BPBI S.%
+, Matsumoto, M.%
+\BCBL{}\ \BBA{} Hikosaka, O.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Distinct Tonic and Phasic Anticipatory Activity in
+  Lateral Habenula and Dopamine Neurons}{Distinct tonic and phasic anticipatory
+  activity in lateral habenula and dopamine neurons}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuron}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Bromberg-Martin%
+, Matsumoto%
+\BCBL{}\ \BBA{} Nakahara%
+}{%
+Bromberg-Martin%
+, Matsumoto%
+\BCBL{}\ \BBA{} Nakahara%
+}{%
+{\protect\APACyear{2010}}%
+}]{%
+BrombergMartin:2010p7218}%
+\APACinsertmetastar{%
+BrombergMartin:2010p7218}%
+Bromberg-Martin, E\BPBI S.%
+, Matsumoto, M.%
+\BCBL{}\ \BBA{} Nakahara, H.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Multiple Timescales of Memory in Lateral Habenula and
+  Dopamine Neurons}{Multiple timescales of memory in lateral habenula and
+  dopamine neurons}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuron}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Calabresi%
+, Picconi%
+, Tozzi%
+\BCBL{}\ \BBA{} Filippo%
+}{%
+Calabresi%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2007}}%
+}]{%
+Calabresi:2007p4284}%
+\APACinsertmetastar{%
+Calabresi:2007p4284}%
+Calabresi, P.%
+, Picconi, B.%
+, Tozzi, A.%
+\BCBL{}\ \BBA{} Filippo, M\BPBI D.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{May}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Dopamine-mediated regulation of corticostriatal synaptic
+  plasticity}{Dopamine-mediated regulation of corticostriatal synaptic
+  plasticity}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Trends Neurosci.}{30}{5}{211--9}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -262,6 +433,33 @@ Daw, N\BPBI D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Fiorillo%
+, Tobler%
+\BCBL{}\ \BBA{} Schultz%
+}{%
+Fiorillo%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2003}}%
+}]{%
+Fiorillo:2003p6375}%
+\APACinsertmetastar{%
+Fiorillo:2003p6375}%
+Fiorillo, C\BPBI D.%
+, Tobler, P\BPBI N.%
+\BCBL{}\ \BBA{} Schultz, W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{Mar}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Discrete coding of reward probability and uncertainty by
+  dopamine neurons}{Discrete coding of reward probability and uncertainty by
+  dopamine neurons}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Science}{299}{5614}{1898--902}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Fliessbach%
 \ \protect\BOthers{.}}{%
 Fliessbach%
@@ -313,6 +511,61 @@ Frank, M\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Frank%
+, Loughry%
+\BCBL{}\ \BBA{} O'Reilly%
+}{%
+Frank%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2001}}%
+}]{%
+Frank:2001p1996}%
+\APACinsertmetastar{%
+Frank:2001p1996}%
+Frank, M\BPBI J.%
+, Loughry, B.%
+\BCBL{}\ \BBA{} O'Reilly, R\BPBI C.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{Jun}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Interactions between frontal cortex and basal ganglia in
+  working memory: a computational model}{Interactions between frontal cortex
+  and basal ganglia in working memory: a computational model}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Cognitive, affective {\&} behavioral
+  neuroscience}{1}{2}{137--60}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Frank%
+, Seeberger%
+\BCBL{}\ \BBA{} O'Reilly%
+}{%
+Frank%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2004}}%
+}]{%
+Frank:2004p4709}%
+\APACinsertmetastar{%
+Frank:2004p4709}%
+Frank, M\BPBI J.%
+, Seeberger, L\BPBI C.%
+\BCBL{}\ \BBA{} O'Reilly, R\BPBI C.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{Dec}{}.
+\newblock
+\BBOQ{}\APACrefatitle{By carrot or by stick: cognitive reinforcement learning
+  in parkinsonism}{By carrot or by stick: cognitive reinforcement learning in
+  parkinsonism}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Science}{306}{5703}{1940--3}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Guttman{\ldots}%
 }{%
 Guttman{\ldots}%
@@ -332,6 +585,34 @@ Guttman{\ldots}, N.%
   generalization.}{Discriminability and stimulus generalization.}\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Journal of Experimental Psychology}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Haruno%
+\ \BBA{} Kawato%
+}{%
+Haruno%
+\ \BBA{} Kawato%
+}{%
+{\protect\APACyear{2006}}%
+}]{%
+Haruno:2006p3979}%
+\APACinsertmetastar{%
+Haruno:2006p3979}%
+Haruno, M.%
+\BCBT{}\ \BBA{} Kawato, M.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{Feb}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Different neural correlates of reward expectation and
+  reward expectation error in the putamen and caudate nucleus during
+  stimulus-action-reward association learning}{Different neural correlates of
+  reward expectation and reward expectation error in the putamen and caudate
+  nucleus during stimulus-action-reward association learning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Physiol.}{95}{2}{948--59}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -358,6 +639,35 @@ Hayden, B\BPBI Y.%
   cortex}{Fictive reward signals in the anterior cingulate cortex}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Science}{324}{5929}{948--50}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Hikosaka%
+, Sesack%
+, Lecourtier%
+\BCBL{}\ \BBA{} Shepard%
+}{%
+Hikosaka%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2008}}%
+}]{%
+Hikosaka:2008p4455}%
+\APACinsertmetastar{%
+Hikosaka:2008p4455}%
+Hikosaka, O.%
+, Sesack, S\BPBI R.%
+, Lecourtier, L.%
+\BCBL{}\ \BBA{} Shepard, P\BPBI D.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Nov}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Habenula: crossroad between the basal ganglia and the
+  limbic system}{Habenula: crossroad between the basal ganglia and the limbic
+  system}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Neurosci}{28}{46}{11825--9}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -413,6 +723,32 @@ Izuma, K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Jin%
+\ \BBA{} Costa%
+}{%
+Jin%
+\ \BBA{} Costa%
+}{%
+{\protect\APACyear{2010}}%
+}]{%
+Jin:2010p7199}%
+\APACinsertmetastar{%
+Jin:2010p7199}%
+Jin, X.%
+\BCBT{}\ \BBA{} Costa, R\BPBI M.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{Jul}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Start/stop signals emerge in nigrostriatal circuits
+  during sequence learning}{Start/stop signals emerge in nigrostriatal circuits
+  during sequence learning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Nature}{466}{7305}{457--462}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Kahnt%
 , Heinzle%
 , Park%
@@ -439,31 +775,6 @@ Kahnt, T.%
   in multi-attribute decision making}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuroimage}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Kakade%
-\ \BBA{} Dayan%
-}{%
-Kakade%
-\ \BBA{} Dayan%
-}{%
-{\protect\APACyear{2002}}%
-}]{%
-Kakade:2002p6414}%
-\APACinsertmetastar{%
-Kakade:2002p6414}%
-Kakade, S.%
-\BCBT{}\ \BBA{} Dayan, P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2002}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine: generalization and bonuses}{Dopamine:
-  generalization and bonuses}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neural Networks}{15}{4-6}{549--559}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -685,8 +996,7 @@ Lopez-Paniagua, D.%
   between corticostriatal loops during component processes of category
   learning}.\BBCQ{}
 \newblock
-\APACjournalVolNumPages{http://dx.doi.org/10.1162/jocn_a_00008}{23}{10}{3068--%
-3083}.
+\APACjournalVolNumPages{http://dx.doi.org/10.1162/jocn_a_00008}{23}{10}{3068--3083}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -746,6 +1056,32 @@ Menon, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Mirenowicz%
+\ \BBA{} Schultz%
+}{%
+Mirenowicz%
+\ \BBA{} Schultz%
+}{%
+{\protect\APACyear{1994}}%
+}]{%
+Mirenowicz:1994p7185}%
+\APACinsertmetastar{%
+Mirenowicz:1994p7185}%
+Mirenowicz, J.%
+\BCBT{}\ \BBA{} Schultz, W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Importance of unpredictability for reward responses in
+  primate dopamine neurons}{Importance of unpredictability for reward responses
+  in primate dopamine neurons}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Physiol.}{72}{2}{1024}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Montague%
 , King-Casas%
 \BCBL{}\ \BBA{} Cohen%
@@ -799,6 +1135,37 @@ O'Doherty, J\BPBI P.%
   responses in human ventral midbrain and ventral striatum}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuron}{49}{1}{157--66}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+O'Doherty%
+, Dayan%
+, Friston%
+, Critchley%
+\BCBL{}\ \BBA{} Dolan%
+}{%
+O'Doherty%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2003}}%
+}]{%
+ODoherty:2003p6329}%
+\APACinsertmetastar{%
+ODoherty:2003p6329}%
+O'Doherty, J\BPBI P.%
+, Dayan, P.%
+, Friston, K.%
+, Critchley, H.%
+\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Temporal difference models and reward-related learning in
+  the human brain}{Temporal difference models and reward-related learning in
+  the human brain}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuron}{38}{2}{329--37}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -874,15 +1241,40 @@ O'Reilly, R\BPBI C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Pizzagalli%
-\ \protect\BOthers{.}}{%
-Pizzagalli%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
+Packard%
+\ \BBA{} Knowlton%
+}{%
+Packard%
+\ \BBA{} Knowlton%
+}{%
+{\protect\APACyear{2002}}%
 }]{%
-Pizzagalli:2008p6521}%
+Packard:2002p5074}%
 \APACinsertmetastar{%
-Pizzagalli:2008p6521}%
+Packard:2002p5074}%
+Packard, M\BPBI G.%
+\BCBT{}\ \BBA{} Knowlton, B\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Learning and memory functions of the Basal
+  Ganglia}{Learning and memory functions of the basal ganglia}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Annu Rev Neurosci}{25}{}{563--93}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Pizzagalli%
+\ \protect\BOthers{.}}{%
+Pizzagalli%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{{\protect\bibnodate{}}}}%
+}]{%
+Pizzagalli:2010p7205}%
+\APACinsertmetastar{%
+Pizzagalli:2010p7205}%
 Pizzagalli, D\BPBI A.%
 , Evins, A\BPBI E.%
 , Schetter, E\BPBI C.%
@@ -892,15 +1284,15 @@ Pizzagalli, D\BPBI A.%
 \BCBL{}\ \BOthersPeriod{.}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2008}{Feb}{}.
+\APACrefYearMonthDay{\bibnodate{}}{}{}.
 \newblock
-\BBOQ{}\APACrefatitle{Single dose of a dopamine agonist impairs reinforcement
-  learning in humans: Behavioral evidence from a laboratory-based measure of
-  reward responsiveness}{Single dose of a dopamine agonist impairs
+\BBOQ{}\APACrefatitle{Single Dose of a Dopamine Agonist Impairs Reinforcement
+  Learning in Humans: Behavioral Evidence from a Laboratory-based Measure of
+  Reward Responsiveness}{Single dose of a dopamine agonist impairs
   reinforcement learning in humans: Behavioral evidence from a laboratory-based
   measure of reward responsiveness}.\BBCQ{}
 \newblock
-\APACjournalVolNumPages{Psychopharmacology (Berl)}{196}{2}{221--232}.
+\APACjournalVolNumPages{Psychopharmacology}{196}{2}{221}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -929,6 +1321,34 @@ Roesch, M\BPBI R.%
   sized rewards}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Nat Neurosci}{10}{12}{1615--24}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Schmitzer-Torbert%
+\ \BBA{} Redish%
+}{%
+Schmitzer-Torbert%
+\ \BBA{} Redish%
+}{%
+{\protect\APACyear{2004}}%
+}]{%
+SchmitzerTorbert:2004p5410}%
+\APACinsertmetastar{%
+SchmitzerTorbert:2004p5410}%
+Schmitzer-Torbert, N.%
+\BCBT{}\ \BBA{} Redish, A\BPBI D.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{May}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Neuronal activity in the rodent dorsal striatum in
+  sequential navigation: separation of spatial and reward responses on the
+  multiple T task}{Neuronal activity in the rodent dorsal striatum in
+  sequential navigation: separation of spatial and reward responses on the
+  multiple t task}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Physiol.}{91}{5}{2259--72}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -981,6 +1401,56 @@ Schultz, W.%
   signals}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Trends Neurosci.}{30}{5}{203--210}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Seger%
+}{%
+Seger%
+}{%
+{\protect\APACyear{2008}}%
+}]{%
+Seger:2008p6401}%
+\APACinsertmetastar{%
+Seger:2008p6401}%
+Seger, C\BPBI A.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{How do the basal ganglia contribute to categorization?
+  Their roles in generalization, response selection, and learning via
+  feedback}{How do the basal ganglia contribute to categorization? their roles
+  in generalization, response selection, and learning via feedback}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroscience and Biobehavioral
+  Reviews}{32}{2}{265--78}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Seger%
+\ \BBA{} Miller%
+}{%
+Seger%
+\ \BBA{} Miller%
+}{%
+{\protect\APACyear{2010}}%
+}]{%
+Seger:2010p7189}%
+\APACinsertmetastar{%
+Seger:2010p7189}%
+Seger, C\BPBI A.%
+\BCBT{}\ \BBA{} Miller, E\BPBI K.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Category learning in the brain}{Category learning in the
+  brain}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Annu Rev Neurosci}{33}{}{203--19}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -1160,6 +1630,116 @@ Wallis, J\BPBI D.%
   cortex}{Heterogeneous reward signals in prefrontal cortex}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Current Opinion in Neurobiology}{20}{2}{191--198}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Winterbauer%
+\ \BBA{} Balleine%
+}{%
+Winterbauer%
+\ \BBA{} Balleine%
+}{%
+{\protect\APACyear{2007}}%
+}]{%
+Winterbauer:2007p6352}%
+\APACinsertmetastar{%
+Winterbauer:2007p6352}%
+Winterbauer, N\BPBI E.%
+\BCBT{}\ \BBA{} Balleine, B\BPBI W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{The influence of amphetamine on sensory and conditioned
+  reinforcement: evidence for the re-selection hypothesis of dopamine
+  function}{The influence of amphetamine on sensory and conditioned
+  reinforcement: evidence for the re-selection hypothesis of dopamine
+  function}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Frontiers in integrative neuroscience}{1}{}{9}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Yin%
+\ \BBA{} Knowlton%
+}{%
+Yin%
+\ \BBA{} Knowlton%
+}{%
+{\protect\APACyear{2006}}%
+}]{%
+Yin:2006p5080}%
+\APACinsertmetastar{%
+Yin:2006p5080}%
+Yin, H\BPBI H.%
+\BCBT{}\ \BBA{} Knowlton, B\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{Jun}{}.
+\newblock
+\BBOQ{}\APACrefatitle{The role of the basal ganglia in habit formation}{The
+  role of the basal ganglia in habit formation}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Nat Rev Neurosci}{7}{6}{464--76}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Yin%
+, Ostlund%
+\BCBL{}\ \BBA{} Balleine%
+}{%
+Yin%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2008}}%
+}]{%
+Yin:2008p6347}%
+\APACinsertmetastar{%
+Yin:2008p6347}%
+Yin, H\BPBI H.%
+, Ostlund, S\BPBI B.%
+\BCBL{}\ \BBA{} Balleine, B\BPBI W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Oct}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Reward-guided learning beyond dopamine in the nucleus
+  accumbens: the integrative functions of cortico-basal ganglia
+  networks}{Reward-guided learning beyond dopamine in the nucleus accumbens:
+  the integrative functions of cortico-basal ganglia networks}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Eur J Neurosci}{28}{8}{1437--48}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Yin%
+, Ostlund%
+, Knowlton%
+\BCBL{}\ \BBA{} Balleine%
+}{%
+Yin%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2005}}%
+}]{%
+Yin:2005p5101}%
+\APACinsertmetastar{%
+Yin:2005p5101}%
+Yin, H\BPBI H.%
+, Ostlund, S\BPBI B.%
+, Knowlton, B\BPBI J.%
+\BCBL{}\ \BBA{} Balleine, B\BPBI W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{Jul}{}.
+\newblock
+\BBOQ{}\APACrefatitle{The role of the dorsomedial striatum in instrumental
+  conditioning}{The role of the dorsomedial striatum in instrumental
+  conditioning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Eur J Neurosci}{22}{2}{513--23}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
