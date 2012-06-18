@@ -1,0 +1,63 @@
+# Sec:Introduction
+    * [DONE] Sub: IntroIntro
+        - Birds will peck repeatably...
+    * SubSub: The rise of reward prediction
+        - DA and reinforcement have a long relation...
+        - It is not anhedonia afterall; what was anhedonia?
+        - Expectations matter.
+    * SubSub: Defining RPE: RL computations
+        - Really simple: Rescorla-Wagner.
+        - No unification as yet for these many other algoritmns; There is an 
+        ad hoc agreement only.
+    * SubSub: Criticisms of the RPE
+    * SubSub: Physiologic basis of RPE
+        - Habenula
+        - SC
+    * SubSub: Dopamine and the striatum
+        - Form the basis for reward-mediated action selection
+            * Actor/Critic
+                - Recent developments (hanging on the wall)
+            * Frank
+    * Sub: Cognitive rewards
+        - novelty
+        - information
+        - intertemporal
+        - fictive
+        - saliance
+    * Sub: Category models, generalization
+        - Shepard, his proteges and emperical findings
+        - Prototype, Examplar, in between
+    * Sub: Finally, Goals
+
+# Sec: Behavoir and model fits.
+    - Sub: Methods
+        * Task
+        * Models
+        * Fit measures
+    - Sub: Results
+    - Sub: conclusions
+
+# Sec: fMRI - univariate and parametric
+    - Sub: methods
+        * SubSub: Scanner
+        * SubSub: ROI and model-based analysis
+    - Sub: results
+        * Whole-brain
+        * models
+    - Sub: conclusions
+
+# Sec: fMRI model quality
+    - Sub: fMRI simuluation of model-based results
+    - SubSub: methods - simple monte carlo.
+    - SubSub: results -> ?
+    - Sub: residuals analysis
+    - SubSub: methods
+    - SubSub: results
+
+# Sec: Modulation
+    - Methods: Tor, ROI selection
+    - Results:
+    - Sub: conclusions
+
+# Sec: Conclusion
+    * Overall import to goals.  What does it mean, big picture?
