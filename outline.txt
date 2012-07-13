@@ -1,29 +1,25 @@
-# Sec:Introduction
+# Sec: Abstract
+# Sec: Introduction
     * [DONE] Sub: IntroIntro
-        - Birds will peck repeatably...
-    * SubSub: The rise of reward prediction
+        - [DONE] Birds will peck repeatably...
+    * SubSub: A pleasurable start
         - DA and reinforcement have a long relation...
         - It is not anhedonia afterall; what was anhedonia?
+    * SubSub: Expectations Matter
         - Expectations matter.
-    * SubSub: Defining RPE: RL computations
-        - Really simple: Rescorla-Wagner.
-        - No unification as yet for these many other algoritmns; There is an 
-        ad hoc agreement only.
-    * SubSub: Criticisms of the RPE
-    * SubSub: Physiologic basis of RPE
+    * SubSub: the networked details
+        - OFC, PFC
         - Habenula
-        - SC
-    * SubSub: Dopamine and the striatum
-        - Form the basis for reward-mediated action selection
-            * Actor/Critic
-                - Recent developments (hanging on the wall)
-            * Frank
+        - Str
+    * SubSub: Criticisms... just copy, with light mods, comps
+        - SC, Berridge, ...    
     * Sub: Cognitive rewards
         - novelty
         - information
         - intertemporal
         - fictive
-        - saliance
+        - saliance - let's skip
+    * Sub: value generalizaion in birds and men
     * Sub: Category models, generalization
         - Shepard, his proteges and emperical findings
         - Prototype, Examplar, in between
