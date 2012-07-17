@@ -1,6 +1,34 @@
 \begin{thebibliography}{}
 
 \bibitem[\protect\citeauthoryear{%
+Aron%
+\ \protect\BOthers{.}}{%
+Aron%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2004}}%
+}]{%
+Aron:2004p5459}%
+\APACinsertmetastar{%
+Aron:2004p5459}%
+Aron, A\BPBI R.%
+, Shohamy, D.%
+, Clark, J.%
+, Myers, C.%
+, Gluck, M\BPBI A.%
+\BCBL{}\ \BBA{} Poldrack, R\BPBI A.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{Aug}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Human midbrain sensitivity to cognitive feedback and
+  uncertainty during classification learning}{Human midbrain sensitivity to
+  cognitive feedback and uncertainty during classification learning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Physiol.}{92}{2}{1144--52}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Atlas%
 , Bolger%
 , Lindquist%
@@ -26,6 +54,59 @@ Atlas, L\BPBI Y.%
   pain}{Brain mediators of predictive cue effects on perceived pain}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{J Neurosci}{30}{39}{12964--77}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Bar-Gad%
+, Morris%
+\BCBL{}\ \BBA{} Bergman%
+}{%
+Bar-Gad%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2003}}%
+}]{%
+BarGad:2003p4052}%
+\APACinsertmetastar{%
+BarGad:2003p4052}%
+Bar-Gad, I.%
+, Morris, G.%
+\BCBL{}\ \BBA{} Bergman, H.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{Dec}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Information processing, dimensionality reduction and
+  reinforcement learning in the basal ganglia}{Information processing,
+  dimensionality reduction and reinforcement learning in the basal
+  ganglia}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Progress in Neurobiology}{71}{6}{439--73}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Bassett%
+\ \BBA{} Bullmore%
+}{%
+Bassett%
+\ \BBA{} Bullmore%
+}{%
+{\protect\APACyear{2006}}%
+}]{%
+bassett:2006aa}%
+\APACinsertmetastar{%
+bassett:2006aa}%
+Bassett, D\BPBI S.%
+\BCBT{}\ \BBA{} Bullmore, E.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Small-World Brain Networks}{Small-world brain
+  networks}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{The Neuroscientist}{12}{6}{512--523}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -82,6 +163,29 @@ Becerra, L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Berridge%
+}{%
+Berridge%
+}{%
+{\protect\APACyear{2007}}%
+}]{%
+Berridge:2007p7235}%
+\APACinsertmetastar{%
+Berridge:2007p7235}%
+Berridge, K.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{The debate over dopamine's role in reward: the case for
+  incentive salience}{The debate over dopamine's role in reward: the case for
+  incentive salience}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Psychopharmacology}{191}{3}{391--431}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Bischoff-Grethe%
 , Hazeltine%
 , Bergren%
@@ -134,6 +238,58 @@ Blatter, K.%
   properties of visual stimuli}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Experimental Brain Research}{168}{4}{541--6}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Bogacz%
+\ \BBA{} Gurney%
+}{%
+Bogacz%
+\ \BBA{} Gurney%
+}{%
+{\protect\APACyear{2007}}%
+}]{%
+Bogacz:2007p753}%
+\APACinsertmetastar{%
+Bogacz:2007p753}%
+Bogacz, R.%
+\BCBT{}\ \BBA{} Gurney, K.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{Feb}{}.
+\newblock
+\BBOQ{}\APACrefatitle{The basal ganglia and cortex implement optimal decision
+  making between alternative actions}{The basal ganglia and cortex implement
+  optimal decision making between alternative actions}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neural Computation}{19}{2}{442--77}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Bornstein%
+\ \BBA{} Daw%
+}{%
+Bornstein%
+\ \BBA{} Daw%
+}{%
+{\protect\APACyear{2011}}%
+}]{%
+Bornstein:2011p7996}%
+\APACinsertmetastar{%
+Bornstein:2011p7996}%
+Bornstein, A\BPBI M.%
+\BCBT{}\ \BBA{} Daw, N\BPBI D.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{Mar}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Multiplicity of control in the basal ganglia:
+  computational roles of striatal subregions}{Multiplicity of control in the
+  basal ganglia: computational roles of striatal subregions}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Current opinion in neurobiology}{}{}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -372,6 +528,34 @@ Diaconescu, A\BPBI O.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Dommett%
+\ \protect\BOthers{.}}{%
+Dommett%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2005}}%
+}]{%
+Dommett:2005p7263}%
+\APACinsertmetastar{%
+Dommett:2005p7263}%
+Dommett, E.%
+, Coizet, V.%
+, Blaha, C.%
+, Martindale, J.%
+, Lefebvre, V.%
+, Walton, N.%
+\BCBL{}\ \BOthersPeriod{.}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{Mar}{}.
+\newblock
+\BBOQ{}\APACrefatitle{How Visual Stimuli Activate Dopaminergic Neurons at Short
+  Latency}{How visual stimuli activate dopaminergic neurons at short
+  latency}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Science}{307}{5714}{1476}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Fiorillo%
 , Tobler%
 \BCBL{}\ \BBA{} Schultz%
@@ -396,6 +580,29 @@ Fiorillo, C\BPBI D.%
   dopamine neurons}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Science}{299}{5614}{1898--902}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Frank%
+}{%
+Frank%
+}{%
+{\protect\APACyear{2011}}%
+}]{%
+Frank:2011p8152}%
+\APACinsertmetastar{%
+Frank:2011p8152}%
+Frank, M\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{Jun}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Computational models of motivated action selection in
+  corticostriatal circuits}{Computational models of motivated action selection
+  in corticostriatal circuits}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Current opinion in neurobiology}{21}{3}{381--6}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -518,7 +725,38 @@ Guitart-Masip%
 Guitart-Masip%
 \ \protect\BOthers{.}}{%
 {\protect\APACyear{2010}}%
-}]{%
+{\protect\APACexlab{{\protect\BCnt{1}}}}}]{%
+GuitartMasip:2010p7227}%
+\APACinsertmetastar{%
+GuitartMasip:2010p7227}%
+Guitart-Masip, M.%
+, Bunzeck, N.%
+, Stephan, K.%
+, Dolan, R\BPBI J.%
+\BCBL{}\ \BBA{} Duzel, E.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010{\protect\BCnt{1}}}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Contextual Novelty Changes Reward Representations in the
+  Striatum}{Contextual novelty changes reward representations in the
+  striatum}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Journal of Neuroscience}{30}{5}{1721}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Guitart-Masip%
+, Bunzeck%
+, Stephan%
+, Dolan%
+\BCBL{}\ \BBA{} Duzel%
+}{%
+Guitart-Masip%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2010}}%
+{\protect\APACexlab{{\protect\BCnt{2}}}}}]{%
 GuitartMasip:2010p7244}%
 \APACinsertmetastar{%
 GuitartMasip:2010p7244}%
@@ -530,7 +768,7 @@ Guitart-Masip, M.%
 %
 \unskip\
 \newblock
-\APACrefYearMonthDay{2010}{Feb}{}.
+\APACrefYearMonthDay{2010{\protect\BCnt{2}}}{Feb}{}.
 \newblock
 \BBOQ{}\APACrefatitle{Contextual Novelty Changes Reward Representations in the
   Striatum}{Contextual novelty changes reward representations in the
@@ -732,6 +970,33 @@ Hornak, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Ito%
+\ \BBA{} Doya%
+}{%
+Ito%
+\ \BBA{} Doya%
+}{%
+{\protect\APACyear{2011}}%
+}]{%
+Ito:2011p8146}%
+\APACinsertmetastar{%
+Ito:2011p8146}%
+Ito, M.%
+\BCBT{}\ \BBA{} Doya, K.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{Jun}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Multiple representations and algorithms for reinforcement
+  learning in the cortico-basal ganglia circuit}{Multiple representations and
+  algorithms for reinforcement learning in the cortico-basal ganglia
+  circuit}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Current opinion in neurobiology}{21}{3}{368--73}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Iversen%
 \ \BBA{} Iversen%
 }{%
@@ -810,6 +1075,35 @@ Jin, X.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Kahnt%
+, Heinzle%
+, Park%
+\BCBL{}\ \BBA{} Haynes%
+}{%
+Kahnt%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2010}}%
+}]{%
+Kahnt:2010p7677}%
+\APACinsertmetastar{%
+Kahnt:2010p7677}%
+Kahnt, T.%
+, Heinzle, J.%
+, Park, S\BPBI Q.%
+\BCBL{}\ \BBA{} Haynes, J\BHBI D.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{May}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Decoding different roles for vmPFC and dlPFC in
+  multi-attribute decision making}{Decoding different roles for vmpfc and dlpfc
+  in multi-attribute decision making}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Kakade%
 \ \BBA{} Dayan%
 }{%
@@ -835,11 +1129,11 @@ Kakade, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Kim%
+H.~Kim%
 , Shimojo%
 \BCBL{}\ \BBA{} O'Doherty%
 }{%
-Kim%
+H.~Kim%
 \ \protect\BOthers{.}}{%
 {\protect\APACyear{2006}}%
 }]{%
@@ -863,11 +1157,11 @@ Kim, H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Kim%
+H.~Kim%
 , Shimojo%
 \BCBL{}\ \BBA{} O'Doherty%
 }{%
-Kim%
+H.~Kim%
 \ \protect\BOthers{.}}{%
 {\protect\APACyear{2010}}%
 }]{%
@@ -888,6 +1182,91 @@ Kim, H.%
   prefrontal cortex}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Cereb Cortex}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+S.~Kim%
+, Hwang%
+\BCBL{}\ \BBA{} Lee%
+}{%
+S.~Kim%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2008}}%
+}]{%
+Kim:2008p2984}%
+\APACinsertmetastar{%
+Kim:2008p2984}%
+Kim, S.%
+, Hwang, J.%
+\BCBL{}\ \BBA{} Lee, D.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Jul}{}.
+\newblock
+\BBOQ{}\APACrefatitle{prefrontal coding of temporally discounted values during
+  intertemporal choice}{prefrontal coding of temporally discounted values
+  during intertemporal choice}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuron}{59}{1}{161--72}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+S.~Kim%
+, Hwang%
+, Seo%
+\BCBL{}\ \BBA{} Lee%
+}{%
+S.~Kim%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2009}}%
+}]{%
+Kim:2009p8304}%
+\APACinsertmetastar{%
+Kim:2009p8304}%
+Kim, S.%
+, Hwang, J.%
+, Seo, H.%
+\BCBL{}\ \BBA{} Lee, D.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Valuation of uncertain and delayed rewards in primate
+  prefrontal cortex}{Valuation of uncertain and delayed rewards in primate
+  prefrontal cortex}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neural Networks}{22}{3}{294--304}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Knutson%
+, Adams%
+, Fong%
+\BCBL{}\ \BBA{} Hommer%
+}{%
+Knutson%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2001}}%
+}]{%
+Knutson:2001p5234}%
+\APACinsertmetastar{%
+Knutson:2001p5234}%
+Knutson, B.%
+, Adams, C\BPBI M.%
+, Fong, G\BPBI W.%
+\BCBL{}\ \BBA{} Hommer, D.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{Aug}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Anticipation of increasing monetary reward selectively
+  recruits nucleus accumbens}{Anticipation of increasing monetary reward
+  selectively recruits nucleus accumbens}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Neurosci}{21}{16}{RC159}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -1634,6 +2013,31 @@ Seger, C\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Seymour%
+\ \BBA{} McClure%
+}{%
+Seymour%
+\ \BBA{} McClure%
+}{%
+{\protect\APACyear{2008}}%
+}]{%
+Seymour:2008p6518}%
+\APACinsertmetastar{%
+Seymour:2008p6518}%
+Seymour, B.%
+\BCBT{}\ \BBA{} McClure, S\BPBI M.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Anchors, scales and the relative coding of value in the
+  brain}{Anchors, scales and the relative coding of value in the brain}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Current Opinion in Neurobiology}{18}{2}{173--8}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 A.~Smith%
 , Li%
 , Becker%
@@ -1687,6 +2091,38 @@ Smith, K\BPBI S.%
   incentive salience and learning signals in brain reward circuitry}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Proc Natl Acad Sci USA}{108}{27}{E255--64}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Surmeier%
+, Ding%
+, Day%
+, Wang%
+\BCBL{}\ \BBA{} Shen%
+}{%
+Surmeier%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2007}}%
+}]{%
+Surmeier:2007p4435}%
+\APACinsertmetastar{%
+Surmeier:2007p4435}%
+Surmeier, D\BPBI J.%
+, Ding, J.%
+, Day, M.%
+, Wang, Z.%
+\BCBL{}\ \BBA{} Shen, W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{May}{}.
+\newblock
+\BBOQ{}\APACrefatitle{D1 and D2 dopamine-receptor modulation of striatal
+  glutamatergic signaling in striatal medium spiny neurons}{D1 and d2
+  dopamine-receptor modulation of striatal glutamatergic signaling in striatal
+  medium spiny neurons}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Trends Neurosci.}{30}{5}{228--35}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -1747,6 +2183,73 @@ Tanaka, S\BPBI C.%
 
 \bibitem[\protect\citeauthoryear{%
 Tobler%
+, Christopoulos%
+, O'doherty%
+, Dolan%
+\BCBL{}\ \BBA{} Schultz%
+}{%
+Tobler%
+, Christopoulos%
+, O'doherty%
+\BCBL{}\ \protect\BOthers{.}}{%
+{\protect\APACyear{2009}}%
+}]{%
+Tobler:2009p8297}%
+\APACinsertmetastar{%
+Tobler:2009p8297}%
+Tobler, P\BPBI N.%
+, Christopoulos, G\BPBI I.%
+, O'doherty, J\BPBI P.%
+, Dolan, R\BPBI J.%
+\BCBL{}\ \BBA{} Schultz, W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Risk-dependent reward value signal in human prefrontal
+  cortex}{Risk-dependent reward value signal in human prefrontal
+  cortex}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{106}{17}{7185--7190}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Tobler%
+, Christopoulos%
+, O'Doherty%
+, Dolan%
+\BCBL{}\ \BBA{} Schultz%
+}{%
+Tobler%
+, Christopoulos%
+, O'Doherty%
+\BCBL{}\ \protect\BOthers{.}}{%
+{\protect\APACyear{2009}}%
+}]{%
+Tobler:2009p8302}%
+\APACinsertmetastar{%
+Tobler:2009p8302}%
+Tobler, P\BPBI N.%
+, Christopoulos, G\BPBI I.%
+, O'Doherty, J\BPBI P.%
+, Dolan, R\BPBI J.%
+\BCBL{}\ \BBA{} Schultz, W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Risk-dependent reward value signal in human prefrontal
+  cortex}{Risk-dependent reward value signal in human prefrontal
+  cortex}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Proc Natl Acad Sci USA}{106}{17}{7185--90}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Tobler%
 , Fiorillo%
 \BCBL{}\ \BBA{} Schultz%
 }{%
@@ -1769,6 +2272,35 @@ Tobler, P\BPBI N.%
   neurons}{Adaptive coding of reward value by dopamine neurons}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Science}{307}{5715}{1642--5}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Tobler%
+, O'Doherty%
+, Dolan%
+\BCBL{}\ \BBA{} Schultz%
+}{%
+Tobler%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2007}}%
+}]{%
+Tobler:2007p1562}%
+\APACinsertmetastar{%
+Tobler:2007p1562}%
+Tobler, P\BPBI N.%
+, O'Doherty, J\BPBI P.%
+, Dolan, R\BPBI J.%
+\BCBL{}\ \BBA{} Schultz, W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{Feb}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Reward value coding distinct from risk attitude-related
+  uncertainty coding in human reward systems}{Reward value coding distinct from
+  risk attitude-related uncertainty coding in human reward systems}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Physiol.}{97}{2}{1621--32}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -1825,6 +2357,31 @@ Waelti, P.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Wallis%
+\ \BBA{} Kennerley%
+}{%
+Wallis%
+\ \BBA{} Kennerley%
+}{%
+{\protect\APACyear{2010}}%
+}]{%
+Wallis:2010p8303}%
+\APACinsertmetastar{%
+Wallis:2010p8303}%
+Wallis, J\BPBI D.%
+\BCBT{}\ \BBA{} Kennerley, S\BPBI W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Heterogeneous reward signals in prefrontal
+  cortex}{Heterogeneous reward signals in prefrontal cortex}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Current Opinion in Neurobiology}{20}{2}{191--198}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Winterbauer%
 \ \BBA{} Balleine%
 }{%
@@ -1850,6 +2407,63 @@ Winterbauer, N\BPBI E.%
   function}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Frontiers in integrative neuroscience}{1}{}{9}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Wittmann%
+, Bunzeck%
+, Dolan%
+\BCBL{}\ \BBA{} D{\"u}zel%
+}{%
+Wittmann%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2007}}%
+}]{%
+Wittmann:2007p3328}%
+\APACinsertmetastar{%
+Wittmann:2007p3328}%
+Wittmann, B\BPBI C.%
+, Bunzeck, N.%
+, Dolan, R\BPBI J.%
+\BCBL{}\ \BBA{} D{\"u}zel, E.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{Oct}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Anticipation of novelty recruits reward system and
+  hippocampus while promoting recollection}{Anticipation of novelty recruits
+  reward system and hippocampus while promoting recollection}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{38}{1}{194--202}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Wittmann%
+, Daw%
+, Seymour%
+\BCBL{}\ \BBA{} Dolan%
+}{%
+Wittmann%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2008}}%
+}]{%
+Wittmann:2008p541}%
+\APACinsertmetastar{%
+Wittmann:2008p541}%
+Wittmann, B\BPBI C.%
+, Daw, N\BPBI D.%
+, Seymour, B.%
+\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Jun}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Striatal activity underlies novelty-based choice in
+  humans}{Striatal activity underlies novelty-based choice in humans}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuron}{58}{6}{967--73}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -1932,6 +2546,98 @@ Yin, H\BPBI H.%
   conditioning}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Eur J Neurosci}{22}{2}{513--23}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Zink%
+, Pagnoni%
+, Chappelow%
+, Martin-Skurski%
+\BCBL{}\ \BBA{} Berns%
+}{%
+Zink%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2006}}%
+}]{%
+Zink:2006p7210}%
+\APACinsertmetastar{%
+Zink:2006p7210}%
+Zink, C\BPBI F.%
+, Pagnoni, G.%
+, Chappelow, J.%
+, Martin-Skurski, M.%
+\BCBL{}\ \BBA{} Berns, G\BPBI S.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{Feb}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Human striatal activation reflects degree of stimulus
+  saliency}{Human striatal activation reflects degree of stimulus
+  saliency}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{29}{3}{977--83}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Zink%
+, Pagnoni%
+, Martin%
+, Dhamala%
+\BCBL{}\ \BBA{} Berns%
+}{%
+Zink%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2003}}%
+}]{%
+Zink:2003p5107}%
+\APACinsertmetastar{%
+Zink:2003p5107}%
+Zink, C\BPBI F.%
+, Pagnoni, G.%
+, Martin, M\BPBI E.%
+, Dhamala, M.%
+\BCBL{}\ \BBA{} Berns, G\BPBI S.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{Sep}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Human striatal response to salient nonrewarding
+  stimuli}{Human striatal response to salient nonrewarding stimuli}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Neurosci}{23}{22}{8092--7}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Zink%
+, Pagnoni%
+, Martin-Skurski%
+, Chappelow%
+\BCBL{}\ \BBA{} Berns%
+}{%
+Zink%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2004}}%
+}]{%
+Zink:2004p5108}%
+\APACinsertmetastar{%
+Zink:2004p5108}%
+Zink, C\BPBI F.%
+, Pagnoni, G.%
+, Martin-Skurski, M\BPBI E.%
+, Chappelow, J\BPBI C.%
+\BCBL{}\ \BBA{} Berns, G\BPBI S.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{May}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Human striatal responses to monetary reward depend on
+  saliency}{Human striatal responses to monetary reward depend on
+  saliency}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuron}{42}{3}{509--17}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

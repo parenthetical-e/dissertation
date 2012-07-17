@@ -1,8 +1,8 @@
 # Fdb version 3
-["bibtex main"] 1342133008 "main.aux" "main.bbl" "main" 
+["bibtex main"] 1342493219 "main.aux" "main.bbl" "main" 
   "/Users/type/Library/texmf/bibtex/bst/apacite.bst" 1258488116 146194 7ef7aa87a0e72c68339a1a572d5f19e0 ""
   "bibmin.bib" 1323210216 357055 ff5cfc60d14bd3d8c50e923f6b699c28 ""
-  "main.aux" 1342133008 21485 5b56598bd01b8979c24ec984003e4864 ""
+  "main.aux" 1342493431 30278 57b9e4ace1b3419e416abca75865214a ""
   "main.bcf" 0 -1 0 ""
   (generated)
   "main.bbl"
@@ -47,7 +47,7 @@
   "main.log"
   "main.dvi"
   "main.aux"
-["pdflatex"] 1342133006 "main.tex" "main.pdf" "main" 
+["pdflatex"] 1342493428 "main.tex" "main.pdf" "main" 
   "/Users/type/Library/texmf/tex/latex/apa/apa.cls" 1228868490 58148 d54c2e8ea990d3efeebf42e560014844 ""
   "/Users/type/Library/texmf/tex/latex/apa/apacite.sty" 1258488116 46872 f798269c045e76416464c4d2d4276c4f ""
   "/Users/type/Library/texmf/tex/latex/apa/english.apa" 1135992486 209 a86ee3cded7f073ff1fa3da9fffee9e7 ""
@@ -84,9 +84,9 @@
   "/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
   "/usr/local/texlive/2011/texmf-dist/tex/latex/setspace/setspace.sty" 1295310971 22000 7c9b954a895324cd9b698c4685284a52 ""
   "/usr/local/texlive/2011/texmf-dist/tex/latex/tools/bm.sty" 1254151720 11823 9bcc8ce3d4bd33b432b9fc9543d4666e ""
-  "main.aux" 1342133008 21485 5b56598bd01b8979c24ec984003e4864 ""
-  "main.bbl" 1342133008 45603 0229351adf9be7acd2e1d451e4bb5087 "bibtex main"
-  "main.tex" 1342132874 17986 71f59025f2c57ee404fbe9a8f545584f ""
+  "main.aux" 1342493431 30278 57b9e4ace1b3419e416abca75865214a ""
+  "main.bbl" 1342493219 61598 acc92b88d62532f89fcae585eb8a88da "bibtex main"
+  "main.tex" 1342493414 31628 aa74af37c7e2c6cb71572a8c42f6e32e ""
   (generated)
   "main.log"
   "main.pdf"

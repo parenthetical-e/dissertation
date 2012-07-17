@@ -9,7 +9,12 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated field_info (elt_size=4) to 10104 items from 5000.
 Database file #1: bibmin.bib
+Repeated entry---line 2443 of file bibmin.bib
+ : @article{Seymour:2008p6518
+ :                           ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 3349 of file bibmin.bib
  : @article{Tobler:2005p6373
  :                          ,
@@ -17,6 +22,10 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 3735 of file bibmin.bib
  : @article{denOuden:2010p7203
  :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4718 of file bibmin.bib
+ : @article{Knutson:2001p5234
+ :                           ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 5078 of file bibmin.bib
  : @article{Hollerman:1998qy
@@ -30,6 +39,10 @@ Repeated entry---line 6212 of file bibmin.bib
  : @article{Roesch:2007p7182
  :                          ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 6495 of file bibmin.bib
+ : @article{Kim:2008p2984
+ :                       ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 7394 of file bibmin.bib
  : @article{ODoherty:2003p6329
  :                            ,
@@ -42,6 +55,10 @@ Repeated entry---line 7651 of file bibmin.bib
  : @article{McClure:2003p3346
  :                           ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 8362 of file bibmin.bib
+ : @article{Zink:2006p7210
+ :                        ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 8736 of file bibmin.bib
  : @article{Rossi:2010p7252
  :                         ,
@@ -49,6 +66,10 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 8820 of file bibmin.bib
  : @article{ODoherty:2001p2423
  :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8922 of file bibmin.bib
+ : @article{Bogacz:2007p753
+ :                         ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 9035 of file bibmin.bib
  : @article{Seger:2008p6401
@@ -73,6 +94,10 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 10364 of file bibmin.bib
  : @article{Packard:2002p5074
  :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10381 of file bibmin.bib
+ : @article{BarGad:2003p4052
+ :                          ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 10994 of file bibmin.bib
  : @article{Montague:2006mz
@@ -100,46 +125,53 @@ Warning--I didn't find a database entry for "Bunzeck:2006p5319"
 Warning--I didn't find a database entry for "Behrens:2007p8839"
 Warning--I didn't find a database entry for "Chamberlin:1965p8873"
 Warning--I didn't find a database entry for "DawNW:2006p6343"
+Warning--I didn't find a database entry for "Ashby:2007p8986"
+Warning--I didn't find a database entry for "Robinson:1993p8987"
+Warning--I didn't find a database entry for "Berridge:2003p8998"
+Warning--I didn't find a database entry for "Reed:1992p9094"
+Warning--I didn't find a database entry for "Fiore:2008p7249"
+Warning--I didn't find a database entry for "Mishra:2011p9095"
+Warning--I didn't find a database entry for "Nakamura:2006p9093"
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 70 entries,
+You've used 95 entries,
             6361 wiz_defined-function locations,
-            1661 strings with 23939 characters,
-and the built_in function-call counts, 155922 in all, are:
-= -- 18490
-> -- 1345
-< -- 8675
-+ -- 9306
-- -- 140
-* -- 11013
-:= -- 31037
-add.period$ -- 273
-call.type$ -- 70
-change.case$ -- 460
+            1812 strings with 28615 characters,
+and the built_in function-call counts, 211272 in all, are:
+= -- 25017
+> -- 1869
+< -- 11648
++ -- 12514
+- -- 191
+* -- 14906
+:= -- 41687
+add.period$ -- 372
+call.type$ -- 95
+change.case$ -- 629
 chr.to.int$ -- 0
-cite$ -- 140
-duplicate$ -- 4219
-empty$ -- 5459
-format.name$ -- 2414
-if$ -- 27752
+cite$ -- 190
+duplicate$ -- 5834
+empty$ -- 7462
+format.name$ -- 3374
+if$ -- 37724
 int.to.chr$ -- 0
-int.to.str$ -- 140
+int.to.str$ -- 194
 missing$ -- 0
-newline$ -- 1777
-num.names$ -- 560
-pop$ -- 1924
+newline$ -- 2434
+num.names$ -- 760
+pop$ -- 2627
 preamble$ -- 1
-purify$ -- 390
+purify$ -- 534
 quote$ -- 0
-skip$ -- 8691
+skip$ -- 11810
 stack$ -- 0
-substring$ -- 10076
-swap$ -- 2413
-text.length$ -- 250
+substring$ -- 13552
+swap$ -- 3333
+text.length$ -- 344
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 5600
+type$ -- 7600
 warning$ -- 0
-while$ -- 930
+while$ -- 1298
 width$ -- 0
-write$ -- 2376
-(There were 19 error messages)
+write$ -- 3272
+(There were 25 error messages)

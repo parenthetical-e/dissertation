@@ -2,27 +2,27 @@
 # Sec: Introduction
     * [DONE] Sub: IntroIntro
         - [DONE] Birds will peck repeatably...
-    * SubSub: A pleasurable start
-        - DA and reinforcement have a long relation...
-        - It is not anhedonia afterall; what was anhedonia?
-    * SubSub: Expectations Matter
-        - Expectations matter.
-    * SubSub: the networked details
-        - OFC, PFC
-        - Habenula
-        - Str
-    * SubSub: Criticisms... just copy, with light mods, comps
-        - SC, Berridge, ...    
+        * SubSub: A pleasurable start
+            - [DONE] DA and reinforcement have a long relation...
+            - [DONE] It is not anhedonia afterall; what was anhedonia?
+        * SubSub: Expectations Matter
+            - [DONE] Expectations matter.
+        * SubSub: the networked details
+            - [DONE] OFC, PFC
+            - [DONE] Habenula
+            - [DONE] Str  
+    * Sub: Criticism
+        - [DONE] SubSub: SC, 
+        - [DONE] SubSub: Saliances - Berr's, needs a rebuttal.
     * Sub: Cognitive rewards
-        - novelty
-        - information
-        - intertemporal
-        - fictive
-        - saliance - let's skip
-    * Sub: value generalizaion in birds and men
-    * Sub: Category models, generalization
-        - Shepard, his proteges and emperical findings
-        - Prototype, Examplar, in between
+        - [DONE] SubSub: outcome, information, saliance, novelty
+    * Sub: generalizaion
+        - Brute facts about complex outcomes.
+        - ITI, optimism, ....
+        - SubSub: value in birds and men
+        - SubSub: Category models, generalization
+            - Shepard, his proteges and emperical findings
+            - Prototype, Examplar, in between
     * Sub: Finally, Goals
 
 # Sec: Behavoir and model fits.
@@ -42,18 +42,10 @@
         * models
     - Sub: conclusions
 
-# Sec: fMRI model quality
-    - Sub: fMRI simuluation of model-based results
-    - SubSub: methods - simple monte carlo.
-    - SubSub: results -> ?
-    - Sub: residuals analysis
-    - SubSub: methods
-    - SubSub: results
-
 # Sec: Modulation
     - Methods: Tor, ROI selection
     - Results:
     - Sub: conclusions
 
-# Sec: Conclusion
+# Sec: Conclusions
     * Overall import to goals.  What does it mean, big picture?
