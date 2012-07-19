@@ -1,0 +1,160 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: intro.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=5001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated field_info (elt_size=4) to 11072 items from 5000.
+Database file #1: bibmin.bib
+Repeated entry---line 1907 of file bibmin.bib
+ : @article{Hampton:2006p2577
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2370 of file bibmin.bib
+ : @article{Roesch:2007p2519
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3535 of file bibmin.bib
+ : @article{Seymour:2008p6518
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3685 of file bibmin.bib
+ : @article{Packard:2002p5074
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4164 of file bibmin.bib
+ : @article{Zink:2006p7210
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4274 of file bibmin.bib
+ : @article{BarGad:2003p4052
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4557 of file bibmin.bib
+ : @article{denOuden:2010p7203
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6047 of file bibmin.bib
+ : @article{Winterbauer:2007p6352
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6083 of file bibmin.bib
+ : @article{Knutson:2001p5234
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6794 of file bibmin.bib
+ : @article{ODoherty:2003p2616
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7418 of file bibmin.bib
+ : @article{Kakade:2002p6414
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8353 of file bibmin.bib
+ : @article{Hollerman:1998qy
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8430 of file bibmin.bib
+ : @article{ODoherty:2001p2423
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8522 of file bibmin.bib
+ : @article{Fiorillo:2003p6375
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8825 of file bibmin.bib
+ : @article{Tobler:2005p6373
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8993 of file bibmin.bib
+ : @article{Hikosaka:2008p4455
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9355 of file bibmin.bib
+ : @article{ODoherty:2003p6329
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9699 of file bibmin.bib
+ : @article{Roesch:2007p7182
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9793 of file bibmin.bib
+ : @article{Kim:2008p2984
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9917 of file bibmin.bib
+ : @article{Montague:2006mz
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9957 of file bibmin.bib
+ : @article{Seger:2008p6401
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10138 of file bibmin.bib
+ : @article{Tanaka:2008p3265
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10989 of file bibmin.bib
+ : @article{McClure:2003p3346
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11335 of file bibmin.bib
+ : @article{Rossi:2010p7252
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11364 of file bibmin.bib
+ : @article{Bogacz:2007p753
+ :                         ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Glimcher:2011p8464"
+Warning--I didn't find a database entry for "Becerra:2011p7581"
+Warning--I didn't find a database entry for "DawNW:2006p6343"
+Warning--I didn't find a database entry for "Ashby:2007p8986"
+apacite.bst [2009/03/01 v4.05 APA bibliography style]
+You've used 134 entries,
+            6361 wiz_defined-function locations,
+            2020 strings with 34153 characters,
+and the built_in function-call counts, 285120 in all, are:
+= -- 33932
+> -- 2431
+< -- 15421
++ -- 16446
+- -- 270
+* -- 19852
+:= -- 55756
+add.period$ -- 526
+call.type$ -- 134
+change.case$ -- 884
+chr.to.int$ -- 0
+cite$ -- 268
+duplicate$ -- 7909
+empty$ -- 10347
+format.name$ -- 4341
+if$ -- 51425
+int.to.chr$ -- 0
+int.to.str$ -- 276
+missing$ -- 0
+newline$ -- 3340
+num.names$ -- 1072
+pop$ -- 3610
+preamble$ -- 1
+purify$ -- 750
+quote$ -- 0
+skip$ -- 16392
+stack$ -- 0
+substring$ -- 17931
+swap$ -- 4507
+text.length$ -- 482
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 10720
+warning$ -- 0
+while$ -- 1709
+width$ -- 0
+write$ -- 4387
+(There were 25 error messages)

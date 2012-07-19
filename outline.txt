@@ -1,3 +1,7 @@
+# TO REREAD:
+    - evidence for habenula and value calc - \cite{BrombergMartin:2010p7221}
+
+
 # Sec: Abstract
 # Sec: Introduction
     * [DONE] Sub: IntroIntro
@@ -17,19 +21,21 @@
     * Sub: Cognitive rewards
         - [DONE] SubSub: outcome, information, saliance, novelty
     * Sub: generalizaion
-        - Brute facts about complex outcomes.
-        - ITI, optimism, ....
-        - SubSub: value in birds and men
+        - [DONE] SubSub: Brute facts about complex outcomes.
+        - [DONE] SubSub: ITI, optimism, ....
         - SubSub: Category models, generalization
-            - Shepard, his proteges and emperical findings
-            - Prototype, Examplar, in between
+            - [DONE] Shepard, his proteges and emperical findings
+            - [DONE] Prototype, Examplar, in between
+        - [DONE] SubSub: value in birds and men, the shape is exponential as Shepard predicts.
     * Sub: Finally, Goals
 
 # Sec: Behavoir and model fits.
     - Sub: Methods
-        * Task
-        * Models
-        * Fit measures
+        * Task 'What a task!'
+        * Models 'Many many models'
+            - why mean centered, exp and guass
+            "And while mapping these kinds of categories to neural activity is underway \cite{Ashby:2005p9152,Ashby:2006p9153} there as yet no obvious way to interlace my hypothesis of rewarding categories with their putative category learning systems and to the many models of categoziation touched on in the introduction, I'll take a simpler route based solely on Shepards finding.  Whatevet the representation and/or category learning system that implments rewardi categories, they show an exponnetial (or gaussian) decline with similartiy."
+            - why just acc
     - Sub: Results
     - Sub: conclusions
 
@@ -49,3 +55,6 @@
 
 # Sec: Conclusions
     * Overall import to goals.  What does it mean, big picture?
+
+
+
