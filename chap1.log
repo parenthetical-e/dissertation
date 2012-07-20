@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  19 JUL 2012 18:08
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  19 JUL 2012 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**intro.tex
-(./intro.tex
+**chap1.tex
+(./chap1.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
@@ -196,8 +196,8 @@ e
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
 
 Package: `setspace' 6.7 <2000/12/01>
-) (./intro.aux)
-\openout1 = `intro.aux'.
+) (./chap1.aux)
+\openout1 = `chap1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -273,92 +273,58 @@ NOT AUSTRALIAN!!!
 Class apa Warning: Abstract not defined.
 
 Using title for running head
-
-LaTeX Warning: Citation `Glimcher:2011p8464' undefined on input line 31.
-
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<f1task.png, id=9, 1027.84pt x 770.88pt>
+File: f1task.png Graphic file (type png)
+ <use f1task.png>
+Package pdftex.def Info: f1task.png used on input line 44.
+(pdftex.def)             Requested size: 430.00462pt x 322.50879pt.
 
-LaTeX Warning: Citation `Becerra:2011p7581' undefined on input line 38.
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+ []
+
+<f3II.png, id=11, 260.6538pt x 192.2382pt>
+File: f3II.png Graphic file (type png)
+ <use f3II.png>
+Package pdftex.def Info: f3II.png used on input line 50.
+(pdftex.def)             Requested size: 430.00462pt x 317.17052pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [2]
-Underfull \hbox (badness 1163) in paragraph at lines 45--51
- \OT1/cmr/m/it/12 Ex-pec-ta-tions Mat-ter\OT1/cmr/m/n/12 .  []Hollerman & Schul
-tz, 1998 more fully ex-plored,
- []
-
-
-Underfull \vbox (badness 1694) has occurred while \output is active []
-
- [3]
-[4] [5]
-
-LaTeX Warning: Citation `DawNW:2006p6343' undefined on input line 63.
-
-[6] [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-[9]
-
-LaTeX Warning: Citation `Ashby:2007p8986' undefined on input line 81.
-
-[10] [11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
-[13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-[15] [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
-[18] [19]
-Underfull \vbox (badness 2351) has occurred while \output is active []
-
- [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-[22] (./intro.bbl [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33]
-[34] [35]) [36] (./intro.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+) [2] [3 <./f1task.png>] [4 <./f3II.png>] (./chap1.bbl) [5] (./chap1.aux) ) 
 Here is how much of TeX's memory you used:
- 3620 strings out of 493633
- 53024 string characters out of 3143378
- 123549 words of memory out of 3000000
- 6853 multiletter control sequences out of 15000+200000
- 18097 words of font info for 66 fonts, out of 3000000 for 9000
+ 3051 strings out of 493633
+ 41276 string characters out of 3143378
+ 106677 words of memory out of 3000000
+ 6291 multiletter control sequences out of 15000+200000
+ 13297 words of font info for 48 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,2195b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
-al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
-texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/t
-exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
-xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on intro.pdf (36 pages, 210652 bytes).
+ 42i,5n,24p,1664b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
+</us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on chap1.pdf (5 pages, 363953 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
+ 53 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
