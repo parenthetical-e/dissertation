@@ -14,9 +14,9 @@
         * SubSub: the networked details
             - [DONE] OFC, PFC
             - [DONE] Habenula
-            - [DONE] Str  
+            - [DONE] Str
     * Sub: Criticism
-        - [DONE] SubSub: SC, 
+        - [DONE] SubSub: SC,
         - [DONE] SubSub: Saliances - Berr's, needs a rebuttal.
     * Sub: Cognitive rewards
         - [DONE] SubSub: outcome, information, saliance, novelty
@@ -26,16 +26,20 @@
         - SubSub: Category models, generalization
             - [DONE] Shepard, his proteges and emperical findings
             - [DONE] Prototype, Examplar, in between
-        - [DONE] SubSub: value in birds and men, the shape is exponential as Shepard predicts.
+        - [DONE] SubSub: value in birds and men, the shape is exponential 
+        as Shepard predicts.
     * Sub: Finally, Goals
 
 # Sec: Behavoir and model fits.
-    - Sub: Methods
-        * Task 'What a task!'
-        * Models 'Many many models'
+        * Sub: Task 'On task
+            - [DONE] SubSub: 'What they did and when'
+            - SubSub: 'Repeated results'
+                * Pilot data, fMRI data,         
+        * Sub: Models 'Not too many (but still) many models'
+            - the eqs
             - why mean centered, exp and guass
             "And while mapping these kinds of categories to neural activity is underway \cite{Ashby:2005p9152,Ashby:2006p9153} there as yet no obvious way to interlace my hypothesis of rewarding categories with their putative category learning systems and to the many models of categoziation touched on in the introduction, I'll take a simpler route based solely on Shepards finding.  Whatevet the representation and/or category learning system that implments rewardi categories, they show an exponnetial (or gaussian) decline with similartiy."
-            - why just acc
+            - 
     - Sub: Results
     - Sub: conclusions
 
