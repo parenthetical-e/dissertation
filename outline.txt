@@ -1,5 +1,6 @@
 # TO REREAD:
     - evidence for habenula and value calc - \cite{BrombergMartin:2010p7221}
+    - many dopamine models? - \cite{Bertin:2007p2843}, \cite{Beierholm:2011p8141}, \cite{Ito:2011p8146}
 
 
 # Sec: Abstract
@@ -28,20 +29,19 @@
             - [DONE] Prototype, Examplar, in between
         - [DONE] SubSub: value in birds and men, the shape is exponential 
         as Shepard predicts.
-    * Sub: Finally, Goals
+    * [DONE] Sub: Finally, Goals
 
 # Sec: Behavoir and model fits.
         * Sub: Task 'On task
             - [DONE] SubSub: 'What they did and when'
-            - SubSub: 'Repeated results'
+            - [DONE] SubSub: 'Repeated results'
                 * Pilot data, fMRI data,         
         * Sub: Models 'Not too many (but still) many models'
-            - the eqs
-            - why mean centered, exp and guass
-            "And while mapping these kinds of categories to neural activity is underway \cite{Ashby:2005p9152,Ashby:2006p9153} there as yet no obvious way to interlace my hypothesis of rewarding categories with their putative category learning systems and to the many models of categoziation touched on in the introduction, I'll take a simpler route based solely on Shepards finding.  Whatevet the representation and/or category learning system that implments rewardi categories, they show an exponnetial (or gaussian) decline with similartiy."
-            - 
-    - Sub: Results
-    - Sub: conclusions
+            - [DONE] subsub: the eqs and codes
+            - [DONE] justify the sim metrics
+            - [DONE] model fits
+    - [DONE] Sub: Results
+
 
 # Sec: fMRI - univariate and parametric
     - Sub: methods

@@ -1,3 +1,219 @@
-In fMRI (as in time-series signal analysis in general) there is an intrinsic trade-off between simply detecting that a signal has occurred in the presence of noise and then estimating the timecourse (i.e. shape) of that signal \cite{Dale:1999p7901,Birn:2002p1777,Liu:2004p2141}.   The state of the art method for setting trial ordering in an attempt to maximize both signal detection and estimation is a genetic algorithm design by \citeNP{Kao:2009p7899}.  Without extensive modification unfortunately their methodology cannot account for epoch-style designs\footnote{This flaw is common to all methods of stimulus timing optimization, so far as I am aware.} that this experiment requires; each trial needs to contain stimulus-response, jitter and feedback delivery periods.  To account for this, Koa's methods will be applied twice, once using a 6.5 second ISI (the estimated average length of a trial) and once with a 1 second ISI (the length of the feedback display in task 2).  These two designs will then be manually interpolated to create a series of stimulus-response, jitter, feedback, and ITI events.  To create the final trial ordering each stimulus-response event will then be subsequently randomly recoded to match one of the 6 ``tree'' stimuli.  This randomization step will be performed independently for each subject so that stimulus assignment to events will be counterbalanced across subjects to control for specific item effects.  
+\documentclass[doc,12pt]{apa}        % use: 'man' for submission type; 'jou' for
+                                % journal type, and 'doc' for typical latex
+                                % but with figures inline with text
+\usepackage{geometry} 
+%\geometry{a4paper} 
+\usepackage[parfill]{parskip}   % paragraphs delimited by an empty line
 
+\usepackage{graphicx} 
+\usepackage{amssymb}            % no idea what this does...
+\usepackage{epstopdf}           % no idea what this does...
+%\usepackage{gensymb}            % no idea what this does...
 
+\usepackage{setspace}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png} \setcounter{secnumdepth}{0}  % no idea what this does...
+
+\usepackage{apacite}
+%%%%%%%%% END HEADER %%%%%%%%%
+
+\title{Rewards are categories.} 
+\author{Erik J. Peterson} \affiliation{Dept. of Psychology \\ Colorado State University \\ Fort Collins, CO} 
+
+%%%%%%%%%%%%%%%%
+\begin{document} 
+%%%%%%%%%%%%%%%%
+\maketitle
+\doublespacing
+
+\section{Chapter 2 -- Task and Models} % (fold)
+\label{sec:task_and_models}
+
+\subsection{On task}
+\label{sub:to_task}
+\subsubsection{What they did, and when}
+\label{subsub:whatwhen}
+The task consisted of two parts.  Depicted in Fig~\ref{fig:task}. (top), the first is passivem wherein participants learned the two reward categories by viewing randomly selected black and white sinusoidal gratings (on-screen for 2 seconds) followed by ``Gain \$1'' or ``Lose \$1'' reward in, respectively, green or red letters (1 second).  The shape of the gratings for each category was derived from a information integration parameter distribution (Fig. \ref{fig:II}), borrowed from \cite{Spiering:2008p5008}.  The disappearance of each grating and appearance of the reward was separated by an empty grey screen (1 second).  Each trial terminated in a fixation cross (lasting at least 0.5 seconds). In total then, each trial lasted a total of 4.5 seconds.  This procedure was spread over an initial training period completed outside the scanner, lasting 126 trials, and an in-scanner refresher lasting 45 trials.  Prior to beginning training participants were, after some preliminaries, instructed to, ``Attend to the screen in order to learn which types of gratings indicate wins and which types indicate losses''.  To minimize any stimulus specific effects, the category parameter distribution (Figure. \ref{fig:II}) to reward (i.e. ``Gain \$1'' or ``Lose \$1'') mapping was randomized for each participant.
+
+Part 2 is a deterministic unstructured stimulus-response task that replaces classical rewards with an appropriate grating from task 1  (Figure. \ref{fig:task}, \emph{bottom}).  Gratings matching the Gain category were used for positive reinforcement, while and gratings indicative of losses were used as negative reinforcers.   Each trial began with an abstract black and white ``tree'' stimuli (left most image in bottom of Figure.~\ref{fig:task}).  Each ``tree'' belonged to one of two response categories (``q'' or ``w'').  Subjects indicated their response by button press using either the right (``q'') or left(``w'') index fingers on a magnet-compatible response box.  The response window lasted up to 2.5 seconds, but ended as soon as a response was made.  Immediately following response the ``tree'' was replaced with a blank grey screen, which was on-screen for half a second and was replaced with a feedback screen.  If the response was correct a new, that is never before experienced, exemplar grating from the Gain distribution was used; if the participant was incorrect, a new Loss grating appeared instead.  The use of novel gratings forced the subjects to infer, and therefore classify, each grating prior to reward valuation.  This necessary inference made these rewards incompatible with primary or secondary definitions.  If no response was made, or the wrong button was pressed, the subject's reward was replaced with, ``No response detected'' (these trials were excluded from further analysis).  Feedback always lasted for 1 second and was then replaced by a fixation cross (0.5 seconds).  Participants were told that, ``Each tree belongs to either category q or w.  Which correct though is random.  The shape of trees if meaningless.  To find correct response for each tree you must start by guessing.  Use what you learned about the rewarding properties of the gratings from part 1 to try and earn as much money as possible in this portion of the experiment.''.  Instruction for both parts were given orally by the experimenter using a script, using Figure. \ref{fig:task} as a visual aid.
+
+Over the course of part 2, participants learned to classify 6 ``trees'', randomly selected at the start of the experiment out of a pool of 22 possible.  Each of the 6 were experienced a total of 28-32 times for a total of 199 trials. The order of the trials in the second half of part 1 and all of part 2 was determined using a genetic algorithm designed to optimize fMRI signal detection, among other considerations.  Most relevant to behavioral analysis, trials were in pseudo-random order with second order counterbalancing.  For complete details see the fMRI methods section in \ref{TODO}.
+
+As part of fMRI data acquisition, 18 participants completed both parts of the task (10 female, mean age of 24, ranging from 21 to 32).  Of the 18, two were removed from further analysis as they demonstrated inversed learning (Figure~\ref{fig:sacc}, see \emph{107} and \emph{110}).  That is despite reporting a full understanding of the reward contingencies from part 1 prior to beginning part 2 these participants displayed significant and consistent decreases in performance through time.  Had this learning been in the usual direction it would have been considered better than average performance.  In post task interviews both reported the they felt they did at least above average.  Once they were informed of their inverse performance neither believed it.  It seems then that both correctly learned the perceptual characteristics but mis-mapped the value labels, i.e. they got ``Gain'' and ``Loss''  mixed up.  Post-experiment interviews further suggested that both the discarded subjects were under high personal stress.  One subject, who was a PhD student, had his competency exams the next day.  The other completed a 60 mile bike ride an hour prior to participation.  Combined these participant's data suggest that the perceptual and verbal characteristics of my reward categories are independently accessible, and that the verbal label may be more labile than the perceptual distributions.  However given the other participants consistent positive performance and rapid learning it seems these two were an isolated anomaly (Figure~\ref{fig:sacc}).
+
+\begin{figure}[tp]
+	\fitfigure{f_task}
+    \centering
+    \caption{Depiction of the behavioral task.  The \emph{top} depicts part 1, the passive learning of the reward categories.  The \emph{bottom} depicts part 2, the stimulus-response learning phase.}
+	\label{fig:task}
+\end{figure}
+
+\begin{figure}[tp]
+	\includegraphics{f_II}
+    % TODO -- replace with the good plot; find the good plot again.
+    \centering
+    \caption{The two sinusoidal grating distributions for the information integration (II) category distributions.  As II categories span the diagonal of the gratings parameter space (line width and angle successful learning requires consideration of both dimensions preventing participants from solving the categorization problem with simple rule-based strategies.}.
+	\label{fig:II}
+\end{figure}
+
+\begin{figure}[tp]
+	\includegraphics{f_all_sS_acc}
+    \centering
+	\caption{Average accuracy for each participant (black), averaged for all 6 stimuli by trial (i.e. Stimulus Index), blue line and the grey area represent a binomial regression fit of the data and bootstrapped 95\% confidence intervals, respectively.}
+	\label{fig:sacc}
+\end{figure}
+
+\begin{figure}[tp]
+	\includegraphics{f_all_sS_rt}
+    \centering
+	\caption{Mean reaction time for each participant, averaged for all 6 stimuli by trial (i.e. Stimulus Index).}
+	\label{fig:srt}
+\end{figure}
+
+\subsubsection{Repeated results}
+On an individual basis the lower confidence interval around the binomial fit of the accuracy data rose to above changes levels (0.5) by the last trial, except for participant 103, who did not learn (Figure~\ref{fig:sacc}).  Many participants (11 of 16) though greatly exceeded this minimum criterion, showing above chance learning by trial 10, while nearly all (14 of 16) exceeded chance by trial 20  (Figure~\ref{fig:sacc}).  These individually good performances are reflected in the participant's aggregate performance, which was well above chance by trial 5 (Figure~\ref{fig:meanacc}).  This aggregate learning rate is consistent with past work in the lab using just verbal or monetary feedback, i.e. rewarding categories allow for superficially similar learning as classical rewards.  The consistency between classical expectations and this task is also reflected in the reaction time measures, which here showed a 200 ms decrease over time, bottoming out near 850 (for individual averages see Figure~\ref{fig:srt} and overall performance see Figure~\ref{fig:meanrt}).  Classical rewards bottom out near 750-800 milliseconds.  I assume the slight (about 50 ms) possible difference is due the increased difficult of the perceptual classification of information integration categories compared to simply reading off the value of the outcome (e.g. ``Gain \$1'').
+
+\begin{figure}[tp]
+	\includegraphics{f_all_mean_acc}
+    \centering
+	\caption{Mean accuracy (black), averaged for all 6 stimuli by trial, blue line and grey represent a binomial regression fit of the data and bootstrapped 95\% confidence intervals, respectively.}
+	\label{fig:meanacc}
+\end{figure}
+
+\begin{figure}[tp]
+	\includegraphics{f_all_mean_rt}
+    \centering
+	\caption{Mean reaction time (black), averaged for all 6 stimuli by trial, blue line and grey represent a linear regression fit of the data and bootstrapped 95\% confidence intervals, respectively. See Fig 3 for learning criterion and other relevant details.}
+	\label{fig:meanrt}
+\end{figure}
+
+\subsection{3 Models and 2 Codes}
+\label{sub:threemodels}
+\subsubsection{Categorical Quantification in Three Models}
+\label{subsub:catquant}
+Three Rescorla-Wagner models were constructed.  The first treated each the value of each rewarding category identically to a classical reward (e.g. a 0 for a loss or 1 for a gain).  The second and third devalued each reward based on how similar it was to the category mean.  This similarity metric (discussed more below) is simplistic.  As I reviewed in~\ref{subsub:curves}, there are many proposed models for how category learning proceeds and the categories themselves are represented.  Likewise, the our understanding of the implementation of the putative category learning systems is only just underway \cite{Ashby:2005p9152,Ashby:2006p9153}.  As such there is no obvious way to interlace my hypothesis of rewarding categories with their putative category learning systems and to the many models of categorization touched on in the introduction.  Avoiding such ambiguity, I took a simpler route, driven by on Shepard's basic finding \cite{Shepard:1987p9102}.Whatever the representation and/or category learning system that implements rewarding categories, Shepard's work insists they show an exponential or Gaussian decline with similarity.  For simple stimuli like a light or tone, similarity is measured from the initial training prototype \cite{Guttman:1956p8355}.  However as my task does not have a singular prototype the mean of the parameters for all training trials (i.e. part 1) was used in its place.  This simple substitution is identical to the simplest of the prototype category representations \cite{Rosch:1973p9108,Ashby:1995p9109}, making this a parsimonious yet literature driven first attempt.  For model two therefore similarity decreased exponentially measured from the training mean, while for model three if decreased following a Gaussian (for complete mathematical detail see~\ref{subsub:codesandfits}, below).  
+
+\subsubsection{Codes and Fits}
+\label{subsub:codesandfits}
+For each participant and model, the two free parameters ($\alpha$, which controls each model's rate of learning and $\beta$, which controls the steepness of the action selection criterion) for each model were fit using based on an exhaustive\footnote{With a 0.05 precision, ranging from 0-1 for $\alpha$ and 0-5 for $\beta$} maximum log-likelihood search.  Additionally each model was run using two separate reward coding schemes.  In the first scheme Gains were valued as 1 and losses as 0.  The second, which was based on the absolute value of the rewards, uses 1 and -1 for gains and losses respectively.  The first scheme is universally used in human and animal modeling studies, being borrowed from Sutton and Barto's initial reinforcement learning models \cite{Sutton:1998p9247}.  However \citeNP{Kim:2006p1063,Matsumoto:2009p7219}, recent recordings of dopamenergic neurons in monkey suggest that the true reward codes may be quite a bit more complex.  Among other things, they reported bivalent reward codes.  Using the second scheme is then a first, albeit simple, step in evaluating the potential complexity of dopamenergic firing in fMRI and in human subjects.
+
+\emph{TODO:} discuss how the RW model is simplified and why.
+
+\subsubsection{The Incantations}
+\label{subsub:incantations}
+To restate more formally, the Rescorla-Wagner model's value updates are defined by,
+\begin{equation} \label{eq:V} V(s,t) \leftarrow V(s,t) + \alpha*\delta \end{equation} 
+\begin{equation} \label{eq:rpe} \delta = r_{classic}(t) - V(s,t) \end{equation}
+where $r_{classic}(t)$, i.e. the numerical representation of the rewards, can be coded as either
+\begin{equation}
+	\label{eq:r1}
+	r_{classic}(t) = \{1,0\}
+\end{equation}
+or 
+\begin{equation}
+	\label{eq:r2}
+	r_{classic}(t) = \{1,-1\}
+\end{equation}
+but where $r_{classic}(t)$ may also be replaced with
+\begin{equation}
+	\label{eq:re}
+    r_{exp}(t) = r_{classic}(t) * S_{exp}
+\end{equation}
+or
+\begin{equation}
+	\label{eq:rg}
+    r_{gauss}(t) = r_{classic}(t) * S_{gauss}
+\end{equation}
+where the Euclidean distance
+\begin{equation}
+	\label{eq:D}\\
+    D = \sqrt{(\bar{\theta} - \theta)^2 + (\bar{W}-w)^2}
+\end{equation}
+is transformed to a Shepard-like similarity metric \cite{Shepard:1987p9102}.
+\begin{equation}
+	\label{eq:Sexp}\\
+    S_{exp} = e^{-D}
+\end{equation}
+\begin{equation}
+	\label{eq:Sgauss}\\
+    S_{gauss} = e^{-D^2}
+\end{equation}
+Consistent with past work, all values are initialized at 0 \cite{Beierholm:2011p8141,BischoffGrethe:2009p4570,Gershman:2009p7207}
+\begin{equation} \label{eq:V0} V_{initial}(s,t) = 0. \end{equation}
+and values are transformed to response selection probabilities via the softmax distribution \cite{Sutton:1998p9247,ODoherty:2003p6329}.
+\begin{equation}
+	\label{eq:softmax}
+	p(s_1) = {e^{\beta V(s_1,t)}\over{e^{\beta V(s_1,a)} + e^{\beta V(s_2,a)}}};\ s_1 = (s_{i},q), \ s_2 = (s_{i}, w).
+\end{equation}
+
+\subsubsection{Fits and plots}
+\label{subsub:fits}
+On average neither of the three models fit the accuracy data better than the rest (Figure.~\ref{fig:logL}).  For brevity's sake each model will be referred to as ``none'', ``exp'' and ``gauss'', corresponding to Eq~\ref{eq:rpe}, Eq.\ref{eq:re}, and Eq.~\ref{eq:rg} respectively.  Nor did the coding scheme impact the fits (``acc'' and ``gl'', matching respectively Eq.~\ref{eq:r1} and Eq.~\ref{eq:r2}; Figure.~\ref{fig:logL})).  The step size parameter (``alpha'' in Figure~\ref{fig:alpha} matching $\alpha$ in Eq.~\ref{eq:V}) did increase in exp compared to the other models.  This increase was expected as the exponential similarity metric can sharply decrease the magnitude of each value update, requiring an increase in $\alpha$ to compensate.  A similar trend was observed for temperature parameter (``beta'' in Figure~\ref{f_beta}, matching $\beta$ in Eq.~\ref{eq:softmax}).  The larger the temperature parameter the more equiprobable each action is.  As such the increase for exp mean participant's choices are more likely to change from trial to trial, which is again consistent with the decreased in update magnitude forced by exponential similarity metric.  Importantly the intra-subject variability in $\alpha$ and $\beta$ was low, as demonstrated by the small standard error of both parameters (Figure~\ref{fig:alpha} and ~\ref{fig:beta}).  Consistent parameter estimates between subjects support my use of subject-level parameters in the fMRI analyses, which in other hands have been reported to be too noisy to be reliable \cite{Daw:2011p7995,Seymour:2007p7585,ODoherty:2003p6329}.  Using subject-level parameters is, I believe, crucial in assessing model quality, i.e. how accurately does a model capture its subject; The goal of any model of human behavior is to make good predictions for individual cases not just for aggregates of tens or hundreds of participants \cite{Daw:2007p9346} as is typically done in reinforcement learning models of human behavior, for examples see \citeNP{Daw:2011p7995,Seymour:2007p7585,ODoherty:2003p6329}.
+
+\begin{figure}[tp]
+	\includegraphics{f_logL}
+    \centering
+	\caption{Average negative log-likelihoods for each of the models and coding schemes.  Error bars represent standard errors.}
+	\label{fig:logL}
+\end{figure}
+
+\begin{figure}[tp]
+	\includegraphics{f_alpha}
+    \centering    	
+    \caption{Average alpha values for each of the models and coding schemes.  Error bars represent standard errors.}
+	\label{fig:alpha}
+\end{figure}
+
+\begin{figure}[tp]
+	\includegraphics{f_beta}
+    \centering
+	\caption{Average beta values for each of the models and coding schemes.  Error bars represent standard errors.}
+	\label{fig:alpha}
+\end{figure}
+
+% TODO make plots:  and examples of each for each model and coding scheme, 
+The fit model terms for every participant and coding scheme can be found in Figure~\ref{fig:rpeacc} -~\ref{fig:valuegl}.  In the traditional formulation, where similarity does not impact reward value (i.e.~\ref{fig:rpe} using $r_{classic}(t)$ with either coding scheme) the reward prediction error decreases with learning, eventually stopping at 0, for examples see subject codes \emph{102}, \emph{105} and \emph{111} in the ``none'' column of Figure~\ref{fig:rpeacc}.  In contrast, both similarity models, ``exp'' and ``gauss'', never fully plateau (again see ~\ref{fig:rpeacc}).  In the context of the models, this is expected.  Each grating will, in all likelihood, be non-identical to the mean. However the mean is the expectation, as such reward prediction errors happen even after learning is complete.  In the big picture this is behavior is desirable.  I are trying to model the case where a reward's value may vary in ways that are not predictable \emph{a priori}.  In this scenario one would never expect fully plateaued prediction errors.  Comparing ``exp'' and ``gauss'' models, you'll see the former appears to have lower magnitudes (Figure~\ref{fig:rpeacc}).  Examining density plots composed of all participants data confirms this observation (Figure~\ref{fig:denrpe}).  The density plot also reveals that ``exp'' prediction errors are diminished more rapidly than their ``gauss'' counterparts (a pattern most clearly scene in the left panel of Figure~\ref{fig:denrpe}).
+
+Regardless of model class, between the two reward codes there are substantial differences in reward prediction behavior.  The $\{1,-1\}$ (denoted in these plots as ``gl'') scheme leads to substantially more negative deflections that the $\{1,0\}$ scheme (``acc'') (compare Figure~\ref{fig:rpegl} and ~\ref{fig:rpeacc} as well as the \emph{left} and \emph{right} panels of~\ref{denrpe}).   
+
+Values estimates for all two similarity adjusted rewards (i.e. ``exp'' and ``gauss'') were generally less than the alternative classic model (Figure~\ref{fig:valueacc} and~\ref{valuegl}).  However, as consequence of their reduced dynamic range, similarity models values estimates grew more rapidly.  For example, examine participants \emph{105} and \emph{109} in Figure~\ref{fig:valueacc}.  Both similarity models were nearing their maximum value by trial 50 whereas the ``none'' (the classic) took until trial 150.  That is, taking into account the uncertainty of the reward's worth leads to much more rapid learning, which is independent of the reward coding scheme (compare  Figure~\ref{fig:valueacc} to~\ref{fig:valuegl}.  This counterintuitive findings arises from the interaction between the variability in worth of similarity adjust rewards, alpha (the learning rate controller, and the temperature (which reweighs each choice's probability).  
+
+The coding schemes impact on value estimates is two fold.  First and as expected, the rate at which value increases is greater for the ``acc'' code compared to the ``gl''.  Losses hurt more with the latter.  Second, and most strikingly, ``gl'' leads to negative value estimates of undesirable choices (Figure~~\ref{fig:valuegl}).  While, so far as I aware, no reinforcement learning model of human or animal have considered negative values estimates, there is empirical support.  As reviewed ~\ref{subsub:fclt}, orbital frontal cortex encodes the absolute value of rewarding or punishing outcomes neuroimaging \cite{ODoherty:2001p2423,Hornak:2004p6234}.  As such observing such reinforcement learning derived negative value estimates might serves as an import link between theoretical and empirical findings on economic valuation.  It might also serve as link between reinforcement learning and affect and motivational \cite{Knutson:2005p1627,Delgado:2004p6665}.
+
+\begin{figure}[tp]
+	\includegraphics[width=0.6\textwidth]{f_rpe_acc}
+    \centering
+	\caption{Reward prediction errors for each of the three models plotted for each trial in the experiment, based on the $\{1,0\}$ coding scheme.  Each row is a single subject's data.  Each column matches one of the three models, classified by their similarity metric.}
+	\label{fig:rpeacc}
+\end{figure}
+\begin{figure}[tp]
+	\includegraphics[width=0.6\textwidth]{f_rpe_gl}
+    \centering
+	\caption{Reward prediction errors for each of the three models plotted for each trial in the experiment, based on the $\{1,-1\}$ coding scheme.   Each row is a single subject's data.  Each column matches one of the three models, classified by their similarity metric.}
+	\label{fig:rpegl}
+\end{figure}
+
+\begin{figure}[tp]
+	\includegraphics[width=0.6\textwidth]{f_value_acc}
+    \centering    
+	\caption{Value estimates for each of the three models plotted for each trial in the experiment, based on the $\{1,0\}$ coding scheme.  Each row is a single subject's data.  Each column matches one of the three models, classified by their similarity metric.}
+	\label{fig:valueacc}
+\end{figure}
+\begin{figure}[tp]
+	\includegraphics[width=0.6\textwidth]{f_value_gl}
+    \centering
+	\caption{Value estimates for each of the three models plotted for each trial in the experiment, based on the $\{1,-1\}$ coding scheme.   Each row is a single subject's data.  Each column matches one of the three models, classified by their similarity metric.}
+	\label{fig:valuegl}
+\end{figure}
+\begin{figure}[tp]
+	\includegraphics{f_density_rpe}
+    \centering
+    \caption{Density of reward prediction errors for all subjects.  The y axis is truncated at 6 to allow clear visualization of non-zero values, which by virtue of the fact that all value estimate begin at zero are plentiful but uninteresting when characterizing patterns among the different models.}
+	\label{fig:denrpe}
+\end{figure}
+
+\newpage
+\bibliography{bibmin}
+%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%
