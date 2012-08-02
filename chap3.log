@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  29 JUL 2012 13:33
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  29 JUL 2012 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**chap2.tex
-(./chap2.tex
+**chap3.tex
+(./chap3.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
@@ -196,8 +196,8 @@ e
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
 
 Package: `setspace' 6.7 <2000/12/01>
-) (./chap2.aux)
-\openout1 = `chap2.aux'.
+) (./chap3.aux)
+\openout1 = `chap3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -273,231 +273,90 @@ NOT AUSTRALIAN!!!
 Class apa Warning: Abstract not defined.
 
 Using title for running head
-[1
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation `Collignon:1995p9347' undefined on input line 35.
 
- [2]
-
-LaTeX Warning: Reference `TODO' on page 3 undefined on input line 42.
-
-
-Underfull \vbox (badness 3058) has occurred while \output is active []
-
- [3]
-<f_task.png, id=17, 1027.84pt x 770.88pt>
-File: f_task.png Graphic file (type png)
- <use f_task.png>
-Package pdftex.def Info: f_task.png used on input line 49.
-(pdftex.def)             Requested size: 430.00462pt x 322.50879pt.
-
-<f_II.pdf, id=19, 289.08pt x 216.81pt>
-File: f_II.pdf Graphic file (type pdf)
- <use f_II.pdf>
-Package pdftex.def Info: f_II.pdf used on input line 56.
-(pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
-
-<f_all_sS_acc.pdf, id=20, 289.08pt x 505.89pt>
-File: f_all_sS_acc.pdf Graphic file (type pdf)
- <use f_all_sS_acc.pdf>
-Package pdftex.def Info: f_all_sS_acc.pdf used on input line 64.
-(pdftex.def)             Requested size: 289.07928pt x 505.88875pt.
-
-
-LaTeX Warning: Float too large for page by 6.34137pt on input line 68.
-
-<f_all_sS_rt.pdf, id=21, 289.08pt x 505.89pt>
-File: f_all_sS_rt.pdf Graphic file (type pdf)
- <use f_all_sS_rt.pdf>
-Package pdftex.def Info: f_all_sS_rt.pdf used on input line 71.
-(pdftex.def)             Requested size: 289.07928pt x 505.88875pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-[5 <./f_task.png>] <f_all_mean_acc.pdf, id=31, 144.54pt x 144.54pt>
-File: f_all_mean_acc.pdf Graphic file (type pdf)
-
-<use f_all_mean_acc.pdf>
-Package pdftex.def Info: f_all_mean_acc.pdf used on input line 81.
-(pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
- <f_all_mean_rt.pdf, id=32, 144.54pt x 144.54pt>
-File: f_all_mean_rt.pdf Graphic file (type pdf)
-
-<use f_all_mean_rt.pdf>
-Package pdftex.def Info: f_all_mean_rt.pdf used on input line 88.
-(pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./f_II.pdf>] [7 <./f_all_sS_acc.pdf>] [8 <./f_all_sS_rt.pdf>] [9 <./f_all_
-mean_acc.pdf> <./f_all_mean_rt.pdf>]
-
-LaTeX Warning: Reference `subsub:curves' on page 10 undefined on input line 98.
-
-
-[10]
-LaTeX Font Info:    Try loading font information for U+msa on input line 102.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 102.
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 
-LaTeX Warning: Citation `Sutton:1998p9247' undefined on input line 102.
-
-[11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
-
-LaTeX Warning: Reference `f_beta' on page 13 undefined on input line 155.
+LaTeX Warning: Citation `Ashburner:1997p9348' undefined on input line 35.
 
 
-LaTeX Warning: Citation `Daw:2007p9346' undefined on input line 157.
+LaTeX Warning: Citation `Ashburner:1999p9350' undefined on input line 35.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13]
-<f_logL.pdf, id=176, 216.81pt x 144.54pt>
-File: f_logL.pdf Graphic file (type pdf)
- <use f_logL.pdf>
-Package pdftex.def Info: f_logL.pdf used on input line 160.
-(pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
-
-<f_alpha.pdf, id=177, 216.81pt x 144.54pt>
-File: f_alpha.pdf Graphic file (type pdf)
- <use f_alpha.pdf>
-Package pdftex.def Info: f_alpha.pdf used on input line 167.
-(pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
-
-<f_beta.pdf, id=178, 216.81pt x 144.54pt>
-File: f_beta.pdf Graphic file (type pdf)
- <use f_beta.pdf>
-Package pdftex.def Info: f_beta.pdf used on input line 174.
-(pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14 <./f_logL.pdf>]
-
-LaTeX Warning: Reference `denrpe' on page 15 undefined on input line 185.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15 <./f_alpha.pdf>]
-
-LaTeX Warning: Reference `valuegl' on page 16 undefined on input line 187.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16 <./f_beta.pdf>]
-
-LaTeX Warning: Reference `subsub:fclt' on page 17 undefined on input line 189.
-
-<f_rpe_acc.pdf, id=206, 433.62pt x 867.24pt>
-File: f_rpe_acc.pdf Graphic file (type pdf)
- <use f_rpe_acc.pdf>
-Package pdftex.def Info: f_rpe_acc.pdf used on input line 192.
-(pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
-
-
-LaTeX Warning: Float too large for page by 16.4867pt on input line 196.
-
-<f_rpe_gl.pdf, id=207, 433.62pt x 867.24pt>
-File: f_rpe_gl.pdf Graphic file (type pdf)
- <use f_rpe_gl.pdf>
-Package pdftex.def Info: f_rpe_gl.pdf used on input line 198.
-(pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
-
-
-LaTeX Warning: Float too large for page by 16.4867pt on input line 202.
-
-<f_value_acc.pdf, id=208, 433.62pt x 867.24pt>
-File: f_value_acc.pdf Graphic file (type pdf)
- <use f_value_acc.pdf>
-Package pdftex.def Info: f_value_acc.pdf used on input line 205.
-(pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
-
-
-LaTeX Warning: Float too large for page by 16.4867pt on input line 209.
-
-<f_value_gl.pdf, id=209, 433.62pt x 867.24pt>
-File: f_value_gl.pdf Graphic file (type pdf)
- <use f_value_gl.pdf>
-Package pdftex.def Info: f_value_gl.pdf used on input line 211.
-(pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
-
-
-LaTeX Warning: Float too large for page by 16.4867pt on input line 215.
-
-<f_density_rpe.pdf, id=210, 433.62pt x 216.81pt>
-File: f_density_rpe.pdf Graphic file (type pdf)
- <use f_density_rpe.pdf>
-Package pdftex.def Info: f_density_rpe.pdf used on input line 217.
-(pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
-
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 217--219
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]\OT1/cmr/m/n/12 Following DI-COM to nifiti-1 (4D) con-ver-sion us-ing di-com2
+nii
  []
 
-<f_density_value.pdf, id=211, 433.62pt x 216.81pt>
-File: f_density_value.pdf Graphic file (type pdf)
- <use f_density_value.pdf>
-Package pdftex.def Info: f_density_value.pdf used on input line 224.
-(pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 224--226
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\OT1/cmr/m/n/12 (\OT1/cmtt/m/n/12 http://www.mccauslandcenter.sc.edu/mricro/mri
+cron/dcm2nii.html\OT1/cmr/m/n/12 ),
  []
 
-[17] [18 <./f_rpe_acc.pdf>] [19 <./f_rpe_gl.pdf>] [20 <./f_value_acc.pdf>]
-[21 <./f_value_gl.pdf>] (./chap2.bbl
-Underfull \vbox (badness 1783) has occurred while \output is active []
 
- [22 <./f_density_rpe.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\OT1/cmr/m/n/12 ried out in SPM8 (\OT1/cmtt/m/n/12 http://www.fil.ion.ucl.ac.uk
+/spm/software/spm8/\OT1/cmr/m/n/12 )
+ []
 
- [23 <./f_density_value.pdf>] [24]) [25] (./chap2.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\OT1/cmr/m/n/12 us-ing that pro-gram's batch mode (for com-plete code see,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\OT1/cmtt/m/n/12 https://github.com/andsoandso/fmri/tree/master/catreward/spm[]
+m\OT1/cmr/m/n/12 ).
+ []
+
+[1
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Citation `Kruggel:1999p9351' undefined on input line 37.
+
+
+LaTeX Warning: Reference `subsub:whatwhen' on page 2 undefined on input line 41
+.
+
+[2] [3] (./chap3.bbl) [4] (./chap3.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3264 strings out of 493633
- 44888 string characters out of 3143378
- 111235 words of memory out of 3000000
- 6481 multiletter control sequences out of 15000+200000
- 19920 words of font info for 73 fonts, out of 3000000 for 9000
+ 3071 strings out of 493633
+ 41716 string characters out of 3143378
+ 104150 words of memory out of 3000000
+ 6312 multiletter control sequences out of 15000+200000
+ 13464 words of font info for 49 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,1902b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,4n,24p,1132b,162s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
-exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
-ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
-/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/
-2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
-011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
-1/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on chap2.pdf (25 pages, 942278 bytes).
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/loca
+l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on chap3.pdf (4 pages, 122408 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
+ 57 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

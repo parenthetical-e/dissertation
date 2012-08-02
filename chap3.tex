@@ -1,3 +1,46 @@
-In fMRI (as in time-series signal analysis in general) there is an intrinsic trade-off between simply detecting that a signal has occurred in the presence of noise and then estimating the timecourse (i.e. shape) of that signal \cite{Dale:1999p7901,Birn:2002p1777,Liu:2004p2141}.   The state of the art method for setting trial ordering in an attempt to maximize both signal detection and estimation is a genetic algorithm design by \citeNP{Kao:2009p7899}.  Without extensive modification unfortunately their methodology cannot account for epoch-style designs\footnote{This flaw is common to all methods of stimulus timing optimization, so far as I am aware.} that this experiment requires; each trial needs to contain stimulus-response, jitter and feedback delivery periods.  To account for this, Koa's methods will be applied twice, once using a 6.5 second ISI (the estimated average length of a trial) and once with a 1 second ISI (the length of the feedback display in task 2).  These two designs will then be manually interpolated to create a series of stimulus-response, jitter, feedback, and ITI events.  To create the final trial ordering each stimulus-response event will then be subsequently randomly recoded to match one of the 6 ``tree'' stimuli.  This randomization step will be performed independently for each subject so that stimulus assignment to events will be counterbalanced across subjects to control for specific item effects.  
+\documentclass[doc,12pt]{apa}        % use: 'man' for submission type; 'jou' for
+                                % journal type, and 'doc' for typical latex
+                                % but with figures inline with text
+\usepackage{geometry} 
+%\geometry{a4paper} 
+\usepackage[parfill]{parskip}   % paragraphs delimited by an empty line
+
+\usepackage{graphicx} 
+\usepackage{amssymb}            % no idea what this does...
+\usepackage{epstopdf}           % no idea what this does...
+%\usepackage{gensymb}            % no idea what this does...
+
+\usepackage{setspace}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png} \setcounter{secnumdepth}{0}  % no idea what this does...
+
+\usepackage{apacite}
+%%%%%%%%% END HEADER %%%%%%%%%
+
+\title{Rewards are categories.} 
+\author{Erik J. Peterson} \affiliation{Dept. of Psychology \\ Colorado State University \\ Fort Collins, CO} 
+
+%%%%%%%%%%%%%%%%
+\begin{document} 
+%%%%%%%%%%%%%%%%
+\maketitle
+\doublespacing
+
+\section{Chapter 3 -- fMRI analyses} % (fold)
+\label{sec:task_and_models}
+\subsection{In acquisition}
+\label{sub:acquired}
+Scanning data was acquired at the Intermountain Neuroimaging Consortium (INC) facility located at the University of Colorado at Boulder.  All 18 right-handed participants were be pre-screened for the typical fMRI exclusion factors (e.g. metal implants, mental disorders, etc).  \emph{TODO - scan details, what were the scans 26 f slices}.  
+
+Following DICOM to nifiti-1 (4D) conversion using dicom2nii (\url{http://www.mccauslandcenter.sc.edu/mricro/mricron/dcm2nii.html}), each dataset was then subjected to the following preprocessing pipeline, carried out in SPM8 (\url{http://www.fil.ion.ucl.ac.uk/spm/software/spm8/}) using that program's batch mode (for complete code see, \url{https://github.com/andsoandso/fmri/tree/master/catreward/spm\_m}).  Anatomical data (MPRAGE) was first segmented in white and grey matter regions \cite{Collignon:1995p9347}.  Based on these segments, parameters necessary for normalization into T1 MNI352 space were calculated.  Anatomical data was then resampled from 1.27 to 1.00 $mm^3$ using fourth degree $\beta$ splines and finally normalized into MNI space.  Normalization has two steps.  The first is a Bayesian 12-parameter affine transformation \cite{Ashburner:1997p9348}.  The second is a set of nonlinear deformations (approximated using 1127 parameter linear combination of three dimensional discrete cosine transform) \cite{Ashburner:1999p9350}. 
+
+Movement regressors for all functional volumes were calculated.  No participant moved more than 1.5 $mm$. Functional data was then slice-time corrected, using slice 13 (the middle slice) from the descending acquisition as the reference, then coregistered with the pre-processed (native-space) anatomical data \cite{Collignon:1995p9347}, resampled to 3 $mm^3$ again using $\beta$-splines, and normalized into MNI space using the anatomically-derived parameters above.  Finally, the functional data was spatially smoothed using a 6 $mm$ FWHM Gaussian, though a copy of the un-smoothed data was retained for the ROI analyses.  Each voxel's timecourse was also low-pass filtered (using FIR, 0.008 Hz, \cite{Kruggel:1999p9351}) just prior to regression analysis.  For all whole-brain analyses, the movement regressors were entered into every model as covariates, accounting for any head movement.
+
+In fMRI (and in time-series analysis in general) there is an intrinsic trade-off between simply detecting a signal in the presence of noise and then estimating the timecourse (i.e. shape) of that signal \cite{Dale:1999p7901,Birn:2002p1777,Liu:2004p2141}.   One way to optimize over both these constraints is by employing non-random, yet highly variable, trial order inside a rapid event-related design \cite{Miezin:2000p7924}.  One state of the art method for setting trial ordering in an attempt to maximize both signal detection and estimation is by genetic algorithm. Using code kindly provided by \citeNP{Kao:2009p7899}, which was in turn inspires by \cite{Wager:2003p2980}, trial orders for both part 1 and 2 of the behavioral experiment (see~\ref{subsub:whatwhen}) were optimized using this technique.
 
 
+\newpage
+\bibliography{bibmin}
+%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%

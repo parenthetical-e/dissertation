@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  19 JUL 2012 18:08
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  2 AUG 2012 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -280,37 +280,43 @@ LaTeX Warning: Citation `Glimcher:2011p8464' undefined on input line 31.
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: Citation `Becerra:2011p7581' undefined on input line 38.
+LaTeX Warning: Citation `Daw:2006p6592' undefined on input line 39.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+LaTeX Warning: Citation `Becerra:2011p7581' undefined on input line 39.
+
+[2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 44.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [2]
-Underfull \hbox (badness 1163) in paragraph at lines 45--51
- \OT1/cmr/m/it/12 Ex-pec-ta-tions Mat-ter\OT1/cmr/m/n/12 .  []Hollerman & Schul
-tz, 1998 more fully ex-plored,
- []
+) [3] [4]
+[5]
 
-
-Underfull \vbox (badness 1694) has occurred while \output is active []
-
- [3]
-[4] [5]
-
-LaTeX Warning: Citation `DawNW:2006p6343' undefined on input line 63.
+LaTeX Warning: Citation `DawNW:2006p6343' undefined on input line 62.
 
 [6] [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-[9]
+Underfull \vbox (badness 4429) has occurred while \output is active []
 
-LaTeX Warning: Citation `Ashby:2007p8986' undefined on input line 81.
+ [9]
+
+LaTeX Warning: Citation `Knutson:2005p1627' undefined on input line 80.
+
+
+LaTeX Warning: Citation `Glascher:2009p9352' undefined on input line 80.
+
+
+LaTeX Warning: Citation `Hampton:2008p6345' undefined on input line 80.
+
+
+LaTeX Warning: Citation `Cooper:2010p9353' undefined on input line 80.
 
 [10] [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -321,30 +327,36 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
 [15] [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
-[18] [19]
-Underfull \vbox (badness 2351) has occurred while \output is active []
+LaTeX Warning: Citation `Krebs:2011p8134' undefined on input line 113.
 
- [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[17] [18] [19]
 
- [21]
-[22] (./intro.bbl [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33]
-[34] [35]) [36] (./intro.aux)
+LaTeX Warning: Citation `Ennis:1988p9359' undefined on input line 141.
+
+
+LaTeX Warning: Citation `Nosofsky:1985p9356' undefined on input line 141.
+
+
+LaTeX Warning: Citation `Medin:2012p9358' undefined on input line 141.
+
+[20] [21] [22] [23] (./intro.bbl [24] [25] [26] [27] [28] [29] [30] [31]
+[32] [33] [34] [35] [36]) [37] (./intro.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 3620 strings out of 493633
- 53024 string characters out of 3143378
- 123549 words of memory out of 3000000
- 6853 multiletter control sequences out of 15000+200000
+ 3645 strings out of 493633
+ 53409 string characters out of 3143378
+ 125549 words of memory out of 3000000
+ 6878 multiletter control sequences out of 15000+200000
  18097 words of font info for 66 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,2195b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,24p,2181b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -355,10 +367,10 @@ al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
 texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on intro.pdf (36 pages, 210652 bytes).
+Output written on intro.pdf (37 pages, 211288 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
+ 166 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

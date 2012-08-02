@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: chap3.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=5001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: bibmin.bib
+Repeated entry---line 6879 of file bibmin.bib
+ : @article{Wager:2003p2980
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10266 of file bibmin.bib
+ : @article{Birn:2002p1777
+ :                        ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Collignon:1995p9347"
+Warning--I didn't find a database entry for "Ashburner:1997p9348"
+Warning--I didn't find a database entry for "Ashburner:1999p9350"
+Warning--I didn't find a database entry for "Kruggel:1999p9351"
+apacite.bst [2009/03/01 v4.05 APA bibliography style]
+You've used 6 entries,
+            6361 wiz_defined-function locations,
+            1234 strings with 10890 characters,
+and the built_in function-call counts, 13626 in all, are:
+= -- 1616
+> -- 103
+< -- 793
++ -- 851
+- -- 12
+* -- 977
+:= -- 2852
+add.period$ -- 24
+call.type$ -- 6
+change.case$ -- 42
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 318
+empty$ -- 455
+format.name$ -- 175
+if$ -- 2364
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 0
+newline$ -- 150
+num.names$ -- 48
+pop$ -- 157
+preamble$ -- 1
+purify$ -- 36
+quote$ -- 0
+skip$ -- 747
+stack$ -- 0
+substring$ -- 914
+swap$ -- 193
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 480
+warning$ -- 0
+while$ -- 71
+width$ -- 0
+write$ -- 192
+(There were 2 error messages)

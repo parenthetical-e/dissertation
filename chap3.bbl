@@ -1,0 +1,164 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{%
+Birn%
+, Cox%
+\BCBL{}\ \BBA{} Bandettini%
+}{%
+Birn%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2002}}%
+}]{%
+Birn:2002p1777}%
+\APACinsertmetastar{%
+Birn:2002p1777}%
+Birn, R\BPBI M.%
+, Cox, R\BPBI W.%
+\BCBL{}\ \BBA{} Bandettini, P\BPBI A.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Detection versus estimation in event-related fMRI:
+  choosing the optimal stimulus timing}{Detection versus estimation in
+  event-related fmri: choosing the optimal stimulus timing}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{15}{1}{252--64}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Dale%
+}{%
+Dale%
+}{%
+{\protect\APACyear{1999}}%
+}]{%
+Dale:1999p7901}%
+\APACinsertmetastar{%
+Dale:1999p7901}%
+Dale, A\BPBI M.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Optimal experimental design for event-related
+  fMRI}{Optimal experimental design for event-related fmri}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Hum Brain Mapp}{8}{2-3}{109--14}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Kao%
+, Mandal%
+, Lazar%
+\BCBL{}\ \BBA{} Stufken%
+}{%
+Kao%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2009}}%
+}]{%
+Kao:2009p7899}%
+\APACinsertmetastar{%
+Kao:2009p7899}%
+Kao, M\BHBI H.%
+, Mandal, A.%
+, Lazar, N.%
+\BCBL{}\ \BBA{} Stufken, J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{Feb}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Multi-objective optimal experimental designs for
+  event-related fMRI studies}{Multi-objective optimal experimental designs for
+  event-related fmri studies}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{44}{3}{849--56}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Liu%
+}{%
+Liu%
+}{%
+{\protect\APACyear{2004}}%
+}]{%
+Liu:2004p2141}%
+\APACinsertmetastar{%
+Liu:2004p2141}%
+Liu, T\BPBI T.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Efficiency, power, and entropy in event-related fMRI with
+  multiple trial types. Part II: design of experiments}{Efficiency, power, and
+  entropy in event-related fmri with multiple trial types. part ii: design of
+  experiments}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{21}{1}{401--13}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Miezin%
+, Maccotta%
+, Ollinger%
+, Petersen%
+\BCBL{}\ \BBA{} Buckner%
+}{%
+Miezin%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2000}}%
+}]{%
+Miezin:2000p7924}%
+\APACinsertmetastar{%
+Miezin:2000p7924}%
+Miezin, F\BPBI M.%
+, Maccotta, L.%
+, Ollinger, J\BPBI M.%
+, Petersen, S\BPBI E.%
+\BCBL{}\ \BBA{} Buckner, R\BPBI L.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{Jun}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Characterizing the hemodynamic response: effects of
+  presentation rate, sampling procedure, and the possibility of ordering brain
+  activity based on relative timing}{Characterizing the hemodynamic response:
+  effects of presentation rate, sampling procedure, and the possibility of
+  ordering brain activity based on relative timing}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{11}{6 Pt 1}{735--59}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Wager%
+\ \BBA{} Nichols%
+}{%
+Wager%
+\ \BBA{} Nichols%
+}{%
+{\protect\APACyear{2003}}%
+}]{%
+Wager:2003p2980}%
+\APACinsertmetastar{%
+Wager:2003p2980}%
+Wager, T\BPBI D.%
+\BCBT{}\ \BBA{} Nichols, T\BPBI E.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{Feb}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Optimization of experimental design in fMRI: a general
+  framework using a genetic algorithm}{Optimization of experimental design in
+  fmri: a general framework using a genetic algorithm}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{18}{2}{293--309}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

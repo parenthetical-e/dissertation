@@ -34,28 +34,24 @@
 # Sec: Behavoir and model fits.
         * Sub: Task 'On task
             - [DONE] SubSub: 'What they did and when'
-            - [DONE] SubSub: 'Repeated results'
-                * Pilot data, fMRI data,         
+            - [DONE] SubSub: 'Well behaved results'
         * Sub: Models 'Not too many (but still) many models'
             - [DONE] subsub: the eqs and codes
             - [DONE] justify the sim metrics
-            - [DONE] model fits
-    - [DONE] Sub: Results
+            - [DONE] model fits and plots
 
-
-# Sec: fMRI - univariate and parametric
-    - Sub: methods
-        * SubSub: Scanner
+# Sec: fMRI
+    - Sub: fMRI data acq methods
         * SubSub: ROI and model-based analysis
-    - Sub: results
+    - Sub: map results
         * Whole-brain
         * models
-    - Sub: conclusions
+    - Sub: rois
+    - Sub: mediation
+        * SubSub: Methods: Tor, ROI selection
 
-# Sec: Modulation
-    - Methods: Tor, ROI selection
-    - Results:
-    - Sub: conclusions
+
+# Sec: conclusions
 
 # Sec: Conclusions
     * Overall import to goals.  What does it mean, big picture?
