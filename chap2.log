@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  29 JUL 2012 13:33
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  2 AUG 2012 17:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -280,7 +280,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
 
-LaTeX Warning: Reference `TODO' on page 3 undefined on input line 42.
+LaTeX Warning: Reference `sub:acquired' on page 3 undefined on input line 42.
 
 
 Underfull \vbox (badness 3058) has occurred while \output is active []
@@ -312,9 +312,6 @@ File: f_all_sS_rt.pdf Graphic file (type pdf)
  <use f_all_sS_rt.pdf>
 Package pdftex.def Info: f_all_sS_rt.pdf used on input line 71.
 (pdftex.def)             Requested size: 289.07928pt x 505.88875pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [4]
 [5 <./f_task.png>] <f_all_mean_acc.pdf, id=31, 144.54pt x 144.54pt>
 File: f_all_mean_acc.pdf Graphic file (type pdf)
@@ -329,17 +326,14 @@ File: f_all_mean_rt.pdf Graphic file (type pdf)
 Package pdftex.def Info: f_all_mean_rt.pdf used on input line 88.
 (pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./f_II.pdf>] [7 <./f_all_sS_acc.pdf>] [8 <./f_all_sS_rt.pdf>] [9 <./f_all_
-mean_acc.pdf> <./f_all_mean_rt.pdf>]
+LaTeX Warning: Reference `subsub:curves' on page 6 undefined on input line 98.
 
-LaTeX Warning: Reference `subsub:curves' on page 10 undefined on input line 98.
-
-
-[10]
+[6 <./f_II.pdf>] [7 <./f_all_sS_acc.pdf>] [8 <./f_all_sS_rt.pdf>] [9 <./f_all_m
+ean_acc.pdf> <./f_all_mean_rt.pdf>]
 LaTeX Font Info:    Try loading font information for U+msa on input line 102.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 102.
@@ -350,12 +344,18 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 LaTeX Warning: Citation `Sutton:1998p9247' undefined on input line 102.
 
-[11]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
 
-LaTeX Warning: Reference `f_beta' on page 13 undefined on input line 155.
+LaTeX Warning: Reference `fig:f_beta' on page 13 undefined on input line 155.
 
 
 LaTeX Warning: Citation `Daw:2007p9346' undefined on input line 157.
@@ -388,21 +388,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: Reference `denrpe' on page 15 undefined on input line 185.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15 <./f_alpha.pdf>]
+[15 <./f_alpha.pdf>]
 
 LaTeX Warning: Reference `valuegl' on page 16 undefined on input line 187.
 
 
+LaTeX Warning: Reference `subsub:fclt' on page 16 undefined on input line 189.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16 <./f_beta.pdf>]
-
-LaTeX Warning: Reference `subsub:fclt' on page 17 undefined on input line 189.
-
-<f_rpe_acc.pdf, id=206, 433.62pt x 867.24pt>
+ [16 <./f_beta.pdf>] <f_rpe_acc.pdf, id=206, 433.62pt x 867.24pt>
 File: f_rpe_acc.pdf Graphic file (type pdf)
  <use f_rpe_acc.pdf>
 Package pdftex.def Info: f_rpe_acc.pdf used on input line 192.
@@ -459,25 +455,20 @@ Overfull \hbox (3.61432pt too wide) in paragraph at lines 224--226
  []
 
 [17] [18 <./f_rpe_acc.pdf>] [19 <./f_rpe_gl.pdf>] [20 <./f_value_acc.pdf>]
-[21 <./f_value_gl.pdf>] (./chap2.bbl
-Underfull \vbox (badness 1783) has occurred while \output is active []
-
- [22 <./f_density_rpe.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23 <./f_density_value.pdf>] [24]) [25] (./chap2.aux)
+[21 <./f_value_gl.pdf>] [22 <./f_density_rpe.pdf> <./f_density_value.pdf>]
+(./chap2.bbl [23]) [24] (./chap2.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
  3264 strings out of 493633
- 44888 string characters out of 3143378
- 111235 words of memory out of 3000000
+ 44900 string characters out of 3143378
+ 111233 words of memory out of 3000000
  6481 multiletter control sequences out of 15000+200000
  19920 words of font info for 73 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,1902b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,24p,1875b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -494,10 +485,10 @@ ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
 011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
 1/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on chap2.pdf (25 pages, 942278 bytes).
+Output written on chap2.pdf (24 pages, 941478 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
+ 327 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

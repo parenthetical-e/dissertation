@@ -40,13 +40,25 @@
             - [DONE] justify the sim metrics
             - [DONE] model fits and plots
 
+
+# TODO AIC code, final plots
 # Sec: fMRI
-    - Sub: fMRI data acq methods
-        * SubSub: ROI and model-based analysis
+    - Sub: fMRI data acq methods -- FINISH
     - Sub: map results
         * Whole-brain
-        * models
     - Sub: rois
+        * SubSub: Only anatomical, in the end.
+            - Discuss then reject the localizer scans
+            - Discuss the used set
+            - Methods for averaging and filtering, no movement correction, ?
+        * SubSub: Ranking, it's insignificant
+            - Sig everywhere, dicuss briefly my simulations too.  
+              Quality is the key
+            - Other issues with NHST
+            - AIC, not BIC, or r_adj, or ....
+            - Types of AIC, why I used what  (NEED TO DO THESE BY HAND)
+        * Racking up the ranked results
+
     - Sub: mediation
         * SubSub: Methods: Tor, ROI selection
 
