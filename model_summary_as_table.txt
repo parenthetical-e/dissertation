@@ -1,0 +1,30 @@
+\begin{center}
+    \begin{tabular}{ | l | l | p{4cm} |}
+    \hline
+    Number & Code & Description \\ \hline
+    1 & 0\_1 & The simplest model, a univariate analysis of all conditions in trials. \\ \hline
+    2 & acc & Behavioral accuracy. \\ \hline
+    3 & acc\_exp & Behavioral accuracy, diminished by (exponential) similarity. \\ \hline
+    4 & acc\_gauss & Behavioral accuracy, diminished by (gaussian) similarity. \\ \hline
+    5 & gl & Gains and losses. \\ \hline 
+    6 & gl\_exp & Gains and losses, diminished by (exponential) similarity. \\ \hline
+    7 & gl\_gauss & Gains and losses, diminished by (gaussian) similarity. \\ \hline
+    8 & rpe\_acc & Reward prediction error - derived from accuracy. \\ \hline
+    9 & rpe\_acc\_exp & Reward prediction error - derived from accuracy diminished by (exponential) similarity. \\ \hline
+    10 & rpe\_acc\_gauss & Reward prediction error - derived from accuracy diminished by (gaussian) similarity. \\ \hline
+    11 & value\_acc & Value - derived from accuracy. \\ \hline
+    12 & value\_acc\_exp & Value - derived from accuracy diminished by (exponential) similarity. \\ \hline
+    13 & value\_acc\_guass & Value - derived from accuracy diminished by (gaussian) similarity. \\ \hline
+    14 & rpe\_gl & Reward prediction error - derived from gains and loses. \\ \hline
+    15 & rpe\_gl\_exp & Reward prediction error - derived from gains and losses diminished by (exponential) similarity. \\ \hline
+    16 & rpe\_gl\_gauss & Reward prediction error - derived from gains and losses diminished by (gaussian) similarity. \\ \hline
+    17 & value\_gl & Value - derived from gains and losses. \\ \hline
+    18 & value\_gl\_exp & Value - derived from gains and losses diminished by (exponential) similarity. \\ \hline
+    19 & value\_gl\_gauss & Value - derived from gains and losses diminished by (gaussian) similarity. \\ \hline 
+    20 & exp & Outcome similarity (exponential). \\ \hline
+    21 & gauss & Outcome similarity (gaussian). \\ \hline
+    22 & angle & Grating angle parameter. \\ \hline
+    23 &width & Grating width parameter. \\ \hline
+\end{tabular}
+\end{center}
+

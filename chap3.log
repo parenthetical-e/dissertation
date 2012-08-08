@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  6 AUG 2012 15:37
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  7 AUG 2012 20:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -196,21 +196,39 @@ e
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
 
 Package: `setspace' 6.7 <2000/12/01>
-) (./chap3.aux)
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip60
+\LTright=\skip61
+\LTpre=\skip62
+\LTpost=\skip63
+\LTchunksize=\count94
+\LTcapwidth=\dimen113
+\LT@head=\box27
+\LT@firsthead=\box28
+\LT@foot=\box29
+\LT@lastfoot=\box30
+\LT@cols=\count95
+\LT@rows=\count96
+\c@LT@tables=\count97
+\c@LT@chunks=\count98
+\LT@p@ftn=\toks17
+)
+(./chap3.aux)
 \openout1 = `chap3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
  (/Users/type/Library/texmf/tex/latex/apa/english.apa
 File: english.apa 2006/01/01
 )
@@ -257,248 +275,457 @@ NOT AUSTRALIAN!!!
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count94
-\scratchdimen=\dimen113
-\scratchbox=\box27
-\nofMPsegments=\count95
-\nofMParguments=\count96
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count97
-\MPscratchDim=\dimen114
-\MPnumerator=\count98
-\makeMPintoPDFobject=\count99
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count99
+\scratchdimen=\dimen114
+\scratchbox=\box31
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen115
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks19
 )
 
 Class apa Warning: Abstract not defined.
 
 Using title for running head
-
-LaTeX Warning: Citation `Collignon:1995p9347' undefined on input line 35.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 35.
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 
-LaTeX Warning: Citation `Ashburner:1997p9348' undefined on input line 35.
+LaTeX Warning: Reference `subsub:whatwhen' on page 1 undefined on input line 38
+.
 
 
-LaTeX Warning: Citation `Ashburner:1999p9350' undefined on input line 35.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-[]\OT1/cmr/m/n/12 Following DI-COM to nifiti-1 (4D) con-ver-sion us-ing di-com2
-nii
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\OT1/cmr/m/n/12 (\OT1/cmtt/m/n/12 http://www.mccauslandcenter.sc.edu/mricro/mri
-cron/dcm2nii.html\OT1/cmr/m/n/12 ),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\OT1/cmr/m/n/12 each dataset was then sub-jected to the fol-low-ing pre-pro-ces
-s-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\OT1/cmr/m/n/12 pipeline, car-ried out in SPM8 us-ing that pro-gram's batch mod
-e
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 35--36
-\OT1/cmr/m/n/12 (\OT1/cmtt/m/n/12 http://www.fil.ion.ucl.ac.uk/spm/software/spm
-8/\OT1/cmr/m/n/12 ). For com-plete code
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\OT1/cmr/m/n/12 see, \OT1/cmtt/m/n/12 https://github.com/andsoandso/fmri/tree/m
-aster/catreward/spm[]m\OT1/cmr/m/n/12 ).
- []
+LaTeX Warning: Reference `subsub:whatwhen' on page 1 undefined on input line 38
+.
 
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: Citation `Kruggel:1999p9351' undefined on input line 37.
+LaTeX Warning: Citation `Collignon:1995p9347' undefined on input line 42.
 
 
-LaTeX Warning: Citation `Worsley:1996p9367' undefined on input line 39.
+LaTeX Warning: Citation `Ashburner:1997p9348' undefined on input line 42.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation `Ashburner:1999p9350' undefined on input line 42.
 
- [2]
 
-LaTeX Warning: Reference `fig:raw' on page 3 undefined on input line 45.
+Overfull \hbox (7.67833pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 com2nii (\OT1/cmtt/m/n/12 http://www.mccauslandcenter.sc.edu/mr
+icro/mricron/dcm2nii.html\OT1/cmr/m/n/12 ),
+ []
 
-[3] <f_map_gl_p05.pdf, id=19, 803.0pt x 602.25pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 each dataset was sub-jected to the fol-low-ing pre-pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 cess-ing pipeline car-ried out in SPM8's batch mode
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 (\OT1/cmtt/m/n/12 http://www.fil.ion.ucl.ac.uk/spm/software/spm
+8/\OT1/cmr/m/n/12 ). For com-plete code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 see, \OT1/cmtt/m/n/12 https://github.com/andsoandso/fmri/tree/m
+aster/catreward/spm[]m\OT1/cmr/m/n/12 .
+ []
+
+
+LaTeX Warning: Citation `Kruggel:1999p9351' undefined on input line 44.
+
+[2]
+
+LaTeX Warning: Citation `Worsley:1996p9367' undefined on input line 52.
+
+[3]
+
+LaTeX Warning: Reference `subsub:whatwhen' on page 4 undefined on input line 54
+.
+
+
+LaTeX Warning: Reference `fig:raw' on page 4 undefined on input line 54.
+
+
+Underfull \vbox (badness 1701) has occurred while \output is active []
+
+ [4]
+<f_map_gl_p05.pdf, id=24, 803.0pt x 602.25pt>
 File: f_map_gl_p05.pdf Graphic file (type pdf)
  <use f_map_gl_p05.pdf>
-Package pdftex.def Info: f_map_gl_p05.pdf used on input line 48.
+Package pdftex.def Info: f_map_gl_p05.pdf used on input line 57.
 (pdftex.def)             Requested size: 430.00462pt x 322.5084pt.
 
-<f_map_gl_raw_t.pdf, id=20, 388.45125pt x 563.10374pt>
+
+LaTeX Warning: Reference `subsub:whatwhen' on page 5 undefined on input line 59
+.
+
+
+LaTeX Warning: Reference `subsub:whatwhen' on page 5 undefined on input line 59
+.
+
+<f_map_gl_raw_t.pdf, id=25, 388.45125pt x 563.10374pt>
 File: f_map_gl_raw_t.pdf Graphic file (type pdf)
 
 <use f_map_gl_raw_t.pdf>
-Package pdftex.def Info: f_map_gl_raw_t.pdf used on input line 55.
+Package pdftex.def Info: f_map_gl_raw_t.pdf used on input line 64.
 (pdftex.def)             Requested size: 388.45029pt x 563.10237pt.
 
 
-LaTeX Warning: Float too large for page by 63.555pt on input line 59.
+LaTeX Warning: Float too large for page by 63.555pt on input line 68.
 
-<f_map_gxl_p05.pdf, id=21, 803.0pt x 602.25pt>
+<f_map_gxl_p05.pdf, id=26, 803.0pt x 602.25pt>
 File: f_map_gxl_p05.pdf Graphic file (type pdf)
  <use f_map_gxl_p05.pdf>
-Package pdftex.def Info: f_map_gxl_p05.pdf used on input line 62.
+Package pdftex.def Info: f_map_gxl_p05.pdf used on input line 71.
 (pdftex.def)             Requested size: 430.00462pt x 322.5084pt.
 
 
-LaTeX Warning: Citation `Desikan:2006p9370' undefined on input line 72.
+LaTeX Warning: Citation `Desikan:2006p9370' undefined on input line 81.
 
-[4] [5 <./f_map_gl_p05.pdf>] [6 <./f_map_gl_raw_t.pdf>] [7 <./f_map_gxl_p05.pdf
+
+LaTeX Warning: Citation `Forster:2000p9623' undefined on input line 87.
+
+[5] [6 <./f_map_gl_p05.pdf>] [7 <./f_map_gl_raw_t.pdf>] [8 <./f_map_gxl_p05.pdf
 >]
 
-LaTeX Warning: Reference `subsub:expectations' on page 8 undefined on input lin
-e 78.
+LaTeX Warning: Reference `subsub:expectations' on page 9 undefined on input lin
+e 89.
 
 
-LaTeX Warning: Citation `Kim:2006p1063' undefined on input line 78.
+LaTeX Warning: Citation `Kim:2006p1063' undefined on input line 89.
 
 
-LaTeX Warning: Citation `Matsumoto:2009p7219' undefined on input line 78.
+LaTeX Warning: Citation `Matsumoto:2009p7219' undefined on input line 89.
 
 
-LaTeX Warning: Citation `Smith:2011p8133' undefined on input line 78.
+LaTeX Warning: Citation `Smith:2011p8133' undefined on input line 89.
 
 
-LaTeX Warning: Citation `Rao:2001p9457' undefined on input line 78.
+LaTeX Warning: Citation `Rao:2001p9457' undefined on input line 89.
 
 
-LaTeX Warning: Citation `Geman:1p9469' undefined on input line 78.
-
-[8]
-
-LaTeX Warning: Citation `Akaike:1974p9530' undefined on input line 80.
+LaTeX Warning: Citation `Geman:1p9469' undefined on input line 89.
 
 
-LaTeX Warning: Citation `Anderson:2000p9475' undefined on input line 80.
+LaTeX Warning: Citation `Akaike:1974p9530' undefined on input line 91.
 
 
-LaTeX Warning: Citation `Wagenmakers:2004p9472' undefined on input line 80.
+LaTeX Warning: Citation `Anderson:2000p9475' undefined on input line 91.
 
 
+LaTeX Warning: Citation `Wagenmakers:2004p9472' undefined on input line 91.
+
+[9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
+ [10]
 
-LaTeX Warning: Citation `Burnham:2004p9621' undefined on input line 88.
+LaTeX Warning: Citation `Burnham:2004p9621' undefined on input line 99.
 
 
-LaTeX Warning: Citation `Forster:2000p9623' undefined on input line 90.
+LaTeX Warning: Citation `Forster:2000p9623' undefined on input line 101.
 
-[10]
-Underfull \hbox (badness 3323) in paragraph at lines 93--93
+
+Underfull \hbox (badness 3323) in paragraph at lines 104--104
 [][]\OT1/cmr/m/n/10 Likelihood for model $\OML/cmm/m/it/10 k$ \OT1/cmr/m/n/10 a
 mong $\OML/cmm/m/it/10 K$ \OT1/cmr/m/n/10 work-ing hy-pothe-ses/models is given
  by $\OML/cmm/m/it/10 L[] \OT1/cmr/m/n/10 =
  []
 
-
-LaTeX Warning: Citation `McKinley:1996p9532' undefined on input line 95.
-
-
-LaTeX Warning: Citation `Maddox:2001p9533' undefined on input line 95.
-
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+LaTeX Warning: Citation `McKinley:1996p9532' undefined on input line 106.
+
+
+LaTeX Warning: Citation `Maddox:2001p9533' undefined on input line 106.
+
+
+LaTeX Warning: Citation `Friston:1998p2022' undefined on input line 114.
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 \OT1/cmr/m/n/12 Numpy for generic nu-mer-i-cal work (v1.6.1; \OT1/cmtt/m/n/12 h
 ttp://numpy.scipy.org/\OT1/cmr/m/n/12 ),
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 103--104
+Underfull \hbox (badness 3386) in paragraph at lines 116--117
 \OT1/cmr/m/n/12 with the GLS func-tion from the scik-its.statsmodels mod-ule ha
 n-dling the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 \OT1/cmr/m/n/12 regers-sions (v0.40; \OT1/cmtt/m/n/12 http://statsmodels.source
 forge.net/\OT1/cmr/m/n/12 ). Model-to-
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 103--104
+Underfull \hbox (badness 3838) in paragraph at lines 116--117
 \OT1/cmr/m/n/12 BOLD fit pa-ram-e-ters, as well as other use-ful meta-data, was
  then ex-
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 103--104
+Underfull \hbox (badness 3872) in paragraph at lines 116--117
 \OT1/cmr/m/n/12 tracted and stored in text files suit-able for im-port-ing into
  R (v2.15.1;
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 103--104
+Underfull \hbox (badness 3838) in paragraph at lines 116--117
 \OT1/cmtt/m/n/12 http://www.r-project.org/\OT1/cmr/m/n/12 ). All plot-ting and 
 model rank-ing (as well
  []
 
 
-Overfull \hbox (23.15944pt too wide) in paragraph at lines 103--104
+Overfull \hbox (23.15944pt too wide) in paragraph at lines 116--117
 \OT1/cmtt/m/n/12 https://github.com/andsoandso/fmri/tree/master/catreward/roi/r
 esults\OT1/cmr/m/n/12 . 
  []
 
-[12] [13] (./chap3.bbl) [14] (./chap3.aux)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14] [15]
+<f_meanpoint_bilatrun4_c_aic_Accumbens.pdf, id=168, 650.43pt x 289.08pt>
+File: f_meanpoint_bilatrun4_c_aic_Accumbens.pdf Graphic file (type pdf)
+
+<use f_meanpoint_bilatrun4_c_aic_Accumbens.pdf>
+Package pdftex.def Info: f_meanpoint_bilatrun4_c_aic_Accumbens.pdf used on inpu
+t line 162.
+(pdftex.def)             Requested size: 430.00462pt x 191.11539pt.
+
+<f_plot_run4_c_fvalue_bilat_Accumbens.pdf, id=169, 505.89pt x 289.08pt>
+File: f_plot_run4_c_fvalue_bilat_Accumbens.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_bilat_Accumbens.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Accumbens.pdf used on input
+ line 168.
+(pdftex.def)             Requested size: 430.00462pt x 245.72356pt.
+
+<f_meanpoint_bilatrun4_c_aic_Amygdala.pdf, id=170, 650.43pt x 289.08pt>
+File: f_meanpoint_bilatrun4_c_aic_Amygdala.pdf Graphic file (type pdf)
+
+<use f_meanpoint_bilatrun4_c_aic_Amygdala.pdf>
+Package pdftex.def Info: f_meanpoint_bilatrun4_c_aic_Amygdala.pdf used on input
+ line 176.
+(pdftex.def)             Requested size: 430.00462pt x 191.11539pt.
+
+<f_plot_run4_c_fvalue_bilat_Amygdala.pdf, id=171, 505.89pt x 289.08pt>
+File: f_plot_run4_c_fvalue_bilat_Amygdala.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_bilat_Amygdala.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Amygdala.pdf used on input 
+line 182.
+(pdftex.def)             Requested size: 430.00462pt x 245.72356pt.
+
+<f_meanpoint_bilatrun4_c_aic_Caudate.pdf, id=172, 650.43pt x 289.08pt>
+File: f_meanpoint_bilatrun4_c_aic_Caudate.pdf Graphic file (type pdf)
+
+<use f_meanpoint_bilatrun4_c_aic_Caudate.pdf>
+Package pdftex.def Info: f_meanpoint_bilatrun4_c_aic_Caudate.pdf used on input 
+line 190.
+(pdftex.def)             Requested size: 430.00462pt x 191.11539pt.
+
+<f_plot_run4_c_fvalue_bilat_Caudate.pdf, id=173, 505.89pt x 289.08pt>
+File: f_plot_run4_c_fvalue_bilat_Caudate.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_bilat_Caudate.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Caudate.pdf used on input l
+ine 196.
+(pdftex.def)             Requested size: 430.00462pt x 245.72356pt.
+
+<f_meanpoint_bilatrun4_c_aic_Hippocampus.pdf, id=174, 650.43pt x 289.08pt>
+File: f_meanpoint_bilatrun4_c_aic_Hippocampus.pdf Graphic file (type pdf)
+
+<use f_meanpoint_bilatrun4_c_aic_Hippocampus.pdf>
+Package pdftex.def Info: f_meanpoint_bilatrun4_c_aic_Hippocampus.pdf used on in
+put line 205.
+(pdftex.def)             Requested size: 430.00462pt x 191.11539pt.
+
+<f_plot_run4_c_fvalue_bilat_Hippocampus.pdf, id=175, 505.89pt x 289.08pt>
+File: f_plot_run4_c_fvalue_bilat_Hippocampus.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_bilat_Hippocampus.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Hippocampus.pdf used on inp
+ut line 211.
+(pdftex.def)             Requested size: 430.00462pt x 245.72356pt.
+ [16] [17 <./f_meanpoint_bilatrun4_c_aic_Accumbens.pdf>] [18 <./f_plot_run4_c_f
+value_bilat_Accumbens.pdf>]
+[19 <./f_meanpoint_bilatrun4_c_aic_Amygdala.pdf>] [20 <./f_plot_run4_c_fvalue_b
+ilat_Amygdala.pdf>] [21 <./f_meanpoint_bilatrun4_c_aic_Caudate.pdf>] [22 <./f_p
+lot_run4_c_fvalue_bilat_Caudate.pdf>] [23 <./f_meanpoint_bilatrun4_c_aic_Hippoc
+ampus.pdf>] [24 <./f_plot_run4_c_fvalue_bilat_Hippocampus.pdf>]
+<f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_division.pdf, id=273, 433.62pt
+ x 289.08pt>
+File: f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_division.pdf Graphic file
+ (type pdf)
+
+<use f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_division.pdf>
+Package pdftex.def Info: f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_divisi
+on.pdf used on input line 224.
+(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+
+<f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf, id=274, 361.35pt x
+ 289.08pt>
+File: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf Graphic file (
+type pdf)
+ <use f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division
+.pdf used on input line 230.
+(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+
+<f_meanpoint_run4_c_aic_Cingulate_Gyrus_posterior_division.pdf, id=275, 433.62p
+t x 289.08pt>
+File: f_meanpoint_run4_c_aic_Cingulate_Gyrus_posterior_division.pdf Graphic fil
+e (type pdf)
+
+<use f_meanpoint_run4_c_aic_Cingulate_Gyrus_posterior_division.pdf>
+Package pdftex.def Info: f_meanpoint_run4_c_aic_Cingulate_Gyrus_posterior_divis
+ion.pdf used on input line 238.
+(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+
+<f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf, id=276, 361.35pt 
+x 289.08pt>
+File: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf Graphic file 
+(type pdf)
+ <use f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_divisio
+n.pdf used on input line 244.
+(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+
+<f_meanpoint_run4_c_aic_Frontal_Medial_Cortex.pdf, id=277, 433.62pt x 289.08pt>
+File: f_meanpoint_run4_c_aic_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
+<use f_meanpoint_run4_c_aic_Frontal_Medial_Cortex.pdf>
+Package pdftex.def Info: f_meanpoint_run4_c_aic_Frontal_Medial_Cortex.pdf used 
+on input line 252.
+(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+
+<f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf, id=278, 361.35pt x 289.08pt>
+File: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf used on
+ input line 258.
+(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+
+<f_meanpoint_run4_c_aic_Frontal_Orbital_Cortex.pdf, id=279, 433.62pt x 289.08pt
+>
+File: f_meanpoint_run4_c_aic_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
+
+ <use f_meanpoint_run4_c_aic_Frontal_Orbital_Cortex.pdf>
+Package pdftex.def Info: f_meanpoint_run4_c_aic_Frontal_Orbital_Cortex.pdf used
+ on input line 266.
+(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+
+<f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf, id=280, 361.35pt x 289.08pt>
+File: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf used o
+n input line 272.
+(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+
+<f_meanpoint_run4_c_aic_Insular_Cortex.pdf, id=281, 433.62pt x 289.08pt>
+File: f_meanpoint_run4_c_aic_Insular_Cortex.pdf Graphic file (type pdf)
+
+<use f_meanpoint_run4_c_aic_Insular_Cortex.pdf>
+Package pdftex.def Info: f_meanpoint_run4_c_aic_Insular_Cortex.pdf used on inpu
+t line 280.
+(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+
+<f_plot_run4_c_fvalue_Insular_Cortex.pdf, id=282, 361.35pt x 289.08pt>
+File: f_plot_run4_c_fvalue_Insular_Cortex.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_Insular_Cortex.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_Insular_Cortex.pdf used on input 
+line 286.
+(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+
+<f_meanpoint_run4_c_aic_Middle_Frontal_Gyrus.pdf, id=283, 433.62pt x 289.08pt>
+File: f_meanpoint_run4_c_aic_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
+
+<use f_meanpoint_run4_c_aic_Middle_Frontal_Gyrus.pdf>
+Package pdftex.def Info: f_meanpoint_run4_c_aic_Middle_Frontal_Gyrus.pdf used o
+n input line 294.
+(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+
+<f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf, id=284, 361.35pt x 289.08pt>
+File: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf used on 
+input line 300.
+(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+ [25 <./f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_division.pdf>] [26 <./f
+_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>] [27 <./f_meanpoint_
+run4_c_aic_Cingulate_Gyrus_posterior_division.pdf>] [28 <./f_plot_run4_c_fvalue
+_Cingulate_Gyrus_posterior_division.pdf>] [29 <./f_meanpoint_run4_c_aic_Frontal
+_Medial_Cortex.pdf>]
+[30 <./f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>] [31 <./f_meanpoint_run4
+_c_aic_Frontal_Orbital_Cortex.pdf>] [32 <./f_plot_run4_c_fvalue_Frontal_Orbital
+_Cortex.pdf>] [33 <./f_meanpoint_run4_c_aic_Insular_Cortex.pdf>] [34 <./f_plot_
+run4_c_fvalue_Insular_Cortex.pdf>] [35 <./f_meanpoint_run4_c_aic_Middle_Frontal
+_Gyrus.pdf>] [36 <./f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>]
+(./chap3.bbl) [37
+
+
+] (./chap3.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3164 strings out of 493633
- 43168 string characters out of 3143378
- 107226 words of memory out of 3000000
- 6392 multiletter control sequences out of 15000+200000
+ 3382 strings out of 493633
+ 49625 string characters out of 3143378
+ 124190 words of memory out of 3000000
+ 6587 multiletter control sequences out of 15000+200000
  20089 words of font info for 74 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,1615b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></us
-r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
-local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/lo
-cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
-texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/te
-xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
-ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/
-2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2
-011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+ 42i,8n,24p,1689b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
+ocal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
+live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
+e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/20
 11/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2011
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2011/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on chap3.pdf (14 pages, 1545875 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2011/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on chap3.pdf (37 pages, 1687014 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
+ 493 PDF objects out of 1000 (max. 8388607)
+ 354 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

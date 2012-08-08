@@ -1,0 +1,24 @@
+Number Code Description
+1. 0_1 The simplest model, a univariate analysis of all conditions in trials. 
+2. acc Behavioral accuracy. 
+3. acc_exp Behavioral accuracy, diminished by (exponential) similarity. 
+4. acc_gauss Behavioral accuracy, diminished by (gaussian) similarity. 
+5. gl Gains and losses. 
+6. gl_exp Gains and losses, diminished by (exponential) similarity. 
+7. gl_gauss Gains and losses, diminished by (gaussian) similarity. 
+8. rpe_acc Reward prediction error - derived from accuracy. 
+9. rpe_acc_exp Reward prediction error - derived from accuracy diminished by (exponential) similarity. 
+10. rpe_acc_gauss Reward prediction error - derived from accuracy diminished by (gaussian) similarity. 
+11. value_acc Value - derived from accuracy. 
+12. value_acc_exp Value - derived from accuracy diminished by (exponential) similarity. 
+13. value_acc_guass Value - derived from accuracy diminished by (gaussian) similarity. 
+14. rpe_gl Reward prediction error - derived from gains and loses. 
+15. rpe_gl_exp Reward prediction error - derived from gains and losses diminished by (exponential) similarity. 
+16. rpe_gl_gauss Reward prediction error - derived from gains and losses diminished by (gaussian) similarity. 
+17. value_gl Value - derived from gains and losses. 
+18. value_gl_exp Value - derived from gains and losses diminished by (exponential) similarity. 
+19. value_gl_gauss Value - derived from gains and losses diminished by (gaussian) similarity. 
+20. exp  Outcome similarity (exponential). 
+21. gauss Outcome similarity (gaussian). 
+22. model_34 Gabor angle parameter. 
+23. model_35 Gabor width parameter. 
