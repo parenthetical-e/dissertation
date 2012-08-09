@@ -95,7 +95,7 @@ A score (AIC, Akaike Information Criterion \cite{Akaike:1974p9530}) was assigned
 
 \subsubsection{Information on Information}
 \label{subsub:way}
-AIC is a measure of loss; how much information is lost by substituting the model for the true distribution, i.e. the data.  The lower the AIC score, the better the model.  Unlike both the null hypothesis tests, and Bayesian measures, AIC based methods do not seek to find \emph{a} truth, but instead serve to rank models.  AIC offers then only relative insight, and is unable to make any claims about absolute significance.  Significance is a separate question, one I'll return to later.  Besides this limitation, AIC has some significant advantages. Five are reviewed below.
+AIC is a measure of loss; how much information is lost by substituting the model for the true distribution, i.e. the data.  The lower the AIC score, the better the model.  Unlike null hypothesis tests and Bayesian measures, AIC-based methods do not seek to find \emph{a} truth, but instead serve to rank models.  AIC offers then only relative insight, and is unable to make any claims about absolute significance.  Significance is a separate question, one I'll return to later.  Besides this limitation, AIC has some significant advantages. Five are reviewed below.
 
 One, unlike maximum-likelihood AIC is designed to a be parsimonious score.  It penalizes for additional parameters.  It may therefore choose a worse model (as measured by likelihood or mean squared error) over a better but more complex one. This is the essence of Occam's razor\footnote{Famously and pithily expressed as, ``Entities are not to be multiplied beyond necessity''.}. 
 
@@ -114,7 +114,7 @@ AIC ranks offer no information on significance, in the familiar null hypothesis 
 
 \subsubsection{Code, BOLD, and Models.}
 \label{sub:cmb}
-A total of 23 models were compared for each of the 16 regions of interest for each of the 16 subjects, 5888 comparisons in total.  Each of the models is described below.  In general, a time-series (e.g the reward prediction error for each trial or the similarity for that trial's outcome) was convolved with a ``canonical''  haemodynamic response function, a mixture of gamma functions that serves as a parsimonious estimate of the (instantaneous) BOLD response \cite{Friston:1998p2022}.  The convolved series was then low-pass filtered, matching the treatment of the BOLD data (p\pageref{subsub:preprocessed}).  Each convolved and filtered model was then regressed onto the BOLD response for each participant's region of interest, retaining all parameters and fit measures inside subject-level HDF5 files (\url{http://www.hdfgroup.org/HDF5/}).  
+A total of 23 models were compared for each of the 16 regions of interest for each of the 16 subjects, 5888 comparisons in total.  Each of the models is described below (Table 1).  In general, a time-series (e.g the reward prediction error for each trial or the similarity for that trial's outcome) was convolved with a ``canonical''  haemodynamic response function, a mixture of gamma functions that serves as a parsimonious estimate of the (instantaneous) BOLD response \cite{Friston:1998p2022}.  The convolved series was then low-pass filtered, matching the treatment of the BOLD data (p\pageref{subsub:preprocessed}).  Each convolved and filtered model was then regressed onto the BOLD response for each participant's region of interest, retaining all parameters and fit measures inside subject-level HDF5 files (\url{http://www.hdfgroup.org/HDF5/}).  
 
 No available fMRI analysis package returns AIC scores (or measures that could be converted to such) and none allow for the efficient (i.e programmatic) analysis of many competing computational models. So I created a roi-focused fMRI data analysis tool in Python (v2.7.1) to meet those two needs.  This module, simply named ``roi'', has since been release under the BSD license and is available for download at \url{https://github.com/andsoandso/roi}. It relies on the nibabel library to read the nifiti-1 files  (v1.2.0; \url{http://nipy.org/nibabel}), nitime for timeseries analysis, (v0.4; \url{http://nipy.sourceforge.net/nitime/}) Numpy for generic numerical work (v1.6.1; \url{http://numpy.scipy.org/}), with the GLS function from the scikits.statsmodels module handling the regerssions (v0.40; \url{http://statsmodels.sourceforge.net/}).  Model-to-BOLD fit parameters, as well as other useful metadata, was then extracted and stored in text files suitable for importing into R (v2.15.1; \url{http://www.r-project.org/}).  All plotting and model ranking (as well as the $F$-tests) were carried out in R.  For complete BSD licensed code see, \url{https://github.com/andsoandso/fmri/tree/master/catreward/roi/results}.
 
@@ -130,24 +130,24 @@ To simplify visualization and analysis, each of the models was classified into o
          1 & 0\_1 & boxcar & The simplest model, a univariate analysis of all conditions. \\ \hline
          2 & acc & control\_reward & Behavioral accuracy. \\ \hline
          3 & acc\_exp & control\_reward & Behavioral accuracy, diminished by (exponential) similarity. \\ \hline
-         4 & acc\_gauss & control\_reward & Behavioral accuracy, diminished by (gaussian) similarity. \\ \hline
+         4 & acc\_gauss & control\_reward & Behavioral accuracy, diminished by (Gaussian) similarity. \\ \hline
          5 & gl & control\_reward & Gains and losses. \\ \hline 
          6 & gl\_exp & control\_reward & Gains and losses, diminished by (exponential) similarity. \\ \hline
-         7 & gl\_gauss & control\_reward & Gains and losses, diminished by (gaussian) similarity. \\ \hline
+         7 & gl\_gauss & control\_reward & Gains and losses, diminished by (Gaussian) similarity. \\ \hline
          8 & rpe\_acc & rpe & Reward prediction error - derived from accuracy. \\ \hline
          9 & rpe\_acc\_exp & rpe & Reward prediction error - derived from accuracy diminished by (exponential) similarity. \\ \hline
-        10 & rpe\_acc\_gauss & rpe & Reward prediction error - derived from accuracy diminished by (gaussian) similarity. \\ \hline
+        10 & rpe\_acc\_gauss & rpe & Reward prediction error - derived from accuracy diminished by (Gaussian) similarity. \\ \hline
         11 & value\_acc & value & Value - derived from accuracy. \\ \hline
         12 & value\_acc\_exp & value & Value - derived from accuracy diminished by (exponential) similarity. \\ \hline
-        13 & value\_acc\_guass & value & Value - derived from accuracy diminished by (gaussian) similarity. \\ \hline
+        13 & value\_acc\_guass & value & Value - derived from accuracy diminished by (Gaussian) similarity. \\ \hline
         14 & rpe\_gl & rpe & Reward prediction error - derived from gains and loses. \\ \hline
         15 & rpe\_gl\_exp & rpe & Reward prediction error - derived from gains and losses diminished by (exponential) similarity. \\ \hline
-        16 & rpe\_gl\_gauss & rpe & Reward prediction error - derived from gains and losses diminished by (gaussian) similarity. \\ \hline
+        16 & rpe\_gl\_gauss & rpe & Reward prediction error - derived from gains and losses diminished by (Gaussian) similarity. \\ \hline
         17 & value\_gl & value & Value - derived from gains and losses. \\ \hline
         18 & value\_gl\_exp & value & Value - derived from gains and losses diminished by (exponential) similarity. \\ \hline
-        19 & value\_gl\_gauss & value & Value - derived from gains and losses diminished by (gaussian) similarity. \\ \hline 
+        19 & value\_gl\_gauss & value & Value - derived from gains and losses diminished by (Gaussian) similarity. \\ \hline 
         20 & exp & control\_similarity & Outcome similarity (exponential). \\ \hline
-        21 & gauss & control\_similarity & Outcome similarity (gaussian). \\ \hline
+        21 & gauss & control\_similarity & Outcome similarity (Gaussian). \\ \hline
         22 & angle & control\_similarity & Grating angle parameter. \\ \hline
         23 &width & control\_similarity & Grating width parameter. \\ \hline
     \end{longtable}
@@ -156,13 +156,38 @@ To simplify visualization and analysis, each of the models was classified into o
 
 \subsection{Model Results}
 \label{sub:modelresults}
+I'll work through the many results first by subcortical areas then move on to the cortical.  The general analysis strategy was to first find the top family, indicated by the largest family-average Akaike Weight.  I then examined the next highest scoring to family to see if it was close (less the 1.5 times as likely) to the top.  If it was both, families were included.  I then examined the relative likelihood of each model in the top family/families.  Within-family models that were about $\ge$1.5 times more likely then their neighbor were dubbed ``substantively more informative''.  Like the significance thresholded in null hypothesis tests this $\ge$1.5 is an arbitrary threshold.  However in order discuss and interpret these results a line must be drawn between meaningful and not, and $\ge$1.5 is a good minimum cutoff \cite{Anderson:2000p9475, Forster:2000p9623}.  As I stated though at the outset, more than one model may be right.  Thus the threshold was treated a loose cutoff.  To get sense of overall model quality, I also calculated the likelihood of the best model over the boxcar (i.e. the non-parametric standard).  Finally I examined all models, not just the top family, for any outliers that may have scored well despite their families overall poor performance.  Cases with these kinds of outliers were restricted to regions who, as judged by $F$-tests, were not good absolute models.  So these outliers are probably just noise.  Still, a couple surprising outliers are noted just in case they're meaningful after all.
+
+Still as this is the first attempt of this kind to AIC-rank models of fMRI data, and while I put much thought and research into the above scheme, it may be flawed.  It is also arbitrary (beyond the $\ge$1.5 cutoff); Why not discuss the top 3, or 4 families, or even just include them all?  To attempt then to minimize the effect of these arbitrary, but necessary, decisions the complete set of models (and $F$-tests) are included for every region of interest.
+
+
+\subsubsection{From up high}
+\label{subsub:fromuphigh}
+For 10 of the 16 regions of interest the ``rpe'' family scored highest.  Of these 10, 8 were similarity-adjusted (6/8 were Gaussian).  The next best family was ``control\_similarity'' with 3 regions, followed by ``boxcar'' with another 3.  Notably, ``value'' was not the most informative model family for any region of interest, and indeed the one region (ACC) for which it was second, ``rpe'' was 1.8 times more likely.
+
+
 \subsubsection{Under Cortical}
 \label{subsub:belowctx}
-Discuss the subcortical results first....
+In the dorsal caudate (Figure~\ref{fig:caudate}), only the ``rpe'' family offered a more informative fit that the ``boxcar'', being 2.61 times more likely in the left and 2.85 in the right.  Bilaterally, and using the acc coding scheme, the Gaussian similarity-adjusted model (i.e. ''rpe\_acc\_gauss'') was substantively more informative than the either unadjusted model (``rpe\_acc'' -- left/right: 1.45/1.54 or ``rpe\_gl'' 1.82, \emph{right}: 1.70).  Surpsingly, given its similarity ot the Gaussian adjustment, the ``rpe\_acc\_exp'' scored no better than the unadjusted.  In what will become a reoccurring theme, all models were significant bilaterally in the dorsal caudate (Figure~\ref{fig:fvalcaudate}).  And while the $F$-values themselves to some degree mimic the patterns of the Akaike Weight, it would not be possible to reliably disassociate them given the slight relative differences.
+
+
+\begin{figure}[tp]
+	\fitfigure{f_meanbar_run4_c_aic_w_bilat_Caudate}
+    \centering
+    \caption{Dorsal caudate (left and right) -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
+	\label{fig:caudate}
+\end{figure}
+\begin{figure}[tp]
+	\fitfigure{f_plot_run4_c_fvalue_bilat_Caudate}
+    \centering
+    \caption{Dorsal caudate (left and right) -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
+	\label{fig:fvalcaudate}
+\end{figure}
+
 
 % -- Subcortical
 \begin{figure}[tp]
-	\fitfigure{f_meanpoint_bilatrun4_c_aic_Accumbens}
+	\fitfigure{f_meanbar_run4_c_aic_w_bilat_Accumbens}
     \centering
     \caption{Nucleus Accumbens (left and right) -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:accumbens}
@@ -170,13 +195,13 @@ Discuss the subcortical results first....
 \begin{figure}[tp]
 	\fitfigure{f_plot_run4_c_fvalue_bilat_Accumbens}
     \centering
-    \caption{Nucleus Accumbens (left and right) -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
+    \caption{Nucleus accumbens (left and right) -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
 	\label{fig:fvalaccumbens}
 \end{figure}
 
 
 \begin{figure}[tp]
-	\fitfigure{f_meanpoint_bilatrun4_c_aic_Amygdala}
+	\fitfigure{f_meanbar_run4_c_aic_w_bilat_Amygdala}
     \centering
     \caption{Amygdala (left and right) -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:amygdala}
@@ -190,22 +215,7 @@ Discuss the subcortical results first....
 
 
 \begin{figure}[tp]
-	\fitfigure{f_meanpoint_bilatrun4_c_aic_Caudate}
-    \centering
-    \caption{Dorsal Caudate (left and right) -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
-	\label{fig:caudate}
-\end{figure}
-\begin{figure}[tp]
-	\fitfigure{f_plot_run4_c_fvalue_bilat_Caudate}
-    \centering
-    \caption{Dorsal Caudate (left and right) -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
-	\label{fig:fvalcaudate}
-\end{figure}
-
-
-
-\begin{figure}[tp]
-	\fitfigure{f_meanpoint_bilatrun4_c_aic_Hippocampus}
+	\fitfigure{f_meanbar_run4_c_aic_w_bilat_Hippocampus}
     \centering
     \caption{Hippocampus (left and right) -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:hippocampus}
@@ -224,35 +234,35 @@ Now discuss the cortical results....
 \clearpage
 % -- Cortex!
 \begin{figure}[tp]
-	\fitfigure{f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_division}
+	\fitfigure{f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division}
     \centering
-    \caption{Anterior Cingulate Gyrus -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
+    \caption{ACC -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:ant}
 \end{figure}
 \begin{figure}[tp]
 	\fitfigure{f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division}
     \centering
-    \caption{Anterior Cingulate Gyrus -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
+    \caption{ACC -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
 	\label{fig:fvalant}
 \end{figure}
 
 
 \begin{figure}[tp]
-	\fitfigure{f_meanpoint_run4_c_aic_Cingulate_Gyrus_posterior_division}
+	\fitfigure{f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division}
     \centering
-    \caption{Posterior Cingulate Gyrus -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
+    \caption{PCC -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:post}
 \end{figure}
 \begin{figure}[tp]
 	\fitfigure{f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division}
     \centering
-    \caption{Posterior Cingulate Gyrus -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
+    \caption{PCC -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
 	\label{fig:fvalpost}
 \end{figure}
 
 
 \begin{figure}[tp]
-	\fitfigure{f_meanpoint_run4_c_aic_Frontal_Medial_Cortex}
+	\fitfigure{f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex}
     \centering
     \caption{Frontal (ventral) medial PFC -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:vmpfc}
@@ -266,21 +276,21 @@ Now discuss the cortical results....
 
 
 \begin{figure}[tp]
-	\fitfigure{f_meanpoint_run4_c_aic_Frontal_Orbital_Cortex}
+	\fitfigure{f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex}
     \centering
-    \caption{Orbital Frontal Cortex -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
+    \caption{Orbital frontal cortex -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:ofc}
 \end{figure}
 \begin{figure}[tp]
 	\fitfigure{f_plot_run4_c_fvalue_Frontal_Orbital_Cortex}
     \centering
-    \caption{Orbital Frontal Cortex -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
+    \caption{Orbital frontal cortex -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
 	\label{fig:fvalofc}
 \end{figure}
 
 
 \begin{figure}[tp]
-    \fitfigure{f_meanpoint_run4_c_aic_Insular_Cortex}
+    \fitfigure{f_meanbar_run4_c_aic_w_Insular_Cortex}
     \centering
     \caption{Insula -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:insula}
@@ -294,15 +304,15 @@ Now discuss the cortical results....
 
 
 \begin{figure}[tp]
-	\fitfigure{f_meanpoint_run4_c_aic_Middle_Frontal_Gyrus}
+	\fitfigure{f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus}
     \centering
-    \caption{Middle Frontal (dorsal-lateral) PFC -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
+    \caption{Middle frontal (dorsal-lateral) PFC -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:dlpfc}
 \end{figure}
 \begin{figure}[tp]
 	\fitfigure{f_plot_run4_c_fvalue_Middle_Frontal_Gyrus}
     \centering
-    \caption{Middle Frontal (dorsal-lateral) PFC -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
+    \caption{Middle frontal (dorsal-lateral) PFC -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
 	\label{fig:fvaldlpfc}
 \end{figure}
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  7 AUG 2012 22:48
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  8 AUG 2012 19:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -506,10 +506,7 @@ Overfull \hbox (23.15944pt too wide) in paragraph at lines 119--120
 esults\OT1/cmr/m/n/12 . 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13]
+[13]
 Underfull \hbox (badness 1681) in paragraph at lines 139--139
 []|\OT1/cmr/m/n/12 Reward pre-dic-tion er-ror - de-
  []
@@ -519,188 +516,190 @@ Underfull \hbox (badness 10000) in paragraph at lines 149--149
 []|\OT1/cmr/m/n/12 Outcome sim-i-lar-ity (ex-po-nen-
  []
 
-[14] [15]
-<f_meanpoint_bilatrun4_c_aic_Accumbens.pdf, id=168, 650.43pt x 289.08pt>
-File: f_meanpoint_bilatrun4_c_aic_Accumbens.pdf Graphic file (type pdf)
+[14] [15] [16]
+Underfull \vbox (badness 4391) has occurred while \output is active []
 
-<use f_meanpoint_bilatrun4_c_aic_Accumbens.pdf>
-Package pdftex.def Info: f_meanpoint_bilatrun4_c_aic_Accumbens.pdf used on inpu
-t line 165.
-(pdftex.def)             Requested size: 430.00462pt x 191.11539pt.
- [16]
-<f_plot_run4_c_fvalue_bilat_Accumbens.pdf, id=172, 505.89pt x 289.08pt>
-File: f_plot_run4_c_fvalue_bilat_Accumbens.pdf Graphic file (type pdf)
+ [17]
+<f_meanbar_run4_c_aic_w_bilat_Caudate.pdf, id=175, 433.62pt x 433.62pt>
+File: f_meanbar_run4_c_aic_w_bilat_Caudate.pdf Graphic file (type pdf)
 
-<use f_plot_run4_c_fvalue_bilat_Accumbens.pdf>
-Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Accumbens.pdf used on input
- line 171.
-(pdftex.def)             Requested size: 430.00462pt x 245.72356pt.
+<use f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Caudate.pdf used on input
+ line 175.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
-<f_meanpoint_bilatrun4_c_aic_Amygdala.pdf, id=173, 650.43pt x 289.08pt>
-File: f_meanpoint_bilatrun4_c_aic_Amygdala.pdf Graphic file (type pdf)
-
-<use f_meanpoint_bilatrun4_c_aic_Amygdala.pdf>
-Package pdftex.def Info: f_meanpoint_bilatrun4_c_aic_Amygdala.pdf used on input
- line 179.
-(pdftex.def)             Requested size: 430.00462pt x 191.11539pt.
-
-<f_plot_run4_c_fvalue_bilat_Amygdala.pdf, id=174, 505.89pt x 289.08pt>
-File: f_plot_run4_c_fvalue_bilat_Amygdala.pdf Graphic file (type pdf)
-
-<use f_plot_run4_c_fvalue_bilat_Amygdala.pdf>
-Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Amygdala.pdf used on input 
-line 185.
-(pdftex.def)             Requested size: 430.00462pt x 245.72356pt.
-
-<f_meanpoint_bilatrun4_c_aic_Caudate.pdf, id=175, 650.43pt x 289.08pt>
-File: f_meanpoint_bilatrun4_c_aic_Caudate.pdf Graphic file (type pdf)
-
-<use f_meanpoint_bilatrun4_c_aic_Caudate.pdf>
-Package pdftex.def Info: f_meanpoint_bilatrun4_c_aic_Caudate.pdf used on input 
-line 193.
-(pdftex.def)             Requested size: 430.00462pt x 191.11539pt.
-
-<f_plot_run4_c_fvalue_bilat_Caudate.pdf, id=176, 505.89pt x 289.08pt>
+<f_plot_run4_c_fvalue_bilat_Caudate.pdf, id=176, 433.62pt x 433.62pt>
 File: f_plot_run4_c_fvalue_bilat_Caudate.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_bilat_Caudate.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Caudate.pdf used on input l
-ine 199.
-(pdftex.def)             Requested size: 430.00462pt x 245.72356pt.
+ine 181.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
-<f_meanpoint_bilatrun4_c_aic_Hippocampus.pdf, id=177, 650.43pt x 289.08pt>
-File: f_meanpoint_bilatrun4_c_aic_Hippocampus.pdf Graphic file (type pdf)
+<f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf, id=177, 433.62pt x 433.62pt>
+File: f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf Graphic file (type pdf)
 
-<use f_meanpoint_bilatrun4_c_aic_Hippocampus.pdf>
-Package pdftex.def Info: f_meanpoint_bilatrun4_c_aic_Hippocampus.pdf used on in
-put line 208.
-(pdftex.def)             Requested size: 430.00462pt x 191.11539pt.
+<use f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf used on inp
+ut line 190.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
-<f_plot_run4_c_fvalue_bilat_Hippocampus.pdf, id=178, 505.89pt x 289.08pt>
+<f_plot_run4_c_fvalue_bilat_Accumbens.pdf, id=178, 433.62pt x 433.62pt>
+File: f_plot_run4_c_fvalue_bilat_Accumbens.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_bilat_Accumbens.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Accumbens.pdf used on input
+ line 196.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+
+<f_meanbar_run4_c_aic_w_bilat_Amygdala.pdf, id=179, 433.62pt x 433.62pt>
+File: f_meanbar_run4_c_aic_w_bilat_Amygdala.pdf Graphic file (type pdf)
+
+<use f_meanbar_run4_c_aic_w_bilat_Amygdala.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Amygdala.pdf used on inpu
+t line 204.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+
+<f_plot_run4_c_fvalue_bilat_Amygdala.pdf, id=180, 433.62pt x 433.62pt>
+File: f_plot_run4_c_fvalue_bilat_Amygdala.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_bilat_Amygdala.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Amygdala.pdf used on input 
+line 210.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+
+<f_meanbar_run4_c_aic_w_bilat_Hippocampus.pdf, id=181, 433.62pt x 433.62pt>
+File: f_meanbar_run4_c_aic_w_bilat_Hippocampus.pdf Graphic file (type pdf)
+
+<use f_meanbar_run4_c_aic_w_bilat_Hippocampus.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Hippocampus.pdf used on i
+nput line 218.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+
+<f_plot_run4_c_fvalue_bilat_Hippocampus.pdf, id=182, 433.62pt x 433.62pt>
 File: f_plot_run4_c_fvalue_bilat_Hippocampus.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_bilat_Hippocampus.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Hippocampus.pdf used on inp
-ut line 214.
-(pdftex.def)             Requested size: 430.00462pt x 245.72356pt.
- [17 <./f_meanpoint_bilatrun4_c_aic_Accumbens.pdf>] [18 <./f_plot_run4_c_fvalue
-_bilat_Accumbens.pdf>] [19 <./f_meanpoint_bilatrun4_c_aic_Amygdala.pdf>] [20 <.
-/f_plot_run4_c_fvalue_bilat_Amygdala.pdf>] [21 <./f_meanpoint_bilatrun4_c_aic_C
-audate.pdf>] [22 <./f_plot_run4_c_fvalue_bilat_Caudate.pdf>] [23 <./f_meanpoint
-_bilatrun4_c_aic_Hippocampus.pdf>] [24 <./f_plot_run4_c_fvalue_bilat_Hippocampu
-s.pdf>]
-<f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_division.pdf, id=273, 433.62pt
- x 289.08pt>
-File: f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_division.pdf Graphic file
+ut line 224.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+ [18] [19 <./f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>] [20 <./f_plot_run4_c_fv
+alue_bilat_Caudate.pdf>]
+[21 <./f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf>] [22 <./f_plot_run4_c_fvalue
+_bilat_Accumbens.pdf>] [23 <./f_meanbar_run4_c_aic_w_bilat_Amygdala.pdf>]
+[24 <./f_plot_run4_c_fvalue_bilat_Amygdala.pdf>] [25 <./f_meanbar_run4_c_aic_w_
+bilat_Hippocampus.pdf>] [26 <./f_plot_run4_c_fvalue_bilat_Hippocampus.pdf>]
+<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf, id=277, 433.62pt
+ x 252.945pt>
+File: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf Graphic file
  (type pdf)
 
-<use f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_division.pdf>
-Package pdftex.def Info: f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_divisi
-on.pdf used on input line 227.
-(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+<use f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_divisi
+on.pdf used on input line 237.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf, id=274, 361.35pt x
- 289.08pt>
+<f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf, id=278, 433.62pt x
+ 252.945pt>
 File: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf Graphic file (
 type pdf)
  <use f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division
-.pdf used on input line 233.
-(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+.pdf used on input line 243.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_meanpoint_run4_c_aic_Cingulate_Gyrus_posterior_division.pdf, id=275, 433.62p
-t x 289.08pt>
-File: f_meanpoint_run4_c_aic_Cingulate_Gyrus_posterior_division.pdf Graphic fil
+<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf, id=279, 433.62p
+t x 252.945pt>
+File: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf Graphic fil
 e (type pdf)
 
-<use f_meanpoint_run4_c_aic_Cingulate_Gyrus_posterior_division.pdf>
-Package pdftex.def Info: f_meanpoint_run4_c_aic_Cingulate_Gyrus_posterior_divis
-ion.pdf used on input line 241.
-(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+<use f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_divis
+ion.pdf used on input line 251.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf, id=276, 361.35pt 
-x 289.08pt>
+<f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf, id=280, 433.62pt 
+x 252.945pt>
 File: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf Graphic file 
 (type pdf)
  <use f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_divisio
-n.pdf used on input line 247.
-(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+n.pdf used on input line 257.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_meanpoint_run4_c_aic_Frontal_Medial_Cortex.pdf, id=277, 433.62pt x 289.08pt>
-File: f_meanpoint_run4_c_aic_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
-<use f_meanpoint_run4_c_aic_Frontal_Medial_Cortex.pdf>
-Package pdftex.def Info: f_meanpoint_run4_c_aic_Frontal_Medial_Cortex.pdf used 
-on input line 255.
-(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+<f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf, id=281, 433.62pt x 252.945pt
+>
+File: f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
+ <use f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf used 
+on input line 265.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf, id=278, 361.35pt x 289.08pt>
+<f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf, id=282, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf used on
- input line 261.
-(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+ input line 271.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_meanpoint_run4_c_aic_Frontal_Orbital_Cortex.pdf, id=279, 433.62pt x 289.08pt
->
-File: f_meanpoint_run4_c_aic_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
+<f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf, id=283, 433.62pt x 252.945p
+t>
+File: f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
 
- <use f_meanpoint_run4_c_aic_Frontal_Orbital_Cortex.pdf>
-Package pdftex.def Info: f_meanpoint_run4_c_aic_Frontal_Orbital_Cortex.pdf used
- on input line 269.
-(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+ <use f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf used
+ on input line 279.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf, id=280, 361.35pt x 289.08pt>
+<f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf, id=284, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
-
 <use f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf used o
-n input line 275.
-(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+n input line 285.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_meanpoint_run4_c_aic_Insular_Cortex.pdf, id=281, 433.62pt x 289.08pt>
-File: f_meanpoint_run4_c_aic_Insular_Cortex.pdf Graphic file (type pdf)
+<f_meanbar_run4_c_aic_w_Insular_Cortex.pdf, id=285, 433.62pt x 252.945pt>
+File: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf Graphic file (type pdf)
 
-<use f_meanpoint_run4_c_aic_Insular_Cortex.pdf>
-Package pdftex.def Info: f_meanpoint_run4_c_aic_Insular_Cortex.pdf used on inpu
-t line 283.
-(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
+<use f_meanbar_run4_c_aic_w_Insular_Cortex.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf used on inpu
+t line 293.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Insular_Cortex.pdf, id=282, 361.35pt x 289.08pt>
+<f_plot_run4_c_fvalue_Insular_Cortex.pdf, id=286, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Insular_Cortex.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_Insular_Cortex.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Insular_Cortex.pdf used on input 
-line 289.
-(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
+line 299.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_meanpoint_run4_c_aic_Middle_Frontal_Gyrus.pdf, id=283, 433.62pt x 289.08pt>
-File: f_meanpoint_run4_c_aic_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
+<f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf, id=287, 433.62pt x 252.945pt>
+File: f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
+<use f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf used o
+n input line 307.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<use f_meanpoint_run4_c_aic_Middle_Frontal_Gyrus.pdf>
-Package pdftex.def Info: f_meanpoint_run4_c_aic_Middle_Frontal_Gyrus.pdf used o
-n input line 297.
-(pdftex.def)             Requested size: 430.00462pt x 286.6841pt.
-
-<f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf, id=284, 361.35pt x 289.08pt>
+<f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf, id=288, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf used on 
-input line 303.
-(pdftex.def)             Requested size: 430.00462pt x 344.00505pt.
- [25 <./f_meanpoint_run4_c_aic_Cingulate_Gyrus_anterior_division.pdf>] [26 <./f
-_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>] [27 <./f_meanpoint_
-run4_c_aic_Cingulate_Gyrus_posterior_division.pdf>] [28 <./f_plot_run4_c_fvalue
-_Cingulate_Gyrus_posterior_division.pdf>] [29 <./f_meanpoint_run4_c_aic_Frontal
+input line 313.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
+ [27 <./f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf>] [28 <./f
+_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>] [29 <./f_meanbar_ru
+n4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf>] [30 <./f_plot_run4_c_fvalue
+_Cingulate_Gyrus_posterior_division.pdf>] [31 <./f_meanbar_run4_c_aic_w_Frontal
 _Medial_Cortex.pdf>]
-[30 <./f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>] [31 <./f_meanpoint_run4
-_c_aic_Frontal_Orbital_Cortex.pdf>] [32 <./f_plot_run4_c_fvalue_Frontal_Orbital
-_Cortex.pdf>] [33 <./f_meanpoint_run4_c_aic_Insular_Cortex.pdf>] [34 <./f_plot_
-run4_c_fvalue_Insular_Cortex.pdf>] [35 <./f_meanpoint_run4_c_aic_Middle_Frontal
-_Gyrus.pdf>] [36 <./f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>]
-(./chap3.bbl) [37
+[32 <./f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>] [33 <./f_meanbar_run4_c
+_aic_w_Frontal_Orbital_Cortex.pdf>] [34 <./f_plot_run4_c_fvalue_Frontal_Orbital
+_Cortex.pdf>] [35 <./f_meanbar_run4_c_aic_w_Insular_Cortex.pdf>] [36 <./f_plot_
+run4_c_fvalue_Insular_Cortex.pdf>] [37 <./f_meanbar_run4_c_aic_w_Middle_Frontal
+_Gyrus.pdf>] [38 <./f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>]
+(./chap3.bbl) [39
 
 
 ] (./chap3.aux)
@@ -709,13 +708,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3383 strings out of 493633
- 49651 string characters out of 3143378
- 127207 words of memory out of 3000000
- 6588 multiletter control sequences out of 15000+200000
+ 3384 strings out of 493633
+ 49690 string characters out of 3143378
+ 127215 words of memory out of 3000000
+ 6589 multiletter control sequences out of 15000+200000
  20089 words of font info for 74 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,1503b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,24p,1576b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -730,15 +729,16 @@ exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
 live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
 e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
 011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/20
-11/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2011
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2011/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on chap3.pdf (37 pages, 1687240 bytes).
+11/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
+1/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2011/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2011/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on chap3.pdf (39 pages, 1703441 bytes).
 PDF statistics:
  493 PDF objects out of 1000 (max. 8388607)
- 354 compressed objects within 4 object streams
+ 351 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
