@@ -135,13 +135,38 @@ Bischoff-Grethe, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Daw%
+N.~Daw%
+\ \BBA{} Courville%
+}{%
+N.~Daw%
+\ \BBA{} Courville%
+}{%
+{\protect\APACyear{2007}}%
+}]{%
+Daw:2007p9346}%
+\APACinsertmetastar{%
+Daw:2007p9346}%
+Daw, N.%
+\BCBT{}\ \BBA{} Courville, A.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{The pigeon as particle filter}{The pigeon as particle
+  filter}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{NIPS}{20}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+N\BPBI D.~Daw%
 , Gershman%
 , Seymour%
 , Dayan%
 \BCBL{}\ \BBA{} Dolan%
 }{%
-Daw%
+N\BPBI D.~Daw%
 \ \protect\BOthers{.}}{%
 {\protect\APACyear{2011}}%
 }]{%
@@ -220,16 +245,16 @@ Gershman, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Guttman{\ldots}%
+Guttman%
 }{%
-Guttman{\ldots}%
+Guttman%
 }{%
 {\protect\APACyear{1956}}%
 }]{%
 Guttman:1956p8355}%
 \APACinsertmetastar{%
 Guttman:1956p8355}%
-Guttman{\ldots}, N.%
+Guttman, N.%
 %
 \unskip\
 \newblock
@@ -252,7 +277,7 @@ Hornak:2004p6234}%
 \APACinsertmetastar{%
 Hornak:2004p6234}%
 Hornak, J.%
-, O'Doherty, J.%
+, O'Doherty, J\BPBI P.%
 , Bramham, J.%
 , Rolls, E\BPBI T.%
 , Morris, R\BPBI G.%
@@ -325,7 +350,7 @@ Knutson, B.%
 \BBOQ{}\APACrefatitle{Distributed neural representation of expected
   value}{Distributed neural representation of expected value}.\BBCQ{}
 \newblock
-\APACjournalVolNumPages{J Neurosci}{25}{19}{4806--12}.
+\APACjournalVolNumPages{J Neurosci}{25}{19}{4806--4812}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -355,44 +380,13 @@ Matsumoto, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-J.~O'Doherty%
-, Kringelbach%
-, Rolls%
-, Hornak%
-\BCBL{}\ \BBA{} Andrews%
-}{%
-J.~O'Doherty%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2001}}%
-}]{%
-ODoherty:2001p2423}%
-\APACinsertmetastar{%
-ODoherty:2001p2423}%
-O'Doherty, J.%
-, Kringelbach, M\BPBI L.%
-, Rolls, E\BPBI T.%
-, Hornak, J.%
-\BCBL{}\ \BBA{} Andrews, C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Abstract reward and punishment representations in the
-  human orbitofrontal cortex}{Abstract reward and punishment representations in
-  the human orbitofrontal cortex}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nat Neurosci}{4}{1}{95--102}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-J\BPBI P.~O'Doherty%
+O'Doherty%
 , Dayan%
 , Friston%
 , Critchley%
 \BCBL{}\ \BBA{} Dolan%
 }{%
-J\BPBI P.~O'Doherty%
+O'Doherty%
 \ \protect\BOthers{.}}{%
 {\protect\APACyear{2003}}%
 }]{%
@@ -414,6 +408,37 @@ O'Doherty, J\BPBI P.%
   the human brain}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuron}{38}{2}{329--37}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+O'Doherty%
+, Kringelbach%
+, Rolls%
+, Hornak%
+\BCBL{}\ \BBA{} Andrews%
+}{%
+O'Doherty%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2001}}%
+}]{%
+ODoherty:2001p2423}%
+\APACinsertmetastar{%
+ODoherty:2001p2423}%
+O'Doherty, J\BPBI P.%
+, Kringelbach, M\BPBI L.%
+, Rolls, E\BPBI T.%
+, Hornak, J.%
+\BCBL{}\ \BBA{} Andrews, C.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Abstract reward and punishment representations in the
+  human orbitofrontal cortex}{Abstract reward and punishment representations in
+  the human orbitofrontal cortex}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Nat Neurosci}{4}{1}{95--102}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -515,6 +540,31 @@ Spiering, B\BPBI J.%
   learning}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neurobiol Learn Mem}{90}{2}{330--8}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Sutton%
+\ \BBA{} Barto%
+}{%
+Sutton%
+\ \BBA{} Barto%
+}{%
+{\protect\APACyear{1998}}%
+}]{%
+Sutton:1998p9247}%
+\APACinsertmetastar{%
+Sutton:1998p9247}%
+Sutton, R\BPBI S.%
+\BCBT{}\ \BBA{} Barto, A\BPBI G.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Reinforcement Learning: An Introduction}{Reinforcement
+  learning: An introduction}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{MIT Press}{}{}{}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

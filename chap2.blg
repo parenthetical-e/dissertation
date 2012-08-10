@@ -10,64 +10,62 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: bibmin.bib
-Repeated entry---line 6814 of file bibmin.bib
- : @article{Spiering:2008p5008
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8430 of file bibmin.bib
+Repeated entry---line 1453 of file bibmin.bib
  : @article{ODoherty:2001p2423
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9355 of file bibmin.bib
+Repeated entry---line 7746 of file bibmin.bib
+ : @article{Spiering:2008p5008
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7871 of file bibmin.bib
  : @article{ODoherty:2003p6329
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10027 of file bibmin.bib
+Repeated entry---line 9053 of file bibmin.bib
  : @article{Delgado:2004p6665
  :                           ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Sutton:1998p9247"
-Warning--I didn't find a database entry for "Daw:2007p9346"
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 19 entries,
+You've used 21 entries,
             6361 wiz_defined-function locations,
-            1330 strings with 13186 characters,
-and the built_in function-call counts, 39768 in all, are:
-= -- 4691
-> -- 369
-< -- 2035
-+ -- 2229
-- -- 38
-* -- 2744
-:= -- 7624
-add.period$ -- 75
-call.type$ -- 19
-change.case$ -- 125
+            1338 strings with 13335 characters,
+and the built_in function-call counts, 42877 in all, are:
+= -- 5090
+> -- 397
+< -- 2148
++ -- 2361
+- -- 42
+* -- 2925
+:= -- 8131
+add.period$ -- 83
+call.type$ -- 21
+change.case$ -- 135
 chr.to.int$ -- 0
-cite$ -- 38
-duplicate$ -- 1159
-empty$ -- 1496
-format.name$ -- 673
-if$ -- 7203
+cite$ -- 42
+duplicate$ -- 1257
+empty$ -- 1638
+format.name$ -- 721
+if$ -- 7838
 int.to.chr$ -- 0
-int.to.str$ -- 38
+int.to.str$ -- 42
 missing$ -- 0
-newline$ -- 488
-num.names$ -- 152
-pop$ -- 525
+newline$ -- 536
+num.names$ -- 168
+pop$ -- 577
 preamble$ -- 1
-purify$ -- 106
+purify$ -- 114
 quote$ -- 0
-skip$ -- 2327
+skip$ -- 2555
 stack$ -- 0
-substring$ -- 2438
-swap$ -- 674
-text.length$ -- 68
+substring$ -- 2594
+swap$ -- 722
+text.length$ -- 72
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1520
+type$ -- 1680
 warning$ -- 0
-while$ -- 263
+while$ -- 277
 width$ -- 0
-write$ -- 649
+write$ -- 709
 (There were 4 error messages)

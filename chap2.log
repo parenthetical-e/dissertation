@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  2 AUG 2012 17:39
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 AUG 2012 18:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,26 +341,15 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 102.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-
-LaTeX Warning: Citation `Sutton:1998p9247' undefined on input line 102.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1838) has occurred while \output is active []
 
  [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-
-LaTeX Warning: Reference `fig:f_beta' on page 13 undefined on input line 155.
-
-
-LaTeX Warning: Citation `Daw:2007p9346' undefined on input line 157.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
@@ -385,90 +374,86 @@ Package pdftex.def Info: f_beta.pdf used on input line 174.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14 <./f_logL.pdf>]
-
-LaTeX Warning: Reference `denrpe' on page 15 undefined on input line 185.
-
-[15 <./f_alpha.pdf>]
-
-LaTeX Warning: Reference `valuegl' on page 16 undefined on input line 187.
-
-
-LaTeX Warning: Reference `subsub:fclt' on page 16 undefined on input line 189.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16 <./f_beta.pdf>] <f_rpe_acc.pdf, id=206, 433.62pt x 867.24pt>
+ [15 <./f_alpha.pdf>]
+
+LaTeX Warning: Reference `subsub:fclt' on page 16 undefined on input line 188.
+
+[16 <./f_beta.pdf>] <f_rpe_acc.pdf, id=206, 433.62pt x 867.24pt>
 File: f_rpe_acc.pdf Graphic file (type pdf)
- <use f_rpe_acc.pdf>
-Package pdftex.def Info: f_rpe_acc.pdf used on input line 192.
+
+<use f_rpe_acc.pdf>
+Package pdftex.def Info: f_rpe_acc.pdf used on input line 191.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 196.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 195.
 
 <f_rpe_gl.pdf, id=207, 433.62pt x 867.24pt>
 File: f_rpe_gl.pdf Graphic file (type pdf)
  <use f_rpe_gl.pdf>
-Package pdftex.def Info: f_rpe_gl.pdf used on input line 198.
+Package pdftex.def Info: f_rpe_gl.pdf used on input line 197.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 202.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 201.
 
 <f_value_acc.pdf, id=208, 433.62pt x 867.24pt>
 File: f_value_acc.pdf Graphic file (type pdf)
  <use f_value_acc.pdf>
-Package pdftex.def Info: f_value_acc.pdf used on input line 205.
+Package pdftex.def Info: f_value_acc.pdf used on input line 204.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 209.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 208.
 
 <f_value_gl.pdf, id=209, 433.62pt x 867.24pt>
 File: f_value_gl.pdf Graphic file (type pdf)
  <use f_value_gl.pdf>
-Package pdftex.def Info: f_value_gl.pdf used on input line 211.
+Package pdftex.def Info: f_value_gl.pdf used on input line 210.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 215.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 214.
 
 <f_density_rpe.pdf, id=210, 433.62pt x 216.81pt>
 File: f_density_rpe.pdf Graphic file (type pdf)
  <use f_density_rpe.pdf>
-Package pdftex.def Info: f_density_rpe.pdf used on input line 217.
+Package pdftex.def Info: f_density_rpe.pdf used on input line 216.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 217--219
+Overfull \hbox (3.61432pt too wide) in paragraph at lines 216--218
  [][] 
  []
 
 <f_density_value.pdf, id=211, 433.62pt x 216.81pt>
 File: f_density_value.pdf Graphic file (type pdf)
  <use f_density_value.pdf>
-Package pdftex.def Info: f_density_value.pdf used on input line 224.
+Package pdftex.def Info: f_density_value.pdf used on input line 223.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 224--226
+Overfull \hbox (3.61432pt too wide) in paragraph at lines 223--225
  [][] 
  []
 
 [17] [18 <./f_rpe_acc.pdf>] [19 <./f_rpe_gl.pdf>] [20 <./f_value_acc.pdf>]
 [21 <./f_value_gl.pdf>] [22 <./f_density_rpe.pdf> <./f_density_value.pdf>]
-(./chap2.bbl [23]) [24] (./chap2.aux)
+(./chap2.bbl [23
+
+] [24]) [25] (./chap2.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3264 strings out of 493633
- 44900 string characters out of 3143378
- 111233 words of memory out of 3000000
- 6481 multiletter control sequences out of 15000+200000
+ 3263 strings out of 493633
+ 44920 string characters out of 3143378
+ 111427 words of memory out of 3000000
+ 6480 multiletter control sequences out of 15000+200000
  19920 words of font info for 73 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,1875b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,24p,1872b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -485,10 +470,10 @@ ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
 011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
 1/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on chap2.pdf (24 pages, 941478 bytes).
+Output written on chap2.pdf (25 pages, 941483 bytes).
 PDF statistics:
- 327 PDF objects out of 1000 (max. 8388607)
- 235 compressed objects within 3 object streams
+ 331 PDF objects out of 1000 (max. 8388607)
+ 238 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
