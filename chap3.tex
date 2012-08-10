@@ -33,7 +33,7 @@
 \label{sub:acquired}
 \subsubsection{Data Details}
 \label{subsub:datadetails}
-fMRI data was acquired at the Intermountain Neuroimaging Consortium (INC) facility located at the University of Colorado at Boulder on a Siemens Allegra 3T (whole body) scanner.  All 18 right-handed participants were pre-screened for the typical fMRI exclusion factors (e.g. metal implants, mental disorders, etc).  High resolution anatomical data were acquired as a T1-weighted structural image, MPRAGE sequence, at 1x1x1 mm, (256x156x192) with a TR of 2530 ms, and TE of 1.64 ms, with a flip angle of 7$^\circ$.  All functional (i.e. BOLD) data was acquired with T2-weighted echo-planar imaging (EPI), at 2.29 x 2.29 x 4.00 mm (96 x 96 x 26), with a TR of 1500 ms, a TE a 25 ms, a flip angle of 75$^\circ$ and a FOV of 220 mm.
+fMRI data was acquired at the Intermountain Neuroimaging Consortium (INC) facility located at the University of Colorado at Boulder on a Siemens Allegra 3T (whole body) scanner.  All 18 right-handed participants were pre-screened for the typical fMRI exclusion factors (e.g. metal implants, mental disorders, etc).  High resolution anatomical data were acquired as a T1-weighted structural image, MPRAGE sequence, at 1x1x1 mm, (256 x 156 x 192) with a TR of 2530 ms, and TE of 1.64 ms, with a flip angle of 7$^\circ$.  All functional (i.e. BOLD) data was acquired with T2-weighted echo-planar imaging (EPI), at 2.29 x 2.29 x 4.00 mm (96 x 96 x 26), with a TR of 1500 ms, a TE a 25 ms, a flip angle of 75$^\circ$ and a FOV of 220 mm.
 
 A total of 4 sets of functional data were acquired.  The first was of the ``refresher'' for part 1 of the behavioral training (p\pageref{subsub:whatwhen}), spanning 241 volumes.  The second and third covered part 2 of the stimulus-responses learning task (again see p\pageref{subsub:whatwhen}), which was divided up into 2 (nearly) even sets so that participants need not be active for more the 10 or so minutes.  Thes sets lasted 390 and 394 volumes respectively.  The fourth acquisition covered a scan, that featured repeated examples from both reward categories in a random order.  The intent of this scan was to isolate rewarding activity outside the primary task. This localizer was not in the end useful (see p\pageref{subsub:chunks}).
 
@@ -78,7 +78,8 @@ Whole brain activity for the stimulus-response learning portion of the behaviora
 \label{sub:regoins}
 \subsubsection{The right chunks}
 \label{subsub:chunks}
-Following whole-brain analysis, regions of interest were selected using two methods, that were later compared.  The first employed only regions from the Harvard-Oxford probabilistic anatomical atlas, using the 50\% cutoff \cite{Desikan:2006p9370}.  The second combined anatomical regions with functional clusters isolated using both sets of data collected during the second half of part 1 and from the reward category localizer.  Analyses showed the clustered regions and entire anatomical regions displayed very similar model-fits.  So to limit the complexity of later analyses, and to increase power, functional analyses were dropped in favor of the larger anatomical regions.  Anatomical regions of interest were selected \emph{a priori} based on previous studies of reinforcement and category learning (see the \emph{Introduction for a review}).  Left and right subcortical regions of interest were the dorsal caudate, ventral striatum/nucleus accumbens, hippocampus, and amygdala.   Bilateral cortical areas were the middle frontal cortex (i.e. dorsal lateral PFC), superior frontal cortex (which contains ventral medial PFC), orbital frontal cortex, anterior and posterior cingulate (ACC and PCC for short).
+Following whole-brain analysis, regions of interest were selected using two methods, that were later compared.  The first employed only regions from the Harvard-Oxford probabilistic anatomical atlas, using the 50\% cutoff \cite{Desikan:2006p9370}.  The second combined anatomical regions with functional clusters isolated using both sets of data collected during the second half of part 1 and from the reward category localizer.  Analyses showed the clustered regions and entire anatomical regions displayed very similar model-fits.  So to limit the complexity of later analyses, and to increase power, functional analyses were dropped in favor of the larger anatomical regions.  Anatomical regions of interest were selected \emph{a priori} based on previous studies of reinforcement and category learning (see the \emph{Introduction for a review}).  Left and right subcortical regions of interest were the dorsal caudate, ventral striatum/nucleus accumbens, and putamen.   Bilateral cortical areas were, middle frontal cortex (i.e. dorsal lateral PFC), superior frontal cortex (which contains ventral medial PFC), orbital frontal cortex.  Based on the whole-brain maps (p\pageref{sub:blob}), regions for the insula, anterior and posterior cingulate (ACC and PCC for short) were included as well.  Though I've no strong \emph{a priori} hypothesis for the role of these regions may play or may not play, though activity in each regions is common to in human category learning experiments \cite{LopezPaniagua:2011p8296,Seger:2010p7188,Cincotta:2007p6672,Seger:2006p5447,Seger:2005pd}.
+
 
 % -- PROOFED ABOVE
 \subsubsection{A Way To(o) Many}
@@ -114,7 +115,7 @@ AIC ranks offer no information on significance, in the familiar null hypothesis 
 
 \subsubsection{Code, BOLD, and Models.}
 \label{sub:cmb}
-A total of 23 models were compared for each of the 16 regions of interest for each of the 16 subjects, 5888 comparisons in total.  Each of the models is described below (Table 1).  In general, a time-series (e.g the reward prediction error for each trial or the similarity for that trial's outcome) was convolved with a ``canonical''  haemodynamic response function, a mixture of gamma functions that serves as a parsimonious estimate of the (instantaneous) BOLD response \cite{Friston:1998p2022}.  The convolved series was then low-pass filtered, matching the treatment of the BOLD data (p\pageref{subsub:preprocessed}).  Each convolved and filtered model was then regressed onto the BOLD response for each participant's region of interest, retaining all parameters and fit measures inside subject-level HDF5 files (\url{http://www.hdfgroup.org/HDF5/}).  
+A total of 23 models were compared for each of the 12 regions of interest for each of the 16 subjects, 4416 comparisons in total.  Each of the models is described below (Table 1).  In general, a time-series (e.g the reward prediction error for each trial or the similarity for that trial's outcome) was convolved with a ``canonical''  haemodynamic response function, a mixture of gamma functions that serves as a parsimonious estimate of the (instantaneous) BOLD response \cite{Friston:1998p2022}.  The convolved series was then low-pass filtered, matching the treatment of the BOLD data (p\pageref{subsub:preprocessed}).  Each convolved and filtered model was then regressed onto the BOLD response for each participant's region of interest, retaining all parameters and fit measures inside subject-level HDF5 files (\url{http://www.hdfgroup.org/HDF5/}).  
 
 No available fMRI analysis package returns AIC scores (or measures that could be converted to such) and none allow for the efficient (i.e programmatic) analysis of many competing computational models. So I created a roi-focused fMRI data analysis tool in Python (v2.7.1) to meet those two needs.  This module, simply named ``roi'', has since been release under the BSD license and is available for download at \url{https://github.com/andsoandso/roi}. It relies on the nibabel library to read the nifiti-1 files  (v1.2.0; \url{http://nipy.org/nibabel}), nitime for timeseries analysis, (v0.4; \url{http://nipy.sourceforge.net/nitime/}) Numpy for generic numerical work (v1.6.1; \url{http://numpy.scipy.org/}), with the GLS function from the scikits.statsmodels module handling the regerssions (v0.40; \url{http://statsmodels.sourceforge.net/}).  Model-to-BOLD fit parameters, as well as other useful metadata, was then extracted and stored in text files suitable for importing into R (v2.15.1; \url{http://www.r-project.org/}).  All plotting and model ranking (as well as the $F$-tests) were carried out in R.  For complete BSD licensed code see, \url{https://github.com/andsoandso/fmri/tree/master/catreward/roi/results}.
 
@@ -156,20 +157,23 @@ To simplify visualization and analysis, each of the models was classified into o
 
 \subsection{Model Results}
 \label{sub:modelresults}
-I'll work through the many results first by subcortical areas then move on to the cortical.  The general analysis strategy was to first find the top family, indicated by the largest family-average Akaike Weight.  I then examined the next highest scoring to family to see if it was close (less the 1.5 times as likely) to the top.  If it was both, families were included.  I then examined the relative likelihood of each model in the top family/families.  Within-family models that were about $\ge$1.5 times more likely then their neighbor were dubbed ``substantively more informative''.  Like the significance thresholded in null hypothesis tests this $\ge$1.5 is an arbitrary threshold.  However in order discuss and interpret these results a line must be drawn between meaningful and not, and $\ge$1.5 is a good minimum cutoff \cite{Anderson:2000p9475, Forster:2000p9623}.  As I stated though at the outset, more than one model may be right.  Thus the threshold was treated a loose cutoff.  To get sense of overall model quality, I also calculated the likelihood of the best model over the boxcar (i.e. the non-parametric standard).  Finally I examined all models, not just the top family, for any outliers that may have scored well despite their families overall poor performance.  Cases with these kinds of outliers were restricted to regions who, as judged by $F$-tests, were not good absolute models.  So these outliers are probably just noise.  Still, a couple surprising outliers are noted just in case they're meaningful after all.
+I'll work through the many results first by subcortical areas then move on to the cortical.  The general analysis strategy was to first find the top family, indicated by the largest family-average Akaike Weight.  I then examined the next highest scoring to family to see if it was close (less the 1.5 times as likely) to the top.  If it was both, families were included.  I then examined the relative likelihood of each model in the top family/families.  Within-family models that were about $\ge$1.5 times more likely then their neighbor were dubbed ``substantively more informative''.  Like the significance thresholded in null hypothesis tests this $\ge$1.5 is an arbitrary threshold.  However in order discuss and interpret these results a line must be drawn between meaningful and not, and $\ge$1.5 is a good minimum cutoff \cite{Anderson:2000p9475, Forster:2000p9623}.  As I stated though at the outset, more than one model may be right.  Thus the threshold was treated a loose cutoff.  To get sense of overall model quality, I also calculated the likelihood of the best model over the boxcar (i.e. the non-parametric standard).  Finally I examined all models, not just the top family, for any outliers that may have scored well despite their families overall poor performance.
 
 Still as this is the first attempt of this kind to AIC-rank models of fMRI data, and while I put much thought and research into the above scheme, it may be flawed.  It is also arbitrary (beyond the $\ge$1.5 cutoff); Why not discuss the top 3, or 4 families, or even just include them all?  To attempt then to minimize the effect of these arbitrary, but necessary, decisions the complete set of models (and $F$-tests) are included for every region of interest.
 
 
 \subsubsection{From up high}
 \label{subsub:fromuphigh}
-For 10 of the 16 regions of interest the ``rpe'' family scored highest.  Of these 10, 8 were similarity-adjusted (6/8 were Gaussian).  The next best family was ``control\_similarity'' with 3 regions, followed by ``boxcar'' with another 3.  Notably, ``value'' was not the most informative model family for any region of interest, and indeed the one region (ACC) for which it was second, ``rpe'' was 1.8 times more likely.
+For 8 of the 12 regions of interest the ``rpe'' family scored highest.  Of these 8, 5 were best described by ``rpe\_acc\_gauss''.  The next best family was ``control\_similarity'' with 3 regions, followed by ``boxcar'' with 1.  Notably, ``value'' was not the most informative model family for any region of interest, and indeed the one region (ACC) for which it was second, ``rpe'' was 1.8 times more likely.
 
 
 \subsubsection{Under Cortical}
 \label{subsub:belowctx}
-In the dorsal caudate (Figure~\ref{fig:caudate}), only the ``rpe'' family offered a more informative fit that the ``boxcar'', being 2.61 times more likely in the left and 2.85 in the right.  Bilaterally, and using the acc coding scheme, the Gaussian similarity-adjusted model (i.e. ''rpe\_acc\_gauss'') was substantively more informative than the either unadjusted model (``rpe\_acc'' -- left/right: 1.45/1.54 or ``rpe\_gl'' 1.82, \emph{right}: 1.70).  Surpsingly, given its similarity ot the Gaussian adjustment, the ``rpe\_acc\_exp'' scored no better than the unadjusted.  In what will become a reoccurring theme, all models were significant bilaterally in the dorsal caudate (Figure~\ref{fig:fvalcaudate}).  And while the $F$-values themselves to some degree mimic the patterns of the Akaike Weight, it would not be possible to reliably disassociate them given the slight relative differences.
+In the dorsal caudate (Figure~\ref{fig:caudate}), only the ``rpe'' family offered a more informative fit that the ``boxcar'', being 2.61 times more likely in the left and 2.85 in the right.  Bilaterally, and using the acc coding scheme, the Gaussian similarity-adjusted model (i.e. ''rpe\_acc\_gauss'') was substantively more informative than either unadjusted model (``rpe\_acc'' -- left/right: 1.45/1.54 or ``rpe\_gl'' 1.82, \emph{right}: 1.70).  Surprisingly, given its similarity to the Gaussian adjustment, ``rpe\_acc\_exp'' scored no better than the unadjusted models (above).  In what will become a reoccurring theme, all models were significant bilaterally in the dorsal caudate (Figure~\ref{fig:fvalcaudate}).  And while the $F$-values themselves to some degree mimic the patterns of the Akaike Weight, it would not be possible to reliably disassociate them given the slight relative differences.  
 
+Characterized by being 1.53/2.31 more likely compared to the ``boxcar'', and 1.31/1.79 more likely than the next best family, the putamen was also best described by the ``rpe'' family.  However compared to caudate the putamen displayed markedly different within-family activity (Figure~\ref{fig:caudate} compared to~\ref{fig:putamen}). The ``rpe\_acc'' model was more substantively more likely (1.67/1.66) than the next highest ranking similarity model (i.e. ``rpe\_acc\_gauss'').  However due the marginal bilateral significance (Figure~\ref{fig:fvalputamen}), this interesting reversal must be viewed cautiously.  The bilateral consistency in the Akaike Weights though does offer some room for optimism (Figure~\ref{fig:putamen}, specifically I refer to the consistency and relative strength of ``rpe\_acc'').
+
+On the model level the right and left halves of the nucleus accumbens, the ventral portion of the striatum, were quite divergent in their fits (Figure~\ref{fig:accumbens}).  However both ranked the ``control\_similarity'' family as the most informative, however this family was only 1.10 or so more likely than the next family (``rpe''), which itself was not substantively better then its neighbor, and so on.  So while there is strong evidence that the top models, ``angle'' in left (3.07) and ``rpe\_gl'' (3.06) in the right, are better than ``boxcar'', the overall bilateral heterogeneity, weak family effects, combined with by-and-large insignificance on the left half, and weak $F$-values on the right (Figure~\ref{fig:fvalaccumbens}), suggest this region was not strongly activated by the task.  Further analysis is therefore futile.
 
 \begin{figure}[tp]
 	\fitfigure{f_meanbar_run4_c_aic_w_bilat_Caudate}
@@ -184,8 +188,20 @@ In the dorsal caudate (Figure~\ref{fig:caudate}), only the ``rpe'' family offere
 	\label{fig:fvalcaudate}
 \end{figure}
 
+\begin{figure}[tp]
+	\fitfigure{f_meanbar_run4_c_aic_w_bilat_Putamen}
+    \centering
+    \caption{Putamen (left and right) -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
+	\label{fig:putamen}
+\end{figure}
+\begin{figure}[tp]
+	\fitfigure{f_plot_run4_c_fvalue_bilat_Putamen}
+    \centering
+    \caption{Putamen (left and right) -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
+	\label{fig:fvalputamen}
+\end{figure}
 
-% -- Subcortical
+
 \begin{figure}[tp]
 	\fitfigure{f_meanbar_run4_c_aic_w_bilat_Accumbens}
     \centering
@@ -199,40 +215,28 @@ In the dorsal caudate (Figure~\ref{fig:caudate}), only the ``rpe'' family offere
 	\label{fig:fvalaccumbens}
 \end{figure}
 
-
-\begin{figure}[tp]
-	\fitfigure{f_meanbar_run4_c_aic_w_bilat_Amygdala}
-    \centering
-    \caption{Amygdala (left and right) -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
-	\label{fig:amygdala}
-\end{figure}
-\begin{figure}[tp]
-	\fitfigure{f_plot_run4_c_fvalue_bilat_Amygdala}
-    \centering
-    \caption{Amygdala (left and right) -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
-	\label{fig:fvalamygdala}
-\end{figure}
-
-
-\begin{figure}[tp]
-	\fitfigure{f_meanbar_run4_c_aic_w_bilat_Hippocampus}
-    \centering
-    \caption{Hippocampus (left and right) -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
-	\label{fig:hippocampus}
-\end{figure}
-\begin{figure}[tp]
-	\fitfigure{f_plot_run4_c_fvalue_bilat_Hippocampus}
-    \centering
-    \caption{Hippocampus (left and right) -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
-	\label{fig:fvalhippocampus}
-\end{figure}
-
 \subsubsection{On that thinkin' sheet}
 \label{subsub:onsheet}
-Now discuss the cortical results....
+The insula was the one region, both cortically and subcorticallly, to be nearly equally well described both by the ``acc'' and ``gl'' reward codes (Figure~\ref{fig:insula}).  In the top ranking ``rpe'' family (1.37 more likely than its neighbor ``control\_similarity'', 2.31 mode likely than the ``boxcar'') within-family models showed divergent patterns based on the code.  For ``acc'', ``rpe\_acc'' and ``rpe\_acc\_gauss'' dominated ``rpe\_acc\_exp'' by about 1.4.  While the ``gl'' code had the opposite effect, ``rpe\_gl\_exp'' dominated ``rpe\_gl'' and ``rpe\_gl\_gauss'' by a somewhat similar amount (1.20).  The strong overall significance of all models (Figure~\ref{fig:fvalinsula}) suggests these relative rankings may reflect truth; like the dorsal caudate the $F$-values the have same patterns as Akaike Weights.
 
-\clearpage
-% -- Cortex!
+Both the ACC and PCC displayed very similar rankings of their Akaike Weights (compare Figures~\ref{fig:ant} to~\ref{fig:post}), so I'll discuss them as one.  Again the ``rpe'' family dominated (respectively 2.07 and 1.77 times more likely compared to the nearest neighbor, 2.86 and 2.88 times more likely then the ``boxcar'').  Unlike the caudate and insula, the 2 similarity-adjustment models (``rpe\_acc\_gauss'' and ``rpe\_acc\_exp'') were consistently more informative than the reward unadjusted (``rpe\_acc'').  Both regions, especially in the ``rpe'' family were, were reasonably significant (Figure~\ref{fig:fvalant} and~\ref{fig:fvalpost}).
+
+\emph{TODO} -- The remaining three cortical bits....  Some of them are weird.
+
+\begin{figure}[tp]
+    \fitfigure{f_meanbar_run4_c_aic_w_Insular_Cortex}
+    \centering
+    \caption{Insula -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
+	\label{fig:insula}
+\end{figure}
+\begin{figure}[tp]
+	\fitfigure{f_plot_run4_c_fvalue_Insular_Cortex}
+    \centering
+    \caption{Insula -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
+	\label{fig:fvalinsula}
+\end{figure}
+
+
 \begin{figure}[tp]
 	\fitfigure{f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division}
     \centering
@@ -286,20 +290,6 @@ Now discuss the cortical results....
     \centering
     \caption{Orbital frontal cortex -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
 	\label{fig:fvalofc}
-\end{figure}
-
-
-\begin{figure}[tp]
-    \fitfigure{f_meanbar_run4_c_aic_w_Insular_Cortex}
-    \centering
-    \caption{Insula -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
-	\label{fig:insula}
-\end{figure}
-\begin{figure}[tp]
-	\fitfigure{f_plot_run4_c_fvalue_Insular_Cortex}
-    \centering
-    \caption{Insula -- $F$-values for all models.  Significance is the $p <$ 0.05 level, trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
-	\label{fig:fvalinsula}
 \end{figure}
 
 

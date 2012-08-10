@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  2 AUG 2012 23:05
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 AUG 2012 18:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -273,18 +273,9 @@ NOT AUSTRALIAN!!!
 Class apa Warning: Abstract not defined.
 
 Using title for running head
-
-LaTeX Warning: Citation `Glimcher:2011p8464' undefined on input line 31.
-
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation `Daw:2006p6592' undefined on input line 39.
-
-
-LaTeX Warning: Citation `Becerra:2011p7581' undefined on input line 39.
-
 [2]
 LaTeX Font Info:    Try loading font information for U+msa on input line 44.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -294,31 +285,22 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 44.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [3] [4]
-[5]
+) [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `DawNW:2006p6343' undefined on input line 62.
+ [4]
 
-[6] [7]
+LaTeX Warning: Reference `subsub:tomany' on page 5 undefined on input line 56.
+
+[5] [6] [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-Underfull \vbox (badness 4429) has occurred while \output is active []
-
- [9]
-
-LaTeX Warning: Citation `Knutson:2005p1627' undefined on input line 80.
-
-
-LaTeX Warning: Citation `Glascher:2009p9352' undefined on input line 80.
-
-
-LaTeX Warning: Citation `Hampton:2008p6345' undefined on input line 80.
-
-
-LaTeX Warning: Citation `Cooper:2010p9353' undefined on input line 80.
-
-[10] [11]
+[9]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [10] [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
@@ -327,38 +309,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
 [15] [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `Krebs:2011p8134' undefined on input line 113.
-
-[17]
-
-LaTeX Warning: Reference `sub:cog_rew' on page 18 undefined on input line 124.
-
+ [17]
 [18] [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `Ennis:1988p9359' undefined on input line 141.
+ [20]
+[21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [22]
+[23] (./intro.bbl [24
 
-LaTeX Warning: Citation `Nosofsky:1985p9356' undefined on input line 141.
-
-
-LaTeX Warning: Citation `Medin:2012p9358' undefined on input line 141.
-
-[20] [21] [22] [23] (./intro.bbl [24] [25] [26] [27] [28] [29] [30] [31]
-[32] [33] [34] [35] [36]) [37] (./intro.aux)
+] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
+[35] [36]) [37] (./intro.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3633 strings out of 493633
- 53232 string characters out of 3143378
- 125563 words of memory out of 3000000
- 6866 multiletter control sequences out of 15000+200000
- 18097 words of font info for 66 fonts, out of 3000000 for 9000
+ 3610 strings out of 493633
+ 52826 string characters out of 3143378
+ 126119 words of memory out of 3000000
+ 6843 multiletter control sequences out of 15000+200000
+ 17751 words of font info for 65 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,2181b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+ 42i,8n,24p,2036b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
 /usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
@@ -369,7 +347,7 @@ l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on intro.pdf (37 pages, 218623 bytes).
+Output written on intro.pdf (37 pages, 219945 bytes).
 PDF statistics:
  170 PDF objects out of 1000 (max. 8388607)
  118 compressed objects within 2 object streams

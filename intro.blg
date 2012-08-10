@@ -9,152 +9,128 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated field_info (elt_size=4) to 11072 items from 5000.
+Reallocated field_info (elt_size=4) to 10852 items from 5000.
 Database file #1: bibmin.bib
-Repeated entry---line 1907 of file bibmin.bib
- : @article{Hampton:2006p2577
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2370 of file bibmin.bib
- : @article{Roesch:2007p2519
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3535 of file bibmin.bib
- : @article{Seymour:2008p6518
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3685 of file bibmin.bib
- : @article{Packard:2002p5074
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4164 of file bibmin.bib
- : @article{Zink:2006p7210
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4274 of file bibmin.bib
- : @article{BarGad:2003p4052
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4557 of file bibmin.bib
- : @article{denOuden:2010p7203
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6047 of file bibmin.bib
- : @article{Winterbauer:2007p6352
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6083 of file bibmin.bib
- : @article{Knutson:2001p5234
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6794 of file bibmin.bib
- : @article{ODoherty:2003p2616
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 7418 of file bibmin.bib
- : @article{Kakade:2002p6414
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8353 of file bibmin.bib
- : @article{Hollerman:1998qy
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8430 of file bibmin.bib
+Repeated entry---line 1453 of file bibmin.bib
  : @article{ODoherty:2001p2423
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 8522 of file bibmin.bib
- : @article{Fiorillo:2003p6375
+Repeated entry---line 1809 of file bibmin.bib
+ : @article{ODoherty:2003p2616
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 8825 of file bibmin.bib
- : @article{Tobler:2005p6373
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8993 of file bibmin.bib
- : @article{Hikosaka:2008p4455
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9355 of file bibmin.bib
- : @article{ODoherty:2003p6329
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9699 of file bibmin.bib
- : @article{Roesch:2007p7182
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9793 of file bibmin.bib
- : @article{Kim:2008p2984
- :                       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9917 of file bibmin.bib
- : @article{Montague:2006mz
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9957 of file bibmin.bib
+Repeated entry---line 2493 of file bibmin.bib
  : @article{Seger:2008p6401
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10138 of file bibmin.bib
- : @article{Tanaka:2008p3265
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 10989 of file bibmin.bib
+Repeated entry---line 3954 of file bibmin.bib
  : @article{McClure:2003p3346
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11335 of file bibmin.bib
+Repeated entry---line 4024 of file bibmin.bib
+ : @article{Kim:2008p2984
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5053 of file bibmin.bib
+ : @article{Packard:2002p5074
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5147 of file bibmin.bib
+ : @article{denOuden:2010p7203
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5156 of file bibmin.bib
+ : @article{Montague:2006mz
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7332 of file bibmin.bib
+ : @article{Hikosaka:2008p4455
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7871 of file bibmin.bib
+ : @article{ODoherty:2003p6329
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7881 of file bibmin.bib
+ : @article{Winterbauer:2007p6352
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8214 of file bibmin.bib
+ : @article{Tanaka:2008p3265
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8634 of file bibmin.bib
+ : @article{Zink:2006p7210
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8895 of file bibmin.bib
+ : @article{Hollerman:1998qy
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9882 of file bibmin.bib
+ : @article{Fiorillo:2003p6375
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10009 of file bibmin.bib
+ : @article{Tobler:2005p6373
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10450 of file bibmin.bib
+ : @article{Roesch:2007p7182
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10820 of file bibmin.bib
  : @article{Rossi:2010p7252
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11364 of file bibmin.bib
- : @article{Bogacz:2007p753
- :                         ,
+Repeated entry---line 11351 of file bibmin.bib
+ : @article{Kakade:2002p6414
+ :                          ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Glimcher:2011p8464"
-Warning--I didn't find a database entry for "Becerra:2011p7581"
-Warning--I didn't find a database entry for "DawNW:2006p6343"
-Warning--I didn't find a database entry for "Ashby:2007p8986"
+Repeated entry---line 11695 of file bibmin.bib
+ : @article{Roesch:2007p2519
+ :                          ,
+I'm skipping whatever remains of this entry
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 134 entries,
+You've used 133 entries,
             6361 wiz_defined-function locations,
-            2020 strings with 34153 characters,
-and the built_in function-call counts, 285120 in all, are:
-= -- 33932
-> -- 2431
-< -- 15421
-+ -- 16446
-- -- 270
-* -- 19852
-:= -- 55756
-add.period$ -- 526
-call.type$ -- 134
-change.case$ -- 884
+            2008 strings with 33823 characters,
+and the built_in function-call counts, 281716 in all, are:
+= -- 33522
+> -- 2404
+< -- 15239
++ -- 16212
+- -- 268
+* -- 19613
+:= -- 55098
+add.period$ -- 522
+call.type$ -- 133
+change.case$ -- 872
 chr.to.int$ -- 0
-cite$ -- 268
-duplicate$ -- 7909
-empty$ -- 10347
-format.name$ -- 4341
-if$ -- 51425
+cite$ -- 266
+duplicate$ -- 7783
+empty$ -- 10246
+format.name$ -- 4274
+if$ -- 50838
 int.to.chr$ -- 0
-int.to.str$ -- 276
+int.to.str$ -- 274
 missing$ -- 0
-newline$ -- 3340
-num.names$ -- 1072
-pop$ -- 3610
+newline$ -- 3306
+num.names$ -- 1064
+pop$ -- 3572
 preamble$ -- 1
-purify$ -- 750
+purify$ -- 739
 quote$ -- 0
-skip$ -- 16392
+skip$ -- 16249
 stack$ -- 0
-substring$ -- 17931
-swap$ -- 4507
-text.length$ -- 482
+substring$ -- 17660
+swap$ -- 4441
+text.length$ -- 473
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 10720
+type$ -- 10640
 warning$ -- 0
-while$ -- 1709
+while$ -- 1672
 width$ -- 0
-write$ -- 4387
-(There were 25 error messages)
+write$ -- 4334
+(There were 20 error messages)

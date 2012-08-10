@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  8 AUG 2012 20:10
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 AUG 2012 13:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -214,91 +214,7 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count98
 \LT@p@ftn=\toks17
 )
-(./chap3.aux
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.114 =
-       ======
-? 
-! Extra }, or forgotten \endgroup.
-l.115     {1}{239.62204pt}}
-                           
-? 
-
-LaTeX Warning: Label `sub:modelresults' multiply defined.
-
-
-LaTeX Warning: Label `subsub:belowctx' multiply defined.
-
-
-LaTeX Warning: Label `subsub:onsheet' multiply defined.
-
-
-LaTeX Warning: Label `fig:accumbens' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvalaccumbens' multiply defined.
-
-
-LaTeX Warning: Label `fig:amygdala' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvalamygdala' multiply defined.
-
-
-LaTeX Warning: Label `fig:caudate' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvalcaudate' multiply defined.
-
-
-LaTeX Warning: Label `fig:hippocampus' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvalhippocampus' multiply defined.
-
-
-LaTeX Warning: Label `fig:ant' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvalant' multiply defined.
-
-
-LaTeX Warning: Label `fig:post' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvalpost' multiply defined.
-
-
-LaTeX Warning: Label `fig:vmpfc' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvalvmpfc' multiply defined.
-
-
-LaTeX Warning: Label `fig:ofc' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvalofc' multiply defined.
-
-
-LaTeX Warning: Label `fig:insula' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvalinsula' multiply defined.
-
-
-LaTeX Warning: Label `fig:dlpfc' multiply defined.
-
-
-LaTeX Warning: Label `fig:fvaldlpfc' multiply defined.
-
-)
+(./chap3.aux)
 \openout1 = `chap3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -435,10 +351,15 @@ aster/catreward/spm[]m\OT1/cmr/m/n/12 .
 
 LaTeX Warning: Citation `Kruggel:1999p9351' undefined on input line 44.
 
-[2] [3]
+[2]
+
+LaTeX Warning: Reference `subsub:whatwhen' on page 3 undefined on input line 48
+.
+
 
 LaTeX Warning: Citation `Worsley:1996p9367' undefined on input line 52.
 
+[3]
 
 LaTeX Warning: Reference `subsub:whatwhen' on page 4 undefined on input line 54
 .
@@ -446,21 +367,21 @@ LaTeX Warning: Reference `subsub:whatwhen' on page 4 undefined on input line 54
 
 LaTeX Warning: Reference `fig:raw' on page 4 undefined on input line 54.
 
-[4] <f_map_gl_p05.pdf, id=24, 803.0pt x 602.25pt>
+<f_map_gl_p05.pdf, id=21, 803.0pt x 602.25pt>
 File: f_map_gl_p05.pdf Graphic file (type pdf)
  <use f_map_gl_p05.pdf>
 Package pdftex.def Info: f_map_gl_p05.pdf used on input line 57.
 (pdftex.def)             Requested size: 430.00462pt x 322.5084pt.
 
 
-LaTeX Warning: Reference `subsub:whatwhen' on page 5 undefined on input line 59
+LaTeX Warning: Reference `subsub:whatwhen' on page 4 undefined on input line 59
 .
 
 
-LaTeX Warning: Reference `subsub:whatwhen' on page 5 undefined on input line 59
+LaTeX Warning: Reference `subsub:whatwhen' on page 4 undefined on input line 59
 .
 
-<f_map_gl_raw_t.pdf, id=25, 388.45125pt x 563.10374pt>
+<f_map_gl_raw_t.pdf, id=22, 388.45125pt x 563.10374pt>
 File: f_map_gl_raw_t.pdf Graphic file (type pdf)
 
 <use f_map_gl_raw_t.pdf>
@@ -470,61 +391,76 @@ Package pdftex.def Info: f_map_gl_raw_t.pdf used on input line 64.
 
 LaTeX Warning: Float too large for page by 63.555pt on input line 68.
 
-<f_map_gxl_p05.pdf, id=26, 803.0pt x 602.25pt>
+<f_map_gxl_p05.pdf, id=23, 803.0pt x 602.25pt>
 File: f_map_gxl_p05.pdf Graphic file (type pdf)
  <use f_map_gxl_p05.pdf>
 Package pdftex.def Info: f_map_gxl_p05.pdf used on input line 71.
 (pdftex.def)             Requested size: 430.00462pt x 322.5084pt.
 
+Underfull \vbox (badness 1701) has occurred while \output is active []
+
+ [4]
+[5 <./f_map_gl_p05.pdf>] [6 <./f_map_gl_raw_t.pdf>] [7 <./f_map_gxl_p05.pdf>]
 
 LaTeX Warning: Citation `Desikan:2006p9370' undefined on input line 81.
 
 
-LaTeX Warning: Citation `Forster:2000p9623' undefined on input line 87.
+LaTeX Warning: Citation `LopezPaniagua:2011p8296' undefined on input line 81.
 
-[5] [6 <./f_map_gl_p05.pdf>] [7 <./f_map_gl_raw_t.pdf>] [8 <./f_map_gxl_p05.pdf
->]
+
+LaTeX Warning: Citation `Seger:2010p7188' undefined on input line 81.
+
+
+LaTeX Warning: Citation `Cincotta:2007p6672' undefined on input line 81.
+
+
+LaTeX Warning: Citation `Seger:2006p5447' undefined on input line 81.
+
+
+LaTeX Warning: Citation `Seger:2005pd' undefined on input line 81.
+
+
+LaTeX Warning: Citation `Forster:2000p9623' undefined on input line 89.
+
+[8]
 
 LaTeX Warning: Reference `subsub:expectations' on page 9 undefined on input lin
-e 89.
+e 91.
 
 
-LaTeX Warning: Citation `Kim:2006p1063' undefined on input line 89.
+LaTeX Warning: Citation `Kim:2006p1063' undefined on input line 91.
 
 
-LaTeX Warning: Citation `Matsumoto:2009p7219' undefined on input line 89.
+LaTeX Warning: Citation `Matsumoto:2009p7219' undefined on input line 91.
 
 
-LaTeX Warning: Citation `Smith:2011p8133' undefined on input line 89.
+LaTeX Warning: Citation `Smith:2011p8133' undefined on input line 91.
 
 
-LaTeX Warning: Citation `Rao:2001p9457' undefined on input line 89.
+LaTeX Warning: Citation `Rao:2001p9457' undefined on input line 93.
 
 
-LaTeX Warning: Citation `Geman:1p9469' undefined on input line 89.
+LaTeX Warning: Citation `Geman:1p9469' undefined on input line 93.
 
 [9]
 
-LaTeX Warning: Citation `Akaike:1974p9530' undefined on input line 91.
+LaTeX Warning: Citation `Akaike:1974p9530' undefined on input line 95.
 
 
-LaTeX Warning: Citation `Anderson:2000p9475' undefined on input line 91.
+LaTeX Warning: Citation `Wagenmakers:2004p9472' undefined on input line 95.
 
 
-LaTeX Warning: Citation `Wagenmakers:2004p9472' undefined on input line 91.
+LaTeX Warning: Citation `Anderson:2000p9475' undefined on input line 95.
 
 
-Underfull \vbox (badness 3601) has occurred while \output is active []
+LaTeX Warning: Citation `Burnham:2004p9621' undefined on input line 103.
 
- [10]
+[10]
 
-LaTeX Warning: Citation `Burnham:2004p9621' undefined on input line 99.
-
-
-LaTeX Warning: Citation `Forster:2000p9623' undefined on input line 101.
+LaTeX Warning: Citation `Forster:2000p9623' undefined on input line 105.
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 104--104
+Underfull \hbox (badness 3323) in paragraph at lines 108--108
 [][]\OT1/cmr/m/n/10 Likelihood for model $\OML/cmm/m/it/10 k$ \OT1/cmr/m/n/10 a
 mong $\OML/cmm/m/it/10 K$ \OT1/cmr/m/n/10 work-ing hy-pothe-ses/models is given
  by $\OML/cmm/m/it/10 L[] \OT1/cmr/m/n/10 =
@@ -532,13 +468,13 @@ mong $\OML/cmm/m/it/10 K$ \OT1/cmr/m/n/10 work-ing hy-pothe-ses/models is given
 
 [11]
 
-LaTeX Warning: Citation `McKinley:1996p9532' undefined on input line 106.
+LaTeX Warning: Citation `McKinley:1996p9532' undefined on input line 110.
 
 
-LaTeX Warning: Citation `Maddox:2001p9533' undefined on input line 106.
+LaTeX Warning: Citation `Maddox:2001p9533' undefined on input line 110.
 
 
-LaTeX Warning: Citation `Friston:1998p2022' undefined on input line 115.
+LaTeX Warning: Citation `Friston:1998p2022' undefined on input line 118.
 
 [12]
 Underfull \hbox (badness 10000) in paragraph at lines 120--121
@@ -583,423 +519,199 @@ esults\OT1/cmr/m/n/12 .
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4193) has occurred while \output is active []
 
  [13]
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.131     Number & Code & Family &
-                                   Description \\ \hline
-? 
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.132          1 & 0\_1 & boxcar &
-                                   The simplest model, a univariate analysis...
-
-? 
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.133          2 & acc & control\_reward &
-                                           Behavioral accuracy. \\ \hline
-? q
-OK, entering \batchmode...
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.134          3 & acc\_exp & control\_reward &
-                                                Behavioral accuracy, diminis...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.135          4 & acc\_gauss & control\_reward &
-                                                  Behavioral accuracy, dimin...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.136          5 & gl & control\_reward &
-                                          Gains and losses. \\ \hline
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.137          6 & gl\_exp & control\_reward &
-                                               Gains and losses, diminished ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.138          7 & gl\_gauss & control\_reward &
-                                                 Gains and losses, diminishe...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.139          8 & rpe\_acc & rpe &
-                                    Reward prediction error - derived from a...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.140          9 & rpe\_acc\_exp & rpe &
-                                         Reward prediction error - derived f...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.141         10 & rpe\_acc\_gauss & rpe &
-                                           Reward prediction error - derived...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.142         11 & value\_acc & value &
-                                        Value - derived from accuracy. \\ \h...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.143         12 & value\_acc\_exp & value &
-                                             Value - derived from accuracy d...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.144         13 & value\_acc\_guass & value &
-                                               Value - derived from accuracy...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.145         14 & rpe\_gl & rpe &
-                                   Reward prediction error - derived from ga...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.146         15 & rpe\_gl\_exp & rpe &
-                                        Reward prediction error - derived fr...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.147         16 & rpe\_gl\_gauss & rpe &
-                                          Reward prediction error - derived ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.148         17 & value\_gl & value &
-                                       Value - derived from gains and losses...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.149         18 & value\_gl\_exp & value &
-                                            Value - derived from gains and l...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \hbox (399.90073pt too wide) in alignment at lines 127--149
- [] [] [] 
+Underfull \hbox (badness 1681) in paragraph at lines 140--140
+[]|\OT1/cmr/m/n/12 Reward pre-dic-tion er-ror - de-
  []
 
- [14]
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.150         19 & value\_gl\_gauss & value &
-                                              Value - derived from gains and...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
 
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.151         20 & exp & control\_similarity &
-                                               Outcome similarity (exponenti...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.152         21 & gauss & control\_similarity &
-                                                 Outcome similarity (Gaussia...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.153         22 & angle & control\_similarity &
-                                                 Grating angle parameter. \\...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.154         23 &width & control\_similarity &
-                                                Grating width parameter. \\ ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \hbox (399.90073pt too wide) in alignment at lines 149--170
- [] [] [] 
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/12 Outcome sim-i-lar-ity (ex-po-nen-
  []
 
- [15]
-Overfull \hbox (399.90073pt too wide) in alignment at lines 170--180
- [] [] [] 
- []
+[14] [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16] [17] [18] [19] [20]
-<f_meanbar_run4_c_aic_w_bilat_Caudate.pdf, id=186, 433.62pt x 433.62pt>
+ [16]
+[17] [18]
+<f_meanbar_run4_c_aic_w_bilat_Caudate.pdf, id=178, 433.62pt x 433.62pt>
 File: f_meanbar_run4_c_aic_w_bilat_Caudate.pdf Graphic file (type pdf)
- <use f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>
+
+<use f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Caudate.pdf used on input
- line 202.
+ line 179.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
-<f_plot_run4_c_fvalue_bilat_Caudate.pdf, id=187, 433.62pt x 433.62pt>
+<f_plot_run4_c_fvalue_bilat_Caudate.pdf, id=179, 433.62pt x 433.62pt>
 File: f_plot_run4_c_fvalue_bilat_Caudate.pdf Graphic file (type pdf)
- <use f_plot_run4_c_fvalue_bilat_Caudate.pdf>
+
+<use f_plot_run4_c_fvalue_bilat_Caudate.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Caudate.pdf used on input l
-ine 208.
+ine 185.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
-<f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf, id=188, 433.62pt x 433.62pt>
+<f_meanbar_run4_c_aic_w_bilat_Putamen.pdf, id=180, 433.62pt x 433.62pt>
+File: f_meanbar_run4_c_aic_w_bilat_Putamen.pdf Graphic file (type pdf)
+
+<use f_meanbar_run4_c_aic_w_bilat_Putamen.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Putamen.pdf used on input
+ line 192.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+
+<f_plot_run4_c_fvalue_bilat_Putamen.pdf, id=181, 433.62pt x 433.62pt>
+File: f_plot_run4_c_fvalue_bilat_Putamen.pdf Graphic file (type pdf)
+
+<use f_plot_run4_c_fvalue_bilat_Putamen.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Putamen.pdf used on input l
+ine 198.
+(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+
+<f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf, id=182, 433.62pt x 433.62pt>
 File: f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf Graphic file (type pdf)
- <use f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf>
+
+<use f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf used on inp
-ut line 217.
+ut line 206.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
-<f_plot_run4_c_fvalue_bilat_Accumbens.pdf, id=189, 433.62pt x 433.62pt>
+<f_plot_run4_c_fvalue_bilat_Accumbens.pdf, id=183, 433.62pt x 433.62pt>
 File: f_plot_run4_c_fvalue_bilat_Accumbens.pdf Graphic file (type pdf)
- <use f_plot_run4_c_fvalue_bilat_Accumbens.pdf>
+
+<use f_plot_run4_c_fvalue_bilat_Accumbens.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Accumbens.pdf used on input
- line 223.
+ line 212.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+ [19] [20 <./f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>] [21 <./f_plot_run4_c_fv
+alue_bilat_Caudate.pdf>] [22 <./f_meanbar_run4_c_aic_w_bilat_Putamen.pdf>] [23 
+<./f_plot_run4_c_fvalue_bilat_Putamen.pdf>] [24 <./f_meanbar_run4_c_aic_w_bilat
+_Accumbens.pdf>] [25 <./f_plot_run4_c_fvalue_bilat_Accumbens.pdf>]
+<f_meanbar_run4_c_aic_w_Insular_Cortex.pdf, id=256, 433.62pt x 252.945pt>
+File: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf Graphic file (type pdf)
 
-<f_meanbar_run4_c_aic_w_bilat_Amygdala.pdf, id=190, 433.62pt x 433.62pt>
-File: f_meanbar_run4_c_aic_w_bilat_Amygdala.pdf Graphic file (type pdf)
- <use f_meanbar_run4_c_aic_w_bilat_Amygdala.pdf>
-Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Amygdala.pdf used on inpu
-t line 231.
-(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+<use f_meanbar_run4_c_aic_w_Insular_Cortex.pdf>
+Package pdftex.def Info: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf used on inpu
+t line 227.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_bilat_Amygdala.pdf, id=191, 433.62pt x 433.62pt>
-File: f_plot_run4_c_fvalue_bilat_Amygdala.pdf Graphic file (type pdf)
- <use f_plot_run4_c_fvalue_bilat_Amygdala.pdf>
-Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Amygdala.pdf used on input 
-line 237.
-(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+<f_plot_run4_c_fvalue_Insular_Cortex.pdf, id=257, 433.62pt x 252.945pt>
+File: f_plot_run4_c_fvalue_Insular_Cortex.pdf Graphic file (type pdf)
 
-<f_meanbar_run4_c_aic_w_bilat_Hippocampus.pdf, id=192, 433.62pt x 433.62pt>
-File: f_meanbar_run4_c_aic_w_bilat_Hippocampus.pdf Graphic file (type pdf)
- <use f_meanbar_run4_c_aic_w_bilat_Hippocampus.pdf>
-Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Hippocampus.pdf used on i
-nput line 245.
-(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
+<use f_plot_run4_c_fvalue_Insular_Cortex.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_Insular_Cortex.pdf used on input 
+line 233.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_bilat_Hippocampus.pdf, id=193, 433.62pt x 433.62pt>
-File: f_plot_run4_c_fvalue_bilat_Hippocampus.pdf Graphic file (type pdf)
- <use f_plot_run4_c_fvalue_bilat_Hippocampus.pdf>
-Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Hippocampus.pdf used on inp
-ut line 251.
-(pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
- [21] [22 <./f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>] [23 <./f_plot_run4_c_fv
-alue_bilat_Caudate.pdf>] [24 <./f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf>] [2
-5 <./f_plot_run4_c_fvalue_bilat_Accumbens.pdf>] [26 <./f_meanbar_run4_c_aic_w_b
-ilat_Amygdala.pdf>] [27 <./f_plot_run4_c_fvalue_bilat_Amygdala.pdf>] [28 <./f_m
-eanbar_run4_c_aic_w_bilat_Hippocampus.pdf>] [29 <./f_plot_run4_c_fvalue_bilat_H
-ippocampus.pdf>]
-<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf, id=286, 433.62pt
+<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf, id=258, 433.62pt
  x 252.945pt>
 File: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf Graphic file
  (type pdf)
 
 <use f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_divisi
-on.pdf used on input line 264.
+on.pdf used on input line 241.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf, id=287, 433.62pt x
+<f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf, id=259, 433.62pt x
  252.945pt>
 File: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf Graphic file (
 type pdf)
-
-<use f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>
+ <use f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division
-.pdf used on input line 270.
+.pdf used on input line 247.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf, id=288, 433.62p
+<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf, id=260, 433.62p
 t x 252.945pt>
 File: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf Graphic fil
 e (type pdf)
 
 <use f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_divis
-ion.pdf used on input line 278.
+ion.pdf used on input line 255.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf, id=289, 433.62pt 
+<f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf, id=261, 433.62pt 
 x 252.945pt>
 File: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf Graphic file 
 (type pdf)
-
-<use f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf>
+ <use f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_divisio
-n.pdf used on input line 284.
+n.pdf used on input line 261.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf, id=290, 433.62pt x 252.945pt
+<f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf, id=262, 433.62pt x 252.945pt
 >
 File: f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
  <use f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf used 
-on input line 292.
+on input line 269.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf, id=291, 433.62pt x 252.945pt>
+<f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf, id=263, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
- <use f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>
+
+<use f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf used on
- input line 298.
+ input line 275.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf, id=292, 433.62pt x 252.945p
+<f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf, id=264, 433.62pt x 252.945p
 t>
 File: f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
 
-
-<use f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf>
+ <use f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf used
- on input line 306.
+ on input line 283.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf, id=293, 433.62pt x 252.945pt>
+<f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf, id=265, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
- <use f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf>
+<use f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf used o
-n input line 312.
+n input line 289.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_meanbar_run4_c_aic_w_Insular_Cortex.pdf, id=294, 433.62pt x 252.945pt>
-File: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf Graphic file (type pdf)
- <use f_meanbar_run4_c_aic_w_Insular_Cortex.pdf>
-Package pdftex.def Info: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf used on inpu
-t line 320.
-(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
-
-<f_plot_run4_c_fvalue_Insular_Cortex.pdf, id=295, 433.62pt x 252.945pt>
-File: f_plot_run4_c_fvalue_Insular_Cortex.pdf Graphic file (type pdf)
- <use f_plot_run4_c_fvalue_Insular_Cortex.pdf>
-Package pdftex.def Info: f_plot_run4_c_fvalue_Insular_Cortex.pdf used on input 
-line 326.
-(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
-
-<f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf, id=296, 433.62pt x 252.945pt>
+<f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf, id=266, 433.62pt x 252.945pt>
 File: f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
- <use f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf>
+<use f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf used o
-n input line 334.
+n input line 297.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
-<f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf, id=297, 433.62pt x 252.945pt>
+<f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf, id=267, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
- <use f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>
-Package pdftex.def Info: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf used on 
-input line 340.
-(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
- [30 <./f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf>] [31 <./f
-_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>] [32 <./f_meanbar_ru
-n4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf>] [33 <./f_plot_run4_c_fvalue
-_Cingulate_Gyrus_posterior_division.pdf>] [34 <./f_meanbar_run4_c_aic_w_Frontal
-_Medial_Cortex.pdf>] [35 <./f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>] [3
-6 <./f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf>] [37 <./f_plot_run4_c_f
-value_Frontal_Orbital_Cortex.pdf>] [38 <./f_meanbar_run4_c_aic_w_Insular_Cortex
-.pdf>] [39 <./f_plot_run4_c_fvalue_Insular_Cortex.pdf>] [40 <./f_meanbar_run4_c
-_aic_w_Middle_Frontal_Gyrus.pdf>] [41 <./f_plot_run4_c_fvalue_Middle_Frontal_Gy
-rus.pdf>] (./chap3.bbl) [42
 
+<use f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>
+Package pdftex.def Info: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf used on 
+input line 303.
+(pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
+ [26] [27 <./f_meanbar_run4_c_aic_w_Insular_Cortex.pdf>] [28 <./f_plot_run4_c_f
+value_Insular_Cortex.pdf>]
+[29 <./f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf>] [30 <./f_
+plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>] [31 <./f_meanbar_run
+4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf>] [32 <./f_plot_run4_c_fvalue_
+Cingulate_Gyrus_posterior_division.pdf>] [33 <./f_meanbar_run4_c_aic_w_Frontal_
+Medial_Cortex.pdf>] [34 <./f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>]
+[35 <./f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf>] [36 <./f_plot_run4_c
+_fvalue_Frontal_Orbital_Cortex.pdf>] [37 <./f_meanbar_run4_c_aic_w_Middle_Front
+al_Gyrus.pdf>] [38 <./f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>]
+(./chap3.bbl) [39
 
 ] (./chap3.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 3384 strings out of 493633
- 49686 string characters out of 3143378
- 128333 words of memory out of 3000000
+ 3382 strings out of 493633
+ 49358 string characters out of 3143378
+ 127195 words of memory out of 3000000
  6589 multiletter control sequences out of 15000+200000
  20089 words of font info for 74 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,1689b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,24p,1620b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -1020,10 +732,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2011/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on chap3.pdf (42 pages, 1707563 bytes).
+Output written on chap3.pdf (39 pages, 1693099 bytes).
 PDF statistics:
- 502 PDF objects out of 1000 (max. 8388607)
- 357 compressed objects within 4 object streams
+ 475 PDF objects out of 1000 (max. 8388607)
+ 337 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
