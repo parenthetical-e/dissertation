@@ -1,11 +1,87 @@
-TODO - rational for causal reasoning between neighbor models; the correction do not matter.  Noise is constant, and we know precisely the cause of any differences
+\documentclass[doc,12pt]{apa}        % use: 'man' for submission type; 'jou' for
+                                % journal type, and 'doc' for typical latex
+                                % but with figures inline with text
+\usepackage{geometry} 
+%\geometry{a4paper} 
+\usepackage[parfill]{parskip}   % paragraphs delimited by an empty line
 
-II is classic catergory, yet people used them at rewards with no apperent accuracy penalty.
+\usepackage{graphicx} 
+\usepackage{amssymb}            % no idea what this does...
+\usepackage{epstopdf}           % no idea what this does...
+%\usepackage{gensymb}            % no idea what this does...
 
-Our prototype category, inapcting the RPE is (nearly) a better predicter of BOLD changes.
+\usepackage{setspace}
 
-Simply stimuli generalize well (by inference, no training is needed) in humans and animals.  Mechanisticall how this occurs has not been studies.  I argue that the even Simple stimuli like tones have categorical representations and that these representations, reflected in the dopamenergic prediction errors, facilate stimulus generalization.  Note that the simplest animal generalize on the first new (related) example.  This means that categorical representation must be in place prior to that first event.  That is, categories are a native representation of the stimuli, not one learned after the fact.  And indeed a categorical basis for even simple stimuli is advantagoues; due to intrinsic noise in neuronal encoding the same stimulus viewed twice must have a different representation.  A categorical representation could (or should in any case) nativly overcome such noise. 
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png} \setcounter{secnumdepth}{0}  % no idea what this does...
+
+\usepackage{apacite}
+\usepackage{longtable}
+%%%%%%%%% END HEADER %%%%%%%%%
+
+\title{Rewards are categories.} 
+\author{Erik J. Peterson} \affiliation{Dept. of Psychology \\ Colorado State University \\ Fort Collins, CO} 
+
+%%%%%%%%%%%%%%%%
+\begin{document} 
+%%%%%%%%%%%%%%%%
+\maketitle
+\doublespacing
+
+\section{Discussion} % (fold)
+\label{sec:dicussion}
+To review, I wanted to know whether or not cognitive rewards are represented as categories in the human brain.  And whether such a representation might impact the reinforcement learning process.  To start to answer these two interrelated questions, I had participants complete a stimulus-response task using with pre-trained perceptual categories as rewards, one category for gains and one for losses.  And based on the behavioral and neural findings of this work, which I'll now discuss in detail, I conclude that cognitive rewards are indeed represented as categories.  And I'll further argue that category representations would be a reasonable mechanistic explanation for the generalization of secondary rewards.
+
+\subsection{Taking us to can}
+\label{sub:tocan}
+In the behavioral task reward were literally categories, information integration (II) categories to be specific.  II is classic category structure, much studied in humans and other animals \cite{Smith:2011p9101,Ashby:2011p9148,Smith:2010p9713}.  II categories are distinct from their contemporaries by requiring integration of multi-dimensional stimulus information, and so are difficult to verbally describe, while recruiting procedural memory which relies heavily on the dorsal striatum \cite{Ashby:1998p9716}.   This lack of verbalizbility and multi-dimensionality make the reward categories irreconcilably different than the classical rewards almost universally used human subjects studies (e.g ''Win \$1'', ``Correct!'', ``Yes!'').  Despite this, participants easily and rapidly learned using the II categories.  Performance, as measured by both accuracy and reaction times, were nearly identical to similar tasks using verbal rewards (p\pageref{subsub:wellbehaved}).  
+
+Further arguing for homology between the reward kinds, the overall pattern of BOLD activity, i.e. all trials compared to the rest trials (p\pageref{sub:blob}), was also markedly similar to that observed in nearly identical tasks using classical rewards (for several examples see, \citeA{LopezPaniagua:2011p8296,Seger:2010p7188,Cincotta:2007p6672,Seger:2006p5447,Seger:2005pd}).
+
+The behavioral and neurological consistency observed in stimulus-response learning using classical and II reward categories means that perceptual categories can act as rewards and so, reversing that logic, rewards \emph{can be} categories.   Which leads naturally to the next analysis, whether the same neural algorithm(s) that mediate classical reward learning facilitate the reward categories actions as well.
+
+\subsection{Reflected in error(s)}
+\label{sub:inerror}
+\subsubsection{A Known Pair's Logic}
+\label{subsub:onestep}
+However before making any claims on the modeling data, I need to get some logical preliminaries out of the way.  Many of the models of interest are both covariate and dependent.  Under generic statistical circumstance it is difficult, or even impossible, to compare the fit of such models.  However in limited cases strong, even casual, conclusions are possible.   Inside the same family and coding scheme, there is a single change between many of the models.  For example, ``rpe\_acc'' and ``rpe\_acc\_guass'' differ only by the similarity adjustment of the reward (i.e. Eq~\ref{eq:rg} and \ref{eq:Sgauss}).  Because both models are fit to the same data\footnote{Using the same deterministic loss function} and so have identical signal-to-noise ratios, the 1.5\footnote{Bilateral average} fold increase in information that comes from using ``rpe\_acc\_guass'' in the dorsal caudate \emph{must} be caused by that single change \cite{Pearl:2010p9726}.  So while 1.5 would be small increase when comparing two noisy random variates \cite{Anderson:2000p9475,Forster:2000p9623}, I argue that, (1) because uncertainty is constant between the fits, and (2) because we also know the exact relation between two models, and (3) that the models prediction's only sometimes diverge (compare columns in Figure~\ref{fig:rpeacc}), 1.5 should instead be considered strong evidence when paired models are compared.
+
+\subsubsection{Categories, in all the right spots}
+\label{subsub:rightspots}
+Of the regions examined, only the striatum (i.e. the dorsal caudate, putamen, and ventral striatum), along with the ACC and PCC, 
+ 
+
+Head, ACC, PCC, Insula, mention in passing the PFC.  
+
+Then deal with the putamen
+
+What to say about the rest of cortex?
+
+\subsubsection{A fit inconsistency}
+\label{subsub:inconsistency}
+But what about the ``rpe\_acc'' bieng nearly the best.  I argues this is an artifact the dynamic range, solvable either by WM or adjustment.
+
+
+\subsection{Making a general sense}
+\label{sub:generalsense}
+Simply stimuli generalize well (by inference, no training is needed) in humans and animals.  Mechanistically how this occurs has not been studies.  I argue that the even Simple stimuli like tones have categorical representations and that these representations, reflected in the dopamenergic prediction errors, facilate stimulus generalization.  Note that the simplest animal generalize on the first new (related) example.  This means that categorical representation must be in place prior to that first event.  That is, categories are a native representation of the stimuli, not one learned after the fact.  And indeed a categorical basis for even simple stimuli is advantageous; due to intrinsic noise in neuronal encoding the same stimulus viewed twice must have a different representation.  A categorical representation could (or should in any case) nativly overcome such noise. 
 
 Simple rewards decay by exp/or guass too.  
 
-Generalizable representations, i.e. categories, are a basic feature.  This basic feature extended to rewards.  This is not to say specfics do not matter - O'Reilly's trade-off paper
+
+
+Based on .... TODO rewards are categories, or to be a bit less bold, rewards are categories? 
+
+\subsection{Future consequences}
+\label{sub:future}
+Open question is whether rewards are \emph{only} categories.  That black cat that crossed your path last Friday, or CATS (the musical), contrasted with category of all cats.  Generalizable representations, i.e. categories, are a basic feature.  This basic feature extended to rewards.  This is not to say specifics do not matter - O'Reilly's trade-off paper. The reward processing and category learning systems share a marked degree of overlap.
+
+The same argument or low outcome repeatability applies to robots or other computational agent just as well. In computer science treating reward category might allow the more flexible and rapid learning, as was the case for my human participants.  
+
+Behavioral predictions (however see scaling, WM).
+
+\clearpage
+\newpage
+\bibliography{bibmin}
+%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%
