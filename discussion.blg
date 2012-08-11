@@ -10,51 +10,74 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: bibmin.bib
+Repeated entry---line 3377 of file bibmin.bib
+ : @article{ODoherty:2003p6329
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8284 of file bibmin.bib
+ : @article{Ernst:2004p3998
+ :                         ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 8365 of file bibmin.bib
  : @article{Seger:2010p7188
  :                         ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 9414 of file bibmin.bib
+ : @article{Atallah:2004p5466
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9493 of file bibmin.bib
+ : @article{Tobler:2005p6373
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10825 of file bibmin.bib
+ : @article{Quilodran:2008p2645
+ :                             ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Pearl:2010p9726"
+Warning--I didn't find a database entry for "Schweimer:2006p9780"
+Warning--I didn't find a database entry for "Collins:2012p9779"
+Warning--I didn't find a database entry for "Ashby:1986p9783"
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 11 entries,
+You've used 35 entries,
             6361 wiz_defined-function locations,
-            1269 strings with 11934 characters,
-and the built_in function-call counts, 24212 in all, are:
-= -- 2924
-> -- 203
-< -- 1299
-+ -- 1465
-- -- 22
-* -- 1696
-:= -- 4776
-add.period$ -- 43
-call.type$ -- 11
-change.case$ -- 69
+            1443 strings with 17035 characters,
+and the built_in function-call counts, 78531 in all, are:
+= -- 9363
+> -- 697
+< -- 4280
++ -- 4732
+- -- 70
+* -- 5495
+:= -- 15382
+add.period$ -- 136
+call.type$ -- 35
+change.case$ -- 233
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 647
-empty$ -- 844
-format.name$ -- 361
-if$ -- 4338
+cite$ -- 70
+duplicate$ -- 2201
+empty$ -- 2752
+format.name$ -- 1253
+if$ -- 14043
 int.to.chr$ -- 0
-int.to.str$ -- 22
+int.to.str$ -- 70
 missing$ -- 0
-newline$ -- 280
-num.names$ -- 88
-pop$ -- 305
+newline$ -- 892
+num.names$ -- 280
+pop$ -- 996
 preamble$ -- 1
-purify$ -- 58
+purify$ -- 198
 quote$ -- 0
-skip$ -- 1357
+skip$ -- 4391
 stack$ -- 0
-substring$ -- 1598
-swap$ -- 370
-text.length$ -- 36
+substring$ -- 5142
+swap$ -- 1226
+text.length$ -- 128
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 880
+type$ -- 2800
 warning$ -- 0
-while$ -- 129
+while$ -- 470
 width$ -- 0
-write$ -- 367
-(There was 1 error message)
+write$ -- 1194
+(There were 6 error messages)
