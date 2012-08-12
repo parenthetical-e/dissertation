@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 AUG 2012 01:31
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 AUG 2012 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -292,11 +292,15 @@ Class apa Warning: Abstract not defined.
 
 Using title for running head
 
+LaTeX Warning: Reference `subsub:whatwhen' on page 1 undefined on input line 35
+.
+
+
 LaTeX Warning: Reference `subsub:wellbehaved' on page 1 undefined on input line
  35.
 
 
-Underfull \vbox (badness 1983) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
 
@@ -353,6 +357,13 @@ LaTeX Warning: Reference `fig:fvalcaudate' on page 4 undefined on input line 51
 
 LaTeX Warning: Reference `fig:caudate' on page 4 undefined on input line 51.
 
+
+LaTeX Warning: Reference `fig:accumbens' on page 4 undefined on input line 53.
+
+
+LaTeX Warning: Reference `fig:fvalaccumbens' on page 4 undefined on input line 
+53.
+
 [4]
 
 LaTeX Warning: Reference `fig:rpeacc' on page 5 undefined on input line 57.
@@ -367,7 +378,10 @@ LaTeX Warning: Reference `denrpe' on page 5 undefined on input line 57.
 LaTeX Warning: Reference `subsub:codesandfits' on page 5 undefined on input lin
 e 57.
 
-[5]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
 
 LaTeX Warning: Reference `subsub:onsheet' on page 6 undefined on input line 59.
 
@@ -385,7 +399,10 @@ LaTeX Warning: Reference `fig:fig:denvalue' on page 6 undefined on input line 6
 
 LaTeX Warning: Reference `eq:softmax' on page 6 undefined on input line 63.
 
-[6]
+
+Underfull \vbox (badness 5970) has occurred while \output is active []
+
+ [6]
 
 LaTeX Warning: Reference `subsub:birds' on page 7 undefined on input line 68.
 
@@ -396,21 +413,28 @@ LaTeX Warning: Reference `subsub:curves' on page 7 undefined on input line 68.
 LaTeX Warning: Reference `subsub:catquant' on page 7 undefined on input line 68
 .
 
-[7] [8] [9] (./discussion.bbl [10
+[7] [8]
 
-] [11] [12] [13]) [14] (./discussion.aux)
+LaTeX Warning: Reference `fig:II' on page 9 undefined on input line 78.
+
+
+LaTeX Warning: Reference `sub:gen' on page 9 undefined on input line 80.
+
+[9] [10] (./discussion.bbl [11
+
+] [12] [13] [14]) [15] (./discussion.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3353 strings out of 493633
- 46458 string characters out of 3143378
- 112354 words of memory out of 3000000
- 6583 multiletter control sequences out of 15000+200000
+ 3375 strings out of 493633
+ 46858 string characters out of 3143378
+ 113820 words of memory out of 3000000
+ 6605 multiletter control sequences out of 15000+200000
  17751 words of font info for 65 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,1456b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,24p,1456b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -422,10 +446,10 @@ texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on discussion.pdf (14 pages, 165444 bytes).
+Output written on discussion.pdf (15 pages, 166957 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

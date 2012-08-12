@@ -10,70 +10,70 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: bibmin.bib
-Repeated entry---line 2747 of file bibmin.bib
- : @article{Ramnani:2004p5390
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2855 of file bibmin.bib
- : @article{Tobler:2005p6373
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 7236 of file bibmin.bib
+Repeated entry---line 1282 of file bibmin.bib
  : @article{Seger:2010p7188
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10077 of file bibmin.bib
+Repeated entry---line 3324 of file bibmin.bib
  : @article{ODoherty:2003p6329
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10678 of file bibmin.bib
+Repeated entry---line 3408 of file bibmin.bib
  : @article{Ernst:2004p3998
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11918 of file bibmin.bib
+Repeated entry---line 6142 of file bibmin.bib
+ : @article{Ramnani:2004p5390
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6507 of file bibmin.bib
+ : @article{Tobler:2005p6373
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10087 of file bibmin.bib
  : @article{Atallah:2004p5466
  :                           ,
 I'm skipping whatever remains of this entry
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 44 entries,
+You've used 48 entries,
             6361 wiz_defined-function locations,
-            1500 strings with 18356 characters,
-and the built_in function-call counts, 97287 in all, are:
-= -- 11627
-> -- 830
-< -- 5307
-+ -- 5821
-- -- 88
-* -- 6808
-:= -- 19172
-add.period$ -- 172
-call.type$ -- 44
-change.case$ -- 294
+            1526 strings with 18990 characters,
+and the built_in function-call counts, 105174 in all, are:
+= -- 12548
+> -- 926
+< -- 5651
++ -- 6221
+- -- 96
+* -- 7326
+:= -- 20503
+add.period$ -- 187
+call.type$ -- 48
+change.case$ -- 320
 chr.to.int$ -- 0
-cite$ -- 88
-duplicate$ -- 2675
-empty$ -- 3423
-format.name$ -- 1485
-if$ -- 17402
+cite$ -- 96
+duplicate$ -- 2961
+empty$ -- 3753
+format.name$ -- 1662
+if$ -- 18897
 int.to.chr$ -- 0
-int.to.str$ -- 88
+int.to.str$ -- 96
 missing$ -- 0
-newline$ -- 1105
-num.names$ -- 352
-pop$ -- 1224
+newline$ -- 1212
+num.names$ -- 384
+pop$ -- 1345
 preamble$ -- 1
-purify$ -- 250
+purify$ -- 272
 quote$ -- 0
-skip$ -- 5460
+skip$ -- 5953
 stack$ -- 0
-substring$ -- 6342
-swap$ -- 1512
-text.length$ -- 162
+substring$ -- 6784
+swap$ -- 1666
+text.length$ -- 176
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 3520
+type$ -- 3840
 warning$ -- 0
-while$ -- 572
+while$ -- 637
 width$ -- 0
-write$ -- 1462
+write$ -- 1612
 (There were 6 error messages)

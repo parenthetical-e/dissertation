@@ -193,6 +193,65 @@ Atlas, L\BPBI Y.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+B{\"u}chel%
+, Morris%
+, Dolan%
+\BCBL{}\ \BBA{} Friston%
+}{%
+B{\"u}chel%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{1998}}%
+}]{%
+Buchel:1998p9836}%
+\APACinsertmetastar{%
+Buchel:1998p9836}%
+B{\"u}chel, C.%
+, Morris, J.%
+, Dolan, R\BPBI J.%
+\BCBL{}\ \BBA{} Friston, K\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{May}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Brain systems mediating aversive conditioning: an
+  event-related fMRI study}{Brain systems mediating aversive conditioning: an
+  event-related fmri study}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuron}{20}{5}{947--57}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Chua%
+, Krams%
+, Toni%
+, Passingham%
+\BCBL{}\ \BBA{} Dolan%
+}{%
+Chua%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{1999}}%
+}]{%
+Chua:1999p9833}%
+\APACinsertmetastar{%
+Chua:1999p9833}%
+Chua, P.%
+, Krams, M.%
+, Toni, I.%
+, Passingham, R.%
+\BCBL{}\ \BBA{} Dolan, R.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{Jun}{}.
+\newblock
+\BBOQ{}\APACrefatitle{A functional anatomy of anticipatory anxiety}{A
+  functional anatomy of anticipatory anxiety}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{9}{6 Pt 1}{563--71}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Cincotta%
 \ \BBA{} Seger%
 }{%
@@ -245,6 +304,32 @@ Collins, A\BPBI G\BPBI E.%
   analysis}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Eur J Neurosci}{35}{7}{1024--35}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Elliott%
+, Friston%
+\BCBL{}\ \BBA{} Dolan%
+}{%
+Elliott%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2000}}%
+}]{%
+Elliott:2000p1637}%
+\APACinsertmetastar{%
+Elliott:2000p1637}%
+Elliott, R.%
+, Friston, K\BPBI J.%
+\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{Aug}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Dissociable neural responses in human reward
+  systems}{Dissociable neural responses in human reward systems}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Neurosci}{20}{16}{6159--65}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -643,6 +728,34 @@ Pearl, J.%
   causal inference}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Int J Biostat}{6}{2}{Article 7}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Phillips%
+\ \protect\BOthers{.}}{%
+Phillips%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{1998}}%
+}]{%
+Phillips:1998p9834}%
+\APACinsertmetastar{%
+Phillips:1998p9834}%
+Phillips, M\BPBI L.%
+, Young, A\BPBI W.%
+, Scott, S\BPBI K.%
+, Calder, A\BPBI J.%
+, Andrew, C.%
+, Giampietro, V.%
+\BCBL{}\ \BOthersPeriod{.}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{Oct}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Neural responses to facial and vocal expressions of fear
+  and disgust}{Neural responses to facial and vocal expressions of fear and
+  disgust}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Proc Biol Sci}{265}{1408}{1809--17}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -1091,6 +1204,31 @@ Smith, K\BPBI S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Sutton%
+\ \BBA{} Barto%
+}{%
+Sutton%
+\ \BBA{} Barto%
+}{%
+{\protect\APACyear{1998}}%
+}]{%
+Sutton:1998p9247}%
+\APACinsertmetastar{%
+Sutton:1998p9247}%
+Sutton, R\BPBI S.%
+\BCBT{}\ \BBA{} Barto, A\BPBI G.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Reinforcement Learning: An Introduction}{Reinforcement
+  learning: An introduction}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{MIT Press}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Tobler%
 , Fiorillo%
 \BCBL{}\ \BBA{} Schultz%
@@ -1140,33 +1278,6 @@ Tricomi, E.%
   achievement on a declarative memory task}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuroimage}{41}{3}{1154--67}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Valentin%
-\ \BBA{} O'Doherty%
-}{%
-Valentin%
-\ \BBA{} O'Doherty%
-}{%
-{\protect\APACyear{2009}}%
-}]{%
-Valentin:2009p7202}%
-\APACinsertmetastar{%
-Valentin:2009p7202}%
-Valentin, V\BPBI V.%
-\BCBT{}\ \BBA{} O'Doherty, J\BPBI P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Overlapping prediction errors in dorsal striatum during
-  instrumental learning with juice and money reward in the human
-  brain}{Overlapping prediction errors in dorsal striatum during instrumental
-  learning with juice and money reward in the human brain}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Physiol.}{102}{6}{3384--91}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
