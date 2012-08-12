@@ -1,5 +1,5 @@
 \contentsline {section}{Introduction}{3}
-\contentsline {subsection}{Classics, Expectations and Tissues}{4}
+\contentsline {subsection}{Classics, Expectations, and Tissues}{4}
 \contentsline {subsection}{Bad Prediction, No Cookie}{13}
 \contentsline {subsection}{Thinking About Thinking Rewarding Thoughts}{17}
 \contentsline {subsection}{Generally Generalizable.}{20}
