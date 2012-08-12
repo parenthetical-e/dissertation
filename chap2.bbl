@@ -1,10 +1,10 @@
 \begin{thebibliography}{}
 
 \bibitem[\protect\citeauthoryear{%
-F.~Ashby%
+Ashby%
 \ \BBA{} Alfonso-Reese%
 }{%
-F.~Ashby%
+Ashby%
 \ \BBA{} Alfonso-Reese%
 }{%
 {\protect\APACyear{1995}}%
@@ -12,7 +12,7 @@ F.~Ashby%
 Ashby:1995p9109}%
 \APACinsertmetastar{%
 Ashby:1995p9109}%
-Ashby, F.%
+Ashby, F\BPBI G.%
 \BCBT{}\ \BBA{} Alfonso-Reese, L.%
 %
 \unskip\
@@ -26,10 +26,10 @@ Ashby, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-F.~Ashby%
+Ashby%
 \ \BBA{} Ennis%
 }{%
-F.~Ashby%
+Ashby%
 \ \BBA{} Ennis%
 }{%
 {\protect\APACyear{2006}}%
@@ -37,7 +37,7 @@ F.~Ashby%
 Ashby:2006p9153}%
 \APACinsertmetastar{%
 Ashby:2006p9153}%
-Ashby, F.%
+Ashby, F\BPBI G.%
 \BCBT{}\ \BBA{} Ennis, J.%
 %
 \unskip\
@@ -51,10 +51,10 @@ Ashby, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-F\BPBI G.~Ashby%
+Ashby%
 \ \BBA{} OBrien%
 }{%
-F\BPBI G.~Ashby%
+Ashby%
 \ \BBA{} OBrien%
 }{%
 {\protect\APACyear{2005}}%

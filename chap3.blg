@@ -10,58 +10,58 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: bibmin.bib
-Repeated entry---line 6879 of file bibmin.bib
- : @article{Wager:2003p2980
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 10266 of file bibmin.bib
+Repeated entry---line 5657 of file bibmin.bib
  : @article{Birn:2002p1777
  :                        ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Collignon:1995p9347"
-Warning--I didn't find a database entry for "Ashburner:1997p9348"
-Warning--I didn't find a database entry for "Ashburner:1999p9350"
-Warning--I didn't find a database entry for "Kruggel:1999p9351"
+Repeated entry---line 8365 of file bibmin.bib
+ : @article{Seger:2010p7188
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8465 of file bibmin.bib
+ : @article{Wager:2003p2980
+ :                         ,
+I'm skipping whatever remains of this entry
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 6 entries,
+You've used 31 entries,
             6361 wiz_defined-function locations,
-            1234 strings with 10890 characters,
-and the built_in function-call counts, 13626 in all, are:
-= -- 1616
-> -- 103
-< -- 793
-+ -- 851
-- -- 12
-* -- 977
-:= -- 2852
-add.period$ -- 24
-call.type$ -- 6
-change.case$ -- 42
+            1401 strings with 15466 characters,
+and the built_in function-call counts, 65014 in all, are:
+= -- 7720
+> -- 549
+< -- 3518
++ -- 3749
+- -- 62
+* -- 4568
+:= -- 12879
+add.period$ -- 123
+call.type$ -- 31
+change.case$ -- 201
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 318
-empty$ -- 455
-format.name$ -- 175
-if$ -- 2364
+cite$ -- 62
+duplicate$ -- 1720
+empty$ -- 2364
+format.name$ -- 964
+if$ -- 11665
 int.to.chr$ -- 0
-int.to.str$ -- 12
+int.to.str$ -- 62
 missing$ -- 0
-newline$ -- 150
-num.names$ -- 48
-pop$ -- 157
+newline$ -- 764
+num.names$ -- 248
+pop$ -- 817
 preamble$ -- 1
-purify$ -- 36
+purify$ -- 170
 quote$ -- 0
-skip$ -- 747
+skip$ -- 3750
 stack$ -- 0
-substring$ -- 914
-swap$ -- 193
-text.length$ -- 24
+substring$ -- 4064
+swap$ -- 1022
+text.length$ -- 108
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 480
+type$ -- 2480
 warning$ -- 0
-while$ -- 71
+while$ -- 362
 width$ -- 0
-write$ -- 192
-(There were 2 error messages)
+write$ -- 990
+(There were 3 error messages)

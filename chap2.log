@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 AUG 2012 18:43
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  11 AUG 2012 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -317,26 +317,26 @@ Package pdftex.def Info: f_all_sS_rt.pdf used on input line 71.
 File: f_all_mean_acc.pdf Graphic file (type pdf)
 
 <use f_all_mean_acc.pdf>
-Package pdftex.def Info: f_all_mean_acc.pdf used on input line 81.
+Package pdftex.def Info: f_all_mean_acc.pdf used on input line 82.
 (pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
  <f_all_mean_rt.pdf, id=32, 144.54pt x 144.54pt>
 File: f_all_mean_rt.pdf Graphic file (type pdf)
 
 <use f_all_mean_rt.pdf>
-Package pdftex.def Info: f_all_mean_rt.pdf used on input line 88.
+Package pdftex.def Info: f_all_mean_rt.pdf used on input line 89.
 (pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
 
 
-LaTeX Warning: Reference `subsub:curves' on page 6 undefined on input line 98.
+LaTeX Warning: Reference `subsub:curves' on page 6 undefined on input line 99.
 
 [6 <./f_II.pdf>] [7 <./f_all_sS_acc.pdf>] [8 <./f_all_sS_rt.pdf>] [9 <./f_all_m
 ean_acc.pdf> <./f_all_mean_rt.pdf>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 102.
+LaTeX Font Info:    Try loading font information for U+msa on input line 103.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 102.
+LaTeX Font Info:    Try loading font information for U+msb on input line 103.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -356,19 +356,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <f_logL.pdf, id=176, 216.81pt x 144.54pt>
 File: f_logL.pdf Graphic file (type pdf)
  <use f_logL.pdf>
-Package pdftex.def Info: f_logL.pdf used on input line 160.
+Package pdftex.def Info: f_logL.pdf used on input line 161.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
 <f_alpha.pdf, id=177, 216.81pt x 144.54pt>
 File: f_alpha.pdf Graphic file (type pdf)
  <use f_alpha.pdf>
-Package pdftex.def Info: f_alpha.pdf used on input line 167.
+Package pdftex.def Info: f_alpha.pdf used on input line 168.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
 <f_beta.pdf, id=178, 216.81pt x 144.54pt>
 File: f_beta.pdf Graphic file (type pdf)
  <use f_beta.pdf>
-Package pdftex.def Info: f_beta.pdf used on input line 174.
+Package pdftex.def Info: f_beta.pdf used on input line 175.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -378,62 +378,62 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15 <./f_alpha.pdf>]
 
-LaTeX Warning: Reference `subsub:fclt' on page 16 undefined on input line 188.
+LaTeX Warning: Reference `subsub:fclt' on page 16 undefined on input line 189.
 
 [16 <./f_beta.pdf>] <f_rpe_acc.pdf, id=206, 433.62pt x 867.24pt>
 File: f_rpe_acc.pdf Graphic file (type pdf)
 
 <use f_rpe_acc.pdf>
-Package pdftex.def Info: f_rpe_acc.pdf used on input line 191.
+Package pdftex.def Info: f_rpe_acc.pdf used on input line 192.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 195.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 196.
 
 <f_rpe_gl.pdf, id=207, 433.62pt x 867.24pt>
 File: f_rpe_gl.pdf Graphic file (type pdf)
  <use f_rpe_gl.pdf>
-Package pdftex.def Info: f_rpe_gl.pdf used on input line 197.
+Package pdftex.def Info: f_rpe_gl.pdf used on input line 198.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 201.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 202.
 
 <f_value_acc.pdf, id=208, 433.62pt x 867.24pt>
 File: f_value_acc.pdf Graphic file (type pdf)
  <use f_value_acc.pdf>
-Package pdftex.def Info: f_value_acc.pdf used on input line 204.
+Package pdftex.def Info: f_value_acc.pdf used on input line 205.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 208.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 209.
 
 <f_value_gl.pdf, id=209, 433.62pt x 867.24pt>
 File: f_value_gl.pdf Graphic file (type pdf)
  <use f_value_gl.pdf>
-Package pdftex.def Info: f_value_gl.pdf used on input line 210.
+Package pdftex.def Info: f_value_gl.pdf used on input line 211.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 214.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 215.
 
 <f_density_rpe.pdf, id=210, 433.62pt x 216.81pt>
 File: f_density_rpe.pdf Graphic file (type pdf)
  <use f_density_rpe.pdf>
-Package pdftex.def Info: f_density_rpe.pdf used on input line 216.
+Package pdftex.def Info: f_density_rpe.pdf used on input line 217.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 216--218
+Overfull \hbox (3.61432pt too wide) in paragraph at lines 217--219
  [][] 
  []
 
 <f_density_value.pdf, id=211, 433.62pt x 216.81pt>
 File: f_density_value.pdf Graphic file (type pdf)
  <use f_density_value.pdf>
-Package pdftex.def Info: f_density_value.pdf used on input line 223.
+Package pdftex.def Info: f_density_value.pdf used on input line 224.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 223--225
+Overfull \hbox (3.61432pt too wide) in paragraph at lines 224--226
  [][] 
  []
 
@@ -447,10 +447,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3263 strings out of 493633
- 44920 string characters out of 3143378
- 111427 words of memory out of 3000000
- 6480 multiletter control sequences out of 15000+200000
+ 3264 strings out of 493633
+ 44940 string characters out of 3143378
+ 111366 words of memory out of 3000000
+ 6481 multiletter control sequences out of 15000+200000
  19920 words of font info for 73 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  42i,8n,24p,1872b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -470,7 +470,7 @@ ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
 011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
 1/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on chap2.pdf (25 pages, 941483 bytes).
+Output written on chap2.pdf (25 pages, 941446 bytes).
 PDF statistics:
  331 PDF objects out of 1000 (max. 8388607)
  238 compressed objects within 3 object streams
