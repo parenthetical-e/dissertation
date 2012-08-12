@@ -12,4 +12,9 @@
 \contentsline {subsection}{Mobs of Blobs}{50}
 \contentsline {subsection}{Regions and Models}{54}
 \contentsline {subsection}{Model Results}{63}
-\contentsline {section}{References}{86}
+\contentsline {section}{Discussion}{86}
+\contentsline {subsection}{Taking Us to Can}{86}
+\contentsline {subsection}{Are, Reflected in Error(s)}{87}
+\contentsline {subsection}{The Big Conclusion}{93}
+\contentsline {subsection}{Future Work}{93}
+\contentsline {section}{References}{95}

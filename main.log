@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 AUG 2012 14:49
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 AUG 2012 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -761,11 +761,29 @@ Cingulate_Gyrus_posterior_division.pdf>] [80 <./f_meanbar_run4_c_aic_w_Frontal_
 Orbital_Cortex.pdf>] [81 <./f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf>]
 [82 <./f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf>] [83 <./f_plot_run4_c_
 fvalue_Frontal_Medial_Cortex.pdf>] [84 <./f_meanbar_run4_c_aic_w_Middle_Frontal
-_Gyrus.pdf>] [85 <./f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>] (./main.bbl
-[86
+_Gyrus.pdf>] [85 <./f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>] [86
 
-] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100]
-[101]) [102] (./main.aux)
+]
+[87] [88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89]
+
+LaTeX Warning: Reference `denrpe' on page 90 undefined on input line 684.
+
+[90]
+
+LaTeX Warning: Reference `fig:fig:denvalue' on page 91 undefined on input line 
+690.
+
+[91]
+Underfull \vbox (badness 5970) has occurred while \output is active []
+
+ [92]
+[93] [94] (./main.bbl [95
+
+] [96] [97] [98] [99] [100] [101] [102] [103] [104]
+[105] [106] [107] [108] [109] [110] [111] [112]) [113] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -774,13 +792,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4111 strings out of 493633
- 64142 string characters out of 3143378
- 148791 words of memory out of 3000000
- 7300 multiletter control sequences out of 15000+200000
+ 4206 strings out of 493633
+ 66048 string characters out of 3143378
+ 151346 words of memory out of 3000000
+ 7395 multiletter control sequences out of 15000+200000
  20089 words of font info for 74 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,2035b,412s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,24p,2035b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -801,10 +819,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2011/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (102 pages, 2561364 bytes).
+Output written on main.pdf (113 pages, 2583428 bytes).
 PDF statistics:
- 858 PDF objects out of 1000 (max. 8388607)
- 607 compressed objects within 7 object streams
+ 894 PDF objects out of 1000 (max. 8388607)
+ 632 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
