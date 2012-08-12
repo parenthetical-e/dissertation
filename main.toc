@@ -1,0 +1,15 @@
+\contentsline {section}{Introduction}{3}
+\contentsline {subsection}{Classics, Expectations and Tissues}{4}
+\contentsline {subsection}{Bad Prediction, No Cookie}{13}
+\contentsline {subsection}{Thinking About Thinking Rewarding Thoughts}{17}
+\contentsline {subsection}{Generally Generalizable.}{20}
+\contentsline {subsection}{Why Are We Here Again?}{24}
+\contentsline {section}{Chapter 2 -- Task and Models}{25}
+\contentsline {subsection}{On Task}{25}
+\contentsline {subsection}{3 Models and 2 Codes}{33}
+\contentsline {section}{Chapter 3 -- fMRI analyses}{47}
+\contentsline {subsection}{An Acquisition}{47}
+\contentsline {subsection}{Mobs of Blobs}{50}
+\contentsline {subsection}{Regions and Models}{54}
+\contentsline {subsection}{Model Results}{63}
+\contentsline {section}{References}{86}
