@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 AUG 2012 01:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 AUG 2012 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -221,18 +221,18 @@ LaTeX Warning: Label `sec:task_and_models' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
  (/Users/type/Library/texmf/tex/latex/apa/english.apa
 File: english.apa 2006/01/01
 )
@@ -292,11 +292,11 @@ NOT AUSTRALIAN!!!
 \everyMPtoPDFconversion=\toks19
 )
 Using title for running head
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -346,7 +346,7 @@ Underfull \vbox (badness 3058) has occurred while \output is active []
 <f_task.png, id=98, 1027.84pt x 770.88pt>
 File: f_task.png Graphic file (type png)
  <use f_task.png>
-Package pdftex.def Info: f_task.png used on input line 175.
+Package pdftex.def Info: f_task.png used on input line 177.
 (pdftex.def)             Requested size: 430.00462pt x 322.50879pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -355,22 +355,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <f_II.pdf, id=103, 289.08pt x 216.81pt>
 File: f_II.pdf Graphic file (type pdf)
  <use f_II.pdf>
-Package pdftex.def Info: f_II.pdf used on input line 182.
+Package pdftex.def Info: f_II.pdf used on input line 184.
 (pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
 
 <f_all_sS_acc.pdf, id=104, 289.08pt x 505.89pt>
 File: f_all_sS_acc.pdf Graphic file (type pdf)
  <use f_all_sS_acc.pdf>
-Package pdftex.def Info: f_all_sS_acc.pdf used on input line 190.
+Package pdftex.def Info: f_all_sS_acc.pdf used on input line 192.
 (pdftex.def)             Requested size: 289.07928pt x 505.88875pt.
 
 
-LaTeX Warning: Float too large for page by 6.34137pt on input line 194.
+LaTeX Warning: Float too large for page by 6.34137pt on input line 196.
 
 <f_all_sS_rt.pdf, id=105, 289.08pt x 505.89pt>
 File: f_all_sS_rt.pdf Graphic file (type pdf)
  <use f_all_sS_rt.pdf>
-Package pdftex.def Info: f_all_sS_rt.pdf used on input line 197.
+Package pdftex.def Info: f_all_sS_rt.pdf used on input line 199.
 (pdftex.def)             Requested size: 289.07928pt x 505.88875pt.
  [29 <./f_task.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -379,13 +379,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <f_all_mean_acc.pdf, id=215, 144.54pt x 144.54pt>
 File: f_all_mean_acc.pdf Graphic file (type pdf)
  <use f_all_mean_acc.pdf>
-Package pdftex.def Info: f_all_mean_acc.pdf used on input line 208.
+Package pdftex.def Info: f_all_mean_acc.pdf used on input line 210.
 (pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
 
 <f_all_mean_rt.pdf, id=216, 144.54pt x 144.54pt>
 File: f_all_mean_rt.pdf Graphic file (type pdf)
  <use f_all_mean_rt.pdf>
-Package pdftex.def Info: f_all_mean_rt.pdf used on input line 215.
+Package pdftex.def Info: f_all_mean_rt.pdf used on input line 217.
 (pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
 
 [33 <./f_all_mean_acc.pdf>]
@@ -404,19 +404,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <f_logL.pdf, id=252, 216.81pt x 144.54pt>
 File: f_logL.pdf Graphic file (type pdf)
  <use f_logL.pdf>
-Package pdftex.def Info: f_logL.pdf used on input line 287.
+Package pdftex.def Info: f_logL.pdf used on input line 289.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
 <f_alpha.pdf, id=253, 216.81pt x 144.54pt>
 File: f_alpha.pdf Graphic file (type pdf)
  <use f_alpha.pdf>
-Package pdftex.def Info: f_alpha.pdf used on input line 294.
+Package pdftex.def Info: f_alpha.pdf used on input line 296.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
 <f_beta.pdf, id=254, 216.81pt x 144.54pt>
 File: f_beta.pdf Graphic file (type pdf)
  <use f_beta.pdf>
-Package pdftex.def Info: f_beta.pdf used on input line 301.
+Package pdftex.def Info: f_beta.pdf used on input line 303.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -425,84 +425,84 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <f_rpe_acc.pdf, id=282, 433.62pt x 867.24pt>
 File: f_rpe_acc.pdf Graphic file (type pdf)
  <use f_rpe_acc.pdf>
-Package pdftex.def Info: f_rpe_acc.pdf used on input line 318.
+Package pdftex.def Info: f_rpe_acc.pdf used on input line 320.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 322.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 324.
 
 <f_rpe_gl.pdf, id=283, 433.62pt x 867.24pt>
 File: f_rpe_gl.pdf Graphic file (type pdf)
  <use f_rpe_gl.pdf>
-Package pdftex.def Info: f_rpe_gl.pdf used on input line 324.
+Package pdftex.def Info: f_rpe_gl.pdf used on input line 326.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 328.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 330.
 
 <f_value_acc.pdf, id=284, 433.62pt x 867.24pt>
 File: f_value_acc.pdf Graphic file (type pdf)
  <use f_value_acc.pdf>
-Package pdftex.def Info: f_value_acc.pdf used on input line 331.
+Package pdftex.def Info: f_value_acc.pdf used on input line 333.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 335.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 337.
 
 <f_value_gl.pdf, id=285, 433.62pt x 867.24pt>
 File: f_value_gl.pdf Graphic file (type pdf)
  <use f_value_gl.pdf>
-Package pdftex.def Info: f_value_gl.pdf used on input line 337.
+Package pdftex.def Info: f_value_gl.pdf used on input line 339.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 16.4867pt on input line 341.
+LaTeX Warning: Float too large for page by 16.4867pt on input line 343.
 
 <f_density_rpe.pdf, id=286, 433.62pt x 216.81pt>
 File: f_density_rpe.pdf Graphic file (type pdf)
  <use f_density_rpe.pdf>
-Package pdftex.def Info: f_density_rpe.pdf used on input line 343.
+Package pdftex.def Info: f_density_rpe.pdf used on input line 345.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 343--345
+Overfull \hbox (3.61432pt too wide) in paragraph at lines 345--347
  [][] 
  []
 
 <f_density_value.pdf, id=287, 433.62pt x 216.81pt>
 File: f_density_value.pdf Graphic file (type pdf)
  <use f_density_value.pdf>
-Package pdftex.def Info: f_density_value.pdf used on input line 350.
+Package pdftex.def Info: f_density_value.pdf used on input line 352.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 350--352
+Overfull \hbox (3.61432pt too wide) in paragraph at lines 352--354
  [][] 
  []
 
 [41] [42 <./f_rpe_acc.pdf>] [43 <./f_rpe_gl.pdf>] [44 <./f_value_acc.pdf>]
 [45 <./f_value_gl.pdf>] [46 <./f_density_rpe.pdf> <./f_density_value.pdf>]
-Overfull \hbox (7.67833pt too wide) in paragraph at lines 369--370
+Overfull \hbox (7.67833pt too wide) in paragraph at lines 371--372
 \OT1/cmr/m/n/12 com2nii (\OT1/cmtt/m/n/12 http://www.mccauslandcenter.sc.edu/mr
 icro/mricron/dcm2nii.html\OT1/cmr/m/n/12 ),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 \OT1/cmr/m/n/12 each dataset was sub-jected to the fol-low-ing pre-pro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 \OT1/cmr/m/n/12 cess-ing pipeline car-ried out in SPM8's batch mode
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 369--370
+Underfull \hbox (badness 2418) in paragraph at lines 371--372
 \OT1/cmr/m/n/12 (\OT1/cmtt/m/n/12 http://www.fil.ion.ucl.ac.uk/spm/software/spm
 8/\OT1/cmr/m/n/12 ). For com-plete code
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 \OT1/cmr/m/n/12 see, \OT1/cmtt/m/n/12 https://github.com/andsoandso/fmri/tree/m
 aster/catreward/spm[]m\OT1/cmr/m/n/12 .
  []
@@ -517,28 +517,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [49]
 
-LaTeX Warning: Reference `fig:raw' on page 50 undefined on input line 381.
+LaTeX Warning: Reference `fig:raw' on page 50 undefined on input line 383.
 
 <f_map_gl_p05.pdf, id=357, 803.0pt x 602.25pt>
 File: f_map_gl_p05.pdf Graphic file (type pdf)
  <use f_map_gl_p05.pdf>
-Package pdftex.def Info: f_map_gl_p05.pdf used on input line 384.
+Package pdftex.def Info: f_map_gl_p05.pdf used on input line 386.
 (pdftex.def)             Requested size: 430.00462pt x 322.5084pt.
 
 <f_map_gl_raw_t.pdf, id=358, 388.45125pt x 563.10374pt>
 File: f_map_gl_raw_t.pdf Graphic file (type pdf)
 
 <use f_map_gl_raw_t.pdf>
-Package pdftex.def Info: f_map_gl_raw_t.pdf used on input line 391.
+Package pdftex.def Info: f_map_gl_raw_t.pdf used on input line 393.
 (pdftex.def)             Requested size: 388.45029pt x 563.10237pt.
 
 
-LaTeX Warning: Float too large for page by 63.555pt on input line 395.
+LaTeX Warning: Float too large for page by 63.555pt on input line 397.
 
 <f_map_gxl_p05.pdf, id=359, 803.0pt x 602.25pt>
 File: f_map_gxl_p05.pdf Graphic file (type pdf)
  <use f_map_gxl_p05.pdf>
-Package pdftex.def Info: f_map_gxl_p05.pdf used on input line 398.
+Package pdftex.def Info: f_map_gxl_p05.pdf used on input line 400.
 (pdftex.def)             Requested size: 430.00462pt x 322.5084pt.
 
 Underfull \vbox (badness 1701) has occurred while \output is active []
@@ -546,61 +546,61 @@ Underfull \vbox (badness 1701) has occurred while \output is active []
  [50]
 [51 <./f_map_gl_p05.pdf>] [52 <./f_map_gl_raw_t.pdf>] [53 <./f_map_gxl_p05.pdf>
 ] [54] [55] [56]
-Underfull \hbox (badness 3323) in paragraph at lines 434--434
+Underfull \hbox (badness 3323) in paragraph at lines 436--436
 [][]\OT1/cmr/m/n/10 Likelihood for model $\OML/cmm/m/it/10 k$ \OT1/cmr/m/n/10 a
 mong $\OML/cmm/m/it/10 K$ \OT1/cmr/m/n/10 work-ing hy-pothe-ses/models is given
  by $\OML/cmm/m/it/10 L[] \OT1/cmr/m/n/10 =
  []
 
 [57] [58]
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
 \OT1/cmr/m/n/12 Numpy for generic nu-mer-i-cal work (v1.6.1; \OT1/cmtt/m/n/12 h
 ttp://numpy.scipy.org/\OT1/cmr/m/n/12 ),
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 446--447
+Underfull \hbox (badness 3386) in paragraph at lines 448--449
 \OT1/cmr/m/n/12 with the GLS func-tion from the scik-its.statsmodels mod-ule ha
 n-dling the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
 \OT1/cmr/m/n/12 regers-sions (v0.40; \OT1/cmtt/m/n/12 http://statsmodels.source
 forge.net/\OT1/cmr/m/n/12 ). Model-to-
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 446--447
+Underfull \hbox (badness 3838) in paragraph at lines 448--449
 \OT1/cmr/m/n/12 BOLD fit pa-ram-e-ters, as well as other use-ful meta-data, was
  then ex-
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 446--447
+Underfull \hbox (badness 3872) in paragraph at lines 448--449
 \OT1/cmr/m/n/12 tracted and stored in text files suit-able for im-port-ing into
  R (v2.15.1;
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 446--447
+Underfull \hbox (badness 3838) in paragraph at lines 448--449
 \OT1/cmtt/m/n/12 http://www.r-project.org/\OT1/cmr/m/n/12 ). All plot-ting and 
 model rank-ing (as well
  []
 
 
-Overfull \hbox (23.15944pt too wide) in paragraph at lines 446--447
+Overfull \hbox (23.15944pt too wide) in paragraph at lines 448--449
 \OT1/cmtt/m/n/12 https://github.com/andsoandso/fmri/tree/master/catreward/roi/r
 esults\OT1/cmr/m/n/12 . 
  []
 
 [59]
-Underfull \hbox (badness 1681) in paragraph at lines 466--466
+Underfull \hbox (badness 1681) in paragraph at lines 468--468
 []|\OT1/cmr/m/n/12 Reward pre-dic-tion er-ror - de-
  []
 
 [60]
-Underfull \hbox (badness 10000) in paragraph at lines 476--476
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
 []|\OT1/cmr/m/n/12 Outcome sim-i-lar-ity (ex-po-nen-
  []
 
@@ -613,7 +613,7 @@ File: f_meanbar_run4_c_aic_w_bilat_Caudate.pdf Graphic file (type pdf)
 
 <use f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Caudate.pdf used on input
- line 505.
+ line 507.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
 <f_plot_run4_c_fvalue_bilat_Caudate.pdf, id=511, 433.62pt x 433.62pt>
@@ -621,7 +621,7 @@ File: f_plot_run4_c_fvalue_bilat_Caudate.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_bilat_Caudate.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Caudate.pdf used on input l
-ine 511.
+ine 513.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
 <f_meanbar_run4_c_aic_w_bilat_Putamen.pdf, id=512, 433.62pt x 433.62pt>
@@ -629,7 +629,7 @@ File: f_meanbar_run4_c_aic_w_bilat_Putamen.pdf Graphic file (type pdf)
 
 <use f_meanbar_run4_c_aic_w_bilat_Putamen.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Putamen.pdf used on input
- line 518.
+ line 520.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
 <f_plot_run4_c_fvalue_bilat_Putamen.pdf, id=513, 433.62pt x 433.62pt>
@@ -637,7 +637,7 @@ File: f_plot_run4_c_fvalue_bilat_Putamen.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_bilat_Putamen.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Putamen.pdf used on input l
-ine 524.
+ine 526.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
 <f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf, id=514, 433.62pt x 433.62pt>
@@ -645,7 +645,7 @@ File: f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf Graphic file (type pdf)
 
 <use f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf used on inp
-ut line 534.
+ut line 536.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
 
 <f_plot_run4_c_fvalue_bilat_Accumbens.pdf, id=515, 433.62pt x 433.62pt>
@@ -653,7 +653,7 @@ File: f_plot_run4_c_fvalue_bilat_Accumbens.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_bilat_Accumbens.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Accumbens.pdf used on input
- line 540.
+ line 542.
 (pdftex.def)             Requested size: 430.00462pt x 430.02617pt.
  [66] [67 <./f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>] [68 <./f_plot_run4_c_fv
 alue_bilat_Caudate.pdf>] [69 <./f_meanbar_run4_c_aic_w_bilat_Putamen.pdf>] [70 
@@ -664,7 +664,7 @@ File: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf Graphic file (type pdf)
 
 <use f_meanbar_run4_c_aic_w_Insular_Cortex.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf used on inpu
-t line 559.
+t line 561.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_plot_run4_c_fvalue_Insular_Cortex.pdf, id=587, 433.62pt x 252.945pt>
@@ -672,7 +672,7 @@ File: f_plot_run4_c_fvalue_Insular_Cortex.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_Insular_Cortex.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Insular_Cortex.pdf used on input 
-line 565.
+line 567.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf, id=588, 433.62pt
@@ -682,7 +682,7 @@ File: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf Graphic file
 
 <use f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_divisi
-on.pdf used on input line 575.
+on.pdf used on input line 577.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf, id=589, 433.62pt x
@@ -691,7 +691,7 @@ File: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf Graphic file (
 type pdf)
  <use f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division
-.pdf used on input line 581.
+.pdf used on input line 583.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf, id=590, 433.62p
@@ -701,7 +701,7 @@ e (type pdf)
 
 <use f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_divis
-ion.pdf used on input line 591.
+ion.pdf used on input line 593.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf, id=591, 433.62pt 
@@ -710,7 +710,7 @@ File: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf Graphic file
 (type pdf)
  <use f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_divisio
-n.pdf used on input line 597.
+n.pdf used on input line 599.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf, id=592, 433.62pt x 252.945p
@@ -719,14 +719,14 @@ File: f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
 
  <use f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf used
- on input line 606.
+ on input line 608.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf, id=593, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
 <use f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf used o
-n input line 612.
+n input line 614.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf, id=594, 433.62pt x 252.945pt
@@ -734,7 +734,7 @@ n input line 612.
 File: f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
  <use f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf used 
-on input line 622.
+on input line 624.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf, id=595, 433.62pt x 252.945pt>
@@ -742,14 +742,14 @@ File: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf used on
- input line 628.
+ input line 630.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf, id=596, 433.62pt x 252.945pt>
 File: f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
 <use f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf>
 Package pdftex.def Info: f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf used o
-n input line 637.
+n input line 639.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
 
 <f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf, id=597, 433.62pt x 252.945pt>
@@ -757,7 +757,7 @@ File: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf used on 
-input line 643.
+input line 645.
 (pdftex.def)             Requested size: 430.00462pt x 250.8486pt.
  [73] [74 <./f_meanbar_run4_c_aic_w_Insular_Cortex.pdf>] [75 <./f_plot_run4_c_f
 value_Insular_Cortex.pdf>]
@@ -783,7 +783,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  4111 strings out of 493633
  64142 string characters out of 3143378
- 147399 words of memory out of 3000000
+ 148791 words of memory out of 3000000
  7300 multiletter control sequences out of 15000+200000
  20089 words of font info for 74 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
@@ -808,7 +808,7 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2011/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (102 pages, 2560573 bytes).
+Output written on main.pdf (102 pages, 2561762 bytes).
 PDF statistics:
  858 PDF objects out of 1000 (max. 8388607)
  607 compressed objects within 7 object streams
