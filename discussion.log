@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  11 AUG 2012 16:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 AUG 2012 00:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -293,125 +293,139 @@ Class apa Warning: Abstract not defined.
 Using title for running head
 
 LaTeX Warning: Reference `subsub:wellbehaved' on page 1 undefined on input line
- 36.
+ 35.
 
-[1
+
+Underfull \vbox (badness 1983) has occurred while \output is active []
+
+ [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: Reference `sub:blob' on page 2 undefined on input line 38.
+LaTeX Warning: Reference `sub:blob' on page 2 undefined on input line 37.
+
+[2]
+
+LaTeX Warning: Reference `eq:rg' on page 3 undefined on input line 45.
 
 
-LaTeX Warning: Reference `eq:rg' on page 2 undefined on input line 46.
+LaTeX Warning: Reference `eq:Sgauss' on page 3 undefined on input line 45.
 
-
-LaTeX Warning: Reference `eq:Sgauss' on page 2 undefined on input line 46.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 46.
+LaTeX Font Info:    Try loading font information for U+msa on input line 45.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 46.
+LaTeX Font Info:    Try loading font information for U+msb on input line 45.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 
-LaTeX Warning: Citation `Pearl:2010p9726' undefined on input line 46.
+LaTeX Warning: Reference `fig:rpeacc' on page 3 undefined on input line 45.
 
 
-LaTeX Warning: Reference `fig:rpeacc' on page 2 undefined on input line 46.
-
-[2]
-
-LaTeX Warning: Reference `subsub:belowctx' on page 3 undefined on input line 50
+LaTeX Warning: Reference `subsub:belowctx' on page 3 undefined on input line 49
 .
 
 
-LaTeX Warning: Reference `fig:caudate' on page 3 undefined on input line 50.
+LaTeX Warning: Reference `fig:caudate' on page 3 undefined on input line 49.
 
 
-LaTeX Warning: Reference `fig:ant' on page 3 undefined on input line 50.
+LaTeX Warning: Reference `fig:ant' on page 3 undefined on input line 49.
 
 
-LaTeX Warning: Reference `fig:post' on page 3 undefined on input line 50.
+LaTeX Warning: Reference `fig:post' on page 3 undefined on input line 49.
 
 
-LaTeX Warning: Reference `fig:insula' on page 3 undefined on input line 50.
+LaTeX Warning: Reference `fig:insula' on page 3 undefined on input line 49.
 
 
-LaTeX Warning: Reference `fig:ofc' on page 3 undefined on input line 50.
+LaTeX Warning: Reference `fig:ofc' on page 3 undefined on input line 49.
 
 [3]
 
-LaTeX Warning: Reference `fig:caudate' on page 4 undefined on input line 52.
+LaTeX Warning: Reference `fig:caudate' on page 4 undefined on input line 51.
 
 
-LaTeX Warning: Reference `fig:fvalcaudate' on page 4 undefined on input line 52
+LaTeX Warning: Reference `fig:fvalcaudate' on page 4 undefined on input line 51
 .
 
 
-LaTeX Warning: Reference `fig:caudate' on page 4 undefined on input line 52.
+LaTeX Warning: Reference `fig:caudate' on page 4 undefined on input line 51.
 
 [4]
 
-LaTeX Warning: Citation `Schweimer:2006p9780' undefined on input line 56.
+LaTeX Warning: Reference `fig:rpeacc' on page 5 undefined on input line 57.
+
+
+LaTeX Warning: Reference `fig:rpegl' on page 5 undefined on input line 57.
+
+
+LaTeX Warning: Reference `denrpe' on page 5 undefined on input line 57.
+
+
+LaTeX Warning: Reference `subsub:codesandfits' on page 5 undefined on input lin
+e 57.
 
 [5]
 
-LaTeX Warning: Reference `fig:logL' on page 6 undefined on input line 64.
+LaTeX Warning: Reference `subsub:onsheet' on page 6 undefined on input line 59.
+
+
+
+LaTeX Warning: Reference `fig:dlpfc' on page 6 undefined on input line 59.
+
+
+LaTeX Warning: Reference `fig:logL' on page 6 undefined on input line 63.
 
 
 LaTeX Warning: Reference `fig:fig:denvalue' on page 6 undefined on input line 6
-4.
+3.
 
 
-LaTeX Warning: Reference `eq:softmax' on page 6 undefined on input line 64.
+LaTeX Warning: Reference `eq:softmax' on page 6 undefined on input line 63.
+
+[6]
+
+LaTeX Warning: Reference `subsub:birds' on page 7 undefined on input line 68.
 
 
-LaTeX Warning: Citation `Collins:2012p9779' undefined on input line 64.
+LaTeX Warning: Reference `subsub:curves' on page 7 undefined on input line 68.
 
 
-LaTeX Warning: Reference `subsub:birds' on page 6 undefined on input line 69.
-
-
-LaTeX Warning: Reference `subsub:curves' on page 6 undefined on input line 69.
-
-
-LaTeX Warning: Reference `subsub:catquant' on page 6 undefined on input line 69
+LaTeX Warning: Reference `subsub:catquant' on page 7 undefined on input line 68
 .
 
+[7] [8] [9] (./discussion.bbl [10
 
-LaTeX Warning: Citation `Ashby:1986p9783' undefined on input line 69.
-
-[6] [7] [8] (./discussion.bbl [9
-
-] [10] [11]) [12] (./discussion.aux)
+] [11] [12] [13]) [14] (./discussion.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3320 strings out of 493633
- 45793 string characters out of 3143378
- 111343 words of memory out of 3000000
- 6550 multiletter control sequences out of 15000+200000
+ 3353 strings out of 493633
+ 46458 string characters out of 3143378
+ 112354 words of memory out of 3000000
+ 6583 multiletter control sequences out of 15000+200000
  17751 words of font info for 65 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,24p,1486b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,24p,1456b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
-cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
-/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/
-texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
-exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on discussion.pdf (12 pages, 148319 bytes).
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
+live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on discussion.pdf (14 pages, 165449 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

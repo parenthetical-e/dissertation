@@ -82,6 +82,31 @@ Ashby, F\BPBI G.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Ashby%
+\ \BBA{} Townsend%
+}{%
+Ashby%
+\ \BBA{} Townsend%
+}{%
+{\protect\APACyear{1986}}%
+}]{%
+Ashby:1986p9783}%
+\APACinsertmetastar{%
+Ashby:1986p9783}%
+Ashby, F\BPBI G.%
+\BCBT{}\ \BBA{} Townsend, J\BPBI T.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1986}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Varieties of perceptual independence}{Varieties of
+  perceptual independence}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Psychol Rev}{93}{2}{154--79}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Atallah%
 , Frank%
 \BCBL{}\ \BBA{} O'Reilly%
@@ -168,34 +193,6 @@ Atlas, L\BPBI Y.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Behrens%
-, Woolrich%
-, Walton%
-\BCBL{}\ \BBA{} Rushworth%
-}{%
-Behrens%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Behrens:2007p8839}%
-\APACinsertmetastar{%
-Behrens:2007p8839}%
-Behrens, T\BPBI E\BPBI J.%
-, Woolrich, M\BPBI W.%
-, Walton, M\BPBI E.%
-\BCBL{}\ \BBA{} Rushworth, M\BPBI F\BPBI S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Learning the value of information in an uncertain
-  world}{Learning the value of information in an uncertain world}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nature Neuroscience}{10}{9}{1214--21}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
 Cincotta%
 \ \BBA{} Seger%
 }{%
@@ -220,6 +217,34 @@ Cincotta, C\BPBI M.%
   observation}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Journal of cognitive neuroscience}{19}{2}{249--65}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Collins%
+\ \BBA{} Frank%
+}{%
+Collins%
+\ \BBA{} Frank%
+}{%
+{\protect\APACyear{2012}}%
+}]{%
+Collins:2012p9779}%
+\APACinsertmetastar{%
+Collins:2012p9779}%
+Collins, A\BPBI G\BPBI E.%
+\BCBT{}\ \BBA{} Frank, M\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{How much of reinforcement learning is working memory, not
+  reinforcement learning? A behavioral, computational, and neurogenetic
+  analysis}{How much of reinforcement learning is working memory, not
+  reinforcement learning? a behavioral, computational, and neurogenetic
+  analysis}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Eur J Neurosci}{35}{7}{1024--35}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -373,6 +398,34 @@ Hayden, B\BPBI Y.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Kim%
+, Shimojo%
+\BCBL{}\ \BBA{} O'Doherty%
+}{%
+Kim%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2006}}%
+}]{%
+Kim:2006p1063}%
+\APACinsertmetastar{%
+Kim:2006p1063}%
+Kim, H.%
+, Shimojo, S.%
+\BCBL{}\ \BBA{} O'Doherty, J\BPBI P.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{Jul}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Is avoiding an aversive outcome rewarding? Neural
+  substrates of avoidance learning in the human brain}{Is avoiding an aversive
+  outcome rewarding? neural substrates of avoidance learning in the human
+  brain}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{PLoS Biology}{4}{8}{e233}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Knutson%
 \ \BBA{} Wimmer%
 }{%
@@ -454,6 +507,32 @@ Lopez-Paniagua, D.%
   learning}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Journal of cognitive neuroscience}{23}{10}{3068--3083}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Matsumoto%
+\ \BBA{} Hikosaka%
+}{%
+Matsumoto%
+\ \BBA{} Hikosaka%
+}{%
+{\protect\APACyear{2009}}%
+}]{%
+Matsumoto:2009p7219}%
+\APACinsertmetastar{%
+Matsumoto:2009p7219}%
+Matsumoto, M.%
+\BCBT{}\ \BBA{} Hikosaka, O.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Two types of dopamine neuron distinctly convey positive
+  and negative motivational signals}{Two types of dopamine neuron distinctly
+  convey positive and negative motivational signals}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Nature}{459}{7248}{837--841}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -545,6 +624,28 @@ O'Doherty, J\BPBI P.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Pearl%
+}{%
+Pearl%
+}{%
+{\protect\APACyear{2010}}%
+}]{%
+Pearl:2010p9726}%
+\APACinsertmetastar{%
+Pearl:2010p9726}%
+Pearl, J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{An introduction to causal inference}{An introduction to
+  causal inference}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Int J Biostat}{6}{2}{Article 7}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Quilodran%
 , Roth{\'e}%
 \BCBL{}\ \BBA{} Procyk%
@@ -569,6 +670,35 @@ Quilodran, R.%
   cingulate cortex}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuron}{57}{2}{314--25}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Ramnani%
+, Elliott%
+, Athwal%
+\BCBL{}\ \BBA{} Passingham%
+}{%
+Ramnani%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2004}}%
+}]{%
+Ramnani:2004p5390}%
+\APACinsertmetastar{%
+Ramnani:2004p5390}%
+Ramnani, N.%
+, Elliott, R.%
+, Athwal, B\BPBI S.%
+\BCBL{}\ \BBA{} Passingham, R\BPBI E.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{Nov}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Prediction error for free monetary reward in the human
+  prefrontal cortex}{Prediction error for free monetary reward in the human
+  prefrontal cortex}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{23}{3}{777--86}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -685,6 +815,32 @@ Schonberg, T.%
   disease patients: evidence from a model-based fmri study}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuroimage}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Schweimer%
+\ \BBA{} Hauber%
+}{%
+Schweimer%
+\ \BBA{} Hauber%
+}{%
+{\protect\APACyear{2006}}%
+}]{%
+Schweimer:2006p9780}%
+\APACinsertmetastar{%
+Schweimer:2006p9780}%
+Schweimer, J.%
+\BCBT{}\ \BBA{} Hauber, W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Dopamine D1 receptors in the anterior cingulate cortex
+  regulate effort-based decision making}{Dopamine d1 receptors in the anterior
+  cingulate cortex regulate effort-based decision making}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Learn Mem}{13}{6}{777--82}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -827,9 +983,32 @@ Seymour, B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Smith%
+Shepard%
+}{%
+Shepard%
+}{%
+{\protect\APACyear{1987}}%
+}]{%
+Shepard:1987p9102}%
+\APACinsertmetastar{%
+Shepard:1987p9102}%
+Shepard, R.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1987}{Sep}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Toward a universal law of generalization for
+  psychological science}{Toward a universal law of generalization for
+  psychological science}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Science}{237}{4820}{1317--1323}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+J\BPBI D.~Smith%
 \ \protect\BOthers{.}}{%
-Smith%
+J\BPBI D.~Smith%
 \ \protect\BOthers{.}}{%
 {\protect\APACyear{2011}}%
 }]{%
@@ -854,13 +1033,13 @@ Smith, J\BPBI D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Smith%
+J\BPBI D.~Smith%
 , Beran%
 , Crossley%
 , Boomer%
 \BCBL{}\ \BBA{} Ashby%
 }{%
-Smith%
+J\BPBI D.~Smith%
 \ \protect\BOthers{.}}{%
 {\protect\APACyear{2010}}%
 }]{%
@@ -882,6 +1061,33 @@ Smith, J\BPBI D.%
   learning by macaques (macaca mulatta) and humans (homo sapiens)}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{J Exp Psychol Anim Behav Process}{36}{1}{54--65}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+K\BPBI S.~Smith%
+, Berridge%
+\BCBL{}\ \BBA{} Aldridge%
+}{%
+K\BPBI S.~Smith%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2011}}%
+}]{%
+Smith:2011p8133}%
+\APACinsertmetastar{%
+Smith:2011p8133}%
+Smith, K\BPBI S.%
+, Berridge, K\BPBI C.%
+\BCBL{}\ \BBA{} Aldridge, J\BPBI W.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{Jul}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Disentangling pleasure from incentive salience and
+  learning signals in brain reward circuitry}{Disentangling pleasure from
+  incentive salience and learning signals in brain reward circuitry}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Proc Natl Acad Sci USA}{108}{27}{E255--64}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -961,6 +1167,32 @@ Valentin, V\BPBI V.%
   learning with juice and money reward in the human brain}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{J Physiol.}{102}{6}{3384--91}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Wallis%
+, Anderson%
+\BCBL{}\ \BBA{} Miller%
+}{%
+Wallis%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2001}}%
+}]{%
+Wallis:2001p8129}%
+\APACinsertmetastar{%
+Wallis:2001p8129}%
+Wallis, J\BPBI D.%
+, Anderson, K\BPBI C.%
+\BCBL{}\ \BBA{} Miller, E\BPBI K.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{Jun}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Single neurons in prefrontal cortex encode abstract
+  rules}{Single neurons in prefrontal cortex encode abstract rules}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Nature}{411}{6840}{953--6}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

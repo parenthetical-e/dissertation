@@ -10,74 +10,70 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: bibmin.bib
-Repeated entry---line 3377 of file bibmin.bib
- : @article{ODoherty:2003p6329
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8284 of file bibmin.bib
- : @article{Ernst:2004p3998
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8365 of file bibmin.bib
- : @article{Seger:2010p7188
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9414 of file bibmin.bib
- : @article{Atallah:2004p5466
+Repeated entry---line 2747 of file bibmin.bib
+ : @article{Ramnani:2004p5390
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9493 of file bibmin.bib
+Repeated entry---line 2855 of file bibmin.bib
  : @article{Tobler:2005p6373
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10825 of file bibmin.bib
- : @article{Quilodran:2008p2645
- :                             ,
+Repeated entry---line 7236 of file bibmin.bib
+ : @article{Seger:2010p7188
+ :                         ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Pearl:2010p9726"
-Warning--I didn't find a database entry for "Schweimer:2006p9780"
-Warning--I didn't find a database entry for "Collins:2012p9779"
-Warning--I didn't find a database entry for "Ashby:1986p9783"
+Repeated entry---line 10077 of file bibmin.bib
+ : @article{ODoherty:2003p6329
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10678 of file bibmin.bib
+ : @article{Ernst:2004p3998
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11918 of file bibmin.bib
+ : @article{Atallah:2004p5466
+ :                           ,
+I'm skipping whatever remains of this entry
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 35 entries,
+You've used 44 entries,
             6361 wiz_defined-function locations,
-            1443 strings with 17035 characters,
-and the built_in function-call counts, 78531 in all, are:
-= -- 9363
-> -- 697
-< -- 4280
-+ -- 4732
-- -- 70
-* -- 5495
-:= -- 15382
-add.period$ -- 136
-call.type$ -- 35
-change.case$ -- 233
+            1500 strings with 18356 characters,
+and the built_in function-call counts, 97287 in all, are:
+= -- 11627
+> -- 830
+< -- 5307
++ -- 5821
+- -- 88
+* -- 6808
+:= -- 19172
+add.period$ -- 172
+call.type$ -- 44
+change.case$ -- 294
 chr.to.int$ -- 0
-cite$ -- 70
-duplicate$ -- 2201
-empty$ -- 2752
-format.name$ -- 1253
-if$ -- 14043
+cite$ -- 88
+duplicate$ -- 2675
+empty$ -- 3423
+format.name$ -- 1485
+if$ -- 17402
 int.to.chr$ -- 0
-int.to.str$ -- 70
+int.to.str$ -- 88
 missing$ -- 0
-newline$ -- 892
-num.names$ -- 280
-pop$ -- 996
+newline$ -- 1105
+num.names$ -- 352
+pop$ -- 1224
 preamble$ -- 1
-purify$ -- 198
+purify$ -- 250
 quote$ -- 0
-skip$ -- 4391
+skip$ -- 5460
 stack$ -- 0
-substring$ -- 5142
-swap$ -- 1226
-text.length$ -- 128
+substring$ -- 6342
+swap$ -- 1512
+text.length$ -- 162
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 2800
+type$ -- 3520
 warning$ -- 0
-while$ -- 470
+while$ -- 572
 width$ -- 0
-write$ -- 1194
+write$ -- 1462
 (There were 6 error messages)
