@@ -224,7 +224,9 @@ The insula was the one region, both cortically and subcorticallly, to be nearly 
 
 Both the ACC and PCC displayed very similar rankings of their Akaike Weights (compare Figures~\ref{fig:ant} to~\ref{fig:post}), so I'll discuss them as one.  Again the ``rpe'' family dominated (respectively 2.07 and 1.77 times more likely compared to the nearest neighbor, 2.86 and 2.88 times more likely then the ``boxcar'').  Unlike the caudate and insula, the 2 similarity-adjustment models (``rpe\_acc\_gauss'' and ``rpe\_acc\_exp'') were consistently more informative than the reward unadjusted (``rpe\_acc'').  Looking at the $F$-tests, both regions, especially in the ``rpe'' family were, were reasonably significant (Figure~\ref{fig:fvalant} and~\ref{fig:fvalpost}).
 
-\emph{TODO} -- The remaining three cortical bits....  Some of them are weird.
+Like the orbital frontal (below), ``boxcar'' was the most informative family for the middle frontal cortex (Figure~\ref{fig:dlpfc}), however model-wise ``rpe\_acc'' was 2.07 times more likely.  The strong $F$-values for all models, and ``rpe\_acc'' especially (the largest observed for all models and regions; Figure~\ref{fig:fvaldlpfc}), lend strong support then for selecting ``rpe\_acc'' as the sole best explanation of this regions activity.
+
+Both the frontal medial (ventralmedial) and orbital frontal results are difficult to interpret, but for different reasons.  Nearly all families, and models, in the in frontal medial cortex ranked as substantively more likely that the ``boxcar'' (ranging, at the family level, from 2.13 for ``control\_similarity'' to 1.75 for ``value'', with higher scores for individual models).  However none of the models were substantively (or even slightly) more likely than any of their neighbors.  So while, as measured by the $F$-tests, there was significant activity in medial frontal (Figure~\ref{fig:fvalvmpfc}) it is not well accounted for by any of the candidate models.  Orbital frontal cortex though has the opposite problem.  The ``boxcar'' had the largest Akaike Weight (Figure~\ref{fig:ofc}).  However at the model-level ``rpe\_acc\_guass'' and ``rpe\_acc'' both score slightly better (1.32 and 1.34, respectively).  However these slight increase are weak evidence when the alternative is that nothing has changed from trial-to-trial (i.e. the ``boxcar'' model).  Additionally as ACC and OFC are tightly functionally interconnected \cite{Rudebeck:2008p4712}, these weak likelihoods may be carryover from the strong ``rpe'' signals observed in the ACC (Figure~\ref{fig:ant}).
 
 \begin{figure}[tp]
     \fitfigure{f_meanbar_run4_c_aic_w_Insular_Cortex}
@@ -273,23 +275,6 @@ Both the ACC and PCC displayed very similar rankings of their Akaike Weights (co
 	\label{fig:fvalpost}
 \end{figure}
 
-
-\begin{figure}[tp]
-	\fitfigure{f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex}
-    \centering
-    \caption{Frontal (ventral) medial PFC -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
-	\label{fig:vmpfc}
-\end{figure}
-\begin{figure}[tp]
-	\fitfigure{f_plot_run4_c_fvalue_Frontal_Medial_Cortex}
-    \centering
-    \caption{Frontal (ventral) medial PFC -- $F$-values for all models.
-    Significance-level is denoted by the saturation, where the $p <$ 0.05 level is
-    significant, and trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
-	\label{fig:fvalvmpfc}
-\end{figure}
-
-
 \begin{figure}[tp]
 	\fitfigure{f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex}
     \centering
@@ -307,15 +292,30 @@ Both the ACC and PCC displayed very similar rankings of their Akaike Weights (co
 
 
 \begin{figure}[tp]
+	\fitfigure{f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex}
+    \centering
+    \caption{Frontal (ventral)medial PFC -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
+	\label{fig:vmpfc}
+\end{figure}
+\begin{figure}[tp]
+	\fitfigure{f_plot_run4_c_fvalue_Frontal_Medial_Cortex}
+    \centering
+    \caption{Frontal (ventral)medial PFC -- $F$-values for all models.
+    Significance-level is denoted by the saturation, where the $p <$ 0.05 level is
+    significant, and trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
+	\label{fig:fvalvmpfc}
+\end{figure}
+
+\begin{figure}[tp]
 	\fitfigure{f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus}
     \centering
-    \caption{Middle frontal (dorsal-lateral) PFC -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
+    \caption{Middle frontal (dorsallateral) PFC -- Akaike Weights for all models.  Colors indicate model family (see p\pageref{sub:cmb} for details). Bars represent standard errors.}
 	\label{fig:dlpfc}
 \end{figure}
 \begin{figure}[tp]
 	\fitfigure{f_plot_run4_c_fvalue_Middle_Frontal_Gyrus}
     \centering
-    \caption{Middle frontal (dorsal-lateral) PFC -- $F$-values for all models.
+    \caption{Middle frontal (dorsallateral) PFC -- $F$-values for all models.
     Significance-level is denoted by the saturation, where the $p <$ 0.05 level is
     significant, and trend is between $p <$ 0.05 and 0.10.  Colors indicate model family (see p\pageref{sub:cmb} for details).}
 	\label{fig:fvaldlpfc}

@@ -635,6 +635,34 @@ Rao, C\BPBI R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Rudebeck%
+\ \protect\BOthers{.}}{%
+Rudebeck%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2008}}%
+}]{%
+Rudebeck:2008p4712}%
+\APACinsertmetastar{%
+Rudebeck:2008p4712}%
+Rudebeck, P\BPBI H.%
+, Behrens, T\BPBI E.%
+, Kennerley, S\BPBI W.%
+, Baxter, M\BPBI G.%
+, Buckley, M\BPBI J.%
+, Walton, M\BPBI E.%
+\BCBL{}\ \BOthersPeriod{.}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Dec}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Frontal cortex subregions play distinct roles in choices
+  between actions and stimuli}{Frontal cortex subregions play distinct roles in
+  choices between actions and stimuli}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Neurosci}{28}{51}{13775--85}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Seger%
 \ \BBA{} Cincotta%
 }{%
