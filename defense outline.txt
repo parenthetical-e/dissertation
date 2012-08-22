@@ -1,0 +1,26 @@
+1. Rewards
+    - 1, 2, !
+    - Two facts:
+        * ``cognitive'' v classical
+    - How do cognitive reward work? Posit: they're categories
+        * 1 -> 2 via RL
+        * How do cognitive rewards become rewards?
+            - Idea: rewards are categories
+                * Categories implicity allow for similarity-based inference
+2. Reward prediction errors not rewards are the lens we'll use
+    - What are RPE, 
+    - and support for
+3. Categories and Shepard
+4. I am interested in computation; The theory to be tested.
+    - Maths
+    - Phenomenonical differences
+5. The task to model
+    - task
+    - learning
+    - model fits ....
+6. fMRI 
+    - methods in brief, focusing on model ranks, specifically Akaike Weights
+    - mention the codes
+    - maps
+    - results
+7. Conclusions
