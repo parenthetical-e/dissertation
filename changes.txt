@@ -9,7 +9,7 @@
 7. Make plain that the model tests the implcit assumption about what is happening cognitively, i.e. inference necessity
 8. [DONE] Map of methods at the start of the methods section, high level description
 9. [DONE] At end of intro Chuck wants a summary of why the work matters, the most significant result(s).
-10. Create a map (at the start) of Chap 3 as well
+10. [DONE] Create a map (at the start) of Chap 3 as well
 11. In the discussion link the intro to it, then make the significance of the work crystal clear.
 12. Pages marked on Chuck's draft, equation fixes especially.
 13. [DONE] Make reward definitions very clear, right from the start (do this before 3.)

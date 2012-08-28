@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  28 AUG 2012 15:58
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  28 AUG 2012 16:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -298,21 +298,21 @@ Using title for running head
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./main.toc
+(./abstract.tex) [2] (./main.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ))
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [3
-
-]
+ [3]
 \openout2 = `intro.aux'.
 
 
@@ -812,16 +812,16 @@ LaTeX Warning: There were multiply-defined labels.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 34 (\begingroup)
+### semi simple group (level 1) entered at line 33 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4259 strings out of 493633
- 66886 string characters out of 3143378
+ 4262 strings out of 493633
+ 66917 string characters out of 3143378
  149639 words of memory out of 3000000
- 7419 multiletter control sequences out of 15000+200000
+ 7420 multiletter control sequences out of 15000+200000
  20089 words of font info for 74 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,26p,2054b,728s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,26p,2054b,725s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
@@ -842,7 +842,7 @@ exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
 ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texli
 ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (118 pages, 2588831 bytes).
+Output written on main.pdf (118 pages, 2588827 bytes).
 PDF statistics:
  910 PDF objects out of 1000 (max. 8388607)
  643 compressed objects within 7 object streams
