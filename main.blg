@@ -2,6 +2,10 @@ This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: apacite.bst
+A level-1 auxiliary file: intro.aux
+A level-1 auxiliary file: chap2.aux
+A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: discussion.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=5001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -9,7 +13,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated field_info (elt_size=4) to 13404 items from 5000.
+Reallocated field_info (elt_size=4) to 13624 items from 5000.
 Database file #1: bibmin.bib
 Repeated entry---line 1282 of file bibmin.bib
  : @article{Seger:2010p7188
@@ -123,46 +127,47 @@ Repeated entry---line 11720 of file bibmin.bib
  : @article{Hollerman:1998qy
  :                          ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Poldrack:2006p9841"
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 191 entries,
+You've used 195 entries,
             6361 wiz_defined-function locations,
-            2339 strings with 44337 characters,
-and the built_in function-call counts, 404424 in all, are:
-= -- 48016
-> -- 3511
-< -- 21899
-+ -- 23231
-- -- 384
-* -- 28157
-:= -- 78840
-add.period$ -- 750
-call.type$ -- 191
-change.case$ -- 1256
+            2370 strings with 45357 characters,
+and the built_in function-call counts, 413435 in all, are:
+= -- 49079
+> -- 3602
+< -- 22363
++ -- 23759
+- -- 392
+* -- 28769
+:= -- 80499
+add.period$ -- 765
+call.type$ -- 195
+change.case$ -- 1284
 chr.to.int$ -- 0
-cite$ -- 382
-duplicate$ -- 11305
-empty$ -- 14734
-format.name$ -- 6224
-if$ -- 73051
+cite$ -- 390
+duplicate$ -- 11608
+empty$ -- 15066
+format.name$ -- 6397
+if$ -- 74692
 int.to.chr$ -- 0
-int.to.str$ -- 390
+int.to.str$ -- 398
 missing$ -- 0
-newline$ -- 4761
-num.names$ -- 1528
-pop$ -- 5146
+newline$ -- 4864
+num.names$ -- 1560
+pop$ -- 5269
 preamble$ -- 1
-purify$ -- 1065
+purify$ -- 1089
 quote$ -- 0
-skip$ -- 23321
+skip$ -- 23839
 stack$ -- 0
-substring$ -- 25258
-swap$ -- 6398
-text.length$ -- 683
+substring$ -- 25838
+swap$ -- 6553
+text.length$ -- 699
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 15280
+type$ -- 15600
 warning$ -- 0
-while$ -- 2399
+while$ -- 2462
 width$ -- 0
-write$ -- 6262
+write$ -- 6402
 (There were 28 error messages)

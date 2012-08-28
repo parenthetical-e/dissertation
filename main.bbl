@@ -24,6 +24,31 @@ Akaike, H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Amaro%
+\ \BBA{} Barker%
+}{%
+Amaro%
+\ \BBA{} Barker%
+}{%
+{\protect\APACyear{2006}}%
+}]{%
+Amaro:2006p2638}%
+\APACinsertmetastar{%
+Amaro:2006p2638}%
+Amaro, E.%
+\BCBT{}\ \BBA{} Barker, G\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Study design in fMRI: basic principles}{Study design in
+  fmri: basic principles}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Brain Cogn}{60}{3}{220--32}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Anderson%
 , Burnham%
 \BCBL{}\ \BBA{} Thompson%
@@ -854,6 +879,36 @@ B{\"u}chel, C.%
   event-related fmri study}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuron}{20}{5}{947--57}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Bullmore%
+\ \protect\BOthers{.}}{%
+Bullmore%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{1996}}%
+}]{%
+Bullmore:1996p6538}%
+\APACinsertmetastar{%
+Bullmore:1996p6538}%
+Bullmore, E.%
+, Brammer, M.%
+, Williams, S\BPBI C.%
+, Rabe-Hesketh, S.%
+, Janot, N.%
+, David, A.%
+\BCBL{}\ \BOthersPeriod{.}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{Feb}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Statistical methods of estimation and inference for
+  functional MR image analysis}{Statistical methods of estimation and inference
+  for functional mr image analysis}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Magnetic resonance in medicine : official journal of
+  the Society of Magnetic Resonance in Medicine / Society of Magnetic Resonance
+  in Medicine}{35}{2}{261--77}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -2816,6 +2871,36 @@ Maddox, W\BPBI T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Mars%
+, Shea%
+, Kolling%
+\BCBL{}\ \BBA{} Rushworth%
+}{%
+Mars%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2010}}%
+}]{%
+Mars:2010p7999}%
+\APACinsertmetastar{%
+Mars:2010p7999}%
+Mars, R\BPBI B.%
+, Shea, N\BPBI J.%
+, Kolling, N.%
+\BCBL{}\ \BBA{} Rushworth, M\BPBI F\BPBI S.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Model-based analyses: Promises, pitfalls, and example
+  applications to the study of cognitive control}{Model-based analyses:
+  Promises, pitfalls, and example applications to the study of cognitive
+  control}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Q J Exp Psychol (Colchester)}{}{}{1--16}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Martin%
 , Griffiths%
 \BCBL{}\ \BBA{} Sanborn%
@@ -3519,6 +3604,33 @@ Poldrack, R\BPBI A.%
 \newblock
 \APACjournalVolNumPages{Social Cognitive and Affective
   Neuroscience}{2}{1}{67--70}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Poldrack%
+\ \protect\BOthers{.}}{%
+Poldrack%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2008}}%
+}]{%
+Poldrack:2008p6570}%
+\APACinsertmetastar{%
+Poldrack:2008p6570}%
+Poldrack, R\BPBI A.%
+, Fletcher, P\BPBI C.%
+, Henson, R\BPBI N.%
+, Worsley, K\BPBI J.%
+, Brett, M.%
+\BCBL{}\ \BBA{} Nichols, T\BPBI E.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Apr}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Guidelines for reporting an fMRI study}{Guidelines for
+  reporting an fmri study}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroimage}{40}{2}{409--14}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%

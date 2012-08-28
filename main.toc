@@ -10,11 +10,11 @@
 \contentsline {section}{Chapter 3 -- fMRI analyses}{50}
 \contentsline {subsection}{An Acquisition}{50}
 \contentsline {subsection}{Mobs of Blobs}{53}
-\contentsline {subsection}{Regions and Models}{57}
-\contentsline {subsection}{Model Results}{66}
-\contentsline {section}{Discussion}{89}
-\contentsline {subsection}{Taking Us to Can}{89}
-\contentsline {subsection}{Are, Reflected in Error(s)}{90}
-\contentsline {subsection}{The Big Conclusion}{96}
-\contentsline {subsection}{Future Work}{96}
-\contentsline {section}{References}{98}
+\contentsline {subsection}{Regions and Models}{54}
+\contentsline {subsection}{Model Results}{67}
+\contentsline {section}{Discussion}{90}
+\contentsline {subsection}{Taking Us to Can}{90}
+\contentsline {subsection}{Are, Reflected in Error(s)}{91}
+\contentsline {subsection}{The Big Conclusion}{97}
+\contentsline {subsection}{Future Work}{97}
+\contentsline {section}{References}{99}
