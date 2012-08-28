@@ -2166,6 +2166,29 @@ Jakel, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Jay%
+}{%
+Jay%
+}{%
+{\protect\APACyear{2003}}%
+}]{%
+jay:2003aa}%
+\APACinsertmetastar{%
+jay:2003aa}%
+Jay, T\BPBI M.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Dopamine: a potential substrate for synaptic plasticity
+  and memory mechanisms}{Dopamine: a potential substrate for synaptic
+  plasticity and memory mechanisms}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Progress in Neurobiology}{69}{}{375--390}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Jimura%
 , Locke%
 \BCBL{}\ \BBA{} Braver%

@@ -1,0 +1,20 @@
+# The commitee says:
+0. Third person impersonal
+1. [DONE] Chuck and Carol's line edits
+2. Weaken Dommett el al's 100 ms argument (CS mentioned Perrett) 
+3. Show/state clearly this is not higher-order conditioning
+4. [DONE] Link long DA discussion to the rest, and clarify what I mean by DA (i.e. phasic DA from VTA/SNc _only_), also imporve abstract to reflect these changes
+5. Citations for behavior
+6. Include/mention simulation results so that people see why the significance tests are all significant and why ranking is a better approach
+7. Make plain that the model tests the implcit assumption about what is happening cognitively, i.e. inference necessity
+8. Map of methods at the start of the methods section, high level description
+9. [DONE] At end of intro Chuck wants a summary of why the work matters, the most significant result(s).
+10. Create a map (at the start) of Chap 3 as well
+11. In the discussion link the intro to it, then make the significance of the work crystal clear.
+12. Pages marked on Chuck's draft, equation fixes especially.
+13. [DONE] Make reward definitions very clear, right from the start (do this before 3.)
+
+# And then....
+* Inf, neph1. Reexport the refs
+* Inf, neph0. Reproof text
+* Put into grad school sty

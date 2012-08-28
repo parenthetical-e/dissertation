@@ -9,7 +9,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated field_info (elt_size=4) to 13360 items from 5000.
+Reallocated field_info (elt_size=4) to 13404 items from 5000.
 Database file #1: bibmin.bib
 Repeated entry---line 1282 of file bibmin.bib
  : @article{Seger:2010p7188
@@ -124,45 +124,45 @@ Repeated entry---line 11720 of file bibmin.bib
  :                          ,
 I'm skipping whatever remains of this entry
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 190 entries,
+You've used 191 entries,
             6361 wiz_defined-function locations,
-            2335 strings with 44235 characters,
-and the built_in function-call counts, 402674 in all, are:
-= -- 47804
-> -- 3501
-< -- 21801
-+ -- 23136
-- -- 382
-* -- 28038
-:= -- 78485
-add.period$ -- 746
-call.type$ -- 190
-change.case$ -- 1251
+            2339 strings with 44337 characters,
+and the built_in function-call counts, 404424 in all, are:
+= -- 48016
+> -- 3511
+< -- 21899
++ -- 23231
+- -- 384
+* -- 28157
+:= -- 78840
+add.period$ -- 750
+call.type$ -- 191
+change.case$ -- 1256
 chr.to.int$ -- 0
-cite$ -- 380
-duplicate$ -- 11266
-empty$ -- 14667
-format.name$ -- 6210
-if$ -- 72731
+cite$ -- 382
+duplicate$ -- 11305
+empty$ -- 14734
+format.name$ -- 6224
+if$ -- 73051
 int.to.chr$ -- 0
-int.to.str$ -- 388
+int.to.str$ -- 390
 missing$ -- 0
-newline$ -- 4740
-num.names$ -- 1520
-pop$ -- 5124
+newline$ -- 4761
+num.names$ -- 1528
+pop$ -- 5146
 preamble$ -- 1
-purify$ -- 1061
+purify$ -- 1065
 quote$ -- 0
-skip$ -- 23207
+skip$ -- 23321
 stack$ -- 0
-substring$ -- 25155
-swap$ -- 6375
-text.length$ -- 681
+substring$ -- 25258
+swap$ -- 6398
+text.length$ -- 683
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 15200
+type$ -- 15280
 warning$ -- 0
-while$ -- 2394
+while$ -- 2399
 width$ -- 0
-write$ -- 6239
+write$ -- 6262
 (There were 28 error messages)
