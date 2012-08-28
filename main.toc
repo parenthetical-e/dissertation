@@ -6,15 +6,15 @@
 \contentsline {subsection}{Why Are We Here Again?}{26}
 \contentsline {section}{Chapter 2 -- Task and Models}{28}
 \contentsline {subsection}{On Task}{28}
-\contentsline {subsection}{3 Models and 2 Codes}{32}
-\contentsline {section}{Chapter 3 -- fMRI analyses}{49}
-\contentsline {subsection}{An Acquisition}{49}
-\contentsline {subsection}{Mobs of Blobs}{52}
-\contentsline {subsection}{Regions and Models}{56}
-\contentsline {subsection}{Model Results}{65}
-\contentsline {section}{Discussion}{88}
-\contentsline {subsection}{Taking Us to Can}{88}
-\contentsline {subsection}{Are, Reflected in Error(s)}{89}
-\contentsline {subsection}{The Big Conclusion}{95}
-\contentsline {subsection}{Future Work}{95}
-\contentsline {section}{References}{97}
+\contentsline {subsection}{3 Models and 2 Codes}{33}
+\contentsline {section}{Chapter 3 -- fMRI analyses}{50}
+\contentsline {subsection}{An Acquisition}{50}
+\contentsline {subsection}{Mobs of Blobs}{53}
+\contentsline {subsection}{Regions and Models}{57}
+\contentsline {subsection}{Model Results}{66}
+\contentsline {section}{Discussion}{89}
+\contentsline {subsection}{Taking Us to Can}{89}
+\contentsline {subsection}{Are, Reflected in Error(s)}{90}
+\contentsline {subsection}{The Big Conclusion}{96}
+\contentsline {subsection}{Future Work}{96}
+\contentsline {section}{References}{98}
