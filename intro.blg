@@ -1,136 +1,47 @@
 This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: intro.aux
-The style file: apacite.bst
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=5001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated field_info (elt_size=4) to 10852 items from 5000.
-Database file #1: bibmin.bib
-Repeated entry---line 1453 of file bibmin.bib
- : @article{ODoherty:2001p2423
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1809 of file bibmin.bib
- : @article{ODoherty:2003p2616
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2493 of file bibmin.bib
- : @article{Seger:2008p6401
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3954 of file bibmin.bib
- : @article{McClure:2003p3346
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4024 of file bibmin.bib
- : @article{Kim:2008p2984
- :                       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5053 of file bibmin.bib
- : @article{Packard:2002p5074
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5147 of file bibmin.bib
- : @article{denOuden:2010p7203
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5156 of file bibmin.bib
- : @article{Montague:2006mz
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 7332 of file bibmin.bib
- : @article{Hikosaka:2008p4455
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 7871 of file bibmin.bib
- : @article{ODoherty:2003p6329
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 7881 of file bibmin.bib
- : @article{Winterbauer:2007p6352
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8214 of file bibmin.bib
- : @article{Tanaka:2008p3265
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8634 of file bibmin.bib
- : @article{Zink:2006p7210
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8895 of file bibmin.bib
- : @article{Hollerman:1998qy
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9882 of file bibmin.bib
- : @article{Fiorillo:2003p6375
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 10009 of file bibmin.bib
- : @article{Tobler:2005p6373
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 10450 of file bibmin.bib
- : @article{Roesch:2007p7182
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 10820 of file bibmin.bib
- : @article{Rossi:2010p7252
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 11351 of file bibmin.bib
- : @article{Kakade:2002p6414
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 11695 of file bibmin.bib
- : @article{Roesch:2007p2519
- :                          ,
-I'm skipping whatever remains of this entry
-apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 133 entries,
-            6361 wiz_defined-function locations,
-            2008 strings with 33823 characters,
-and the built_in function-call counts, 281716 in all, are:
-= -- 33522
-> -- 2404
-< -- 15239
-+ -- 16212
-- -- 268
-* -- 19613
-:= -- 55098
-add.period$ -- 522
-call.type$ -- 133
-change.case$ -- 872
+I found no \bibdata command---while reading file intro.aux
+I found no \bibstyle command---while reading file intro.aux
+You've used 134 entries,
+            0 wiz_defined-function locations,
+            347 strings with 4898 characters,
+and the built_in function-call counts, 0 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 0
+:= -- 0
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 266
-duplicate$ -- 7783
-empty$ -- 10246
-format.name$ -- 4274
-if$ -- 50838
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 0
+format.name$ -- 0
+if$ -- 0
 int.to.chr$ -- 0
-int.to.str$ -- 274
+int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 3306
-num.names$ -- 1064
-pop$ -- 3572
-preamble$ -- 1
-purify$ -- 739
+newline$ -- 0
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 0
+purify$ -- 0
 quote$ -- 0
-skip$ -- 16249
+skip$ -- 0
 stack$ -- 0
-substring$ -- 17660
-swap$ -- 4441
-text.length$ -- 473
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
-top$ -- 1
-type$ -- 10640
+top$ -- 0
+type$ -- 0
 warning$ -- 0
-while$ -- 1672
+while$ -- 0
 width$ -- 0
-write$ -- 4334
-(There were 20 error messages)
+write$ -- 0
+(There were 2 error messages)

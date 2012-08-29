@@ -77,35 +77,35 @@ For each participant and model, the two free parameters ($\alpha$, which control
 
 \subsubsection{The incantations}
 \label{subsub:incantations}
-To restate more formally, the Rescorla-Wagner model's value updates are defined by,
-\begin{equation} \label{eq:V} V(s,a,t) \leftarrow V(s,a,t) + \alpha\delta \end{equation} 
-\begin{equation} \label{eq:rpe} \delta = r_{classic}(t) - V(s,a,t) \end{equation}
-where $r_{classic}(t)$, i.e., the numerical representation of the rewards, can be coded as either
+To restate more formally, a Rescorla-Wagner-like model's value updates were defined by,
+\begin{equation} \label{eq:V} V(s_t,a_t) \leftarrow V(s_t,a_t) + \alpha\delta \end{equation} 
+\begin{equation} \label{eq:rpe} \delta = r_{(classic,t)} - V(s_t,a_t) \end{equation}
+where $\delta$ is the reward prediction error, $s$ is a stimulus, or state (or which there were 6), and $a$ is an action (either ``q'' or ``w'') and $r_{classic}$ (the numerical representation of the rewards) can be coded as either
 \begin{equation}
     \label{eq:r1}
-    r_{classic}(t) = \{1,0\}
+    r_{classic}= \{1,0\}
 \end{equation}
 or 
 \begin{equation}
     \label{eq:r2}
-    r_{classic}(t) = \{1,-1\}
+    r_{classic}= \{1,-1\}
 \end{equation}
 but where $r_{classic}(t)$ may also be replaced with
 \begin{equation}
     \label{eq:re}
-    r_{exp}(t) = r_{classic}(t)S_{exp}
+    r_{exp} = r_{classic}S_{exp}
 \end{equation}
 or
 \begin{equation}
     \label{eq:rg}
-    r_{gauss}(t) = r_{classic}(t)S_{gauss}
+    r_{gauss} = r_{classic}S_{gauss}
 \end{equation}
-where the Euclidean distance
+where $D$ is the Euclidean distance from the width ($w$) and angle ($\theta$) of that trials reward category to the average values from the pre-training ($\bar{\theta}$ and $\bar{W}$; see discussion on part 1 on p\pageref{subsub:whatwhen})
 \begin{equation}
     \label{eq:D}\\
     D = \sqrt{(\bar{\theta} - \theta)^2 + (\bar{W}-w)^2}
 \end{equation}
-is transformed to a Shepard-like similarity metric \cite{Shepard:1987p9102}.
+is transformed to a Shepard-like similarity metric \cite{Shepard:1987p9102}:
 \begin{equation}
     \label{eq:Sexp}\\
     S_{exp} = e^{-D}
@@ -115,11 +115,17 @@ is transformed to a Shepard-like similarity metric \cite{Shepard:1987p9102}.
     S_{gauss} = e^{-D^2}
 \end{equation}
 Consistent with past work, all values are initialized at 0 \cite{Beierholm:2011p8141,BischoffGrethe:2009p4570,Gershman:2009p7207}
-\begin{equation} \label{eq:V0} V_{initial}(s,t) = 0. \end{equation}
+\begin{equation} \label{eq:V0} V_{initial} = 0. \end{equation}
 and values are transformed to response selection probabilities via the softmax distribution \cite{Sutton:1998p9247,ODoherty:2003p6329}.
 \begin{equation}
     \label{eq:softmax}
-    p(s_1) = {e^{\beta V(s_1,a_1,t)}\over{e^{\beta V(s_1,a_1,t)} + e^{\beta V(s_2,a_2,t)}}};\ s_1 = (s_{i},q), \ s_2 = (s_{i}, w).
+    p_1(s_t,a_t) = {e^{\beta V_1(s_t,a_t)}\over{e^{\beta V_1(s_t,a_t)} + e^{\beta V_2(s_t,a_t)}}}
+\end{equation}
+where $V_1$ and $V_2$ are the values for the two response options (i.e., ``q'' and ``w'').
+During maximum likelihood parameter selection (p\pageref{subsub:codesandfits}), the $p_1(s_t,a_t)$ values from each trial and some test parameters ($\alpha_{test}$ and $\beta_{test}$) calculate the log-likelihood by,
+\begin{equation}
+    \label{eq:logL}
+    L_{} = \sum{log_e(p_1(s_t,a_t))}
 \end{equation}
 
 \subsubsection{Fits and plots}
