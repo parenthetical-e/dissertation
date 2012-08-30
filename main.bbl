@@ -76,6 +76,34 @@ Anderson, D\BPBI R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Aron%
+\ \protect\BOthers{.}}{%
+Aron%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2004}}%
+}]{%
+Aron:2004p1375}%
+\APACinsertmetastar{%
+Aron:2004p1375}%
+Aron, A\BPBI R.%
+, Shohamy, D.%
+, Clark, J.%
+, Myers, C.%
+, Gluck, M\BPBI A.%
+\BCBL{}\ \BBA{} Poldrack, R\BPBI A.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{Aug}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Human midbrain sensitivity to cognitive feedback and
+  uncertainty during classification learning}{Human midbrain sensitivity to
+  cognitive feedback and uncertainty during classification learning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Physiol.}{92}{2}{1144--52}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Ashburner%
 \ \BBA{} Friston%
 }{%
@@ -3634,6 +3662,32 @@ Poldrack, R\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Poldrack%
+\ \BBA{} Foerde%
+}{%
+Poldrack%
+\ \BBA{} Foerde%
+}{%
+{\protect\APACyear{2008}}%
+}]{%
+Poldrack:2008p6839}%
+\APACinsertmetastar{%
+Poldrack:2008p6839}%
+Poldrack, R\BPBI A.%
+\BCBT{}\ \BBA{} Foerde, K.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Category learning and the memory systems debate}{Category
+  learning and the memory systems debate}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroscience and Biobehavioral
+  Reviews}{32}{2}{197--205}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Quilodran%
 , Roth{\'e}%
 \BCBL{}\ \BBA{} Procyk%
@@ -3687,6 +3741,37 @@ Ramnani, N.%
   prefrontal cortex}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuroimage}{23}{3}{777--86}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Ramnani%
+, Toni%
+, Josephs%
+, Ashburner%
+\BCBL{}\ \BBA{} Passingham%
+}{%
+Ramnani%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2000}}%
+}]{%
+Ramnani:2000p6515}%
+\APACinsertmetastar{%
+Ramnani:2000p6515}%
+Ramnani, N.%
+, Toni, I.%
+, Josephs, O.%
+, Ashburner, J.%
+\BCBL{}\ \BBA{} Passingham, R\BPBI E.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{Dec}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Learning- and expectation-related changes in the human
+  brain during motor learning}{Learning- and expectation-related changes in the
+  human brain during motor learning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Physiol.}{84}{6}{3026--35}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -4427,6 +4512,32 @@ Smith, A.%
   model-based account}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Network}{17}{1}{61--84}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+E\BPBI E.~Smith%
+\ \BBA{} Grossman%
+}{%
+E\BPBI E.~Smith%
+\ \BBA{} Grossman%
+}{%
+{\protect\APACyear{2008}}%
+}]{%
+Smith:2008p2803}%
+\APACinsertmetastar{%
+Smith:2008p2803}%
+Smith, E\BPBI E.%
+\BCBT{}\ \BBA{} Grossman, M.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Multiple systems of category learning}{Multiple systems
+  of category learning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neuroscience and Biobehavioral
+  Reviews}{32}{2}{249--64}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
