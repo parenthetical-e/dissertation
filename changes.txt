@@ -10,12 +10,11 @@
 8. [DONE -- near p29] Map of methods at the start of the methods section, high level description.
 9. [DONE -- near p26 in 'Why Are We Here Again?'] At end of intro Chuck wants a summary of why the work matters, the most significant result(s).
 10. [DONE -- near p51] Create a map (at the start) of Chap 3 as well.
-11. In the discussion link the intro to it, then make the significance of the work crystal clear.  The most interesting extension is that is rewards are categoires, like and category they should/may be constructable arbitrarily free from any primary relation.
+11. [DONE] In the discussion link the intro to it, then make the significance of the work crystal clear.  The most interesting extension is that is rewards are categoires, like and category they should/may be constructable arbitrarily free from any primary relation.
 12. [DONE -- near p39] Equation fixes from Chuck.
 13. [DONE -- near p4, first paragraph of the Introduction] Make reward definitions very clear, right from the start (do this before 3.).
-14. Rework discussion as discussed with Chuck, review the overview (there are no conflicts) then cherry pick two findings from the models that really drive the point home.
+14. [DONE] Rework discussion as discussed with Chuck, review the overview (there are no conflicts) then cherry pick two findings from the models that really drive the point home.
 15. [DONE] Other misc Chuck comments.
-16. Overall, cite results in discussion better.
 
 # And then....
 * Inf, neph2. Reexport the references

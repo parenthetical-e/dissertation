@@ -531,16 +531,16 @@ Beierholm, U\BPBI R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-K.~Berridge%
+Berridge%
 }{%
-K.~Berridge%
+Berridge%
 }{%
 {\protect\APACyear{2007}}%
 }]{%
 Berridge:2007p7235}%
 \APACinsertmetastar{%
 Berridge:2007p7235}%
-Berridge, K.%
+Berridge, K\BPBI C.%
 %
 \unskip\
 \newblock
@@ -554,10 +554,10 @@ Berridge, K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-K\BPBI C.~Berridge%
+Berridge%
 \ \BBA{} Robinson%
 }{%
-K\BPBI C.~Berridge%
+Berridge%
 \ \BBA{} Robinson%
 }{%
 {\protect\APACyear{2003}}%
@@ -2063,6 +2063,31 @@ Hikosaka, O.%
   system}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{J Neurosci}{28}{46}{11825--9}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Hillyard%
+\ \BBA{} Kutas%
+}{%
+Hillyard%
+\ \BBA{} Kutas%
+}{%
+{\protect\APACyear{1983}}%
+}]{%
+Hillyard:1983p9844}%
+\APACinsertmetastar{%
+Hillyard:1983p9844}%
+Hillyard, S\BPBI A.%
+\BCBT{}\ \BBA{} Kutas, M.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1983}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Electrophysiology of cognitive
+  processing}{Electrophysiology of cognitive processing}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Annual review of psychology}{34}{}{33--61}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -3609,6 +3634,29 @@ Pizzagalli, D\BPBI A.%
   measure of reward responsiveness}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Psychopharmacology (Berl)}{196}{2}{221--232}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Poldrack%
+}{%
+Poldrack%
+}{%
+{\protect\APACyear{2006}}%
+}]{%
+Poldrack:2006p9841}%
+\APACinsertmetastar{%
+Poldrack:2006p9841}%
+Poldrack, R\BPBI A.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{Sep}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Region of interest analysis for fMRI}{Region of interest
+  analysis for fmri}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Social Cognitive and Affective
+  Neuroscience}{2}{1}{67--70}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%

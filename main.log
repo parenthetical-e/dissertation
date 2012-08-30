@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  29 AUG 2012 22:10
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  30 AUG 2012 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -330,9 +330,6 @@ Missing character: There is no ™ in font cmr12!
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-
-LaTeX Warning: Citation `Hillyard:1983p9844' undefined on input line 70.
-
 [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -475,11 +472,7 @@ _acc.pdf>] [49 <./f_value_gl.pdf>] [50 <./f_density_rpe.pdf> <./f_density_value
 .pdf>])
 \openout2 = `chap3.aux'.
 
- (./chap3.tex
-
-LaTeX Warning: Citation `Poldrack:2006p9841' undefined on input line 3.
-
-[51
+ (./chap3.tex [51
 
 
 
@@ -773,23 +766,19 @@ _Gyrus.pdf>] [90 <./f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>])
 
 
 
-] [92] [93] [94] [95]
-
-LaTeX Warning: Reference `denrpe' on page 96 undefined on input line 30.
-
-[96] [97]
-Underfull \vbox (badness 2521) has occurred while \output is active []
+] [92] [93] [94] [95] [96] [97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [98]
-[99] [100]) (./main.bbl [101
+Underfull \vbox (badness 1701) has occurred while \output is active []
+
+ [99]
+[100] [101]) (./main.bbl [102
 
 
-] [102] [103] [104] [105] [106] [107] [108]
-[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119]) [120]
+] [103] [104] [105] [106] [107] [108] [109]
+[110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]) [121]
 (./main.aux (./intro.aux) (./chap2.aux) (./chap3.aux) (./discussion.aux))
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -799,13 +788,13 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 36 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4283 strings out of 493633
- 67315 string characters out of 3143378
- 150136 words of memory out of 3000000
- 7440 multiletter control sequences out of 15000+200000
+ 4287 strings out of 493633
+ 67422 string characters out of 3143378
+ 150275 words of memory out of 3000000
+ 7444 multiletter control sequences out of 15000+200000
  20257 words of font info for 75 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,26p,2093b,731s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,26p,2093b,728s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
@@ -828,10 +817,10 @@ ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/
 2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (120 pages, 2615134 bytes).
+Output written on main.pdf (121 pages, 2617466 bytes).
 PDF statistics:
- 924 PDF objects out of 1000 (max. 8388607)
- 653 compressed objects within 7 object streams
+ 928 PDF objects out of 1000 (max. 8388607)
+ 656 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
