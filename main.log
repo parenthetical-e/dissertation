@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  16 SEP 2012 15:26
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  16 SEP 2012 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -342,6 +342,9 @@ LaTeX Warning: Citation `Medin:1978p9358' undefined on input line 115.
 Underfull \vbox (badness 5970) has occurred while \output is active []
 
  [24]
+
+LaTeX Warning: Citation `Kruschke:1992p9111' undefined on input line 117.
+
 [25] [26] [27] [28])
 \openout2 = `chap2.aux'.
 
@@ -381,13 +384,13 @@ Package pdftex.def Info: f_all_sS_rt.pdf used on input line 44.
 File: f_all_mean_acc.pdf Graphic file (type pdf)
 
 <use f_all_mean_acc.pdf>
-Package pdftex.def Info: f_all_mean_acc.pdf used on input line 57.
+Package pdftex.def Info: f_all_mean_acc.pdf used on input line 55.
 (pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
  <f_all_mean_rt.pdf, id=126, 144.54pt x 144.54pt>
 File: f_all_mean_rt.pdf Graphic file (type pdf)
 
 <use f_all_mean_rt.pdf>
-Package pdftex.def Info: f_all_mean_rt.pdf used on input line 64.
+Package pdftex.def Info: f_all_mean_rt.pdf used on input line 62.
 (pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -403,75 +406,75 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <f_logL.pdf, id=266, 216.81pt x 144.54pt>
 File: f_logL.pdf Graphic file (type pdf)
  <use f_logL.pdf>
-Package pdftex.def Info: f_logL.pdf used on input line 140.
+Package pdftex.def Info: f_logL.pdf used on input line 138.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
 <f_alpha.pdf, id=267, 216.81pt x 144.54pt>
 File: f_alpha.pdf Graphic file (type pdf)
  <use f_alpha.pdf>
-Package pdftex.def Info: f_alpha.pdf used on input line 147.
+Package pdftex.def Info: f_alpha.pdf used on input line 145.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
 <f_beta.pdf, id=268, 216.81pt x 144.54pt>
 File: f_beta.pdf Graphic file (type pdf)
  <use f_beta.pdf>
-Package pdftex.def Info: f_beta.pdf used on input line 154.
+Package pdftex.def Info: f_beta.pdf used on input line 152.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
  [42] [43 <./f_logL.pdf>] [44 <./f_alpha.pdf>] <f_rpe_acc.pdf, id=291, 433.62pt
  x 867.24pt>
 File: f_rpe_acc.pdf Graphic file (type pdf)
 
 <use f_rpe_acc.pdf>
-Package pdftex.def Info: f_rpe_acc.pdf used on input line 171.
+Package pdftex.def Info: f_rpe_acc.pdf used on input line 169.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 30.0867pt on input line 175.
+LaTeX Warning: Float too large for page by 30.0867pt on input line 173.
 
 <f_rpe_gl.pdf, id=292, 433.62pt x 867.24pt>
 File: f_rpe_gl.pdf Graphic file (type pdf)
  <use f_rpe_gl.pdf>
-Package pdftex.def Info: f_rpe_gl.pdf used on input line 177.
+Package pdftex.def Info: f_rpe_gl.pdf used on input line 175.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 30.0867pt on input line 181.
+LaTeX Warning: Float too large for page by 30.0867pt on input line 179.
 
 <f_value_acc.pdf, id=293, 433.62pt x 867.24pt>
 File: f_value_acc.pdf Graphic file (type pdf)
  <use f_value_acc.pdf>
-Package pdftex.def Info: f_value_acc.pdf used on input line 184.
+Package pdftex.def Info: f_value_acc.pdf used on input line 182.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 30.0867pt on input line 188.
+LaTeX Warning: Float too large for page by 30.0867pt on input line 186.
 
 <f_value_gl.pdf, id=294, 433.62pt x 867.24pt>
 File: f_value_gl.pdf Graphic file (type pdf)
  <use f_value_gl.pdf>
-Package pdftex.def Info: f_value_gl.pdf used on input line 190.
+Package pdftex.def Info: f_value_gl.pdf used on input line 188.
 (pdftex.def)             Requested size: 258.00539pt x 516.03407pt.
 
 
-LaTeX Warning: Float too large for page by 30.0867pt on input line 194.
+LaTeX Warning: Float too large for page by 30.0867pt on input line 192.
 
 <f_density_rpe.pdf, id=295, 433.62pt x 216.81pt>
 File: f_density_rpe.pdf Graphic file (type pdf)
  <use f_density_rpe.pdf>
-Package pdftex.def Info: f_density_rpe.pdf used on input line 196.
+Package pdftex.def Info: f_density_rpe.pdf used on input line 194.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 196--198
+Overfull \hbox (3.61432pt too wide) in paragraph at lines 194--196
  [][] 
  []
 
 <f_density_value.pdf, id=296, 433.62pt x 216.81pt>
 File: f_density_value.pdf Graphic file (type pdf)
  <use f_density_value.pdf>
-Package pdftex.def Info: f_density_value.pdf used on input line 203.
+Package pdftex.def Info: f_density_value.pdf used on input line 201.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (3.61432pt too wide) in paragraph at lines 203--205
+Overfull \hbox (3.61432pt too wide) in paragraph at lines 201--203
  [][] 
  []
 
@@ -799,13 +802,13 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 36 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4281 strings out of 493633
- 67280 string characters out of 3143378
- 150065 words of memory out of 3000000
- 7438 multiletter control sequences out of 15000+200000
+ 4279 strings out of 493633
+ 67230 string characters out of 3143378
+ 149994 words of memory out of 3000000
+ 7436 multiletter control sequences out of 15000+200000
  20257 words of font info for 75 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,26p,2093b,726s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,26p,2093b,727s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
@@ -828,7 +831,7 @@ ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/
 2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (121 pages, 2616992 bytes).
+Output written on main.pdf (121 pages, 2616930 bytes).
 PDF statistics:
  928 PDF objects out of 1000 (max. 8388607)
  656 compressed objects within 7 object streams

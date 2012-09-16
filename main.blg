@@ -128,46 +128,47 @@ Repeated entry---line 11546 of file bibmin.bib
  :                            ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Medin:1978p9358"
+Warning--I didn't find a database entry for "Kruschke:1992p9111"
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 199 entries,
+You've used 198 entries,
             6361 wiz_defined-function locations,
-            2389 strings with 45687 characters,
-and the built_in function-call counts, 420266 in all, are:
-= -- 49889
-> -- 3667
-< -- 22684
-+ -- 24056
-- -- 400
-* -- 29215
-:= -- 81723
-add.period$ -- 782
-call.type$ -- 199
-change.case$ -- 1318
+            2385 strings with 45601 characters,
+and the built_in function-call counts, 418725 in all, are:
+= -- 49708
+> -- 3657
+< -- 22604
++ -- 23984
+- -- 398
+* -- 29110
+:= -- 81423
+add.period$ -- 778
+call.type$ -- 198
+change.case$ -- 1314
 chr.to.int$ -- 0
-cite$ -- 398
-duplicate$ -- 11803
-empty$ -- 15366
-format.name$ -- 6505
-if$ -- 76012
+cite$ -- 396
+duplicate$ -- 11767
+empty$ -- 15299
+format.name$ -- 6491
+if$ -- 75723
 int.to.chr$ -- 0
-int.to.str$ -- 406
+int.to.str$ -- 404
 missing$ -- 0
-newline$ -- 4962
-num.names$ -- 1592
-pop$ -- 5367
+newline$ -- 4941
+num.names$ -- 1584
+pop$ -- 5346
 preamble$ -- 1
-purify$ -- 1119
+purify$ -- 1116
 quote$ -- 0
-skip$ -- 24294
+skip$ -- 24186
 stack$ -- 0
-substring$ -- 26162
-swap$ -- 6670
-text.length$ -- 721
+substring$ -- 26084
+swap$ -- 6645
+text.length$ -- 720
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 15920
+type$ -- 15840
 warning$ -- 0
-while$ -- 2507
+while$ -- 2503
 width$ -- 0
-write$ -- 6527
+write$ -- 6504
 (There were 28 error messages)

@@ -2716,29 +2716,6 @@ Kruggel, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Kruschke%
-}{%
-Kruschke%
-}{%
-{\protect\APACyear{{\protect\bibnodate{}}}}%
-}]{%
-Kruschke:2012p9111}%
-\APACinsertmetastar{%
-Kruschke:2012p9111}%
-Kruschke, J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{\bibnodate{}}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{ALCOVE: An Exemplar-Based Connectionist Model of Category
-  Learning.}{Alcove: An exemplar-based connectionist model of category
-  learning.}\BBCQ{}
-\newblock
-\APACjournalVolNumPages{PSYCHOLOGICAL REVIEW}{99}{1}{22--44}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
 Lazarus%
 \ \protect\BOthers{.}}{%
 Lazarus%
