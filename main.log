@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  16 SEP 2012 15:38
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  16 SEP 2012 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -543,6 +543,10 @@ Package pdftex.def Info: f_map_gxl_p05.pdf used on input line 44.
 
 [55] [56 <./f_map_gl_p05.pdf>] [57 <./f_map_gl_raw_t.pdf>] [58 <./f_map_gxl_p05
 .pdf>] [59]
+
+LaTeX Warning: Citation `Geman:1992p9469' undefined on input line 65.
+
+
 Underfull \vbox (badness 3058) has occurred while \output is active []
 
  [60]
@@ -605,11 +609,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []|\OT1/cmr/m/n/12 Outcome sim-i-lar-ity (ex-po-nen-
  []
 
-[66] [67] [68]
-Underfull \vbox (badness 1331) has occurred while \output is active []
-
- [69]
-[70] <f_meanbar_run4_c_aic_w_bilat_Caudate.pdf, id=528, 433.62pt x 433.62pt>
+[66] [67] [68] [69] [70]
+<f_meanbar_run4_c_aic_w_bilat_Caudate.pdf, id=528, 433.62pt x 433.62pt>
 File: f_meanbar_run4_c_aic_w_bilat_Caudate.pdf Graphic file (type pdf)
 
 <use f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>
@@ -802,13 +803,13 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 36 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4279 strings out of 493633
- 67230 string characters out of 3143378
- 149994 words of memory out of 3000000
- 7436 multiletter control sequences out of 15000+200000
+ 4277 strings out of 493633
+ 67198 string characters out of 3143378
+ 149877 words of memory out of 3000000
+ 7434 multiletter control sequences out of 15000+200000
  20257 words of font info for 75 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,8n,26p,2093b,727s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,26p,2093b,730s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
@@ -831,7 +832,7 @@ ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/
 2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (121 pages, 2616930 bytes).
+Output written on main.pdf (121 pages, 2616754 bytes).
 PDF statistics:
  928 PDF objects out of 1000 (max. 8388607)
  656 compressed objects within 7 object streams

@@ -1738,32 +1738,6 @@ Furuyashiki, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Geman%
-, Bienenstock%
-\BCBL{}\ \BBA{} Doursat%
-}{%
-Geman%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1}}%
-}]{%
-Geman:1p9469}%
-\APACinsertmetastar{%
-Geman:1p9469}%
-Geman, S.%
-, Bienenstock, E.%
-\BCBL{}\ \BBA{} Doursat, R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Neural networks and the bias/variance dilemma}{Neural
-  networks and the bias/variance dilemma}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neural Computation}{4}{1}{1--58}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
 Gershman%
 , Pesaran%
 \BCBL{}\ \BBA{} Daw%
