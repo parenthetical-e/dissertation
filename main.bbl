@@ -3060,31 +3060,6 @@ McKinley, S\BPBI C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
-Medin%
-\ \BBA{} Schaffer%
-}{%
-Medin%
-\ \BBA{} Schaffer%
-}{%
-{\protect\APACyear{{\protect\bibnodate{}}}}%
-}]{%
-Medin:2012p9358}%
-\APACinsertmetastar{%
-Medin:2012p9358}%
-Medin, D.%
-\BCBT{}\ \BBA{} Schaffer, M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{\bibnodate{}}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Context theory of classification learning.}{Context
-  theory of classification learning.}\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychological Review}{85}{3}{207}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
 Miezin%
 , Maccotta%
 , Ollinger%
@@ -3574,36 +3549,6 @@ Phillips, M\BPBI L.%
   disgust}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Proc Biol Sci}{265}{1408}{1809--17}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Pizzagalli%
-\ \protect\BOthers{.}}{%
-Pizzagalli%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{{\protect\bibnodate{}}}}%
-}]{%
-Pizzagalli:2010p7205}%
-\APACinsertmetastar{%
-Pizzagalli:2010p7205}%
-Pizzagalli, D\BPBI A.%
-, Evins, A\BPBI E.%
-, Schetter, E\BPBI C.%
-, Frank, M\BPBI J.%
-, Pajtas, P\BPBI E.%
-, Santesso, D\BPBI L.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{\bibnodate{}}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Single Dose of a Dopamine Agonist Impairs Reinforcement
-  Learning in Humans: Behavioral Evidence from a Laboratory-based Measure of
-  Reward Responsiveness}{Single dose of a dopamine agonist impairs
-  reinforcement learning in humans: Behavioral evidence from a laboratory-based
-  measure of reward responsiveness}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychopharmacology}{196}{2}{221}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
