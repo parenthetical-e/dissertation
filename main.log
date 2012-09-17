@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  16 SEP 2012 16:17
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  17 SEP 2012 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -335,31 +335,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
 [19] [20] [21] [22] [23]
-
-LaTeX Warning: Citation `Medin:1978p9358' undefined on input line 115.
-
-
 Underfull \vbox (badness 5970) has occurred while \output is active []
 
  [24]
+[25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `Kruschke:1992p9111' undefined on input line 117.
+ [26]
+Underfull \vbox (badness 1701) has occurred while \output is active []
 
-[25] [26] [27] [28])
+ [27]
+[28])
 \openout2 = `chap2.aux'.
 
  (./chap2.tex [29
 
 
 
-] [30] [31]
-<f_task.png, id=111, 1027.84pt x 770.88pt>
+] [30] [31] <f_task.png, id=111, 1027.84pt x 770.88pt>
 File: f_task.png Graphic file (type png)
- <use f_task.png>
+
+<use f_task.png>
 Package pdftex.def Info: f_task.png used on input line 22.
 (pdftex.def)             Requested size: 430.00462pt x 322.50879pt.
-
-<f_II.pdf, id=113, 289.08pt x 216.81pt>
+ <f_II.pdf, id=113, 289.08pt x 216.81pt>
 File: f_II.pdf Graphic file (type pdf)
  <use f_II.pdf>
 Package pdftex.def Info: f_II.pdf used on input line 29.
@@ -543,10 +542,6 @@ Package pdftex.def Info: f_map_gxl_p05.pdf used on input line 44.
 
 [55] [56 <./f_map_gl_p05.pdf>] [57 <./f_map_gl_raw_t.pdf>] [58 <./f_map_gxl_p05
 .pdf>] [59]
-
-LaTeX Warning: Citation `Geman:1992p9469' undefined on input line 65.
-
-
 Underfull \vbox (badness 3058) has occurred while \output is active []
 
  [60]
@@ -792,9 +787,6 @@ Underfull \vbox (badness 1701) has occurred while \output is active []
 [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]) [121]
 (./main.aux (./intro.aux) (./chap2.aux) (./chap3.aux) (./discussion.aux))
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  )
@@ -803,10 +795,10 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 36 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4277 strings out of 493633
- 67198 string characters out of 3143378
- 149877 words of memory out of 3000000
- 7434 multiletter control sequences out of 15000+200000
+ 4291 strings out of 493633
+ 67504 string characters out of 3143378
+ 150356 words of memory out of 3000000
+ 7448 multiletter control sequences out of 15000+200000
  20257 words of font info for 75 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  42i,8n,26p,2093b,730s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -832,7 +824,7 @@ ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/
 2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (121 pages, 2616692 bytes).
+Output written on main.pdf (121 pages, 2617794 bytes).
 PDF statistics:
  928 PDF objects out of 1000 (max. 8388607)
  656 compressed objects within 7 object streams

@@ -1738,6 +1738,32 @@ Furuyashiki, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Geman%
+, Bienenstock%
+\BCBL{}\ \BBA{} Doursat%
+}{%
+Geman%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{1992}}%
+}]{%
+Geman:1992p9469}%
+\APACinsertmetastar{%
+Geman:1992p9469}%
+Geman, S.%
+, Bienenstock, E.%
+\BCBL{}\ \BBA{} Doursat, R.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{Jan}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Neural networks and the bias/variance dilemma}{Neural
+  networks and the bias/variance dilemma}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Neural Computation}{4}{1}{1--58}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Gershman%
 , Pesaran%
 \BCBL{}\ \BBA{} Daw%
@@ -1763,6 +1789,30 @@ Gershman, S.%
   values}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Journal of Neuroscience}{29}{43}{13524}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Gewirtz%
+}{%
+Gewirtz%
+}{%
+{\protect\APACyear{2000}}%
+}]{%
+Gewirtz:2000p9847}%
+\APACinsertmetastar{%
+Gewirtz:2000p9847}%
+Gewirtz, J\BPBI C.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{Sep}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Using Pavlovian Higher-Order Conditioning Paradigms to
+  Investigate the Neural Substrates of Emotional Learning and Memory}{Using
+  pavlovian higher-order conditioning paradigms to investigate the neural
+  substrates of emotional learning and memory}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Learning {\&} Memory}{7}{5}{257--266}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -2509,8 +2559,8 @@ Kim, S.%
 \newblock
 \APACrefYearMonthDay{2008}{Jul}{}.
 \newblock
-\BBOQ{}\APACrefatitle{Prefrontal coding of temporally discounted values during
-  intertemporal choice}{Prefrontal coding of temporally discounted values
+\BBOQ{}\APACrefatitle{prefrontal coding of temporally discounted values during
+  intertemporal choice}{prefrontal coding of temporally discounted values
   during intertemporal choice}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuron}{59}{1}{161--72}.
@@ -2687,6 +2737,29 @@ Kruggel, F.%
   datasets.}{Comparison of filtering methods for fmri datasets.}\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Neuroimage}{10}{5}{530--543}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Kruschke%
+}{%
+Kruschke%
+}{%
+{\protect\APACyear{1992}}%
+}]{%
+Kruschke:1992p9111}%
+\APACinsertmetastar{%
+Kruschke:1992p9111}%
+Kruschke, J.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{ALCOVE: An Exemplar-Based Connectionist Model of Category
+  Learning.}{Alcove: An exemplar-based connectionist model of category
+  learning.}\BBCQ{}
+\newblock
+\APACjournalVolNumPages{PSYCHOLOGICAL REVIEW}{99}{1}{22--44}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -3008,6 +3081,31 @@ McKinley, S\BPBI C.%
   boundaries}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{J Exp Psychol Hum Percept Perform}{22}{2}{294--317}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Medin%
+\ \BBA{} Schaffer%
+}{%
+Medin%
+\ \BBA{} Schaffer%
+}{%
+{\protect\APACyear{1978}}%
+}]{%
+Medin:1978p9358}%
+\APACinsertmetastar{%
+Medin:1978p9358}%
+Medin, D.%
+\BCBT{}\ \BBA{} Schaffer, M.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1978}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Context theory of classification learning.}{Context
+  theory of classification learning.}\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Psychological Review}{85}{3}{207}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
@@ -3811,6 +3909,32 @@ Rescorla, R\BPBI A.%
   is}{Pavlovian conditioning. it's not what you think it is}.\BBCQ{}
 \newblock
 \APACjournalVolNumPages{Am Psychol}{43}{3}{151--60}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Rizley%
+\ \BBA{} Rescorla%
+}{%
+Rizley%
+\ \BBA{} Rescorla%
+}{%
+{\protect\APACyear{1972}}%
+}]{%
+Rizley:1972p9858}%
+\APACinsertmetastar{%
+Rizley:1972p9858}%
+Rizley, R\BPBI C.%
+\BCBT{}\ \BBA{} Rescorla, R\BPBI A.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1972}{Oct}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Associations in second-order conditioning and sensory
+  preconditioning}{Associations in second-order conditioning and sensory
+  preconditioning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{J Comp Physiol Psychol}{81}{1}{1--11}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%

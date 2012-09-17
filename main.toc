@@ -3,7 +3,7 @@
 \contentsline {subsection}{Bad Prediction, No Cookie}{15}
 \contentsline {subsection}{Thinking About Thinking Rewarding Thoughts}{19}
 \contentsline {subsection}{Generally Generalizable.}{22}
-\contentsline {subsection}{Why Are We Here Again?}{26}
+\contentsline {subsection}{Why Are We Here Again?}{27}
 \contentsline {section}{Chapter 2 -- Task and Models}{29}
 \contentsline {subsection}{On Task}{29}
 \contentsline {subsection}{3 Models and 2 Codes}{38}
