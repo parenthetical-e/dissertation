@@ -2,23 +2,16 @@
 0. [DONE -- everywhere] Third person impersonal.
 1. [DONE -- everywhere] Chuck and Carol's line edits.
 2. [DONE -- near p15, in 'Not cortex, colliculus.'] Weaken Dommett el al's 100 ms argument.
-3. [DONE -- I tried to make it clear in the abstract, intro (near p26) and discussion (first paragraph) that the stimulus-response part of the task is not and cannot be a higher-order conditioning paradigm. This is, I hope, sufficient] Review higher-order conditioning in the Introduction.
+3. [DONE -- I tried to make it clear in the abstract, intro (near p26) and discussion (first paragraph) that the stimulus-response part of the task is not and cannot be a higher-order conditioning paradigm] Review higher-order conditioning in the Introduction.
 4. [DONE -- near p5, last paragraph before 'Classics, Expectations, and Tissues'] Link long DA discussion in intro to the rest, and clarify what I mean by DA (i.e. phasic DA from VTA/SNc _only_), also improve abstract to reflect these changes.
-5. [DONE -- near p32 in 'Well behaved results' and 92 second paragraph in 'Taking Us to Can'] Citations for behavior.
-6. [DONE -- near p63, second paragraph in 'F-them.'] Include/mention simulation results so that people see why the significance tests are all significant and why ranking is a better approach.
+5. [DONE -- near p32 in 'Well behaved results' and p92 second paragraph in 'Taking Us to Can'] Citations for behavior.
+6. [DONE -- near p63, second paragraph in 'F-them.'] Include/mention simulation results so that people see why the significance tests are so often significant.
 7. [DONE -- near p26, in 'Why Are We Here Again?'] Make plain that the model tests the implicit assumption about what is happening cognitively, i.e. inference necessity.
 8. [DONE -- near p29] Map of methods at the start of the methods section, high level description.
 9. [DONE -- near p26 in 'Why Are We Here Again?'] At end of intro Chuck wants a summary of why the work matters, the most significant result(s).
 10. [DONE -- near p51] Create a map (at the start) of Chap 3 as well.
 11. [DONE] In the discussion link the intro to it, then make the significance of the work crystal clear.
 12. [DONE -- near p39] Equation fixes from Chuck.
-13. [DONE -- near p4, first paragraph of the Introduction] Make reward definitions very clear, right from the start (do this before 3.).
+13. [DONE -- near p4, first paragraph of the Introduction] Make reward definitions very clear, right from the start.
 14. [DONE -- I've tried in, and leading up to, the 'Big Conclusion' to drive the significance of the work home in a more tangible way] Rework discussion as discussed with Chuck.
-15. [DONE] Other misc Chuck comments (e.g. correcting equations).
-
-# And then....
-16. [DONE] Final spell check and proofing (by CS)
-
-# Fin!
-* Final ref compile
-* Inf, neph0. Put into grad school .sty
+15. [DONE -- too many places to list] Other misc Chuck comments
