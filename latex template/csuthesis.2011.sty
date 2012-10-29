@@ -1,0 +1,366 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%% CSU Master's Thesis style file
+%% Summer 2011
+%% Dan Jones and Jeremiah Sjoberg
+%%
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%% Page Setup %%%%%%
+\oddsidemargin 0.0in			% Left margin
+\evensidemargin 0.0in
+\brokenpenalty 10000
+\widowpenalty 5000
+\clubpenalty 5000
+\textwidth 6.5 true in
+\headheight 0pt
+\headsep -0.3in
+\textheight 9.2in
+\footskip 0.35in
+\topskip -0pt
+\parskip 0pt
+
+%%%%%%%%%%%%%%%%%%% Macros %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\providecommand{\csutext}{
+   \newpage
+   \c@page\@ne
+   \pagenumbering{arabic}
+   %\pagestyle{myheadings}   % This will suppress chapter name in header
+   \spacing{1.655}
+   \parindent 2em
+   }
+\def\today{\ifcase\month\or
+  January\or February\or March\or April\or May\or June\or
+  July\or August\or September\or October\or November\or December\fi
+  \space\number\day, \number\year}
+\newcommand{\singlespace}{
+  \vskip\parskip\vskip\baselineskip
+  \def\baselinestretch{1}
+  \ifx\@currsize\normalsize\@normalsize\else\@currsize\fi\vskip-\parskip\vskip-\baselineskip }
+\newcommand{\doublespace}{
+  \vskip\parskip\vskip\baselineskip
+  \def\baselinestretch{2}
+  \ifx\@currsize\normalsize\@normalsize\else\@currsize\fi\vskip-\parskip\vskip-\baselineskip }
+\newcommand{\spacing}[1]{\par
+  \def\baselinestretch{#1}                                                     
+  \ifx\@currsize\normalsize\@normalsize\else\@currsize\fi }                      
+\def\endspacing{\par\vskip\parskip\vskip \baselineskip\endgroup
+  \vskip-\parskip\vskip-\baselineskip\begingroup}
+\newcommand{\thesistype}[1]{\gdef\@thesistype{#1}}
+\newcommand{\@thesistype}{}
+\newcommand{\committeetype}[1]{\gdef\@committeetype{#1}}
+\newcommand{\@committeetype}{}
+\newcommand{\school}[1]{\gdef\@school{#1}}
+\newcommand{\@school}{}
+\newcommand{\dept}[1]{\gdef\@dept{#1}}
+\newcommand{\@dept}{}
+\newcommand{\degree}[1]{\gdef\@degree{#1}}
+\newcommand{\@degree}{}
+\newcommand{\major}[1]{\gdef\@major{#1}}
+\newcommand{\@major}{}
+\newcommand{\graduatemonth}[1]{\gdef\@graduatemonth{#1}}
+\newcommand{\@graduatemonth}{}
+\newcommand{\graduateyear}[1]{\gdef\@graduateyear{#1}}
+\newcommand{\@graduateyear}{}
+\newcommand{\graduatedate}[1]{\gdef\@graduatedate{#1}}
+\newcommand{\@graduatedate}{\@graduatemonth\ \@graduateyear}
+\newcommand{\@@graduatedate}{\@graduateyear}
+\newcommand{\keywords}[1]{\gdef\@keywords{#1}}
+\newcommand{\@keywords}{}
+\newcommand{\msc}[1]{\gdef\@msc{#1}}
+\newcommand{\@msc}{}
+\newcommand{\degreeA}[1]{\gdef\@degreeA{#1}}
+\newcommand{\@degreeA}{}
+\newcommand{\degreeB}[1]{\gdef\@degreeB{#1}}
+\newcommand{\@degreeB}{}
+\newcommand{\degreeC}[1]{\gdef\@degreeC{#1}}
+\newcommand{\@degreeC}{}
+\newcommand{\degreeD}[1]{\gdef\@degreeD{#1}}
+\newcommand{\@degreeD}{}
+\newcommand{\deansname}[1]{\gdef\@deansname{#1}}
+\newcommand{\@deansname}{}
+\newcommand{\committeechair}[1]{\gdef\@committeechair{#1}}
+\newcommand{\@committeechair}{}
+\newcommand{\committeecochair}[1]{\gdef\@committeecochair{#1}}
+\newcommand{\@committeecochair}{}
+\newcommand{\memberB}[1]{\gdef\@memberB{#1}}
+\newcommand{\@memberB}{}
+\newcommand{\memberC}[1]{\gdef\@memberC{#1}}
+\newcommand{\@memberC}{}
+\newcommand{\memberD}[1]{\gdef\@memberD{#1}}
+\newcommand{\@memberD}{}
+\newcommand{\memberE}[1]{\gdef\@memberE{#1}}
+\newcommand{\@memberE}{}
+\newcommand{\memberF}[1]{\gdef\@memberF{#1}}
+\newcommand{\@memberF}{}
+\newcommand{\graphicspath}[1]{\gdef\@graphicspath{#1}}
+\newcommand{\@graphicspath}{}
+\newcommand{\appendname}[1]{\gdef\@appendname{#1}}
+\newcommand{\@appendname}{}
+\newcommand{\mybibname}[1]{\gdef\@bibname{#1}}
+\newcommand{\@bibname}{}
+\newcommand{\myrefname}[1]{\gdef\@refname{#1}}
+\newcommand{\@refname}{}
+\newcommand{\symbolfile}[1]{\gdef\@symfile{#1}}
+\newcommand{\@symfile}{symbol}
+\newcommand{\approvalskip}[1]{\@approvalskip{#1}}
+\newcommand{\@approvalskip}{\ifnum\committee<3 1.35\baselineskip\else \baselineskip \fi}
+
+\def\tocheader#1{\gdef\@tocheader{#1}}
+\def\@tocheader{}
+%\def\@chapapp{CHAPTER}
+\def\nohyphen{\hyphenpenalty=10000 \exhyphenpenalty=10000 \pretolerance=10000} %no hyphens
+
+\def\l@text{\@dottedtocline{0}{0em}{0em}}
+\def\l@chapter{\@dottedtocline{1}{0.0em}{1.8em}}
+\def\l@section{\@dottedtocline{2}{0.0em}{1.8em}}
+\def\l@subsection{\@dottedtocline{3}{1.8em}{1.8em}}
+\def\l@subsubsection{\@dottedtocline{4}{3.0em}{1.2em}}
+
+
+\newif\ifcopyrightpage 
+\newif\iffigurespage 
+\newif\iftablespage 
+\newif\ifsymbolpage
+\newif\ifsectionnumbers
+
+%%%%%% Graphics Setup %%%%%%
+\captionsetup{labelsep=period}
+\renewcommand{\figurename}{\textsc{Fig.}}
+\graphicspath{\@graphicspath}
+
+%%%%%%%%%%%%%%%%%%% Initialize Parameters %%%%%%%%%%%%%%%%
+\setcounter{tocdepth}{3}
+\newcount\committee\committee=0
+\newcount\cochair\cochair=0
+\newcount\captiontype\captiontype=1 
+\copyrightpagefalse    
+\figurespagetrue     
+\tablespagetrue     
+\symbolpagetrue
+\sectionnumberstrue
+\csutext
+\pagenumbering{roman}
+\pagestyle{plain}
+
+%%%%%%%%%%%%%%% Title Page %%%%%%%%%%%%%%%%%%%%%
+\newenvironment{titlep}{%
+  \thispagestyle{empty}
+  \begin{center}
+    $\,$ \\ \vspace{-15pt}
+    \normalsize{ \uppercase \expandafter{\@thesistype}}
+    \vskip 30pt
+    \normalsize{ \uppercase \expandafter{\@title} } \\
+    \vskip 70pt
+    {Submitted by} \\
+    {\expandafter{\@author}} \\
+    {Department of \expandafter{\@dept}} \\
+{
+ \normalsize
+    \vskip 20pt
+    {\@degreeA} 
+    \vskip 10pt
+    {\@degreeB} 
+    \vskip 10pt
+    {\@degreeC} 
+    \vskip 10pt
+    {\@degreeD} 
+    \vskip 10pt
+}
+   \vskip 20pt
+    {In partial fulfillment of the requirements} \\
+    {For the Degree of \expandafter{\@degree}} \\
+    {Colorado State University} \\
+    {Fort Collins, Colorado} \\
+    {\@graduatedate} {\@graduateyear}
+  \end{center}
+
+  \vskip 10pt
+  \begin{flushleft}
+    {\@committeetype} Committee:  \\
+    %Department Head: {\@deansname} \\  %%%APPARENTLY no longer needed....
+  \hspace*{2em} Advisor: {\@committeechair} \\
+  \begin{singlespace}
+  {\hspace*{2em} \@memberB} \hspace*{\fill} \\
+  {\hspace*{2em} \@memberC} \hspace*{\fill} \\
+  {\hspace*{2em} \@memberD} \hspace*{\fill} \\
+  {\hspace*{2em} \@memberE} \hspace*{\fill} \\
+  {\hspace*{2em} \@memberF} \hspace*{\fill} \\
+  \end{singlespace}
+  \end{flushleft}
+  \vfill\newpage
+  }
+{
+}
+
+
+%%%%%%%%%%%%% Abstract Page %%%%%%%%%%%%%%%%%%
+\renewenvironment{abstract}{%
+  \setcounter{page}{2}
+  \addcontentsline{toc}{text}{ABSTRACT}
+  \begin{center}
+    $\,$ \\ \vspace{-15pt}
+    \normalsize{ABSTRACT} \\
+    \vskip 10pt
+    \normalsize{\uppercase\expandafter{\@title}} \\
+    \vskip 10pt
+  \end{center}
+  }
+{
+
+  \vfill\newpage
+}
+
+%%%%%% Table of Contents %%%%%%
+\renewcommand\contentsname{TABLE OF CONTENTS}
+\renewenvironment{tableofcontents}{%
+  \tableofcontentspage         % Defined Below
+  \iftablespage \listoftables \fi  % Defined Below
+  \iffigurespage \listoffigures \fi  % Defined Below
+  \ifsymbolpage \input \@symfile \fi
+% addtocontents{toc}{\vskip\parskip\vskip\baselineskip  
+% \hbox to \textwidth{CHAPTER \hfill \mbox{}}}
+  \csutext
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\tableofcontentspage}{
+    \newpage
+    \@restonecolfalse
+    \if@twocolumn\@restonecoltrue\onecolumn \fi
+    \chapter{
+    \vspace*{-25pt}
+       \begin{center}\normalsize\uppercase{Table of Contents}\end{center}
+     \@mkboth{\@tocheader}{Page}
+}
+
+    \parskip 5pt
+    \vspace*{-12pt}   
+    {\iftablespage   \hbox to \textwidth{\mbox{}\hfill}
+    \else {\iffigurespage \hbox to \textwidth{\mbox{}\hfill}
+    \else {\ifsymbolpage \hbox to \textwidth{\mbox{}\hfill}
+    \else \hbox to \textwidth{\@tocheader \hfill}
+       \fi \relax}
+       \fi \relax}
+       \fi \relax}
+    \addcontentsline{toc}{text}{TABLE OF CONTENTS}
+    {\singlespace \@starttoc{toc}}\if@restonecol\twocolumn\fi} 
+    \parskip 0pt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\listoffigures}{
+	\newpage
+    \@restonecolfalse
+    \if@twocolumn\@restonecoltrue\onecolumn \fi
+    \chapter{\raggedleft{LIST OF FIGURES} \@mkboth{Figure}{Page}}
+    \vspace*{-12pt} 
+    {\singlespace \@starttoc{lof}}\if@restonecol\twocolumn\fi}
+  \def\l@figure{\@dottedtocline{0}{1.8em}{1.8em}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\listoftables}{
+	\newpage
+    \@restonecolfalse
+    \if@twocolumn\@restonecoltrue\onecolumn \fi
+    \chapter{\raggedleft{LIST OF TABLES} \@mkboth{Table}{Page}}
+    \vspace*{-12pt} 
+    {\singlespace \@starttoc{lot}}\if@restonecol\twocolumn\fi}
+    \let\l@table\l@figure
+  \def\listofsymbols{\@restonecolfalse
+    \if@twocolumn\@restonecoltrue\onecolumn \fi
+    \chapter{\raggedleft{LIST OF SYMBOLS} \@mkboth{Symbol}{Description}}
+    \vspace*{10pt}%\mbox{}\\[0.5ex]
+    \singlespace\if@restonecol\twocolumn\fi}
+
+%%%%%%%%%%%%%%%%%% Copyright Page %%%%%%%%%%%%%%%%%%%%
+\newenvironment{copyrightpage}{%
+    \thispagestyle{empty} 
+    \mbox{}
+    \vfill
+    \begin{center}
+      Copyright by {\@author} {\@graduateyear} \\
+      All Rights Reserved
+    \end{center}
+    \vfill
+    \newpage
+   }
+
+%%%%%%%%%%%%%%% Approval Page %%%%%%%%%%%%%%%%%%%%%
+\newenvironment{approvalpage}{%
+  \begin{center}
+    \normalsize{\bf\uppercase\expandafter{\@title}} \\
+    \vskip 10pt
+    by \\ {\bf\uppercase\expandafter{\@author}} \\
+  \end{center}
+  \vfill
+  \begin{tabular}{lll}
+    \phantom{xx}\hspace{3 true in} &
+    Major Professor: & {\@committeechair} \\
+    &&\\&Committee: &{\@memberB}\\&&{\@memberC}\\&&{\@memberD}\\&&{\@memberE}\\&&{\@memberF}\\
+  \end{tabular}
+  \vfill
+  {\flushleft Electronic Version Approved: \\ {\@graduatedate} }
+  \newpage
+ }
+{
+}
+
+%%%%%%%%%%%%%%% Appendices %%%%%%%%%%%%%%%%%%%%%
+\newcounter{appendices}
+\setcounter{appendices}{1}
+\newenvironment{appendices}{%
+  \newpage
+  \pagestyle{plain}
+  \centerline{ \bf APPENDIX \Alph{appendices}}
+  \addcontentsline{toc}{text}{APPENDIX \Alph{appendices}}
+  \stepcounter{appendices}
+  }
+{
+}
+
+%%%%%%%%%%%%%%% Dedication Page %%%%%%%%%%%%%%%%%%%%%
+\newenvironment{dedication}{%
+  \pagestyle{plain}
+  \newpage
+  \noindent
+  \centerline{ \bf DEDICATION}
+    \addcontentsline{toc}{text}{\uppercase{Dedication}}
+  }
+
+%%%%%%%%%%%%%%% Acknowledgements Page %%%%%%%%%%%%%%%%%%%%%
+\newenvironment{acknowledgements}{%
+  \pagestyle{plain}
+  \newpage
+  \noindent
+  \centerline{  ACKNOWLEDGEMENTS}
+    \addcontentsline{toc}{text}{\uppercase{Acknowledgements}}
+  }
+
+%%%%%%%%%%%%%%%% Bibliography Setup %%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\thebib}
+{ \singlespace
+  \renewcommand\refname{}
+  \begin{center}{\normalsize{\@bibname}}\end{center}
+  \bibliographystyle{ametsoc}
+  \bibliography{\@refname}
+  \addcontentsline{toc}{text}{\uppercase{REFERENCES}}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\section}
+  {
+  \@startsection {section}{1}{\z@}%
+  {-3.5ex \@plus -1ex \@minus -.2ex}%
+  {2.3ex \@plus.2ex}%
+  {\normalfont\normalsize\centering\MakeUppercase}%
+  }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\subsection}
+  {
+  \@startsection {subsection}{1}{\z@}%
+  {-3.5ex \@plus -1ex \@minus -.2ex}%
+  {2.3ex \@plus.2ex}%
+  {\normalfont\normalsize\raggedright\MakeUppercase}%
+  }
+

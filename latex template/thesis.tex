@@ -1,0 +1,106 @@
+\documentclass[12pt]{article}
+%\documentclass[12pt,twoside]{report}  % For two-sided numbering
+\usepackage{multicol}
+\usepackage{caption}
+\usepackage{csuthesis.2011}  
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage[framed,numbered]{mcode}
+% If you have additional pacakages to include, try including
+% them prior to the above packages (especially before the 
+% style file) so as to help prevent breaking the template.
+% Experiment as necessary.
+
+
+
+%%%%%%%%%%%%%%%% MACROS GO HERE %%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% NO REASON TO EDIT THESE %%%%%%%%%%%%%%%%%%%
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{cor}[theorem]{Corollary}
+\newtheorem{rmk}[theorem]{Remark}
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{dfn}[theorem]{Definition}
+\newtheorem{ass}[theorem]{Assumption}
+\newcommand{\C}{{\mathbb C}}
+\newcommand{\D}{{\mathbb D}}
+\newcommand{\R}{{\mathbb R}}
+\newcommand{\RR}{{\mathbb R}}
+\newcommand{\N}{{\mathbb N}}
+\newcommand{\Ss}{{\mathbb S}}
+\newcommand{\V}{{\mathbb V}}
+\newcommand{\X}{{\mathbb X}}
+\newcommand{\Y}{{\mathbb Y}}
+\newcommand{\Z}{{\mathbb Z}}
+\newcommand{\ZZ}{{\mathbb Z}}
+\newcommand{\rank}{{\rm rank}}
+
+%%%%%%%%%%%%%%%%% STUDENT! %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% Fill in Here %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{Aerosol impacts on deep convective storms in the tropics: a combination of modeling and observations}		% Title of your thesis/dissertation
+\author{Rachel Lynn Storer}			% What is your name?
+\degree{Doctor of Philosophy}			% What degree are you getting?
+\major{Underwater Basketweaving}		% This may not be necessary
+\dept{Atmospheric Science}			% Department
+\school{Colorado State University}		% Name of the institution
+\thesistype{Dissertation}				% Thesis or Dissertation?
+\committeetype{Doctoral}			% Master's or Doctoral committee?
+\graduatedate{Fall}				% Semester of graduation
+\graduateyear{2012}				% Graduation year
+\keywords{Keyword, keyword, keyword} 		% Keywords (not typical)
+\committee=4					% How many total committee members?
+\cochair=1					% How many of those are cochairs?
+
+% CHANGE THESE TO TRUE/FALSE DEPENDING ON WHETHER YOU NEED THEM
+\tablespagetrue   				% Not Required
+\figurespagetrue 				% Not Required
+\symbolpagefalse  				% Not Required
+\symbolfile{symbols} 				% Not Required
+\copyrightpagefalse				% Not Required
+\sectionnumberstrue				% DO NOT TOUCH
+\captiontype=1					% DO NOT TOUCH
+% STUDENT!
+% Fill in here again
+\graphicspath{{./}}				% Path to your images (default is current directory)
+\mybibname{REFERENCES}				% Name of references page
+\myrefname{ref}					% The name of the reference file (w/o suffix)
+\deansname{Dean Reynolds}			% Dean or department head name
+\committeechair{Susan C. van den Heever}			% Advisor name
+\committeecochair{Cochair}			% Cochair name
+\memberB{Graeme L. Stephens} 				% Other committee member names;
+\memberC{Richard H. Johnson}				%    fill these in as needed
+\memberD{Richard Eykholt}
+\memberE{}
+\memberF{}
+\degreeA{}					% In case you have extra degrees...
+\degreeB{}					%    not typical
+\degreeC{}
+\degreeD{}
+
+%%%%%%%%%%%%%%%%%%%%% Main Document %%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%  Version: \today  % Comment this out for final version
+
+
+  \titlep			% Title page; necessary
+  %\copyrightpage  		% Optional; comment out if not included
+  \input{abstract}		% Load in abstract file
+  \input{acknowledgements}	% Comment out if not included
+  %\input{dedication}		% Comment out if not included
+  \tableofcontents 		% Puts in the ToC
+  \include{chap1}		% Start including your chapter files
+  \include{chap2}
+  \include{chap3}
+  \include{chap4}
+  %\include{app}		% Puts in the appendices
+  \thebib			% Puts in the references
+
+\end{document}
