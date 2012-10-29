@@ -1,50 +1,115 @@
-\documentclass[doc,12pt]{apa}        % use: 'man' for submission type; 'jou' for
-                                % journal type, and 'doc' for typical latex
-                                % but with figures inline with text
-\usepackage{geometry} 
-%\geometry{a4paper} 
-\usepackage[parfill]{parskip}   % paragraphs delimited by an empty line
+\documentclass[12pt]{article}
 
-\usepackage{graphicx} 
-\usepackage{amssymb}            % no idea what this does...
-\usepackage{epstopdf}           % no idea what this does...
-%\usepackage{gensymb}            % no idea what this does...
-
-\usepackage{setspace}
+%\documentclass[12pt,twoside]{report}  % For two-sided numbering
+\usepackage{multicol}
+\usepackage{caption}
+\usepackage{csuthesis.2011}  
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{longtable}
 
 \DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png} \setcounter{secnumdepth}{0}  % no idea what this does...
 
-\usepackage{apacite}
-\usepackage{longtable}
+% If you have additional pacakages to include, try including
+% them prior to the above packages (especially before the 
+% style file) so as to help prevent breaking the template.
+% Experiment as necessary.
+
+%%%%%%%%%%%%%%%% MACROS GO HERE %%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% NO REASON TO EDIT THESE %%%%%%%%%%%%%%%%%%%
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{cor}[theorem]{Corollary}
+\newtheorem{rmk}[theorem]{Remark}
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{dfn}[theorem]{Definition}
+\newtheorem{ass}[theorem]{Assumption}
+\newcommand{\C}{{\mathbb C}}
+\newcommand{\D}{{\mathbb D}}
+\newcommand{\R}{{\mathbb R}}
+\newcommand{\RR}{{\mathbb R}}
+\newcommand{\N}{{\mathbb N}}
+\newcommand{\Ss}{{\mathbb S}}
+\newcommand{\V}{{\mathbb V}}
+\newcommand{\X}{{\mathbb X}}
+\newcommand{\Y}{{\mathbb Y}}
+\newcommand{\Z}{{\mathbb Z}}
+\newcommand{\ZZ}{{\mathbb Z}}
+\newcommand{\rank}{{\rm rank}}
+
+% \DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png} \setcounter{secnumdepth}{0}  % no idea what this does...
 %%%%%%%%% END HEADER %%%%%%%%%
 
-\title{Rewards are Categories.} 
-\author{Erik J. Peterson} \affiliation{Dept. of Psychology \\ Colorado State University \\ Fort Collins, CO}
+%% STUDENT! EDIT!
+%%  Fill in here.
+\title{Rewards are Categories}			% Title of your thesis/dissertation
+\author{Erik J. Peterson}				% What is your name?
+\degree{Doctor of Philosophy}			% What degree are you getting?
+\major{Psychology}						% This may not be necessary
+\dept{Psychology}						% Department
+\school{Colorado State University}		% Name of the institution
+\thesistype{Dissertation}				% Thesis or Dissertation?
+\committeetype{Doctoral}				% Master's or Doctoral committee?
+\graduatedate{Fall}						% Semester of graduation
+\graduateyear{2012}						% Graduation year
+% \keywords{Keyword, keyword, keyword} 		% Keywords (not typical)
+\committee=4							% How many total committee members?
+\cochair=1								% How many of those are cochairs?
+
+% == Leave alone ==
+\tablespagetrue   				% Not Required
+\figurespagetrue 				% Not Required
+\symbolpagefalse  				% Not Required
+\symbolfile{symbols} 			% Not Required
+\copyrightpagefalse				% Not Required
+\sectionnumberstrue				% DO NOT TOUCH
+\captiontype=1					% DO NOT TOUCH
+
+
+% Fill in here again
+\graphicspath{{./}}						% Path to your images 
+\mybibname{REFERENCES}					% Name of references page
+\myrefname{ref}						% The name of the reference file
+\deansname{Dean Nerger}					% Dean or department head name
+\committeechair{Carol A. Seger}			% Advisor name
+% \committeecochair{Cochair}			% Cochair name
+\memberB{Chuck A. Anderson} 			% Other committee member names;
+\memberC{Jan Neger}						% fill these in as needed
+\memberD{Lucy J. Troup}
+\memberE{}
+\memberF{}
+\degreeA{}					% In case you have extra degrees...
+\degreeB{}					%    not typical
+\degreeC{}
+\degreeD{}
+
     
 %%%%%%%%%%%%%%%%
 \begin{document}
 %%%%%%%%%%%%%%%%
-% Title, Abstract, and TOC
-\maketitle
-\newpage
-\input{abstract}
-\newpage
-\tableofcontents
-\newpage
 
-% Body
-\doublespace
-\include{intro}
+\titlep						% Title page; necessary
+%\copyrightpage  			% Optional; comment out if not included
+\input{abstract}			% Load in abstract file
+\input{thanks}				% Comment out if not included
+% \input{dedication}			% Comment out if not included
+\tableofcontents 			% Puts in the ToC
+\include{intro}				% Start including your chapter files
 \newpage
 \include{chap2}
 \newpage
 \include{chap3}
 \newpage
 \include{discussion}
-\newpage
+%\include{app}				% Puts in the appendices
+\thebib						% Puts in the references
 
-% Bibliography
-\bibliography{bibmin}
 %%%%%%%%%%%%%
 \end{document}
 %%%%%%%%%%%%%

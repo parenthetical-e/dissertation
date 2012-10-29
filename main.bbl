@@ -1,5436 +1,1060 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{202}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
 
-\bibitem[\protect\citeauthoryear{%
-Akaike%
-}{%
-Akaike%
-}{%
-{\protect\APACyear{1974}}%
-}]{%
-Akaike:1974p9530}%
-\APACinsertmetastar{%
-Akaike:1974p9530}%
-Akaike, H.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1974}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{A new look at the statistical model identification}{A new
-  look at the statistical model identification}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{IEEE Transactions on Automatic
-  Control}{19}{63}{716--723}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Akaike(1974)}]{Akaike:1974p9530}
+Akaike, H., 1974: A new look at the statistical model identification.
+  \textit{IEEE Transactions on Automatic Control}, \textbf{19~(63)}, 716--723.
 
-\bibitem[\protect\citeauthoryear{%
-Amaro%
-\ \BBA{} Barker%
-}{%
-Amaro%
-\ \BBA{} Barker%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-Amaro:2006p2638}%
-\APACinsertmetastar{%
-Amaro:2006p2638}%
-Amaro, E.%
-\BCBT{}\ \BBA{} Barker, G\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Study design in fMRI: basic principles}{Study design in
-  fmri: basic principles}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Brain Cogn}{60}{3}{220--32}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Amaro and Barker(2006)}]{Amaro:2006p2638}
+Amaro, E. and G.~J. Barker, 2006: Study design in fmri: basic principles.
+  \textit{Brain Cogn}, \textbf{60~(3)}, 220--32.
 
-\bibitem[\protect\citeauthoryear{%
-Anderson%
-, Burnham%
-\BCBL{}\ \BBA{} Thompson%
-}{%
-Anderson%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2000}}%
-}]{%
-Anderson:2000p9475}%
-\APACinsertmetastar{%
-Anderson:2000p9475}%
-Anderson, D\BPBI R.%
-, Burnham, K\BPBI P.%
-\BCBL{}\ \BBA{} Thompson, W\BPBI L.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2000}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Null Hypothesis Testing: Problems, Prevalence, and an
-  Alternative}{Null hypothesis testing: Problems, prevalence, and an
-  alternative}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{The Journal of Wildlife Management}{64}{4}{912--923}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Anderson et~al.(2000)Anderson, Burnham, and
+  Thompson}]{Anderson:2000p9475}
+Anderson, D.~R., K.~P. Burnham, and W.~L. Thompson, 2000: Null hypothesis
+  testing: Problems, prevalence, and an alternative. \textit{The Journal of
+  Wildlife Management}, \textbf{64~(4)}, 912--923.
 
-\bibitem[\protect\citeauthoryear{%
-Aron%
-\ \protect\BOthers{.}}{%
-Aron%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-Aron:2004p1375}%
-\APACinsertmetastar{%
-Aron:2004p1375}%
-Aron, A\BPBI R.%
-, Shohamy, D.%
-, Clark, J.%
-, Myers, C.%
-, Gluck, M\BPBI A.%
-\BCBL{}\ \BBA{} Poldrack, R\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Human midbrain sensitivity to cognitive feedback and
-  uncertainty during classification learning}{Human midbrain sensitivity to
-  cognitive feedback and uncertainty during classification learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Physiol.}{92}{2}{1144--52}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Aron et~al.(2004)Aron, Shohamy, Clark, Myers, Gluck, and
+  Poldrack}]{Aron:2004p1375}
+Aron, A.~R., D.~Shohamy, J.~Clark, C.~Myers, M.~A. Gluck, and R.~A. Poldrack,
+  2004: Human midbrain sensitivity to cognitive feedback and uncertainty during
+  classification learning. \textit{J Physiol.}, \textbf{92~(2)}, 1144--52.
 
-\bibitem[\protect\citeauthoryear{%
-Ashburner%
-\ \BBA{} Friston%
-}{%
-Ashburner%
-\ \BBA{} Friston%
-}{%
-{\protect\APACyear{1999}}%
-}]{%
-Ashburner:1999p9350}%
-\APACinsertmetastar{%
-Ashburner:1999p9350}%
-Ashburner, J.%
-\BCBT{}\ \BBA{} Friston, K.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1999}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Nonlinear spatial normalization using basis
-  functions}{Nonlinear spatial normalization using basis functions}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{HUMAN BRAIN MAPPING}{7}{}{254---266}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Ashburner and Friston(1999)}]{Ashburner:1999p9350}
+Ashburner, J. and K.~Friston, 1999: Nonlinear spatial normalization using basis
+  functions. \textit{HUMAN BRAIN MAPPING}, \textbf{7}, 254---266.
 
-\bibitem[\protect\citeauthoryear{%
-Ashburner%
-, Neelin%
-, Collins%
-, Evans%
-\BCBL{}\ \BBA{} Friston%
-}{%
-Ashburner%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1997}}%
-}]{%
-Ashburner:1997p9348}%
-\APACinsertmetastar{%
-Ashburner:1997p9348}%
-Ashburner, J.%
-, Neelin, P.%
-, Collins, D.%
-, Evans, A.%
-\BCBL{}\ \BBA{} Friston, K.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1997}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Incorporating Prior Knowledge into Image
-  Registration}{Incorporating prior knowledge into image registration}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{6}{4}{344--352}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Ashburner et~al.(1997)Ashburner, Neelin, Collins, Evans, and
+  Friston}]{Ashburner:1997p9348}
+Ashburner, J., P.~Neelin, D.~Collins, A.~Evans, and K.~Friston, 1997:
+  Incorporating prior knowledge into image registration. \textit{Neuroimage},
+  \textbf{6~(4)}, 344--352.
 
-\bibitem[\protect\citeauthoryear{%
-Ashby%
-\ \BBA{} Alfonso-Reese%
-}{%
-Ashby%
-\ \BBA{} Alfonso-Reese%
-}{%
-{\protect\APACyear{1995}}%
-}]{%
-Ashby:1995p9109}%
-\APACinsertmetastar{%
-Ashby:1995p9109}%
-Ashby, F\BPBI G.%
-\BCBT{}\ \BBA{} Alfonso-Reese, L.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1995}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Categorization as probability density
-  estimation}{Categorization as probability density estimation}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Mathematical Psychology}{39}{2}{216--233}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Ashby and Alfonso-Reese(1995)}]{Ashby:1995p9109}
+Ashby, F.~G. and L.~Alfonso-Reese, 1995: Categorization as probability density
+  estimation. \textit{Journal of Mathematical Psychology}, \textbf{39~(2)},
+  216--233.
 
-\bibitem[\protect\citeauthoryear{%
-Ashby%
-, Alfonso-Reese%
-, Turken%
-\BCBL{}\ \BBA{} Waldron%
-}{%
-Ashby%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1998}}%
-}]{%
-Ashby:1998p9716}%
-\APACinsertmetastar{%
-Ashby:1998p9716}%
-Ashby, F\BPBI G.%
-, Alfonso-Reese, L\BPBI A.%
-, Turken, A\BPBI U.%
-\BCBL{}\ \BBA{} Waldron, E\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1998}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{A neuropsychological theory of multiple systems in
-  category learning}{A neuropsychological theory of multiple systems in
-  category learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychol Rev}{105}{3}{442--81}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Ashby et~al.(1998)Ashby, Alfonso-Reese, Turken, and
+  Waldron}]{Ashby:1998p9716}
+Ashby, F.~G., L.~A. Alfonso-Reese, A.~U. Turken, and E.~M. Waldron, 1998: A
+  neuropsychological theory of multiple systems in category learning.
+  \textit{Psychol Rev}, \textbf{105~(3)}, 442--81.
 
-\bibitem[\protect\citeauthoryear{%
-Ashby%
-\ \BBA{} Ennis%
-}{%
-Ashby%
-\ \BBA{} Ennis%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-Ashby:2006p9153}%
-\APACinsertmetastar{%
-Ashby:2006p9153}%
-Ashby, F\BPBI G.%
-\BCBT{}\ \BBA{} Ennis, J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The Role of the Basal Ganglia in Category Learning}{The
-  role of the basal ganglia in category learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychology of Learning and Motivation}{46}{}{1--36}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Ashby and Ennis(2006)}]{Ashby:2006p9153}
+Ashby, F.~G. and J.~Ennis, 2006: The role of the basal ganglia in category
+  learning. \textit{Psychology of Learning and Motivation}, \textbf{46}, 1--36.
 
-\bibitem[\protect\citeauthoryear{%
-Ashby%
-\ \BBA{} Maddox%
-}{%
-Ashby%
-\ \BBA{} Maddox%
-}{%
-{\protect\APACyear{2005}}%
-}]{%
-Ashby:2005p4764}%
-\APACinsertmetastar{%
-Ashby:2005p4764}%
-Ashby, F\BPBI G.%
-\BCBT{}\ \BBA{} Maddox, W\BPBI T.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Human category learning}{Human category learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Annual review of psychology}{56}{}{149--78}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Ashby and Maddox(2005)}]{Ashby:2005p4764}
+Ashby, F.~G. and W.~T. Maddox, 2005: Human category learning. \textit{Annual
+  review of psychology}, \textbf{56}, 149--78.
 
-\bibitem[\protect\citeauthoryear{%
-Ashby%
-\ \BBA{} Maddox%
-}{%
-Ashby%
-\ \BBA{} Maddox%
-}{%
-{\protect\APACyear{2011}}%
-}]{%
-Ashby:2011p9148}%
-\APACinsertmetastar{%
-Ashby:2011p9148}%
-Ashby, F\BPBI G.%
-\BCBT{}\ \BBA{} Maddox, W\BPBI T.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Human category learning 2.0}{Human category learning
-  2.0}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Ann N Y Acad Sci}{1224}{}{147--61}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Ashby and Maddox(2011)}]{Ashby:2011p9148}
+Ashby, F.~G. and W.~T. Maddox, 2011: Human category learning 2.0. \textit{Ann N
+  Y Acad Sci}, \textbf{1224}, 147--61.
 
-\bibitem[\protect\citeauthoryear{%
-Ashby%
-\ \BBA{} OBrien%
-}{%
-Ashby%
-\ \BBA{} OBrien%
-}{%
-{\protect\APACyear{2005}}%
-}]{%
-Ashby:2005p9152}%
-\APACinsertmetastar{%
-Ashby:2005p9152}%
-Ashby, F\BPBI G.%
-\BCBT{}\ \BBA{} OBrien, J\BPBI B.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Category learning and multiple memory systems}{Category
-  learning and multiple memory systems}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Trends in Cognitive Science}{9}{2}{83--89}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Ashby and OBrien(2005)}]{Ashby:2005p9152}
+Ashby, F.~G. and J.~B. OBrien, 2005: Category learning and multiple memory
+  systems. \textit{Trends in Cognitive Science}, \textbf{9~(2)}, 83--89.
 
-\bibitem[\protect\citeauthoryear{%
-Ashby%
-\ \BBA{} Townsend%
-}{%
-Ashby%
-\ \BBA{} Townsend%
-}{%
-{\protect\APACyear{1986}}%
-}]{%
-Ashby:1986p9783}%
-\APACinsertmetastar{%
-Ashby:1986p9783}%
-Ashby, F\BPBI G.%
-\BCBT{}\ \BBA{} Townsend, J\BPBI T.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1986}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Varieties of perceptual independence}{Varieties of
-  perceptual independence}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychol Rev}{93}{2}{154--79}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Ashby and Townsend(1986)}]{Ashby:1986p9783}
+Ashby, F.~G. and J.~T. Townsend, 1986: Varieties of perceptual independence.
+  \textit{Psychol Rev}, \textbf{93~(2)}, 154--79.
 
-\bibitem[\protect\citeauthoryear{%
-Atallah%
-, Frank%
-\BCBL{}\ \BBA{} O'Reilly%
-}{%
-Atallah%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-Atallah:2004p5466}%
-\APACinsertmetastar{%
-Atallah:2004p5466}%
-Atallah, H\BPBI E.%
-, Frank, M\BPBI J.%
-\BCBL{}\ \BBA{} O'Reilly, R\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Hippocampus, cortex, and basal ganglia: insights from
-  computational models of complementary learning systems}{Hippocampus, cortex,
-  and basal ganglia: insights from computational models of complementary
-  learning systems}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neurobiol Learn Mem}{82}{3}{253--67}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Atallah et~al.(2004)Atallah, Frank, and O'Reilly}]{Atallah:2004p5466}
+Atallah, H.~E., M.~J. Frank, and R.~C. O'Reilly, 2004: Hippocampus, cortex, and
+  basal ganglia: insights from computational models of complementary learning
+  systems. \textit{Neurobiol Learn Mem}, \textbf{82~(3)}, 253--67.
 
-\bibitem[\protect\citeauthoryear{%
-Atallah%
-, Lopez-Paniagua%
-, Rudy%
-\BCBL{}\ \BBA{} O'Reilly%
-}{%
-Atallah%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Atallah:2007p1746}%
-\APACinsertmetastar{%
-Atallah:2007p1746}%
-Atallah, H\BPBI E.%
-, Lopez-Paniagua, D.%
-, Rudy, J\BPBI W.%
-\BCBL{}\ \BBA{} O'Reilly, R\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Separate neural substrates for skill learning and
-  performance in the ventral and dorsal striatum}{Separate neural substrates
-  for skill learning and performance in the ventral and dorsal
-  striatum}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nat Neurosci}{10}{1}{126--31}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Atallah et~al.(2007)Atallah, Lopez-Paniagua, Rudy, and
+  O'Reilly}]{Atallah:2007p1746}
+Atallah, H.~E., D.~Lopez-Paniagua, J.~W. Rudy, and R.~C. O'Reilly, 2007:
+  Separate neural substrates for skill learning and performance in the ventral
+  and dorsal striatum. \textit{Nat Neurosci}, \textbf{10~(1)}, 126--31.
 
-\bibitem[\protect\citeauthoryear{%
-Atlas%
-, Bolger%
-, Lindquist%
-\BCBL{}\ \BBA{} Wager%
-}{%
-Atlas%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-Atlas:2010p7566}%
-\APACinsertmetastar{%
-Atlas:2010p7566}%
-Atlas, L\BPBI Y.%
-, Bolger, N.%
-, Lindquist, M\BPBI A.%
-\BCBL{}\ \BBA{} Wager, T\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Brain mediators of predictive cue effects on perceived
-  pain}{Brain mediators of predictive cue effects on perceived pain}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{30}{39}{12964--77}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Atlas et~al.(2010)Atlas, Bolger, Lindquist, and
+  Wager}]{Atlas:2010p7566}
+Atlas, L.~Y., N.~Bolger, M.~A. Lindquist, and T.~D. Wager, 2010: Brain
+  mediators of predictive cue effects on perceived pain. \textit{J Neurosci},
+  \textbf{30~(39)}, 12\,964--77.
 
-\bibitem[\protect\citeauthoryear{%
-Bassett%
-\ \BBA{} Bullmore%
-}{%
-Bassett%
-\ \BBA{} Bullmore%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-bassett:2006aa}%
-\APACinsertmetastar{%
-bassett:2006aa}%
-Bassett, D\BPBI S.%
-\BCBT{}\ \BBA{} Bullmore, E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Small-World Brain Networks}{Small-world brain
-  networks}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{The Neuroscientist}{12}{6}{512--523}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bassett and Bullmore(2006)}]{bassett:2006aa}
+Bassett, D.~S. and E.~Bullmore, 2006: Small-world brain networks. \textit{The
+  Neuroscientist}, \textbf{12~(6)}, 512--523.
 
-\bibitem[\protect\citeauthoryear{%
-Bayer%
-\ \BBA{} Glimcher%
-}{%
-Bayer%
-\ \BBA{} Glimcher%
-}{%
-{\protect\APACyear{2005}}%
-}]{%
-Bayer:2005ul}%
-\APACinsertmetastar{%
-Bayer:2005ul}%
-Bayer, H.%
-\BCBT{}\ \BBA{} Glimcher, P\BPBI W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Midbrain Dopamine Neurons Encode a Quantitative Reward
-  Prediction Error Signal}{Midbrain dopamine neurons encode a quantitative
-  reward prediction error signal}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{47}{}{129--141}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bayer and Glimcher(2005)}]{Bayer:2005ul}
+Bayer, H. and P.~W. Glimcher, 2005: Midbrain dopamine neurons encode a
+  quantitative reward prediction error signal. \textit{Neuron}, \textbf{47},
+  129--141.
 
-\bibitem[\protect\citeauthoryear{%
-Behrens%
-, Woolrich%
-, Walton%
-\BCBL{}\ \BBA{} Rushworth%
-}{%
-Behrens%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Behrens:2007p8839}%
-\APACinsertmetastar{%
-Behrens:2007p8839}%
-Behrens, T\BPBI E\BPBI J.%
-, Woolrich, M\BPBI W.%
-, Walton, M\BPBI E.%
-\BCBL{}\ \BBA{} Rushworth, M\BPBI F\BPBI S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Learning the value of information in an uncertain
-  world}{Learning the value of information in an uncertain world}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nature Neuroscience}{10}{9}{1214--21}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Behrens et~al.(2007)Behrens, Woolrich, Walton, and
+  Rushworth}]{Behrens:2007p8839}
+Behrens, T. E.~J., M.~W. Woolrich, M.~E. Walton, and M.~F.~S. Rushworth, 2007:
+  Learning the value of information in an uncertain world. \textit{Nature
+  Neuroscience}, \textbf{10~(9)}, 1214--21.
 
-\bibitem[\protect\citeauthoryear{%
-Beierholm%
-, Anen%
-, Quartz%
-\BCBL{}\ \BBA{} Bossaerts%
-}{%
-Beierholm%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2011}}%
-}]{%
-Beierholm:2011p8141}%
-\APACinsertmetastar{%
-Beierholm:2011p8141}%
-Beierholm, U\BPBI R.%
-, Anen, C.%
-, Quartz, S.%
-\BCBL{}\ \BBA{} Bossaerts, P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Separate encoding of model-based and model-free
-  valuations in the human brain}{Separate encoding of model-based and
-  model-free valuations in the human brain}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{NeuroImage}{}{}{}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Beierholm et~al.(2011)Beierholm, Anen, Quartz, and
+  Bossaerts}]{Beierholm:2011p8141}
+Beierholm, U.~R., C.~Anen, S.~Quartz, and P.~Bossaerts, 2011: Separate encoding
+  of model-based and model-free valuations in the human brain.
+  \textit{NeuroImage}.
 
-\bibitem[\protect\citeauthoryear{%
-Berridge%
-}{%
-Berridge%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-Berridge:2007p7235}%
-\APACinsertmetastar{%
-Berridge:2007p7235}%
-Berridge, K\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The debate over dopamine's role in reward: the case for
-  incentive salience}{The debate over dopamine's role in reward: the case for
-  incentive salience}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychopharmacology}{191}{3}{391--431}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Berridge(2007)}]{Berridge:2007p7235}
+Berridge, K.~C., 2007: The debate over dopamine's role in reward: the case for
+  incentive salience. \textit{Psychopharmacology}, \textbf{191~(3)}, 391--431.
 
-\bibitem[\protect\citeauthoryear{%
-Berridge%
-\ \BBA{} Robinson%
-}{%
-Berridge%
-\ \BBA{} Robinson%
-}{%
-{\protect\APACyear{2003}}%
-}]{%
-Berridge:2003p8998}%
-\APACinsertmetastar{%
-Berridge:2003p8998}%
-Berridge, K\BPBI C.%
-\BCBT{}\ \BBA{} Robinson, T\BPBI E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Parsing reward}{Parsing reward}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Trends Neurosci}{26}{9}{507--13}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Berridge and Robinson(2003)}]{Berridge:2003p8998}
+Berridge, K.~C. and T.~E. Robinson, 2003: Parsing reward. \textit{Trends
+  Neurosci}, \textbf{26~(9)}, 507--13.
 
-\bibitem[\protect\citeauthoryear{%
-Birn%
-, Cox%
-\BCBL{}\ \BBA{} Bandettini%
-}{%
-Birn%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2002}}%
-}]{%
-Birn:2002p1777}%
-\APACinsertmetastar{%
-Birn:2002p1777}%
-Birn, R\BPBI M.%
-, Cox, R\BPBI W.%
-\BCBL{}\ \BBA{} Bandettini, P\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2002}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Detection versus estimation in event-related fMRI:
-  choosing the optimal stimulus timing}{Detection versus estimation in
-  event-related fmri: choosing the optimal stimulus timing}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{15}{1}{252--64}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Birn et~al.(2002)Birn, Cox, and Bandettini}]{Birn:2002p1777}
+Birn, R.~M., R.~W. Cox, and P.~A. Bandettini, 2002: Detection versus estimation
+  in event-related fmri: choosing the optimal stimulus timing.
+  \textit{Neuroimage}, \textbf{15~(1)}, 252--64.
 
-\bibitem[\protect\citeauthoryear{%
-Bischoff-Grethe%
-, Hazeltine%
-, Bergren%
-, Ivry%
-\BCBL{}\ \BBA{} Grafton%
-}{%
-Bischoff-Grethe%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2009}}%
-}]{%
-BischoffGrethe:2009p4570}%
-\APACinsertmetastar{%
-BischoffGrethe:2009p4570}%
-Bischoff-Grethe, A.%
-, Hazeltine, E.%
-, Bergren, L.%
-, Ivry, R\BPBI B.%
-\BCBL{}\ \BBA{} Grafton, S\BPBI T.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The influence of feedback valence in associative
-  learning}{The influence of feedback valence in associative learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{44}{1}{243--51}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bischoff-Grethe et~al.(2009)Bischoff-Grethe, Hazeltine, Bergren,
+  Ivry, and Grafton}]{BischoffGrethe:2009p4570}
+Bischoff-Grethe, A., E.~Hazeltine, L.~Bergren, R.~B. Ivry, and S.~T. Grafton,
+  2009: The influence of feedback valence in associative learning.
+  \textit{Neuroimage}, \textbf{44~(1)}, 243--51.
 
-\bibitem[\protect\citeauthoryear{%
-Blatter%
-\ \BBA{} Schultz%
-}{%
-Blatter%
-\ \BBA{} Schultz%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-Blatter:2006p6372}%
-\APACinsertmetastar{%
-Blatter:2006p6372}%
-Blatter, K.%
-\BCBT{}\ \BBA{} Schultz, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Rewarding properties of visual stimuli}{Rewarding
-  properties of visual stimuli}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Experimental Brain Research}{168}{4}{541--6}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Blatter and Schultz(2006)}]{Blatter:2006p6372}
+Blatter, K. and W.~Schultz, 2006: Rewarding properties of visual stimuli.
+  \textit{Experimental Brain Research}, \textbf{168~(4)}, 541--6.
 
-\bibitem[\protect\citeauthoryear{%
-Blough%
-}{%
-Blough%
-}{%
-{\protect\APACyear{2001}}%
-}]{%
-Blough:2001p8408}%
-\APACinsertmetastar{%
-Blough:2001p8408}%
-Blough, D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The perception of similarity}{The perception of
-  similarity}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Avian visual cognition}{}{}{}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Blough(2001)}]{Blough:2001p8408}
+Blough, D., 2001: The perception of similarity. \textit{Avian visual
+  cognition}.
 
-\bibitem[\protect\citeauthoryear{%
-Bornstein%
-\ \BBA{} Daw%
-}{%
-Bornstein%
-\ \BBA{} Daw%
-}{%
-{\protect\APACyear{2011}}%
-}]{%
-Bornstein:2011p7996}%
-\APACinsertmetastar{%
-Bornstein:2011p7996}%
-Bornstein, A\BPBI M.%
-\BCBT{}\ \BBA{} Daw, N\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Multiplicity of control in the basal ganglia:
-  computational roles of striatal subregions}{Multiplicity of control in the
-  basal ganglia: computational roles of striatal subregions}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Current opinion in neurobiology}{}{}{}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bornstein and Daw(2011)}]{Bornstein:2011p7996}
+Bornstein, A.~M. and N.~D. Daw, 2011: Multiplicity of control in the basal
+  ganglia: computational roles of striatal subregions. \textit{Current opinion
+  in neurobiology}.
 
-\bibitem[\protect\citeauthoryear{%
-Botvinick%
-, Niv%
-\BCBL{}\ \BBA{} Barto%
-}{%
-Botvinick%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Botvinick:2008p6594}%
-\APACinsertmetastar{%
-Botvinick:2008p6594}%
-Botvinick, M.%
-, Niv, Y.%
-\BCBL{}\ \BBA{} Barto, A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Oct}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Hierarchically organized behavior and its neural
-  foundations: A reinforcement learning perspective}{Hierarchically organized
-  behavior and its neural foundations: A reinforcement learning
-  perspective}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cognition}{}{}{}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Botvinick et~al.(2008)Botvinick, Niv, and
+  Barto}]{Botvinick:2008p6594}
+Botvinick, M., Y.~Niv, and A.~Barto, 2008: Hierarchically organized behavior
+  and its neural foundations: A reinforcement learning perspective.
+  \textit{Cognition}.
 
-\bibitem[\protect\citeauthoryear{%
-Bromberg-Martin%
-\ \BBA{} Hikosaka%
-}{%
-Bromberg-Martin%
-\ \BBA{} Hikosaka%
-}{%
-{\protect\APACyear{2009}}%
-}]{%
-BrombergMartin:2009p7220}%
-\APACinsertmetastar{%
-BrombergMartin:2009p7220}%
-Bromberg-Martin, E\BPBI S.%
-\BCBT{}\ \BBA{} Hikosaka, O.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Midbrain dopamine neurons signal preference for advance
-  information about upcoming rewards}{Midbrain dopamine neurons signal
-  preference for advance information about upcoming rewards}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{63}{1}{119--126}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bromberg-Martin and Hikosaka(2009)}]{BrombergMartin:2009p7220}
+Bromberg-Martin, E.~S. and O.~Hikosaka, 2009: Midbrain dopamine neurons signal
+  preference for advance information about upcoming rewards. \textit{Neuron},
+  \textbf{63~(1)}, 119--126.
 
-\bibitem[\protect\citeauthoryear{%
-Bromberg-Martin%
-, Matsumoto%
-\BCBL{}\ \BBA{} Hikosaka%
-}{%
-Bromberg-Martin%
-, Matsumoto%
-\BCBL{}\ \BBA{} Hikosaka%
-}{%
-{\protect\APACyear{2010}}%
-{\protect\APACexlab{{\protect\BCnt{1}}}}}]{%
-BrombergMartin:2010p7221}%
-\APACinsertmetastar{%
-BrombergMartin:2010p7221}%
-Bromberg-Martin, E\BPBI S.%
-, Matsumoto, M.%
-\BCBL{}\ \BBA{} Hikosaka, O.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010{\protect\BCnt{1}}}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Distinct Tonic and Phasic Anticipatory Activity in
-  Lateral Habenula and Dopamine Neurons}{Distinct tonic and phasic anticipatory
-  activity in lateral habenula and dopamine neurons}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{}{}{}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bromberg-Martin et~al.(2010{\natexlab{a}})Bromberg-Martin, Matsumoto,
+  and Hikosaka}]{BrombergMartin:2010p7221}
+Bromberg-Martin, E.~S., M.~Matsumoto, and O.~Hikosaka, 2010{\natexlab{a}}:
+  Distinct tonic and phasic anticipatory activity in lateral habenula and
+  dopamine neurons. \textit{Neuron}.
 
-\bibitem[\protect\citeauthoryear{%
-Bromberg-Martin%
-, Matsumoto%
-\BCBL{}\ \BBA{} Hikosaka%
-}{%
-Bromberg-Martin%
-, Matsumoto%
-\BCBL{}\ \BBA{} Hikosaka%
-}{%
-{\protect\APACyear{2010}}%
-{\protect\APACexlab{{\protect\BCnt{2}}}}}]{%
-BrombergMartin:2010p8834}%
-\APACinsertmetastar{%
-BrombergMartin:2010p8834}%
-Bromberg-Martin, E\BPBI S.%
-, Matsumoto, M.%
-\BCBL{}\ \BBA{} Hikosaka, O.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010{\protect\BCnt{2}}}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine in motivational control: rewarding, aversive,
-  and alerting}{Dopamine in motivational control: rewarding, aversive, and
-  alerting}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{68}{5}{815--34}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bromberg-Martin et~al.(2010{\natexlab{b}})Bromberg-Martin, Matsumoto,
+  and Hikosaka}]{BrombergMartin:2010p8834}
+Bromberg-Martin, E.~S., M.~Matsumoto, and O.~Hikosaka, 2010{\natexlab{b}}:
+  Dopamine in motivational control: rewarding, aversive, and alerting.
+  \textit{Neuron}, \textbf{68~(5)}, 815--34.
 
-\bibitem[\protect\citeauthoryear{%
-Bromberg-Martin%
-, Matsumoto%
-, Hong%
-\BCBL{}\ \BBA{} Hikosaka%
-}{%
-Bromberg-Martin%
-, Matsumoto%
-, Hong%
-\BCBL{}\ \BBA{} Hikosaka%
-}{%
-{\protect\APACyear{2010}}%
-}]{%
-BrombergMartin:2010p7223}%
-\APACinsertmetastar{%
-BrombergMartin:2010p7223}%
-Bromberg-Martin, E\BPBI S.%
-, Matsumoto, M.%
-, Hong, S.%
-\BCBL{}\ \BBA{} Hikosaka, O.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{A pallidus-habenula-dopamine pathway signals inferred
-  stimulus values}{A pallidus-habenula-dopamine pathway signals inferred
-  stimulus values}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Physiol.}{104}{2}{1068--76}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bromberg-Martin et~al.(2010{\natexlab{c}})Bromberg-Martin, Matsumoto,
+  Hong, and Hikosaka}]{BrombergMartin:2010p7223}
+Bromberg-Martin, E.~S., M.~Matsumoto, S.~Hong, and O.~Hikosaka,
+  2010{\natexlab{c}}: A pallidus-habenula-dopamine pathway signals inferred
+  stimulus values. \textit{J Physiol.}, \textbf{104~(2)}, 1068--76.
 
-\bibitem[\protect\citeauthoryear{%
-Bromberg-Martin%
-, Matsumoto%
-\BCBL{}\ \BBA{} Nakahara%
-}{%
-Bromberg-Martin%
-, Matsumoto%
-\BCBL{}\ \BBA{} Nakahara%
-}{%
-{\protect\APACyear{2010}}%
-}]{%
-BrombergMartin:2010p7218}%
-\APACinsertmetastar{%
-BrombergMartin:2010p7218}%
-Bromberg-Martin, E\BPBI S.%
-, Matsumoto, M.%
-\BCBL{}\ \BBA{} Nakahara, H.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Multiple Timescales of Memory in Lateral Habenula and
-  Dopamine Neurons}{Multiple timescales of memory in lateral habenula and
-  dopamine neurons}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{}{}{}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bromberg-Martin et~al.(2010{\natexlab{d}})Bromberg-Martin, Matsumoto,
+  and Nakahara}]{BrombergMartin:2010p7218}
+Bromberg-Martin, E.~S., M.~Matsumoto, and H.~Nakahara, 2010{\natexlab{d}}:
+  Multiple timescales of memory in lateral habenula and dopamine neurons.
+  \textit{Neuron}.
 
-\bibitem[\protect\citeauthoryear{%
-B{\"u}chel%
-, Morris%
-, Dolan%
-\BCBL{}\ \BBA{} Friston%
-}{%
-B{\"u}chel%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1998}}%
-}]{%
-Buchel:1998p9836}%
-\APACinsertmetastar{%
-Buchel:1998p9836}%
-B{\"u}chel, C.%
-, Morris, J.%
-, Dolan, R\BPBI J.%
-\BCBL{}\ \BBA{} Friston, K\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1998}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Brain systems mediating aversive conditioning: an
-  event-related fMRI study}{Brain systems mediating aversive conditioning: an
-  event-related fmri study}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{20}{5}{947--57}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{B{\"u}chel et~al.(1998)B{\"u}chel, Morris, Dolan, and
+  Friston}]{Buchel:1998p9836}
+B{\"u}chel, C., J.~Morris, R.~J. Dolan, and K.~J. Friston, 1998: Brain systems
+  mediating aversive conditioning: an event-related fmri study.
+  \textit{Neuron}, \textbf{20~(5)}, 947--57.
 
-\bibitem[\protect\citeauthoryear{%
-Bullmore%
-\ \protect\BOthers{.}}{%
-Bullmore%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1996}}%
-}]{%
-Bullmore:1996p6538}%
-\APACinsertmetastar{%
-Bullmore:1996p6538}%
-Bullmore, E.%
-, Brammer, M.%
-, Williams, S\BPBI C.%
-, Rabe-Hesketh, S.%
-, Janot, N.%
-, David, A.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1996}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Statistical methods of estimation and inference for
-  functional MR image analysis}{Statistical methods of estimation and inference
-  for functional mr image analysis}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Magnetic resonance in medicine : official journal of
-  the Society of Magnetic Resonance in Medicine / Society of Magnetic Resonance
-  in Medicine}{35}{2}{261--77}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bullmore et~al.(1996)}]{Bullmore:1996p6538}
+Bullmore, E., et~al., 1996: Statistical methods of estimation and inference for
+  functional mr image analysis. \textit{Magnetic resonance in medicine :
+  official journal of the Society of Magnetic Resonance in Medicine / Society
+  of Magnetic Resonance in Medicine}, \textbf{35~(2)}, 261--77.
 
-\bibitem[\protect\citeauthoryear{%
-Bunzeck%
-\ \BBA{} D{\"u}zel%
-}{%
-Bunzeck%
-\ \BBA{} D{\"u}zel%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-Bunzeck:2006p5319}%
-\APACinsertmetastar{%
-Bunzeck:2006p5319}%
-Bunzeck, N.%
-\BCBT{}\ \BBA{} D{\"u}zel, E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Absolute coding of stimulus novelty in the human
-  substantia nigra/VTA}{Absolute coding of stimulus novelty in the human
-  substantia nigra/vta}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{51}{3}{369--79}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Bunzeck and D{\"u}zel(2006)}]{Bunzeck:2006p5319}
+Bunzeck, N. and E.~D{\"u}zel, 2006: Absolute coding of stimulus novelty in the
+  human substantia nigra/vta. \textit{Neuron}, \textbf{51~(3)}, 369--79.
 
-\bibitem[\protect\citeauthoryear{%
-Burnham%
-}{%
-Burnham%
-}{%
-{\protect\APACyear{2004}}%
-}]{%
-Burnham:2004p9621}%
-\APACinsertmetastar{%
-Burnham:2004p9621}%
-Burnham, K\BPBI P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Multimodel Inference: Understanding AIC and BIC in Model
-  Selection}{Multimodel inference: Understanding aic and bic in model
-  selection}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Sociological Methods {\&} Research}{33}{2}{261--304}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Burnham(2004)}]{Burnham:2004p9621}
+Burnham, K.~P., 2004: Multimodel inference: Understanding aic and bic in model
+  selection. \textit{Sociological Methods {\&} Research}, \textbf{33~(2)},
+  261--304.
 
-\bibitem[\protect\citeauthoryear{%
-Calabresi%
-, Picconi%
-, Tozzi%
-\BCBL{}\ \BBA{} Filippo%
-}{%
-Calabresi%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Calabresi:2007p4284}%
-\APACinsertmetastar{%
-Calabresi:2007p4284}%
-Calabresi, P.%
-, Picconi, B.%
-, Tozzi, A.%
-\BCBL{}\ \BBA{} Filippo, M\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine-mediated regulation of corticostriatal synaptic
-  plasticity}{Dopamine-mediated regulation of corticostriatal synaptic
-  plasticity}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Trends Neurosci.}{30}{5}{211--9}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Calabresi et~al.(2007)Calabresi, Picconi, Tozzi, and
+  Filippo}]{Calabresi:2007p4284}
+Calabresi, P., B.~Picconi, A.~Tozzi, and M.~D. Filippo, 2007: Dopamine-mediated
+  regulation of corticostriatal synaptic plasticity. \textit{Trends Neurosci.},
+  \textbf{30~(5)}, 211--9.
 
-\bibitem[\protect\citeauthoryear{%
-Cannon%
-\ \BBA{} Palmiter%
-}{%
-Cannon%
-\ \BBA{} Palmiter%
-}{%
-{\protect\APACyear{2003}}%
-}]{%
-Cannon:2003p8513}%
-\APACinsertmetastar{%
-Cannon:2003p8513}%
-Cannon, C\BPBI M.%
-\BCBT{}\ \BBA{} Palmiter, R\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Reward without dopamine}{Reward without dopamine}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{The Journal of neuroscience : the official journal of
-  the Society for Neuroscience}{23}{34}{10827--31}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Cannon and Palmiter(2003)}]{Cannon:2003p8513}
+Cannon, C.~M. and R.~D. Palmiter, 2003: Reward without dopamine. \textit{The
+  Journal of neuroscience : the official journal of the Society for
+  Neuroscience}, \textbf{23~(34)}, 10\,827--31.
 
-\bibitem[\protect\citeauthoryear{%
-Chamberlin%
-}{%
-Chamberlin%
-}{%
-{\protect\APACyear{1965}}%
-}]{%
-Chamberlin:1965p8873}%
-\APACinsertmetastar{%
-Chamberlin:1965p8873}%
-Chamberlin, T\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1965}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The Method of Multiple Working Hypotheses: With this
+\bibitem[{Chamberlin(1965)}]{Chamberlin:1965p8873}
+Chamberlin, T.~C., 1965: The method of multiple working hypotheses: With this
   method the dangers of parental affection for a favorite theory can be
-  circumvented}{The method of multiple working hypotheses: With this method the
-  dangers of parental affection for a favorite theory can be
-  circumvented}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{148}{3671}{754--9}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Chatera%
-\ \BBA{} Vit{\'a}nyib%
-}{%
-Chatera%
-\ \BBA{} Vit{\'a}nyib%
-}{%
-{\protect\APACyear{2003}}%
-}]{%
-Chatera:2003p9103}%
-\APACinsertmetastar{%
-Chatera:2003p9103}%
-Chatera, N.%
-\BCBT{}\ \BBA{} Vit{\'a}nyib, P\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The generalized universal law of generalization}{The
-  generalized universal law of generalization}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Mathematical Psychology}{47}{3}{346--369}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Chua%
-, Krams%
-, Toni%
-, Passingham%
-\BCBL{}\ \BBA{} Dolan%
-}{%
-Chua%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1999}}%
-}]{%
-Chua:1999p9833}%
-\APACinsertmetastar{%
-Chua:1999p9833}%
-Chua, P.%
-, Krams, M.%
-, Toni, I.%
-, Passingham, R.%
-\BCBL{}\ \BBA{} Dolan, R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1999}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{A functional anatomy of anticipatory anxiety}{A
-  functional anatomy of anticipatory anxiety}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{9}{6 Pt 1}{563--71}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Cincotta%
-\ \BBA{} Seger%
-}{%
-Cincotta%
-\ \BBA{} Seger%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-Cincotta:2007p6672}%
-\APACinsertmetastar{%
-Cincotta:2007p6672}%
-Cincotta, C\BPBI M.%
-\BCBT{}\ \BBA{} Seger, C\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dissociation between striatal regions while learning to
-  categorize via feedback and via observation}{Dissociation between striatal
-  regions while learning to categorize via feedback and via
-  observation}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of cognitive neuroscience}{19}{2}{249--65}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Collignon%
-\ \protect\BOthers{.}}{%
-Collignon%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1995}}%
-}]{%
-Collignon:1995p9347}%
-\APACinsertmetastar{%
-Collignon:1995p9347}%
-Collignon, A.%
-, Maes, F.%
-, Delaere, D.%
-, Vandermeulen, D.%
-, Suetens, P.%
-\BCBL{}\ \BBA{} Marchal, G.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1995}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Automated multi-modality image registration based on
-  information theory}{Automated multi-modality image registration based on
-  information theory}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Information Processing in Medical
-  Imaging}{}{}{263--274}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Collins%
-\ \BBA{} Frank%
-}{%
-Collins%
-\ \BBA{} Frank%
-}{%
-{\protect\APACyear{2012}}%
-}]{%
-Collins:2012p9779}%
-\APACinsertmetastar{%
-Collins:2012p9779}%
-Collins, A\BPBI G\BPBI E.%
-\BCBT{}\ \BBA{} Frank, M\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2012}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{How much of reinforcement learning is working memory, not
-  reinforcement learning? A behavioral, computational, and neurogenetic
-  analysis}{How much of reinforcement learning is working memory, not
-  reinforcement learning? a behavioral, computational, and neurogenetic
-  analysis}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Eur J Neurosci}{35}{7}{1024--35}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Crow%
-}{%
-Crow%
-}{%
-{\protect\APACyear{1972}}%
-}]{%
-Crow:1972p8748}%
-\APACinsertmetastar{%
-Crow:1972p8748}%
-Crow, T\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1972}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Catecholamine-containing neurones and electrical
-  self-stimulation. 1. A review of some data}{Catecholamine-containing neurones
-  and electrical self-stimulation. 1. a review of some data}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychol Med}{2}{4}{414--21}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Dale%
-}{%
-Dale%
-}{%
-{\protect\APACyear{1999}}%
-}]{%
-Dale:1999p7901}%
-\APACinsertmetastar{%
-Dale:1999p7901}%
-Dale, A\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1999}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Optimal experimental design for event-related
-  fMRI}{Optimal experimental design for event-related fmri}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Hum Brain Mapp}{8}{2-3}{109--14}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Daw%
-\ \BBA{} Courville%
-}{%
-Daw%
-\ \BBA{} Courville%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-Daw:2007p9346}%
-\APACinsertmetastar{%
-Daw:2007p9346}%
-Daw, N\BPBI D.%
-\BCBT{}\ \BBA{} Courville, A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The pigeon as particle filter}{The pigeon as particle
-  filter}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{NIPS}{20}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Daw%
-, Gershman%
-, Seymour%
-, Dayan%
-\BCBL{}\ \BBA{} Dolan%
-}{%
-Daw%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2011}}%
-}]{%
-Daw:2011p7995}%
-\APACinsertmetastar{%
-Daw:2011p7995}%
-Daw, N\BPBI D.%
-, Gershman, S\BPBI J.%
-, Seymour, B.%
-, Dayan, P.%
-\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Model-based influences on humans' choices and striatal
-  prediction errors}{Model-based influences on humans' choices and striatal
-  prediction errors}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{69}{6}{1204--15}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Dayan%
-\ \BBA{} Daw%
-}{%
-Dayan%
-\ \BBA{} Daw%
-}{%
-{\protect\APACyear{2008}}%
-}]{%
-Dayan:2008p6342}%
-\APACinsertmetastar{%
-Dayan:2008p6342}%
-Dayan, P.%
-\BCBT{}\ \BBA{} Daw, N\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Decision theory, reinforcement learning, and the
-  brain}{Decision theory, reinforcement learning, and the brain}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cognitive, affective {\&} behavioral
-  neuroscience}{8}{4}{429--53}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Dayan%
-\ \BBA{} Niv%
-}{%
-Dayan%
-\ \BBA{} Niv%
-}{%
-{\protect\APACyear{2008}}%
-}]{%
-Dayan:2008p6479}%
-\APACinsertmetastar{%
-Dayan:2008p6479}%
-Dayan, P.%
-\BCBT{}\ \BBA{} Niv, Y.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Reinforcement learning: the good, the bad and the
-  ugly}{Reinforcement learning: the good, the bad and the ugly}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Current Opinion in Neurobiology}{18}{2}{185--96}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Delgado%
-, Stenger%
-\BCBL{}\ \BBA{} Fiez%
-}{%
-Delgado%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-Delgado:2004p6665}%
-\APACinsertmetastar{%
-Delgado:2004p6665}%
-Delgado, M\BPBI R.%
-, Stenger, V\BPBI A.%
-\BCBL{}\ \BBA{} Fiez, J\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Motivation-dependent responses in the human caudate
-  nucleus}{Motivation-dependent responses in the human caudate nucleus}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cereb Cortex}{14}{9}{1022--30}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Desikan%
-\ \protect\BOthers{.}}{%
-Desikan%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2006}}%
-}]{%
-Desikan:2006p9370}%
-\APACinsertmetastar{%
-Desikan:2006p9370}%
-Desikan, R\BPBI S.%
-, S{\'e}gonne, F.%
-, Fischl, B.%
-, Quinn, B\BPBI T.%
-, Dickerson, B\BPBI C.%
-, Blacker, D.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{An automated labeling system for subdividing the human
-  cerebral cortex on MRI scans into gyral based regions of interest}{An
-  automated labeling system for subdividing the human cerebral cortex on mri
-  scans into gyral based regions of interest}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{31}{3}{968--80}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Diaconescu%
-, Menon%
-, Jensen%
-, Kapur%
-\BCBL{}\ \BBA{} McIntosh%
-}{%
-Diaconescu%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-Diaconescu:2010p7631}%
-\APACinsertmetastar{%
-Diaconescu:2010p7631}%
-Diaconescu, A\BPBI O.%
-, Menon, M.%
-, Jensen, J.%
-, Kapur, S.%
-\BCBL{}\ \BBA{} McIntosh, A\BPBI R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine-induced changes in neural network patterns
-  supporting aversive conditioning}{Dopamine-induced changes in neural network
-  patterns supporting aversive conditioning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Brain Res}{1313}{}{143--61}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Dommett%
-\ \protect\BOthers{.}}{%
-Dommett%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2005}}%
-}]{%
-Dommett:2005p7263}%
-\APACinsertmetastar{%
-Dommett:2005p7263}%
-Dommett, E.%
-, Coizet, V.%
-, Blaha, C.%
-, Martindale, J.%
-, Lefebvre, V.%
-, Walton, N.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{How Visual Stimuli Activate Dopaminergic Neurons at Short
-  Latency}{How visual stimuli activate dopaminergic neurons at short
-  latency}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{307}{5714}{1476}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Elliott%
-, Friston%
-\BCBL{}\ \BBA{} Dolan%
-}{%
-Elliott%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2000}}%
-}]{%
-Elliott:2000p1637}%
-\APACinsertmetastar{%
-Elliott:2000p1637}%
-Elliott, R.%
-, Friston, K\BPBI J.%
-\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2000}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dissociable neural responses in human reward
-  systems}{Dissociable neural responses in human reward systems}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{20}{16}{6159--65}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Ennis%
-}{%
-Ennis%
-}{%
-{\protect\APACyear{1988}}%
-}]{%
-Ennis:1988p9359}%
-\APACinsertmetastar{%
-Ennis:1988p9359}%
-Ennis, D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1988}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Toward a universal law of generalization.}{Toward a
-  universal law of generalization.}\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{242}{4880}{944}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Ernst%
-\ \protect\BOthers{.}}{%
-Ernst%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-Ernst:2004p3998}%
-\APACinsertmetastar{%
-Ernst:2004p3998}%
-Ernst, M.%
-, Nelson, E\BPBI E.%
-, McClure, E\BPBI B.%
-, Monk, C\BPBI S.%
-, Munson, S.%
-, Eshel, N.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Choice selection and reward anticipation: an fMRI
-  study}{Choice selection and reward anticipation: an fmri study}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuropsychologia}{42}{12}{1585--97}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Fiore%
-\ \protect\BOthers{.}}{%
-Fiore%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Fiore:2008p7249}%
-\APACinsertmetastar{%
-Fiore:2008p7249}%
-Fiore, V.%
-, Mannella, F.%
-, Mirolli, M.%
-, Gurney, K.%
-, Baldassarre, G.%
-\BCBL{}\ \BBA{} Ricerche, C. delle.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Instrumental Conditioning Driven by Apparently Neutral
-  Stimuli: A Model Tested with a Simulated Robotic Rat}{Instrumental
-  conditioning driven by apparently neutral stimuli: A model tested with a
-  simulated robotic rat}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{International Conference on Epigenetic Robotics:
-  Modeling Cognitive Development in Robotic Systems}{}{}{139}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Fiorillo%
-, Tobler%
-\BCBL{}\ \BBA{} Schultz%
-}{%
-Fiorillo%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2003}}%
-}]{%
-Fiorillo:2003p6375}%
-\APACinsertmetastar{%
-Fiorillo:2003p6375}%
-Fiorillo, C\BPBI D.%
-, Tobler, P\BPBI N.%
-\BCBL{}\ \BBA{} Schultz, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Discrete coding of reward probability and uncertainty by
-  dopamine neurons}{Discrete coding of reward probability and uncertainty by
-  dopamine neurons}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{299}{5614}{1898--902}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Forster%
-}{%
-Forster%
-}{%
-{\protect\APACyear{2000}}%
-}]{%
-Forster:2000p9623}%
-\APACinsertmetastar{%
-Forster:2000p9623}%
-Forster, M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2000}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Key Concepts in Model Selection: Performance and
-  Generalizability}{Key concepts in model selection: Performance and
-  generalizability}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Mathematical Psychology}{44}{1}{205--231}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Frank%
-, Loughry%
-\BCBL{}\ \BBA{} O'Reilly%
-}{%
-Frank%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2001}}%
-}]{%
-Frank:2001p1996}%
-\APACinsertmetastar{%
-Frank:2001p1996}%
-Frank, M\BPBI J.%
-, Loughry, B.%
-\BCBL{}\ \BBA{} O'Reilly, R\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Interactions between frontal cortex and basal ganglia in
-  working memory: a computational model}{Interactions between frontal cortex
-  and basal ganglia in working memory: a computational model}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cognitive, affective {\&} behavioral
-  neuroscience}{1}{2}{137--60}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Frank%
-, Seeberger%
-\BCBL{}\ \BBA{} O'Reilly%
-}{%
-Frank%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-Frank:2004p4709}%
-\APACinsertmetastar{%
-Frank:2004p4709}%
-Frank, M\BPBI J.%
-, Seeberger, L\BPBI C.%
-\BCBL{}\ \BBA{} O'Reilly, R\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{By carrot or by stick: cognitive reinforcement learning
-  in parkinsonism}{By carrot or by stick: cognitive reinforcement learning in
-  parkinsonism}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{306}{5703}{1940--3}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Friston%
-\ \protect\BOthers{.}}{%
-Friston%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1998}}%
-}]{%
-Friston:1998p2022}%
-\APACinsertmetastar{%
-Friston:1998p2022}%
-Friston, K\BPBI J.%
-, Fletcher, P.%
-, Josephs, O.%
-, Holmes, A.%
-, Rugg, M\BPBI D.%
-\BCBL{}\ \BBA{} Turner, R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1998}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Event-related fMRI: characterizing differential
-  responses}{Event-related fmri: characterizing differential responses}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{7}{1}{30--40}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Furuyashiki%
-, Holland%
-\BCBL{}\ \BBA{} Gallagher%
-}{%
-Furuyashiki%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Furuyashiki:2008p1631}%
-\APACinsertmetastar{%
-Furuyashiki:2008p1631}%
-Furuyashiki, T.%
-, Holland, P\BPBI C.%
-\BCBL{}\ \BBA{} Gallagher, M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Rat orbitofrontal cortex separately encodes response and
-  outcome information during performance of goal-directed behavior}{Rat
-  orbitofrontal cortex separately encodes response and outcome information
-  during performance of goal-directed behavior}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{28}{19}{5127--38}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Geman%
-, Bienenstock%
-\BCBL{}\ \BBA{} Doursat%
-}{%
-Geman%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1992}}%
-}]{%
-Geman:1992p9469}%
-\APACinsertmetastar{%
-Geman:1992p9469}%
-Geman, S.%
-, Bienenstock, E.%
-\BCBL{}\ \BBA{} Doursat, R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1992}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Neural networks and the bias/variance dilemma}{Neural
-  networks and the bias/variance dilemma}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neural Computation}{4}{1}{1--58}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Gershman%
-, Pesaran%
-\BCBL{}\ \BBA{} Daw%
-}{%
-Gershman%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2009}}%
-}]{%
-Gershman:2009p7207}%
-\APACinsertmetastar{%
-Gershman:2009p7207}%
-Gershman, S.%
-, Pesaran, B.%
-\BCBL{}\ \BBA{} Daw, N\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{Oct}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Human Reinforcement Learning Subdivides Structured Action
-  Spaces by Learning Effector-Specific Values}{Human reinforcement learning
-  subdivides structured action spaces by learning effector-specific
-  values}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Neuroscience}{29}{43}{13524}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Gewirtz%
-}{%
-Gewirtz%
-}{%
-{\protect\APACyear{2000}}%
-}]{%
-Gewirtz:2000p9847}%
-\APACinsertmetastar{%
-Gewirtz:2000p9847}%
-Gewirtz, J\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2000}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Using Pavlovian Higher-Order Conditioning Paradigms to
-  Investigate the Neural Substrates of Emotional Learning and Memory}{Using
-  pavlovian higher-order conditioning paradigms to investigate the neural
-  substrates of emotional learning and memory}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Learning {\&} Memory}{7}{5}{257--266}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Glimcher%
-, Dorris%
-\BCBL{}\ \BBA{} Bayer%
-}{%
-Glimcher%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2005}}%
-}]{%
-Glimcher:2005p863}%
-\APACinsertmetastar{%
-Glimcher:2005p863}%
-Glimcher, P\BPBI W.%
-, Dorris, M.%
-\BCBL{}\ \BBA{} Bayer, H.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Physiological utility theory and the neuroeconomics of
-  choice}{Physiological utility theory and the neuroeconomics of
-  choice}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Games and economic behavior}{52}{2}{213--256}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Grahn%
-, Parkinson%
-\BCBL{}\ \BBA{} Owen%
-}{%
-Grahn%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Grahn:2008p4654}%
-\APACinsertmetastar{%
-Grahn:2008p4654}%
-Grahn, J\BPBI A.%
-, Parkinson, J\BPBI A.%
-\BCBL{}\ \BBA{} Owen, A\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The cognitive functions of the caudate nucleus}{The
-  cognitive functions of the caudate nucleus}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Progress in Neurobiology}{86}{3}{141--55}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Guitart-Masip%
-, Bunzeck%
-, Stephan%
-, Dolan%
-\BCBL{}\ \BBA{} Duzel%
-}{%
-Guitart-Masip%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-{\protect\APACexlab{{\protect\BCnt{1}}}}}]{%
-GuitartMasip:2010p7227}%
-\APACinsertmetastar{%
-GuitartMasip:2010p7227}%
-Guitart-Masip, M.%
-, Bunzeck, N.%
-, Stephan, K.%
-, Dolan, R\BPBI J.%
-\BCBL{}\ \BBA{} Duzel, E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010{\protect\BCnt{1}}}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Contextual Novelty Changes Reward Representations in the
-  Striatum}{Contextual novelty changes reward representations in the
-  striatum}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Neuroscience}{30}{5}{1721}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Guitart-Masip%
-, Bunzeck%
-, Stephan%
-, Dolan%
-\BCBL{}\ \BBA{} Duzel%
-}{%
-Guitart-Masip%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-{\protect\APACexlab{{\protect\BCnt{2}}}}}]{%
-GuitartMasip:2010p7244}%
-\APACinsertmetastar{%
-GuitartMasip:2010p7244}%
-Guitart-Masip, M.%
-, Bunzeck, N.%
-, Stephan, K.%
-, Dolan, R\BPBI J.%
-\BCBL{}\ \BBA{} Duzel, E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010{\protect\BCnt{2}}}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Contextual Novelty Changes Reward Representations in the
-  Striatum}{Contextual novelty changes reward representations in the
-  striatum}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Neuroscience}{30}{5}{1721}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Guttman%
-}{%
-Guttman%
-}{%
-{\protect\APACyear{1956}}%
-}]{%
-Guttman:1956p8355}%
-\APACinsertmetastar{%
-Guttman:1956p8355}%
-Guttman, N.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1956}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Discriminability and stimulus
-  generalization.}{Discriminability and stimulus generalization.}\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Experimental Psychology}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Hampton%
-, Bossaerts%
-\BCBL{}\ \BBA{} O'Doherty%
-}{%
-Hampton%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2006}}%
-}]{%
-Hampton:2006p2577}%
-\APACinsertmetastar{%
-Hampton:2006p2577}%
-Hampton, A\BPBI N.%
-, Bossaerts, P.%
-\BCBL{}\ \BBA{} O'Doherty, J\BPBI P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The role of the ventromedial prefrontal cortex in
-  abstract state-based inference during decision making in humans}{The role of
-  the ventromedial prefrontal cortex in abstract state-based inference during
-  decision making in humans}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{26}{32}{8360--7}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Hampton%
-\ \BBA{} O'Doherty%
-}{%
-Hampton%
-\ \BBA{} O'Doherty%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-Hampton:2007p2983}%
-\APACinsertmetastar{%
-Hampton:2007p2983}%
-Hampton, A\BPBI N.%
-\BCBT{}\ \BBA{} O'Doherty, J\BPBI P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Decoding the neural substrates of reward-related decision
-  making with functional MRI}{Decoding the neural substrates of reward-related
-  decision making with functional mri}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{PNAS}{104}{4}{1377--82}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Haruno%
-\ \BBA{} Kawato%
-}{%
-Haruno%
-\ \BBA{} Kawato%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-Haruno:2006p3979}%
-\APACinsertmetastar{%
-Haruno:2006p3979}%
-Haruno, M.%
-\BCBT{}\ \BBA{} Kawato, M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Different neural correlates of reward expectation and
-  reward expectation error in the putamen and caudate nucleus during
-  stimulus-action-reward association learning}{Different neural correlates of
-  reward expectation and reward expectation error in the putamen and caudate
-  nucleus during stimulus-action-reward association learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Physiol.}{95}{2}{948--59}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Hayden%
-, Pearson%
-\BCBL{}\ \BBA{} Platt%
-}{%
-Hayden%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2009}}%
-}]{%
-Hayden:2009p6545}%
-\APACinsertmetastar{%
-Hayden:2009p6545}%
-Hayden, B\BPBI Y.%
-, Pearson, J\BPBI M.%
-\BCBL{}\ \BBA{} Platt, M\BPBI L.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Fictive reward signals in the anterior cingulate
-  cortex}{Fictive reward signals in the anterior cingulate cortex}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{324}{5929}{948--50}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Hikosaka%
-, Sesack%
-, Lecourtier%
-\BCBL{}\ \BBA{} Shepard%
-}{%
-Hikosaka%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Hikosaka:2008p4455}%
-\APACinsertmetastar{%
-Hikosaka:2008p4455}%
-Hikosaka, O.%
-, Sesack, S\BPBI R.%
-, Lecourtier, L.%
-\BCBL{}\ \BBA{} Shepard, P\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Habenula: crossroad between the basal ganglia and the
-  limbic system}{Habenula: crossroad between the basal ganglia and the limbic
-  system}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{28}{46}{11825--9}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Hillyard%
-\ \BBA{} Kutas%
-}{%
-Hillyard%
-\ \BBA{} Kutas%
-}{%
-{\protect\APACyear{1983}}%
-}]{%
-Hillyard:1983p9844}%
-\APACinsertmetastar{%
-Hillyard:1983p9844}%
-Hillyard, S\BPBI A.%
-\BCBT{}\ \BBA{} Kutas, M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1983}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Electrophysiology of cognitive
-  processing}{Electrophysiology of cognitive processing}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Annual review of psychology}{34}{}{33--61}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Hnasko%
-, Sotak%
-\BCBL{}\ \BBA{} Palmiter%
-}{%
-Hnasko%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2005}}%
-}]{%
-Hnasko:2005p8832}%
-\APACinsertmetastar{%
-Hnasko:2005p8832}%
-Hnasko, T\BPBI S.%
-, Sotak, B\BPBI N.%
-\BCBL{}\ \BBA{} Palmiter, R\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Morphine reward in dopamine-deficient mice}{Morphine
-  reward in dopamine-deficient mice}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nature}{438}{7069}{854--7}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Hollerman%
-\ \BBA{} Schultz%
-}{%
-Hollerman%
-\ \BBA{} Schultz%
-}{%
-{\protect\APACyear{1998}}%
-}]{%
-Hollerman:1998qy}%
-\APACinsertmetastar{%
-Hollerman:1998qy}%
-Hollerman, J.%
-\BCBT{}\ \BBA{} Schultz, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1998}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine neurons report an error in the temporal
-  prediction of reward during learning}{Dopamine neurons report an error in the
-  temporal prediction of reward during learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nature Neuroscience}{1}{4}{304--309}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Hornak%
-\ \protect\BOthers{.}}{%
-Hornak%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-Hornak:2004p6234}%
-\APACinsertmetastar{%
-Hornak:2004p6234}%
-Hornak, J.%
-, O'Doherty, J\BPBI P.%
-, Bramham, J.%
-, Rolls, E\BPBI T.%
-, Morris, R\BPBI G.%
-, Bullock, P\BPBI R.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Reward-related reversal learning after surgical excisions
-  in orbito-frontal or dorsolateral prefrontal cortex in humans}{Reward-related
-  reversal learning after surgical excisions in orbito-frontal or dorsolateral
-  prefrontal cortex in humans}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of cognitive neuroscience}{16}{3}{463--78}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Ito%
-\ \BBA{} Doya%
-}{%
-Ito%
-\ \BBA{} Doya%
-}{%
-{\protect\APACyear{2011}}%
-}]{%
-Ito:2011p8146}%
-\APACinsertmetastar{%
-Ito:2011p8146}%
-Ito, M.%
-\BCBT{}\ \BBA{} Doya, K.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Multiple representations and algorithms for reinforcement
-  learning in the cortico-basal ganglia circuit}{Multiple representations and
-  algorithms for reinforcement learning in the cortico-basal ganglia
-  circuit}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Current opinion in neurobiology}{21}{3}{368--73}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Iversen%
-\ \BBA{} Iversen%
-}{%
-Iversen%
-\ \BBA{} Iversen%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-iversen:2007aa}%
-\APACinsertmetastar{%
-iversen:2007aa}%
-Iversen, S\BPBI D.%
-\BCBT{}\ \BBA{} Iversen, L\BPBI L.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine: 50 years in perspective}{Dopamine: 50 years in
-  perspective}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Trends Neurosci.}{30}{5}{188--193}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Jacoby%
-}{%
-Jacoby%
-}{%
-{\protect\APACyear{1991}}%
-}]{%
-Jacoby:1991p9096}%
-\APACinsertmetastar{%
-Jacoby:1991p9096}%
-Jacoby, L\BPBI L.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1991}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{A process dissociation framework: Separating automatic
-  from intentional uses of memory}{A process dissociation framework: Separating
-  automatic from intentional uses of memory}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Memory and Language}{30}{}{513--541}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Jakel%
-, Scholkopf%
-\BCBL{}\ \BBA{} Wichmann%
-}{%
-Jakel%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Jakel:2008p9113}%
-\APACinsertmetastar{%
-Jakel:2008p9113}%
-Jakel, F.%
-, Scholkopf, B.%
-\BCBL{}\ \BBA{} Wichmann, F\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Generalization and similarity in exemplar models of
-  categorization: Insights from machine learning}{Generalization and similarity
-  in exemplar models of categorization: Insights from machine learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychonomic Bulletin {\&} Review}{15}{2}{256--271}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Jay%
-}{%
-Jay%
-}{%
-{\protect\APACyear{2003}}%
-}]{%
-jay:2003aa}%
-\APACinsertmetastar{%
-jay:2003aa}%
-Jay, T\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine: a potential substrate for synaptic plasticity
-  and memory mechanisms}{Dopamine: a potential substrate for synaptic
-  plasticity and memory mechanisms}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Progress in Neurobiology}{69}{}{375--390}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Jimura%
-, Locke%
-\BCBL{}\ \BBA{} Braver%
-}{%
-Jimura%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-Jimura:2010p8305}%
-\APACinsertmetastar{%
-Jimura:2010p8305}%
-Jimura, K.%
-, Locke, H\BPBI S.%
-\BCBL{}\ \BBA{} Braver, T\BPBI S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Prefrontal cortex mediation of cognitive enhancement in
-  rewarding motivational contexts}{Prefrontal cortex mediation of cognitive
-  enhancement in rewarding motivational contexts}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Proc Natl Acad Sci USA}{107}{19}{8871--6}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Jin%
-\ \BBA{} Costa%
-}{%
-Jin%
-\ \BBA{} Costa%
-}{%
-{\protect\APACyear{2010}}%
-}]{%
-Jin:2010p7199}%
-\APACinsertmetastar{%
-Jin:2010p7199}%
-Jin, X.%
-\BCBT{}\ \BBA{} Costa, R\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Start/stop signals emerge in nigrostriatal circuits
-  during sequence learning}{Start/stop signals emerge in nigrostriatal circuits
-  during sequence learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nature}{466}{7305}{457--462}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Joel%
-, Niv%
-\BCBL{}\ \BBA{} Ruppin%
-}{%
-Joel%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2002}}%
-}]{%
-Joel:2002p6593}%
-\APACinsertmetastar{%
-Joel:2002p6593}%
-Joel, D.%
-, Niv, Y.%
-\BCBL{}\ \BBA{} Ruppin, E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2002}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Actor-critic models of the basal ganglia: new anatomical
-  and computational perspectives}{Actor-critic models of the basal ganglia: new
-  anatomical and computational perspectives}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neural Networks}{15}{4-6}{535--47}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Kahnt%
-, Heinzle%
-, Park%
-\BCBL{}\ \BBA{} Haynes%
-}{%
-Kahnt%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-Kahnt:2010p7677}%
-\APACinsertmetastar{%
-Kahnt:2010p7677}%
-Kahnt, T.%
-, Heinzle, J.%
-, Park, S\BPBI Q.%
-\BCBL{}\ \BBA{} Haynes, J\BHBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Decoding different roles for vmPFC and dlPFC in
-  multi-attribute decision making}{Decoding different roles for vmpfc and dlpfc
-  in multi-attribute decision making}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Kakade%
-\ \BBA{} Dayan%
-}{%
-Kakade%
-\ \BBA{} Dayan%
-}{%
-{\protect\APACyear{2002}}%
-}]{%
-Kakade:2002p6414}%
-\APACinsertmetastar{%
-Kakade:2002p6414}%
-Kakade, S.%
-\BCBT{}\ \BBA{} Dayan, P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2002}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine: generalization and bonuses}{Dopamine:
-  generalization and bonuses}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neural Networks}{15}{4-6}{549--559}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Kao%
-, Mandal%
-, Lazar%
-\BCBL{}\ \BBA{} Stufken%
-}{%
-Kao%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2009}}%
-}]{%
-Kao:2009p7899}%
-\APACinsertmetastar{%
-Kao:2009p7899}%
-Kao, M\BHBI H.%
-, Mandal, A.%
-, Lazar, N.%
-\BCBL{}\ \BBA{} Stufken, J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Multi-objective optimal experimental designs for
-  event-related fMRI studies}{Multi-objective optimal experimental designs for
-  event-related fmri studies}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{44}{3}{849--56}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-H.~Kim%
-, Shimojo%
-\BCBL{}\ \BBA{} O'Doherty%
-}{%
-H.~Kim%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2006}}%
-}]{%
-Kim:2006p1063}%
-\APACinsertmetastar{%
-Kim:2006p1063}%
-Kim, H.%
-, Shimojo, S.%
-\BCBL{}\ \BBA{} O'Doherty, J\BPBI P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Is avoiding an aversive outcome rewarding? Neural
-  substrates of avoidance learning in the human brain}{Is avoiding an aversive
-  outcome rewarding? neural substrates of avoidance learning in the human
-  brain}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{PLoS Biology}{4}{8}{e233}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-H.~Kim%
-, Shimojo%
-\BCBL{}\ \BBA{} O'Doherty%
-}{%
-H.~Kim%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-Kim:2010p7248}%
-\APACinsertmetastar{%
-Kim:2010p7248}%
-Kim, H.%
-, Shimojo, S.%
-\BCBL{}\ \BBA{} O'Doherty, J\BPBI P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Overlapping Responses for the Expectation of Juice and
-  Money Rewards in Human Ventromedial Prefrontal Cortex}{Overlapping responses
-  for the expectation of juice and money rewards in human ventromedial
-  prefrontal cortex}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cereb Cortex}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-S.~Kim%
-, Hwang%
-\BCBL{}\ \BBA{} Lee%
-}{%
-S.~Kim%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Kim:2008p2984}%
-\APACinsertmetastar{%
-Kim:2008p2984}%
-Kim, S.%
-, Hwang, J.%
-\BCBL{}\ \BBA{} Lee, D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{prefrontal coding of temporally discounted values during
-  intertemporal choice}{prefrontal coding of temporally discounted values
-  during intertemporal choice}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{59}{1}{161--72}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-S.~Kim%
-, Hwang%
-, Seo%
-\BCBL{}\ \BBA{} Lee%
-}{%
-S.~Kim%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2009}}%
-}]{%
-Kim:2009p8304}%
-\APACinsertmetastar{%
-Kim:2009p8304}%
-Kim, S.%
-, Hwang, J.%
-, Seo, H.%
-\BCBL{}\ \BBA{} Lee, D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Valuation of uncertain and delayed rewards in primate
-  prefrontal cortex}{Valuation of uncertain and delayed rewards in primate
-  prefrontal cortex}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neural Networks}{22}{3}{294--304}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Knutson%
-, Adams%
-, Fong%
-\BCBL{}\ \BBA{} Hommer%
-}{%
-Knutson%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2001}}%
-}]{%
-Knutson:2001p5234}%
-\APACinsertmetastar{%
-Knutson:2001p5234}%
-Knutson, B.%
-, Adams, C\BPBI M.%
-, Fong, G\BPBI W.%
-\BCBL{}\ \BBA{} Hommer, D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Anticipation of increasing monetary reward selectively
-  recruits nucleus accumbens}{Anticipation of increasing monetary reward
-  selectively recruits nucleus accumbens}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{21}{16}{RC159}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Knutson%
-, Taylor%
-, Kaufman%
-, Peterson%
-\BCBL{}\ \BBA{} Glover%
-}{%
-Knutson%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2005}}%
-}]{%
-Knutson:2005p1627}%
-\APACinsertmetastar{%
-Knutson:2005p1627}%
-Knutson, B.%
-, Taylor, J.%
-, Kaufman, M.%
-, Peterson, R.%
-\BCBL{}\ \BBA{} Glover, G.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Distributed neural representation of expected
-  value}{Distributed neural representation of expected value}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{25}{19}{4806--4812}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Knutson%
-\ \BBA{} Wimmer%
-}{%
-Knutson%
-\ \BBA{} Wimmer%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-Knutson:2007p1687}%
-\APACinsertmetastar{%
-Knutson:2007p1687}%
-Knutson, B.%
-\BCBT{}\ \BBA{} Wimmer, G\BPBI E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Splitting the difference: how does the brain code reward
-  episodes?}{Splitting the difference: how does the brain code reward
-  episodes?}\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Annals of the New York Academy of
-  Sciences}{1104}{}{54--69}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Krebs%
-, Heipertz%
-, Schuetze%
-\BCBL{}\ \BBA{} Duzel%
-}{%
-Krebs%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2011}}%
-}]{%
-Krebs:2011p8134}%
-\APACinsertmetastar{%
-Krebs:2011p8134}%
-Krebs, R\BPBI M.%
-, Heipertz, D.%
-, Schuetze, H.%
-\BCBL{}\ \BBA{} Duzel, E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Novelty increases the mesolimbic functional connectivity
-  of the substantia nigra/ventral tegmental area (SN/VTA) during reward
-  anticipation: Evidence from high-resolution fMRI}{Novelty increases the
-  mesolimbic functional connectivity of the substantia nigra/ventral tegmental
-  area (sn/vta) during reward anticipation: Evidence from high-resolution
-  fmri}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{NeuroImage}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Kruggel%
-, Cramon%
-\BCBL{}\ \BBA{} Descombes%
-}{%
-Kruggel%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1999}}%
-}]{%
-Kruggel:1999p9351}%
-\APACinsertmetastar{%
-Kruggel:1999p9351}%
-Kruggel, F.%
-, Cramon, D\BPBI Y\BPBI V.%
-\BCBL{}\ \BBA{} Descombes, X.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1999}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Comparison of filtering methods for fMRI
-  datasets.}{Comparison of filtering methods for fmri datasets.}\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{10}{5}{530--543}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Kruschke%
-}{%
-Kruschke%
-}{%
-{\protect\APACyear{1992}}%
-}]{%
-Kruschke:1992p9111}%
-\APACinsertmetastar{%
-Kruschke:1992p9111}%
-Kruschke, J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1992}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{ALCOVE: An Exemplar-Based Connectionist Model of Category
-  Learning.}{Alcove: An exemplar-based connectionist model of category
-  learning.}\BBCQ{}
-\newblock
-\APACjournalVolNumPages{PSYCHOLOGICAL REVIEW}{99}{1}{22--44}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Lazarus%
-\ \protect\BOthers{.}}{%
-Lazarus%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2011}}%
-}]{%
-Lazarus:2011p8137}%
-\APACinsertmetastar{%
-Lazarus:2011p8137}%
-Lazarus, M.%
-, Shen, H\BHBI Y.%
-, Cherasse, Y.%
-, Qu, W\BHBI M.%
-, Huang, Z\BHBI L.%
-, Bass, C\BPBI E.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Arousal Effect of Caffeine Depends on Adenosine A2A
-  Receptors in the Shell of the Nucleus Accumbens}{Arousal effect of caffeine
-  depends on adenosine a2a receptors in the shell of the nucleus
-  accumbens}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{The Journal of neuroscience : the official journal of
-  the Society for Neuroscience}{31}{27}{10067--10075}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Lisman%
-\ \BBA{} Grace%
-}{%
-Lisman%
-\ \BBA{} Grace%
-}{%
-{\protect\APACyear{2005}}%
-}]{%
-Lisman:2005p5455}%
-\APACinsertmetastar{%
-Lisman:2005p5455}%
-Lisman, J\BPBI E.%
-\BCBT{}\ \BBA{} Grace, A\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The hippocampal-VTA loop: controlling the entry of
-  information into long-term memory}{The hippocampal-vta loop: controlling the
-  entry of information into long-term memory}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{46}{5}{703--13}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Liu%
-}{%
-Liu%
-}{%
-{\protect\APACyear{2004}}%
-}]{%
-Liu:2004p2141}%
-\APACinsertmetastar{%
-Liu:2004p2141}%
-Liu, T\BPBI T.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Efficiency, power, and entropy in event-related fMRI with
-  multiple trial types. Part II: design of experiments}{Efficiency, power, and
-  entropy in event-related fmri with multiple trial types. part ii: design of
-  experiments}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{21}{1}{401--13}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Lohrenz%
-, McCabe%
-, Camerer%
-\BCBL{}\ \BBA{} Montague%
-}{%
-Lohrenz%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Lohrenz:2007p7240}%
-\APACinsertmetastar{%
-Lohrenz:2007p7240}%
-Lohrenz, T.%
-, McCabe, K.%
-, Camerer, C.%
-\BCBL{}\ \BBA{} Montague, P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Neural signature of fictive learning signals in a
-  sequential investment task}{Neural signature of fictive learning signals in a
-  sequential investment task}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Proceedings of the National Academy of
-  Sciences}{104}{22}{9493}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Lopez-Paniagua%
-\ \BBA{} Seger%
-}{%
-Lopez-Paniagua%
-\ \BBA{} Seger%
-}{%
-{\protect\APACyear{2011}}%
-}]{%
-LopezPaniagua:2011p8296}%
-\APACinsertmetastar{%
-LopezPaniagua:2011p8296}%
-Lopez-Paniagua, D.%
-\BCBT{}\ \BBA{} Seger, C\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Interactions within and between Corticostriatal Loops
-  during Component Processes of Category Learning}{Interactions within and
-  between corticostriatal loops during component processes of category
-  learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of cognitive neuroscience}{23}{10}{3068--3083}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Love%
-}{%
-Love%
-}{%
-{\protect\APACyear{2004}}%
-}]{%
-Love:2004p9110}%
-\APACinsertmetastar{%
-Love:2004p9110}%
-Love, B\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{SUSTAIN: A Network Model of Category Learning}{Sustain: A
-  network model of category learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{PSYCHOLOGICAL REVIEW}{}{}{309---332}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Maddox%
-\ \BBA{} Bohil%
-}{%
-Maddox%
-\ \BBA{} Bohil%
-}{%
-{\protect\APACyear{2001}}%
-}]{%
-Maddox:2001p9533}%
-\APACinsertmetastar{%
-Maddox:2001p9533}%
-Maddox, W\BPBI T.%
-\BCBT{}\ \BBA{} Bohil, C\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Feedback effects on cost-benefit learning in perceptual
-  categorization}{Feedback effects on cost-benefit learning in perceptual
-  categorization}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Mem Cognit}{29}{4}{598--615}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Mars%
-, Shea%
-, Kolling%
-\BCBL{}\ \BBA{} Rushworth%
-}{%
-Mars%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-Mars:2010p7999}%
-\APACinsertmetastar{%
-Mars:2010p7999}%
-Mars, R\BPBI B.%
-, Shea, N\BPBI J.%
-, Kolling, N.%
-\BCBL{}\ \BBA{} Rushworth, M\BPBI F\BPBI S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Model-based analyses: Promises, pitfalls, and example
-  applications to the study of cognitive control}{Model-based analyses:
-  Promises, pitfalls, and example applications to the study of cognitive
-  control}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Q J Exp Psychol (Colchester)}{}{}{1--16}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Martin%
-, Griffiths%
-\BCBL{}\ \BBA{} Sanborn%
-}{%
-Martin%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2012}}%
-}]{%
-Martin:2012p9185}%
-\APACinsertmetastar{%
-Martin:2012p9185}%
-Martin, J\BPBI B.%
-, Griffiths, T\BPBI L.%
-\BCBL{}\ \BBA{} Sanborn, A\BPBI N.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2012}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Testing the efficiency of Markov chain Monte Carlo with
-  People using facial affect categories}{Testing the efficiency of markov chain
-  monte carlo with people using facial affect categories}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cogn Sci}{36}{1}{150--62}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Matsumoto%
-\ \BBA{} Hikosaka%
-}{%
-Matsumoto%
-\ \BBA{} Hikosaka%
-}{%
-{\protect\APACyear{2009}}%
-}]{%
-Matsumoto:2009p7219}%
-\APACinsertmetastar{%
-Matsumoto:2009p7219}%
-Matsumoto, M.%
-\BCBT{}\ \BBA{} Hikosaka, O.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Two types of dopamine neuron distinctly convey positive
-  and negative motivational signals}{Two types of dopamine neuron distinctly
-  convey positive and negative motivational signals}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nature}{459}{7248}{837--841}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-McClure%
-, Berns%
-\BCBL{}\ \BBA{} Montague%
-}{%
-McClure%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2003}}%
-}]{%
-McClure:2003p3346}%
-\APACinsertmetastar{%
-McClure:2003p3346}%
-McClure, S\BPBI M.%
-, Berns, G\BPBI S.%
-\BCBL{}\ \BBA{} Montague, P\BPBI R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Temporal prediction errors in a passive learning task
-  activate human striatum}{Temporal prediction errors in a passive learning
-  task activate human striatum}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{38}{2}{339--46}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-McKinley%
-\ \BBA{} Nosofsky%
-}{%
-McKinley%
-\ \BBA{} Nosofsky%
-}{%
-{\protect\APACyear{1996}}%
-}]{%
-McKinley:1996p9532}%
-\APACinsertmetastar{%
-McKinley:1996p9532}%
-McKinley, S\BPBI C.%
-\BCBT{}\ \BBA{} Nosofsky, R\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1996}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Selective attention and the formation of linear decision
-  boundaries}{Selective attention and the formation of linear decision
-  boundaries}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Exp Psychol Hum Percept Perform}{22}{2}{294--317}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Medin%
-\ \BBA{} Schaffer%
-}{%
-Medin%
-\ \BBA{} Schaffer%
-}{%
-{\protect\APACyear{1978}}%
-}]{%
-Medin:1978p9358}%
-\APACinsertmetastar{%
-Medin:1978p9358}%
-Medin, D.%
-\BCBT{}\ \BBA{} Schaffer, M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1978}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Context theory of classification learning.}{Context
-  theory of classification learning.}\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychological Review}{85}{3}{207}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Miezin%
-, Maccotta%
-, Ollinger%
-, Petersen%
-\BCBL{}\ \BBA{} Buckner%
-}{%
-Miezin%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2000}}%
-}]{%
-Miezin:2000p7924}%
-\APACinsertmetastar{%
-Miezin:2000p7924}%
-Miezin, F\BPBI M.%
-, Maccotta, L.%
-, Ollinger, J\BPBI M.%
-, Petersen, S\BPBI E.%
-\BCBL{}\ \BBA{} Buckner, R\BPBI L.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2000}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Characterizing the hemodynamic response: effects of
-  presentation rate, sampling procedure, and the possibility of ordering brain
-  activity based on relative timing}{Characterizing the hemodynamic response:
-  effects of presentation rate, sampling procedure, and the possibility of
-  ordering brain activity based on relative timing}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{11}{6 Pt 1}{735--59}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Mirenowicz%
-\ \BBA{} Schultz%
-}{%
-Mirenowicz%
-\ \BBA{} Schultz%
-}{%
-{\protect\APACyear{1994}}%
-}]{%
-Mirenowicz:1994p7185}%
-\APACinsertmetastar{%
-Mirenowicz:1994p7185}%
-Mirenowicz, J.%
-\BCBT{}\ \BBA{} Schultz, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1994}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Importance of unpredictability for reward responses in
-  primate dopamine neurons}{Importance of unpredictability for reward responses
-  in primate dopamine neurons}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Physiol.}{72}{2}{1024}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Mishra%
-\ \protect\BOthers{.}}{%
-Mishra%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2011}}%
-}]{%
-Mishra:2011p9095}%
-\APACinsertmetastar{%
-Mishra:2011p9095}%
-Mishra, A\BPBI M.%
-, Ellens, D\BPBI J.%
-, Schridde, U.%
-, Motelow, J\BPBI E.%
-, Purcaro, M\BPBI J.%
-, DeSalvo, M\BPBI N.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{Oct}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Where fMRI and electrophysiology agree to disagree:
-  corticothalamic and striatal activity patterns in the WAG/Rij rat}{Where fmri
-  and electrophysiology agree to disagree: corticothalamic and striatal
-  activity patterns in the wag/rij rat}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{31}{42}{15053--64}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Montague%
-, King-Casas%
-\BCBL{}\ \BBA{} Cohen%
-}{%
-Montague%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2006}}%
-}]{%
-Montague:2006mz}%
-\APACinsertmetastar{%
-Montague:2006mz}%
-Montague, P.%
-, King-Casas, B.%
-\BCBL{}\ \BBA{} Cohen, J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Imaging valuation models in human choice}{Imaging
-  valuation models in human choice}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Annu Rev Neurosci}{29}{}{417--448}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Nakamura%
-, Ito%
-, Croft%
-\BCBL{}\ \BBA{} Westbrook%
-}{%
-Nakamura%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2006}}%
-}]{%
-Nakamura:2006p9093}%
-\APACinsertmetastar{%
-Nakamura:2006p9093}%
-Nakamura, T.%
-, Ito, M.%
-, Croft, D\BPBI B.%
-\BCBL{}\ \BBA{} Westbrook, R\BPBI F.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Domestic pigeons (Columba livia) discriminate between
-  photographs of male and female pigeons}{Domestic pigeons (columba livia)
-  discriminate between photographs of male and female pigeons}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Learning {\&} Behavior}{34}{4}{327--339}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-R.~Nosofsky%
-}{%
-R.~Nosofsky%
-}{%
-{\protect\APACyear{1985}}%
-}]{%
-Nosofsky:1985p9356}%
-\APACinsertmetastar{%
-Nosofsky:1985p9356}%
-Nosofsky, R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1985}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Overall similarity and the identification of
-  separable-dimension stimuli: a choice model analysis}{Overall similarity and
-  the identification of separable-dimension stimuli: a choice model
-  analysis}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Percept Psychophys}{38}{5}{415--32}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-R.~Nosofsky%
-}{%
-R.~Nosofsky%
-}{%
-{\protect\APACyear{1988}}%
-}]{%
-Nosofsky:1988p9098}%
-\APACinsertmetastar{%
-Nosofsky:1988p9098}%
-Nosofsky, R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1988}{Oct}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Exemplar-based accounts of relations between
-  classification, recognition, and typicality}{Exemplar-based accounts of
-  relations between classification, recognition, and typicality}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Experimental Psychology: Learning, Memory,
-  and Cognition}{14}{4}{700--708}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-R\BPBI M.~Nosofsky%
-}{%
-R\BPBI M.~Nosofsky%
-}{%
-{\protect\APACyear{1988}}%
-}]{%
-Nosofsky:1988p9104}%
-\APACinsertmetastar{%
-Nosofsky:1988p9104}%
-Nosofsky, R\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1988}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Similarity, frequency, and category
-  representations}{Similarity, frequency, and category representations}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Experimental Psychology: Learning, Memory,
-  and Cognition}{}{}{54---65}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-O'Doherty%
-}{%
-O'Doherty%
-}{%
-{\protect\APACyear{2003}}%
-}]{%
-ODoherty:2003p2616}%
-\APACinsertmetastar{%
-ODoherty:2003p2616}%
-O'Doherty, J\BPBI P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Can't learn without you: predictive value coding in
-  orbitofrontal cortex requires the basolateral amygdala}{Can't learn without
-  you: predictive value coding in orbitofrontal cortex requires the basolateral
-  amygdala}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{39}{5}{731--3}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-O'Doherty%
-, Buchanan%
-, Seymour%
-\BCBL{}\ \BBA{} Dolan%
-}{%
-O'Doherty%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2006}}%
-}]{%
-ODoherty:2006p2875}%
-\APACinsertmetastar{%
-ODoherty:2006p2875}%
-O'Doherty, J\BPBI P.%
-, Buchanan, T\BPBI W.%
-, Seymour, B.%
-\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Predictive neural coding of reward preference involves
-  dissociable responses in human ventral midbrain and ventral
-  striatum}{Predictive neural coding of reward preference involves dissociable
-  responses in human ventral midbrain and ventral striatum}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{49}{1}{157--66}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-O'Doherty%
-, Dayan%
-, Friston%
-, Critchley%
-\BCBL{}\ \BBA{} Dolan%
-}{%
-O'Doherty%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2003}}%
-}]{%
-ODoherty:2003p6329}%
-\APACinsertmetastar{%
-ODoherty:2003p6329}%
-O'Doherty, J\BPBI P.%
-, Dayan, P.%
-, Friston, K.%
-, Critchley, H.%
-\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Temporal difference models and reward-related learning in
-  the human brain}{Temporal difference models and reward-related learning in
-  the human brain}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{38}{2}{329--37}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-O'Doherty%
-\ \protect\BOthers{.}}{%
-O'Doherty%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-ODoherty:2004p1269}%
-\APACinsertmetastar{%
-ODoherty:2004p1269}%
-O'Doherty, J\BPBI P.%
-, Dayan, P.%
-, Schultz, J.%
-, Deichmann, R.%
-, Friston, K.%
-\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dissociable roles of ventral and dorsal striatum in
-  instrumental conditioning}{Dissociable roles of ventral and dorsal striatum
-  in instrumental conditioning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{304}{5669}{452--4}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-O'Doherty%
-, Kringelbach%
-, Rolls%
-, Hornak%
-\BCBL{}\ \BBA{} Andrews%
-}{%
-O'Doherty%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2001}}%
-}]{%
-ODoherty:2001p2423}%
-\APACinsertmetastar{%
-ODoherty:2001p2423}%
-O'Doherty, J\BPBI P.%
-, Kringelbach, M\BPBI L.%
-, Rolls, E\BPBI T.%
-, Hornak, J.%
-\BCBL{}\ \BBA{} Andrews, C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Abstract reward and punishment representations in the
-  human orbitofrontal cortex}{Abstract reward and punishment representations in
-  the human orbitofrontal cortex}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nat Neurosci}{4}{1}{95--102}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-O'Reilly%
-, Frank%
-, Hazy%
-\BCBL{}\ \BBA{} Watz%
-}{%
-O'Reilly%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-OReilly:2007p827}%
-\APACinsertmetastar{%
-OReilly:2007p827}%
-O'Reilly, R.%
-, Frank, M\BPBI J.%
-, Hazy, T.%
-\BCBL{}\ \BBA{} Watz, B.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{PVLV: the primary value and learned value Pavlovian
-  learning algorithm}{Pvlv: the primary value and learned value pavlovian
-  learning algorithm}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Behav. Neurosci}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Ouden%
-, Daunizeau%
-, Roiser%
-, Friston%
-\BCBL{}\ \BBA{} Stephan%
-}{%
-Ouden%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-denOuden:2010p7203}%
-\APACinsertmetastar{%
-denOuden:2010p7203}%
-Ouden, H. den%
-, Daunizeau, J.%
-, Roiser, J.%
-, Friston, K.%
-\BCBL{}\ \BBA{} Stephan, K.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Striatal Prediction Error Modulates Cortical
-  Coupling}{Striatal prediction error modulates cortical coupling}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Neuroscience}{30}{9}{3210}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Packard%
-\ \BBA{} Knowlton%
-}{%
-Packard%
-\ \BBA{} Knowlton%
-}{%
-{\protect\APACyear{2002}}%
-}]{%
-Packard:2002p5074}%
-\APACinsertmetastar{%
-Packard:2002p5074}%
-Packard, M\BPBI G.%
-\BCBT{}\ \BBA{} Knowlton, B\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2002}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Learning and memory functions of the Basal
-  Ganglia}{Learning and memory functions of the basal ganglia}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Annu Rev Neurosci}{25}{}{563--93}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Pearl%
-}{%
-Pearl%
-}{%
-{\protect\APACyear{2010}}%
-}]{%
-Pearl:2010p9726}%
-\APACinsertmetastar{%
-Pearl:2010p9726}%
-Pearl, J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{An introduction to causal inference}{An introduction to
-  causal inference}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Int J Biostat}{6}{2}{Article 7}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Phillips%
-\ \protect\BOthers{.}}{%
-Phillips%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1998}}%
-}]{%
-Phillips:1998p9834}%
-\APACinsertmetastar{%
-Phillips:1998p9834}%
-Phillips, M\BPBI L.%
-, Young, A\BPBI W.%
-, Scott, S\BPBI K.%
-, Calder, A\BPBI J.%
-, Andrew, C.%
-, Giampietro, V.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1998}{Oct}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Neural responses to facial and vocal expressions of fear
-  and disgust}{Neural responses to facial and vocal expressions of fear and
-  disgust}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Proc Biol Sci}{265}{1408}{1809--17}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Pizzagalli%
-\ \protect\BOthers{.}}{%
-Pizzagalli%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Pizzagalli:2008p6521}%
-\APACinsertmetastar{%
-Pizzagalli:2008p6521}%
-Pizzagalli, D\BPBI A.%
-, Evins, A\BPBI E.%
-, Schetter, E\BPBI C.%
-, Frank, M\BPBI J.%
-, Pajtas, P\BPBI E.%
-, Santesso, D\BPBI L.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Single dose of a dopamine agonist impairs reinforcement
-  learning in humans: Behavioral evidence from a laboratory-based measure of
-  reward responsiveness}{Single dose of a dopamine agonist impairs
-  reinforcement learning in humans: Behavioral evidence from a laboratory-based
-  measure of reward responsiveness}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychopharmacology (Berl)}{196}{2}{221--232}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Poldrack%
-}{%
-Poldrack%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-Poldrack:2006p9841}%
-\APACinsertmetastar{%
-Poldrack:2006p9841}%
-Poldrack, R\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Region of interest analysis for fMRI}{Region of interest
-  analysis for fmri}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Social Cognitive and Affective
-  Neuroscience}{2}{1}{67--70}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Poldrack%
-}{%
-Poldrack%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-Poldrack:2007p8572}%
-\APACinsertmetastar{%
-Poldrack:2007p8572}%
-Poldrack, R\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Region of interest analysis for fMRI}{Region of interest
-  analysis for fmri}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Social Cognitive and Affective
-  Neuroscience}{2}{1}{67--70}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Poldrack%
-\ \protect\BOthers{.}}{%
-Poldrack%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Poldrack:2008p6570}%
-\APACinsertmetastar{%
-Poldrack:2008p6570}%
-Poldrack, R\BPBI A.%
-, Fletcher, P\BPBI C.%
-, Henson, R\BPBI N.%
-, Worsley, K\BPBI J.%
-, Brett, M.%
-\BCBL{}\ \BBA{} Nichols, T\BPBI E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Guidelines for reporting an fMRI study}{Guidelines for
-  reporting an fmri study}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{40}{2}{409--14}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Poldrack%
-\ \BBA{} Foerde%
-}{%
-Poldrack%
-\ \BBA{} Foerde%
-}{%
-{\protect\APACyear{2008}}%
-}]{%
-Poldrack:2008p6839}%
-\APACinsertmetastar{%
-Poldrack:2008p6839}%
-Poldrack, R\BPBI A.%
-\BCBT{}\ \BBA{} Foerde, K.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Category learning and the memory systems debate}{Category
-  learning and the memory systems debate}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroscience and Biobehavioral
-  Reviews}{32}{2}{197--205}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Quilodran%
-, Roth{\'e}%
-\BCBL{}\ \BBA{} Procyk%
-}{%
-Quilodran%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Quilodran:2008p2645}%
-\APACinsertmetastar{%
-Quilodran:2008p2645}%
-Quilodran, R.%
-, Roth{\'e}, M.%
-\BCBL{}\ \BBA{} Procyk, E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Behavioral shifts and action valuation in the anterior
-  cingulate cortex}{Behavioral shifts and action valuation in the anterior
-  cingulate cortex}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{57}{2}{314--25}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Ramnani%
-, Elliott%
-, Athwal%
-\BCBL{}\ \BBA{} Passingham%
-}{%
-Ramnani%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-Ramnani:2004p5390}%
-\APACinsertmetastar{%
-Ramnani:2004p5390}%
-Ramnani, N.%
-, Elliott, R.%
-, Athwal, B\BPBI S.%
-\BCBL{}\ \BBA{} Passingham, R\BPBI E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Prediction error for free monetary reward in the human
-  prefrontal cortex}{Prediction error for free monetary reward in the human
-  prefrontal cortex}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{23}{3}{777--86}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Ramnani%
-, Toni%
-, Josephs%
-, Ashburner%
-\BCBL{}\ \BBA{} Passingham%
-}{%
-Ramnani%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2000}}%
-}]{%
-Ramnani:2000p6515}%
-\APACinsertmetastar{%
-Ramnani:2000p6515}%
-Ramnani, N.%
-, Toni, I.%
-, Josephs, O.%
-, Ashburner, J.%
-\BCBL{}\ \BBA{} Passingham, R\BPBI E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2000}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Learning- and expectation-related changes in the human
-  brain during motor learning}{Learning- and expectation-related changes in the
-  human brain during motor learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Physiol.}{84}{6}{3026--35}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Rao%
-, Wu%
-, Konishi%
-\BCBL{}\ \BBA{} Mukerjee%
-}{%
-Rao%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2001}}%
-}]{%
-Rao:2001p9457}%
-\APACinsertmetastar{%
-Rao:2001p9457}%
-Rao, C\BPBI R.%
-, Wu, Y.%
-, Konishi, S.%
-\BCBL{}\ \BBA{} Mukerjee, R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{On model selection}{On model selection}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Lecture Notes-Monograph Series, Model
-  Selection}{38}{}{1--64}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Redish%
-}{%
-Redish%
-}{%
-{\protect\APACyear{2004}}%
-}]{%
-Redish:2004p2531}%
-\APACinsertmetastar{%
-Redish:2004p2531}%
-Redish, A\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Addiction as a computational process gone awry}{Addiction
-  as a computational process gone awry}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{306}{5703}{1944--7}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Reed%
-}{%
-Reed%
-}{%
-{\protect\APACyear{1992}}%
-}]{%
-Reed:1992p9094}%
-\APACinsertmetastar{%
-Reed:1992p9094}%
-Reed, P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1992}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Signalled delay of reward: Overshadowing versus sign-
-  tracking explanations}{Signalled delay of reward: Overshadowing versus sign-
-  tracking explanations}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Learning and Motivation}{23}{1}{27--42}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Rescorla%
-}{%
-Rescorla%
-}{%
-{\protect\APACyear{1988}}%
-}]{%
-Rescorla:1988p8743}%
-\APACinsertmetastar{%
-Rescorla:1988p8743}%
-Rescorla, R\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1988}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Pavlovian conditioning. It's not what you think it
-  is}{Pavlovian conditioning. it's not what you think it is}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Am Psychol}{43}{3}{151--60}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Rizley%
-\ \BBA{} Rescorla%
-}{%
-Rizley%
-\ \BBA{} Rescorla%
-}{%
-{\protect\APACyear{1972}}%
-}]{%
-Rizley:1972p9858}%
-\APACinsertmetastar{%
-Rizley:1972p9858}%
-Rizley, R\BPBI C.%
-\BCBT{}\ \BBA{} Rescorla, R\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1972}{Oct}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Associations in second-order conditioning and sensory
-  preconditioning}{Associations in second-order conditioning and sensory
-  preconditioning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Comp Physiol Psychol}{81}{1}{1--11}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Robinson%
-\ \BBA{} Berridge%
-}{%
-Robinson%
-\ \BBA{} Berridge%
-}{%
-{\protect\APACyear{1993}}%
-}]{%
-Robinson:1993p8987}%
-\APACinsertmetastar{%
-Robinson:1993p8987}%
-Robinson, T\BPBI E.%
-\BCBT{}\ \BBA{} Berridge, K\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1993}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The neural basis of drug craving: an
-  incentive-sensitization theory of addiction}{The neural basis of drug
-  craving: an incentive-sensitization theory of addiction}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Brain Res Brain Res Rev}{18}{3}{247--91}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Roesch%
-, Calu%
-\BCBL{}\ \BBA{} Schoenbaum%
-}{%
-Roesch%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Roesch:2007p2519}%
-\APACinsertmetastar{%
-Roesch:2007p2519}%
-Roesch, M\BPBI R.%
-, Calu, D\BPBI J.%
-\BCBL{}\ \BBA{} Schoenbaum, G.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine neurons encode the better option in rats
-  deciding between differently delayed or sized rewards}{Dopamine neurons
-  encode the better option in rats deciding between differently delayed or
-  sized rewards}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nat Neurosci}{10}{12}{1615--24}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Roesch%
-\ \BBA{} Olson%
-}{%
-Roesch%
-\ \BBA{} Olson%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-Roesch:2007p7182}%
-\APACinsertmetastar{%
-Roesch:2007p7182}%
-Roesch, M\BPBI R.%
-\BCBT{}\ \BBA{} Olson, C\BPBI R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Neuronal activity related to anticipated reward in
-  frontal cortex: does it represent value or reflect motivation?}{Neuronal
-  activity related to anticipated reward in frontal cortex: does it represent
-  value or reflect motivation?}\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Annals of the New York Academy of
-  Sciences}{1121}{}{431--46}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Rolls%
-, McCabe%
-\BCBL{}\ \BBA{} Redoute%
-}{%
-Rolls%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Rolls:2008p7577}%
-\APACinsertmetastar{%
-Rolls:2008p7577}%
-Rolls, E\BPBI T.%
-, McCabe, C.%
-\BCBL{}\ \BBA{} Redoute, J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Expected value, reward outcome, and temporal difference
-  error representations in a probabilistic decision task}{Expected value,
-  reward outcome, and temporal difference error representations in a
-  probabilistic decision task}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cereb Cortex}{18}{3}{652--63}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Rosch%
-}{%
-Rosch%
-}{%
-{\protect\APACyear{1973}}%
-}]{%
-Rosch:1973p9108}%
-\APACinsertmetastar{%
-Rosch:1973p9108}%
-Rosch, E\BPBI H.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1973}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Natural Categories}{Natural categories}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cognitive Psychology}{4}{3}{328--350}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Rossee%
-}{%
-Rossee%
-}{%
-{\protect\APACyear{2002}}%
-}]{%
-Rossee:2002p9112}%
-\APACinsertmetastar{%
-Rossee:2002p9112}%
-Rossee, Y.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2002}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Mixture Models of Categorization}{Mixture models of
-  categorization}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Mathematical Psychology}{46}{2}{178--210}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Rossi%
-\ \protect\BOthers{.}}{%
-Rossi%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-Rossi:2010p7252}%
-\APACinsertmetastar{%
-Rossi:2010p7252}%
-Rossi, S.%
-, Chiara, V\BPBI D.%
-, Musella, A.%
-, Mataluni, G.%
-, Sacchetti, L.%
-, Siracusano, A.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Effects of caffeine on striatal neurotransmission: Focus
-  on cannabinoid CB1 receptors}{Effects of caffeine on striatal
-  neurotransmission: Focus on cannabinoid cb1 receptors}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Molecular Nutrition {\&} Food
-  Research}{54}{4}{525--531}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Rudebeck%
-\ \protect\BOthers{.}}{%
-Rudebeck%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Rudebeck:2008p4712}%
-\APACinsertmetastar{%
-Rudebeck:2008p4712}%
-Rudebeck, P\BPBI H.%
-, Behrens, T\BPBI E.%
-, Kennerley, S\BPBI W.%
-, Baxter, M\BPBI G.%
-, Buckley, M\BPBI J.%
-, Walton, M\BPBI E.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Dec}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Frontal cortex subregions play distinct roles in choices
-  between actions and stimuli}{Frontal cortex subregions play distinct roles in
-  choices between actions and stimuli}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{28}{51}{13775--85}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Salamone%
-, Correa%
-, Mingote%
-\BCBL{}\ \BBA{} Weber%
-}{%
-Salamone%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2005}}%
-}]{%
-Salamone:2005p8774}%
-\APACinsertmetastar{%
-Salamone:2005p8774}%
-Salamone, J\BPBI D.%
-, Correa, M.%
-, Mingote, S\BPBI M.%
-\BCBL{}\ \BBA{} Weber, S\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Beyond the reward hypothesis: alternative functions of
-  nucleus accumbens dopamine}{Beyond the reward hypothesis: alternative
-  functions of nucleus accumbens dopamine}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Curr Opin Pharmacol}{5}{1}{34--41}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Schmitzer-Torbert%
-\ \BBA{} Redish%
-}{%
-Schmitzer-Torbert%
-\ \BBA{} Redish%
-}{%
-{\protect\APACyear{2004}}%
-}]{%
-SchmitzerTorbert:2004p5410}%
-\APACinsertmetastar{%
-SchmitzerTorbert:2004p5410}%
-Schmitzer-Torbert, N.%
-\BCBT{}\ \BBA{} Redish, A\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Neuronal activity in the rodent dorsal striatum in
-  sequential navigation: separation of spatial and reward responses on the
-  multiple T task}{Neuronal activity in the rodent dorsal striatum in
-  sequential navigation: separation of spatial and reward responses on the
-  multiple t task}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Physiol.}{91}{5}{2259--72}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Sch{\"o}nberg%
-, Daw%
-, Joel%
-\BCBL{}\ \BBA{} O'Doherty%
-}{%
-Sch{\"o}nberg%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Schonberg:2007p518}%
-\APACinsertmetastar{%
-Schonberg:2007p518}%
-Sch{\"o}nberg, T.%
-, Daw, N\BPBI D.%
-, Joel, D.%
-\BCBL{}\ \BBA{} O'Doherty, J\BPBI P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Reinforcement learning signals in the human striatum
-  distinguish learners from nonlearners during reward-based decision
-  making}{Reinforcement learning signals in the human striatum distinguish
-  learners from nonlearners during reward-based decision making}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{27}{47}{12860--7}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Schonberg%
-\ \protect\BOthers{.}}{%
-Schonberg%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2009}}%
-}]{%
-Schonberg:2009p6669}%
-\APACinsertmetastar{%
-Schonberg:2009p6669}%
-Schonberg, T.%
-, O'Doherty, J\BPBI P.%
-, Joel, D.%
-, Inzelberg, R.%
-, Segev, Y.%
-\BCBL{}\ \BBA{} Daw, N\BPBI D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Selective impairment of prediction error signaling in
-  human dorsolateral but not ventral striatum in Parkinson's disease patients:
-  evidence from a model-based fMRI study}{Selective impairment of prediction
-  error signaling in human dorsolateral but not ventral striatum in parkinson's
-  disease patients: evidence from a model-based fmri study}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Schultz%
-}{%
-Schultz%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-schultz:2007aa}%
-\APACinsertmetastar{%
-schultz:2007aa}%
-Schultz, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Behavioral dopamine signals}{Behavioral dopamine
-  signals}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Trends Neurosci.}{30}{5}{203--210}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Schweimer%
-\ \BBA{} Hauber%
-}{%
-Schweimer%
-\ \BBA{} Hauber%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-Schweimer:2006p9780}%
-\APACinsertmetastar{%
-Schweimer:2006p9780}%
-Schweimer, J.%
-\BCBT{}\ \BBA{} Hauber, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine D1 receptors in the anterior cingulate cortex
-  regulate effort-based decision making}{Dopamine d1 receptors in the anterior
-  cingulate cortex regulate effort-based decision making}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Learn Mem}{13}{6}{777--82}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Seger%
-}{%
-Seger%
-}{%
-{\protect\APACyear{2008}}%
-}]{%
-Seger:2008p6401}%
-\APACinsertmetastar{%
-Seger:2008p6401}%
-Seger, C\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{How do the basal ganglia contribute to categorization?
-  Their roles in generalization, response selection, and learning via
-  feedback}{How do the basal ganglia contribute to categorization? their roles
-  in generalization, response selection, and learning via feedback}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroscience and Biobehavioral
-  Reviews}{32}{2}{265--78}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Seger%
-\ \BBA{} Cincotta%
-}{%
-Seger%
-\ \BBA{} Cincotta%
-}{%
-{\protect\APACyear{2005}}%
-}]{%
-Seger:2005pd}%
-\APACinsertmetastar{%
-Seger:2005pd}%
-Seger, C\BPBI A.%
-\BCBT{}\ \BBA{} Cincotta, C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The Roles of the Caudate Nucleus in Human Classification
-  Learning}{The roles of the caudate nucleus in human classification
-  learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{25}{11}{2941--2951}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Seger%
-\ \BBA{} Cincotta%
-}{%
-Seger%
-\ \BBA{} Cincotta%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-Seger:2006p5447}%
-\APACinsertmetastar{%
-Seger:2006p5447}%
-Seger, C\BPBI A.%
-\BCBT{}\ \BBA{} Cincotta, C\BPBI M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dynamics of frontal, striatal, and hippocampal systems
-  during rule learning}{Dynamics of frontal, striatal, and hippocampal systems
-  during rule learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cereb Cortex}{16}{11}{1546--55}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Seger%
-\ \BBA{} Miller%
-}{%
-Seger%
-\ \BBA{} Miller%
-}{%
-{\protect\APACyear{2010}}%
-}]{%
-Seger:2010p7189}%
-\APACinsertmetastar{%
-Seger:2010p7189}%
-Seger, C\BPBI A.%
-\BCBT{}\ \BBA{} Miller, E\BPBI K.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Category learning in the brain}{Category learning in the
-  brain}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Annu Rev Neurosci}{33}{}{203--19}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Seger%
-, Peterson%
-, Cincotta%
-, Lopez-Paniagua%
-\BCBL{}\ \BBA{} Anderson%
-}{%
-Seger%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-Seger:2010p7188}%
-\APACinsertmetastar{%
-Seger:2010p7188}%
-Seger, C\BPBI A.%
-, Peterson, E\BPBI J.%
-, Cincotta, C\BPBI M.%
-, Lopez-Paniagua, D.%
-\BCBL{}\ \BBA{} Anderson, C\BPBI W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dissociating the contributions of independent
-  corticostriatal systems to visual categorization learning through the use of
-  reinforcement learning modeling and Granger causality modeling}{Dissociating
-  the contributions of independent corticostriatal systems to visual
-  categorization learning through the use of reinforcement learning modeling
-  and granger causality modeling}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{50}{2}{644--56}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Seymour%
-, Daw%
-, Dayan%
-, Singer%
-\BCBL{}\ \BBA{} Dolan%
-}{%
-Seymour%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Seymour:2007p7585}%
-\APACinsertmetastar{%
-Seymour:2007p7585}%
-Seymour, B.%
-, Daw, N\BPBI D.%
-, Dayan, P.%
-, Singer, T.%
-\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Differential Encoding of Losses and Gains in the Human
-  Striatum}{Differential encoding of losses and gains in the human
-  striatum}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Journal of Neuroscience}{27}{18}{4826}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Seymour%
-\ \protect\BOthers{.}}{%
-Seymour%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-seymour:2004aa}%
-\APACinsertmetastar{%
-seymour:2004aa}%
-Seymour, B.%
-, O'Doherty, J\BPBI P.%
-, Dyan, P.%
-, Koltzenburg, M.%
-, Jones, J\BPBI K.%
-, Dolan, R\BPBI J.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Temporal difference models describe higher-order learning
-  in humans}{Temporal difference models describe higher-order learning in
-  humans}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nature}{429}{}{664 -- 667}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Shepard%
-}{%
-Shepard%
-}{%
-{\protect\APACyear{1987}}%
-}]{%
-Shepard:1987p9102}%
-\APACinsertmetastar{%
-Shepard:1987p9102}%
-Shepard, R.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1987}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Toward a universal law of generalization for
-  psychological science}{Toward a universal law of generalization for
-  psychological science}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{237}{4820}{1317--1323}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Simmons%
-}{%
-Simmons%
-}{%
-{\protect\APACyear{2008}}%
-}]{%
-Simmons:2008p8405}%
-\APACinsertmetastar{%
-Simmons:2008p8405}%
-Simmons, S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Individual differences in the perception of similarity
-  and difference}{Individual differences in the perception of similarity and
-  difference}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Cognition}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-A.~Smith%
-, Li%
-, Becker%
-\BCBL{}\ \BBA{} Kapur%
-}{%
-A.~Smith%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2006}}%
-}]{%
-Smith:2006p7627}%
-\APACinsertmetastar{%
-Smith:2006p7627}%
-Smith, A.%
-, Li, M.%
-, Becker, S.%
-\BCBL{}\ \BBA{} Kapur, S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine, prediction error and associative learning: a
-  model-based account}{Dopamine, prediction error and associative learning: a
-  model-based account}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Network}{17}{1}{61--84}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-E\BPBI E.~Smith%
-\ \BBA{} Grossman%
-}{%
-E\BPBI E.~Smith%
-\ \BBA{} Grossman%
-}{%
-{\protect\APACyear{2008}}%
-}]{%
-Smith:2008p2803}%
-\APACinsertmetastar{%
-Smith:2008p2803}%
-Smith, E\BPBI E.%
-\BCBT{}\ \BBA{} Grossman, M.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Multiple systems of category learning}{Multiple systems
-  of category learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroscience and Biobehavioral
-  Reviews}{32}{2}{249--64}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-J\BPBI D.~Smith%
-\ \protect\BOthers{.}}{%
-J\BPBI D.~Smith%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2011}}%
-}]{%
-Smith:2011p9101}%
-\APACinsertmetastar{%
-Smith:2011p9101}%
-Smith, J\BPBI D.%
-, Ashby, F\BPBI G.%
-, Berg, M\BPBI E.%
-, Murphy, M\BPBI S.%
-, Spiering, B.%
-, Cook, R\BPBI G.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Pigeons' categorization may be exclusively
-  nonanalytic}{Pigeons' categorization may be exclusively nonanalytic}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychonomic Belletin {\&} Review}{18}{2}{414--421}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-J\BPBI D.~Smith%
-, Beran%
-, Crossley%
-, Boomer%
-\BCBL{}\ \BBA{} Ashby%
-}{%
-J\BPBI D.~Smith%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
-}]{%
-Smith:2010p9713}%
-\APACinsertmetastar{%
-Smith:2010p9713}%
-Smith, J\BPBI D.%
-, Beran, M\BPBI J.%
-, Crossley, M\BPBI J.%
-, Boomer, J.%
-\BCBL{}\ \BBA{} Ashby, F\BPBI G.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Implicit and explicit category learning by macaques
-  (Macaca mulatta) and humans (Homo sapiens)}{Implicit and explicit category
-  learning by macaques (macaca mulatta) and humans (homo sapiens)}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Exp Psychol Anim Behav Process}{36}{1}{54--65}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-K\BPBI S.~Smith%
-, Berridge%
-\BCBL{}\ \BBA{} Aldridge%
-}{%
-K\BPBI S.~Smith%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2011}}%
-}]{%
-Smith:2011p8133}%
-\APACinsertmetastar{%
-Smith:2011p8133}%
-Smith, K\BPBI S.%
-, Berridge, K\BPBI C.%
-\BCBL{}\ \BBA{} Aldridge, J\BPBI W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Disentangling pleasure from incentive salience and
-  learning signals in brain reward circuitry}{Disentangling pleasure from
-  incentive salience and learning signals in brain reward circuitry}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Proc Natl Acad Sci USA}{108}{27}{E255--64}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Spanagel%
-\ \BBA{} Weiss%
-}{%
-Spanagel%
-\ \BBA{} Weiss%
-}{%
-{\protect\APACyear{1999}}%
-}]{%
-Spanagel:1999p8515}%
-\APACinsertmetastar{%
-Spanagel:1999p8515}%
-Spanagel, R.%
-\BCBT{}\ \BBA{} Weiss, F.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1999}{Nov}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The dopamine hypothesis of reward: past and current
-  status}{The dopamine hypothesis of reward: past and current status}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Trends Neurosci.}{22}{11}{521--7}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Spiering%
-\ \BBA{} Ashby%
-}{%
-Spiering%
-\ \BBA{} Ashby%
-}{%
-{\protect\APACyear{2008}}%
-}]{%
-Spiering:2008p5008}%
-\APACinsertmetastar{%
-Spiering:2008p5008}%
-Spiering, B\BPBI J.%
-\BCBT{}\ \BBA{} Ashby, F\BPBI G.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Response processes in information-integration category
-  learning}{Response processes in information-integration category
-  learning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neurobiol Learn Mem}{90}{2}{330--8}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Surmeier%
-, Ding%
-, Day%
-, Wang%
-\BCBL{}\ \BBA{} Shen%
-}{%
-Surmeier%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Surmeier:2007p4435}%
-\APACinsertmetastar{%
-Surmeier:2007p4435}%
-Surmeier, D\BPBI J.%
-, Ding, J.%
-, Day, M.%
-, Wang, Z.%
-\BCBL{}\ \BBA{} Shen, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{D1 and D2 dopamine-receptor modulation of striatal
-  glutamatergic signaling in striatal medium spiny neurons}{D1 and d2
+  circumvented. \textit{Science}, \textbf{148~(3671)}, 754--9.
+
+\bibitem[{Chatera and Vit{\'a}nyib(2003)}]{Chatera:2003p9103}
+Chatera, N. and P.~M. Vit{\'a}nyib, 2003: The generalized universal law of
+  generalization. \textit{Journal of Mathematical Psychology}, \textbf{47~(3)},
+  346--369.
+
+\bibitem[{Chua et~al.(1999)Chua, Krams, Toni, Passingham, and
+  Dolan}]{Chua:1999p9833}
+Chua, P., M.~Krams, I.~Toni, R.~Passingham, and R.~Dolan, 1999: A functional
+  anatomy of anticipatory anxiety. \textit{Neuroimage}, \textbf{9~(6 Pt 1)},
+  563--71.
+
+\bibitem[{Cincotta and Seger(2007)}]{Cincotta:2007p6672}
+Cincotta, C.~M. and C.~A. Seger, 2007: Dissociation between striatal regions
+  while learning to categorize via feedback and via observation.
+  \textit{Journal of cognitive neuroscience}, \textbf{19~(2)}, 249--65.
+
+\bibitem[{Collignon et~al.(1995)Collignon, Maes, Delaere, Vandermeulen,
+  Suetens, and Marchal}]{Collignon:1995p9347}
+Collignon, A., F.~Maes, D.~Delaere, D.~Vandermeulen, P.~Suetens, and
+  G.~Marchal, 1995: Automated multi-modality image registration based on
+  information theory. \textit{Information Processing in Medical Imaging},
+  263--274.
+
+\bibitem[{Collins and Frank(2012)}]{Collins:2012p9779}
+Collins, A. G.~E. and M.~J. Frank, 2012: How much of reinforcement learning is
+  working memory, not reinforcement learning? a behavioral, computational, and
+  neurogenetic analysis. \textit{Eur J Neurosci}, \textbf{35~(7)}, 1024--35.
+
+\bibitem[{Crow(1972)}]{Crow:1972p8748}
+Crow, T.~J., 1972: Catecholamine-containing neurones and electrical
+  self-stimulation. 1. a review of some data. \textit{Psychol Med},
+  \textbf{2~(4)}, 414--21.
+
+\bibitem[{Dale(1999)}]{Dale:1999p7901}
+Dale, A.~M., 1999: Optimal experimental design for event-related fmri.
+  \textit{Hum Brain Mapp}, \textbf{8~(2-3)}, 109--14.
+
+\bibitem[{Daw and Courville(2007)}]{Daw:2007p9346}
+Daw, N.~D. and A.~Courville, 2007: The pigeon as particle filter.
+  \textit{NIPS}, \textbf{20}.
+
+\bibitem[{Daw et~al.(2011)Daw, Gershman, Seymour, Dayan, and
+  Dolan}]{Daw:2011p7995}
+Daw, N.~D., S.~J. Gershman, B.~Seymour, P.~Dayan, and R.~J. Dolan, 2011:
+  Model-based influences on humans' choices and striatal prediction errors.
+  \textit{Neuron}, \textbf{69~(6)}, 1204--15.
+
+\bibitem[{Dayan and Daw(2008)}]{Dayan:2008p6342}
+Dayan, P. and N.~D. Daw, 2008: Decision theory, reinforcement learning, and the
+  brain. \textit{Cognitive, affective {\&} behavioral neuroscience},
+  \textbf{8~(4)}, 429--53.
+
+\bibitem[{Dayan and Niv(2008)}]{Dayan:2008p6479}
+Dayan, P. and Y.~Niv, 2008: Reinforcement learning: the good, the bad and the
+  ugly. \textit{Current Opinion in Neurobiology}, \textbf{18~(2)}, 185--96.
+
+\bibitem[{Delgado et~al.(2004)Delgado, Stenger, and Fiez}]{Delgado:2004p6665}
+Delgado, M.~R., V.~A. Stenger, and J.~A. Fiez, 2004: Motivation-dependent
+  responses in the human caudate nucleus. \textit{Cereb Cortex},
+  \textbf{14~(9)}, 1022--30.
+
+\bibitem[{den Ouden et~al.(2010)den Ouden, Daunizeau, Roiser, Friston, and
+  Stephan}]{denOuden:2010p7203}
+den Ouden, H., J.~Daunizeau, J.~Roiser, K.~Friston, and K.~Stephan, 2010:
+  Striatal prediction error modulates cortical coupling. \textit{Journal of
+  Neuroscience}, \textbf{30~(9)}, 3210.
+
+\bibitem[{Desikan et~al.(2006)}]{Desikan:2006p9370}
+Desikan, R.~S., et~al., 2006: An automated labeling system for subdividing the
+  human cerebral cortex on mri scans into gyral based regions of interest.
+  \textit{Neuroimage}, \textbf{31~(3)}, 968--80.
+
+\bibitem[{Diaconescu et~al.(2010)Diaconescu, Menon, Jensen, Kapur, and
+  McIntosh}]{Diaconescu:2010p7631}
+Diaconescu, A.~O., M.~Menon, J.~Jensen, S.~Kapur, and A.~R. McIntosh, 2010:
+  Dopamine-induced changes in neural network patterns supporting aversive
+  conditioning. \textit{Brain Res}, \textbf{1313}, 143--61.
+
+\bibitem[{Dommett et~al.(2005)}]{Dommett:2005p7263}
+Dommett, E., et~al., 2005: How visual stimuli activate dopaminergic neurons at
+  short latency. \textit{Science}, \textbf{307~(5714)}, 1476.
+
+\bibitem[{Elliott et~al.(2000)Elliott, Friston, and Dolan}]{Elliott:2000p1637}
+Elliott, R., K.~J. Friston, and R.~J. Dolan, 2000: Dissociable neural responses
+  in human reward systems. \textit{J Neurosci}, \textbf{20~(16)}, 6159--65.
+
+\bibitem[{Ennis(1988)}]{Ennis:1988p9359}
+Ennis, D., 1988: Toward a universal law of generalization. \textit{Science},
+  \textbf{242~(4880)}, 944.
+
+\bibitem[{Ernst et~al.(2004)}]{Ernst:2004p3998}
+Ernst, M., et~al., 2004: Choice selection and reward anticipation: an fmri
+  study. \textit{Neuropsychologia}, \textbf{42~(12)}, 1585--97.
+
+\bibitem[{Fiore et~al.(2008)Fiore, Mannella, Mirolli, Gurney, Baldassarre, and
+  delle Ricerche}]{Fiore:2008p7249}
+Fiore, V., F.~Mannella, M.~Mirolli, K.~Gurney, G.~Baldassarre, and C.~delle
+  Ricerche, 2008: Instrumental conditioning driven by apparently neutral
+  stimuli: A model tested with a simulated robotic rat. \textit{International
+  Conference on Epigenetic Robotics: Modeling Cognitive Development in Robotic
+  Systems}, 139.
+
+\bibitem[{Fiorillo et~al.(2003)Fiorillo, Tobler, and
+  Schultz}]{Fiorillo:2003p6375}
+Fiorillo, C.~D., P.~N. Tobler, and W.~Schultz, 2003: Discrete coding of reward
+  probability and uncertainty by dopamine neurons. \textit{Science},
+  \textbf{299~(5614)}, 1898--902.
+
+\bibitem[{Forster(2000)}]{Forster:2000p9623}
+Forster, M., 2000: Key concepts in model selection: Performance and
+  generalizability. \textit{Journal of Mathematical Psychology},
+  \textbf{44~(1)}, 205--231.
+
+\bibitem[{Frank et~al.(2001)Frank, Loughry, and O'Reilly}]{Frank:2001p1996}
+Frank, M.~J., B.~Loughry, and R.~C. O'Reilly, 2001: Interactions between
+  frontal cortex and basal ganglia in working memory: a computational model.
+  \textit{Cognitive, affective {\&} behavioral neuroscience}, \textbf{1~(2)},
+  137--60.
+
+\bibitem[{Frank et~al.(2004)Frank, Seeberger, and O'Reilly}]{Frank:2004p4709}
+Frank, M.~J., L.~C. Seeberger, and R.~C. O'Reilly, 2004: By carrot or by stick:
+  cognitive reinforcement learning in parkinsonism. \textit{Science},
+  \textbf{306~(5703)}, 1940--3.
+
+\bibitem[{Friston et~al.(1998)Friston, Fletcher, Josephs, Holmes, Rugg, and
+  Turner}]{Friston:1998p2022}
+Friston, K.~J., P.~Fletcher, O.~Josephs, A.~Holmes, M.~D. Rugg, and R.~Turner,
+  1998: Event-related fmri: characterizing differential responses.
+  \textit{Neuroimage}, \textbf{7~(1)}, 30--40.
+
+\bibitem[{Furuyashiki et~al.(2008)Furuyashiki, Holland, and
+  Gallagher}]{Furuyashiki:2008p1631}
+Furuyashiki, T., P.~C. Holland, and M.~Gallagher, 2008: Rat orbitofrontal
+  cortex separately encodes response and outcome information during performance
+  of goal-directed behavior. \textit{J Neurosci}, \textbf{28~(19)}, 5127--38.
+
+\bibitem[{Geman et~al.(1992)Geman, Bienenstock, and Doursat}]{Geman:1992p9469}
+Geman, S., E.~Bienenstock, and R.~Doursat, 1992: Neural networks and the
+  bias/variance dilemma. \textit{Neural Computation}, \textbf{4~(1)}, 1--58.
+
+\bibitem[{Gershman et~al.(2009)Gershman, Pesaran, and Daw}]{Gershman:2009p7207}
+Gershman, S., B.~Pesaran, and N.~D. Daw, 2009: Human reinforcement learning
+  subdivides structured action spaces by learning effector-specific values.
+  \textit{Journal of Neuroscience}, \textbf{29~(43)}, 13\,524.
+
+\bibitem[{Gewirtz(2000)}]{Gewirtz:2000p9847}
+Gewirtz, J.~C., 2000: Using pavlovian higher-order conditioning paradigms to
+  investigate the neural substrates of emotional learning and memory.
+  \textit{Learning {\&} Memory}, \textbf{7~(5)}, 257--266.
+
+\bibitem[{Glimcher et~al.(2005)Glimcher, Dorris, and Bayer}]{Glimcher:2005p863}
+Glimcher, P.~W., M.~Dorris, and H.~Bayer, 2005: Physiological utility theory
+  and the neuroeconomics of choice. \textit{Games and economic behavior},
+  \textbf{52~(2)}, 213--256.
+
+\bibitem[{Grahn et~al.(2008)Grahn, Parkinson, and Owen}]{Grahn:2008p4654}
+Grahn, J.~A., J.~A. Parkinson, and A.~M. Owen, 2008: The cognitive functions of
+  the caudate nucleus. \textit{Progress in Neurobiology}, \textbf{86~(3)},
+  141--55.
+
+\bibitem[{Guitart-Masip et~al.(2010{\natexlab{a}})Guitart-Masip, Bunzeck,
+  Stephan, Dolan, and Duzel}]{GuitartMasip:2010p7244}
+Guitart-Masip, M., N.~Bunzeck, K.~Stephan, R.~J. Dolan, and E.~Duzel,
+  2010{\natexlab{a}}: Contextual novelty changes reward representations in the
+  striatum. \textit{Journal of Neuroscience}, \textbf{30~(5)}, 1721.
+
+\bibitem[{Guitart-Masip et~al.(2010{\natexlab{b}})Guitart-Masip, Bunzeck,
+  Stephan, Dolan, and Duzel}]{GuitartMasip:2010p7227}
+Guitart-Masip, M., N.~Bunzeck, K.~Stephan, R.~J. Dolan, and E.~Duzel,
+  2010{\natexlab{b}}: Contextual novelty changes reward representations in the
+  striatum. \textit{Journal of Neuroscience}, \textbf{30~(5)}, 1721.
+
+\bibitem[{Guttman(1956)}]{Guttman:1956p8355}
+Guttman, N., 1956: Discriminability and stimulus generalization.
+  \textit{Journal of Experimental Psychology}.
+
+\bibitem[{Hampton et~al.(2006)Hampton, Bossaerts, and
+  O'Doherty}]{Hampton:2006p2577}
+Hampton, A.~N., P.~Bossaerts, and J.~P. O'Doherty, 2006: The role of the
+  ventromedial prefrontal cortex in abstract state-based inference during
+  decision making in humans. \textit{J Neurosci}, \textbf{26~(32)}, 8360--7.
+
+\bibitem[{Hampton and O'Doherty(2007)}]{Hampton:2007p2983}
+Hampton, A.~N. and J.~P. O'Doherty, 2007: Decoding the neural substrates of
+  reward-related decision making with functional mri. \textit{PNAS},
+  \textbf{104~(4)}, 1377--82.
+
+\bibitem[{Haruno and Kawato(2006)}]{Haruno:2006p3979}
+Haruno, M. and M.~Kawato, 2006: Different neural correlates of reward
+  expectation and reward expectation error in the putamen and caudate nucleus
+  during stimulus-action-reward association learning. \textit{J Physiol.},
+  \textbf{95~(2)}, 948--59.
+
+\bibitem[{Hayden et~al.(2009)Hayden, Pearson, and Platt}]{Hayden:2009p6545}
+Hayden, B.~Y., J.~M. Pearson, and M.~L. Platt, 2009: Fictive reward signals in
+  the anterior cingulate cortex. \textit{Science}, \textbf{324~(5929)},
+  948--50.
+
+\bibitem[{Hikosaka et~al.(2008)Hikosaka, Sesack, Lecourtier, and
+  Shepard}]{Hikosaka:2008p4455}
+Hikosaka, O., S.~R. Sesack, L.~Lecourtier, and P.~D. Shepard, 2008: Habenula:
+  crossroad between the basal ganglia and the limbic system. \textit{J
+  Neurosci}, \textbf{28~(46)}, 11\,825--9.
+
+\bibitem[{Hillyard and Kutas(1983)}]{Hillyard:1983p9844}
+Hillyard, S.~A. and M.~Kutas, 1983: Electrophysiology of cognitive processing.
+  \textit{Annual review of psychology}, \textbf{34}, 33--61.
+
+\bibitem[{Hnasko et~al.(2005)Hnasko, Sotak, and Palmiter}]{Hnasko:2005p8832}
+Hnasko, T.~S., B.~N. Sotak, and R.~D. Palmiter, 2005: Morphine reward in
+  dopamine-deficient mice. \textit{Nature}, \textbf{438~(7069)}, 854--7.
+
+\bibitem[{Hollerman and Schultz(1998)}]{Hollerman:1998qy}
+Hollerman, J. and W.~Schultz, 1998: Dopamine neurons report an error in the
+  temporal prediction of reward during learning. \textit{Nature Neuroscience},
+  \textbf{1~(4)}, 304--309.
+
+\bibitem[{Hornak et~al.(2004)Hornak, O'Doherty, Bramham, Rolls, Morris,
+  Bullock, and Polkey}]{Hornak:2004p6234}
+Hornak, J., J.~P. O'Doherty, J.~Bramham, E.~T. Rolls, R.~G. Morris, P.~R.
+  Bullock, and C.~E. Polkey, 2004: Reward-related reversal learning after
+  surgical excisions in orbito-frontal or dorsolateral prefrontal cortex in
+  humans. \textit{Journal of cognitive neuroscience}, \textbf{16~(3)}, 463--78.
+
+\bibitem[{Ito and Doya(2011)}]{Ito:2011p8146}
+Ito, M. and K.~Doya, 2011: Multiple representations and algorithms for
+  reinforcement learning in the cortico-basal ganglia circuit. \textit{Current
+  opinion in neurobiology}, \textbf{21~(3)}, 368--73.
+
+\bibitem[{Iversen and Iversen(2007)}]{iversen:2007aa}
+Iversen, S.~D. and L.~L. Iversen, 2007: Dopamine: 50 years in perspective.
+  \textit{Trends Neurosci.}, \textbf{30~(5)}, 188--193.
+
+\bibitem[{Jacoby(1991)}]{Jacoby:1991p9096}
+Jacoby, L.~L., 1991: A process dissociation framework: Separating automatic
+  from intentional uses of memory. \textit{Journal of Memory and Language},
+  \textbf{30}, 513--541.
+
+\bibitem[{Jakel et~al.(2008)Jakel, Scholkopf, and Wichmann}]{Jakel:2008p9113}
+Jakel, F., B.~Scholkopf, and F.~A. Wichmann, 2008: Generalization and
+  similarity in exemplar models of categorization: Insights from machine
+  learning. \textit{Psychonomic Bulletin {\&} Review}, \textbf{15~(2)},
+  256--271.
+
+\bibitem[{Jay(2003)}]{jay:2003aa}
+Jay, T.~M., 2003: Dopamine: a potential substrate for synaptic plasticity and
+  memory mechanisms. \textit{Progress in Neurobiology}, \textbf{69}, 375--390.
+
+\bibitem[{Jimura et~al.(2010)Jimura, Locke, and Braver}]{Jimura:2010p8305}
+Jimura, K., H.~S. Locke, and T.~S. Braver, 2010: Prefrontal cortex mediation of
+  cognitive enhancement in rewarding motivational contexts. \textit{Proc Natl
+  Acad Sci USA}, \textbf{107~(19)}, 8871--6.
+
+\bibitem[{Jin and Costa(2010)}]{Jin:2010p7199}
+Jin, X. and R.~M. Costa, 2010: Start/stop signals emerge in nigrostriatal
+  circuits during sequence learning. \textit{Nature}, \textbf{466~(7305)},
+  457--462.
+
+\bibitem[{Joel et~al.(2002)Joel, Niv, and Ruppin}]{Joel:2002p6593}
+Joel, D., Y.~Niv, and E.~Ruppin, 2002: Actor-critic models of the basal
+  ganglia: new anatomical and computational perspectives. \textit{Neural
+  Networks}, \textbf{15~(4-6)}, 535--47.
+
+\bibitem[{Kahnt et~al.(2010)Kahnt, Heinzle, Park, and Haynes}]{Kahnt:2010p7677}
+Kahnt, T., J.~Heinzle, S.~Q. Park, and J.-D. Haynes, 2010: Decoding different
+  roles for vmpfc and dlpfc in multi-attribute decision making.
+  \textit{Neuroimage}.
+
+\bibitem[{Kakade and Dayan(2002)}]{Kakade:2002p6414}
+Kakade, S. and P.~Dayan, 2002: Dopamine: generalization and bonuses.
+  \textit{Neural Networks}, \textbf{15~(4-6)}, 549--559.
+
+\bibitem[{Kao et~al.(2009)Kao, Mandal, Lazar, and Stufken}]{Kao:2009p7899}
+Kao, M.-H., A.~Mandal, N.~Lazar, and J.~Stufken, 2009: Multi-objective optimal
+  experimental designs for event-related fmri studies. \textit{Neuroimage},
+  \textbf{44~(3)}, 849--56.
+
+\bibitem[{Kim et~al.(2006)Kim, Shimojo, and O'Doherty}]{Kim:2006p1063}
+Kim, H., S.~Shimojo, and J.~P. O'Doherty, 2006: Is avoiding an aversive outcome
+  rewarding? neural substrates of avoidance learning in the human brain.
+  \textit{PLoS Biology}, \textbf{4~(8)}, e233.
+
+\bibitem[{Kim et~al.(2010)Kim, Shimojo, and O'Doherty}]{Kim:2010p7248}
+Kim, H., S.~Shimojo, and J.~P. O'Doherty, 2010: Overlapping responses for the
+  expectation of juice and money rewards in human ventromedial prefrontal
+  cortex. \textit{Cereb Cortex}.
+
+\bibitem[{Kim et~al.(2008)Kim, Hwang, and Lee}]{Kim:2008p2984}
+Kim, S., J.~Hwang, and D.~Lee, 2008: prefrontal coding of temporally discounted
+  values during intertemporal choice. \textit{Neuron}, \textbf{59~(1)},
+  161--72.
+
+\bibitem[{Kim et~al.(2009)Kim, Hwang, Seo, and Lee}]{Kim:2009p8304}
+Kim, S., J.~Hwang, H.~Seo, and D.~Lee, 2009: Valuation of uncertain and delayed
+  rewards in primate prefrontal cortex. \textit{Neural Networks},
+  \textbf{22~(3)}, 294--304.
+
+\bibitem[{Knutson et~al.(2001)Knutson, Adams, Fong, and
+  Hommer}]{Knutson:2001p5234}
+Knutson, B., C.~M. Adams, G.~W. Fong, and D.~Hommer, 2001: Anticipation of
+  increasing monetary reward selectively recruits nucleus accumbens. \textit{J
+  Neurosci}, \textbf{21~(16)}, RC159.
+
+\bibitem[{Knutson et~al.(2005)Knutson, Taylor, Kaufman, Peterson, and
+  Glover}]{Knutson:2005p1627}
+Knutson, B., J.~Taylor, M.~Kaufman, R.~Peterson, and G.~Glover, 2005:
+  Distributed neural representation of expected value. \textit{J Neurosci},
+  \textbf{25~(19)}, 4806--4812.
+
+\bibitem[{Knutson and Wimmer(2007)}]{Knutson:2007p1687}
+Knutson, B. and G.~E. Wimmer, 2007: Splitting the difference: how does the
+  brain code reward episodes? \textit{Annals of the New York Academy of
+  Sciences}, \textbf{1104}, 54--69.
+
+\bibitem[{Krebs et~al.(2011)Krebs, Heipertz, Schuetze, and
+  Duzel}]{Krebs:2011p8134}
+Krebs, R.~M., D.~Heipertz, H.~Schuetze, and E.~Duzel, 2011: Novelty increases
+  the mesolimbic functional connectivity of the substantia nigra/ventral
+  tegmental area (sn/vta) during reward anticipation: Evidence from
+  high-resolution fmri. \textit{NeuroImage}.
+
+\bibitem[{Kruggel et~al.(1999)Kruggel, Cramon, and
+  Descombes}]{Kruggel:1999p9351}
+Kruggel, F., D.~Y.~V. Cramon, and X.~Descombes, 1999: Comparison of filtering
+  methods for fmri datasets. \textit{Neuroimage}, \textbf{10~(5)}, 530--543.
+
+\bibitem[{Kruschke(1992)}]{Kruschke:1992p9111}
+Kruschke, J., 1992: Alcove: An exemplar-based connectionist model of category
+  learning. \textit{PSYCHOLOGICAL REVIEW}, \textbf{99~(1)}, 22--44.
+
+\bibitem[{Lazarus et~al.(2011)}]{Lazarus:2011p8137}
+Lazarus, M., et~al., 2011: Arousal effect of caffeine depends on adenosine a2a
+  receptors in the shell of the nucleus accumbens. \textit{The Journal of
+  neuroscience : the official journal of the Society for Neuroscience},
+  \textbf{31~(27)}, 10\,067--10\,075.
+
+\bibitem[{Lisman and Grace(2005)}]{Lisman:2005p5455}
+Lisman, J.~E. and A.~A. Grace, 2005: The hippocampal-vta loop: controlling the
+  entry of information into long-term memory. \textit{Neuron}, \textbf{46~(5)},
+  703--13.
+
+\bibitem[{Liu(2004)}]{Liu:2004p2141}
+Liu, T.~T., 2004: Efficiency, power, and entropy in event-related fmri with
+  multiple trial types. part ii: design of experiments. \textit{Neuroimage},
+  \textbf{21~(1)}, 401--13.
+
+\bibitem[{Lohrenz et~al.(2007)Lohrenz, McCabe, Camerer, and
+  Montague}]{Lohrenz:2007p7240}
+Lohrenz, T., K.~McCabe, C.~Camerer, and P.~Montague, 2007: Neural signature of
+  fictive learning signals in a sequential investment task. \textit{Proceedings
+  of the National Academy of Sciences}, \textbf{104~(22)}, 9493.
+
+\bibitem[{Lopez-Paniagua and Seger(2011)}]{LopezPaniagua:2011p8296}
+Lopez-Paniagua, D. and C.~A. Seger, 2011: Interactions within and between
+  corticostriatal loops during component processes of category learning.
+  \textit{Journal of cognitive neuroscience}, \textbf{23~(10)}, 3068--3083.
+
+\bibitem[{Love(2004)}]{Love:2004p9110}
+Love, B.~C., 2004: Sustain: A network model of category learning.
+  \textit{PSYCHOLOGICAL REVIEW}, 309---332.
+
+\bibitem[{Maddox and Bohil(2001)}]{Maddox:2001p9533}
+Maddox, W.~T. and C.~J. Bohil, 2001: Feedback effects on cost-benefit learning
+  in perceptual categorization. \textit{Mem Cognit}, \textbf{29~(4)}, 598--615.
+
+\bibitem[{Mars et~al.(2010)Mars, Shea, Kolling, and Rushworth}]{Mars:2010p7999}
+Mars, R.~B., N.~J. Shea, N.~Kolling, and M.~F.~S. Rushworth, 2010: Model-based
+  analyses: Promises, pitfalls, and example applications to the study of
+  cognitive control. \textit{Q J Exp Psychol (Colchester)}, 1--16.
+
+\bibitem[{Martin et~al.(2012)Martin, Griffiths, and Sanborn}]{Martin:2012p9185}
+Martin, J.~B., T.~L. Griffiths, and A.~N. Sanborn, 2012: Testing the efficiency
+  of markov chain monte carlo with people using facial affect categories.
+  \textit{Cogn Sci}, \textbf{36~(1)}, 150--62.
+
+\bibitem[{Matsumoto and Hikosaka(2009)}]{Matsumoto:2009p7219}
+Matsumoto, M. and O.~Hikosaka, 2009: Two types of dopamine neuron distinctly
+  convey positive and negative motivational signals. \textit{Nature},
+  \textbf{459~(7248)}, 837--841.
+
+\bibitem[{McClure et~al.(2003)McClure, Berns, and Montague}]{McClure:2003p3346}
+McClure, S.~M., G.~S. Berns, and P.~R. Montague, 2003: Temporal prediction
+  errors in a passive learning task activate human striatum. \textit{Neuron},
+  \textbf{38~(2)}, 339--46.
+
+\bibitem[{McKinley and Nosofsky(1996)}]{McKinley:1996p9532}
+McKinley, S.~C. and R.~M. Nosofsky, 1996: Selective attention and the formation
+  of linear decision boundaries. \textit{J Exp Psychol Hum Percept Perform},
+  \textbf{22~(2)}, 294--317.
+
+\bibitem[{Medin and Schaffer(1978)}]{Medin:1978p9358}
+Medin, D. and M.~Schaffer, 1978: Context theory of classification learning.
+  \textit{Psychological Review}, \textbf{85~(3)}, 207.
+
+\bibitem[{Miezin et~al.(2000)Miezin, Maccotta, Ollinger, Petersen, and
+  Buckner}]{Miezin:2000p7924}
+Miezin, F.~M., L.~Maccotta, J.~M. Ollinger, S.~E. Petersen, and R.~L. Buckner,
+  2000: Characterizing the hemodynamic response: effects of presentation rate,
+  sampling procedure, and the possibility of ordering brain activity based on
+  relative timing. \textit{Neuroimage}, \textbf{11~(6 Pt 1)}, 735--59.
+
+\bibitem[{Mirenowicz and Schultz(1994)}]{Mirenowicz:1994p7185}
+Mirenowicz, J. and W.~Schultz, 1994: Importance of unpredictability for reward
+  responses in primate dopamine neurons. \textit{J Physiol.}, \textbf{72~(2)},
+  1024.
+
+\bibitem[{Mishra et~al.(2011)}]{Mishra:2011p9095}
+Mishra, A.~M., et~al., 2011: Where fmri and electrophysiology agree to
+  disagree: corticothalamic and striatal activity patterns in the wag/rij rat.
+  \textit{J Neurosci}, \textbf{31~(42)}, 15\,053--64.
+
+\bibitem[{Montague et~al.(2006)Montague, King-Casas, and
+  Cohen}]{Montague:2006mz}
+Montague, P., B.~King-Casas, and J.~Cohen, 2006: Imaging valuation models in
+  human choice. \textit{Annu Rev Neurosci}, \textbf{29}, 417--448.
+
+\bibitem[{Nakamura et~al.(2006)Nakamura, Ito, Croft, and
+  Westbrook}]{Nakamura:2006p9093}
+Nakamura, T., M.~Ito, D.~B. Croft, and R.~F. Westbrook, 2006: Domestic pigeons
+  (columba livia) discriminate between photographs of male and female pigeons.
+  \textit{Learning {\&} Behavior}, \textbf{34~(4)}, 327--339.
+
+\bibitem[{Nosofsky(1985)}]{Nosofsky:1985p9356}
+Nosofsky, R., 1985: Overall similarity and the identification of
+  separable-dimension stimuli: a choice model analysis. \textit{Percept
+  Psychophys}, \textbf{38~(5)}, 415--32.
+
+\bibitem[{Nosofsky(1988{\natexlab{a}})}]{Nosofsky:1988p9098}
+Nosofsky, R., 1988{\natexlab{a}}: Exemplar-based accounts of relations between
+  classification, recognition, and typicality. \textit{Journal of Experimental
+  Psychology: Learning, Memory, and Cognition}, \textbf{14~(4)}, 700--708.
+
+\bibitem[{Nosofsky(1988{\natexlab{b}})}]{Nosofsky:1988p9104}
+Nosofsky, R.~M., 1988{\natexlab{b}}: Similarity, frequency, and category
+  representations. \textit{Journal of Experimental Psychology: Learning,
+  Memory, and Cognition}, 54---65.
+
+\bibitem[{O'Doherty(2003)}]{ODoherty:2003p2616}
+O'Doherty, J.~P., 2003: Can't learn without you: predictive value coding in
+  orbitofrontal cortex requires the basolateral amygdala. \textit{Neuron},
+  \textbf{39~(5)}, 731--3.
+
+\bibitem[{O'Doherty et~al.(2006)O'Doherty, Buchanan, Seymour, and
+  Dolan}]{ODoherty:2006p2875}
+O'Doherty, J.~P., T.~W. Buchanan, B.~Seymour, and R.~J. Dolan, 2006: Predictive
+  neural coding of reward preference involves dissociable responses in human
+  ventral midbrain and ventral striatum. \textit{Neuron}, \textbf{49~(1)},
+  157--66.
+
+\bibitem[{O'Doherty et~al.(2003)O'Doherty, Dayan, Friston, Critchley, and
+  Dolan}]{ODoherty:2003p6329}
+O'Doherty, J.~P., P.~Dayan, K.~Friston, H.~Critchley, and R.~J. Dolan, 2003:
+  Temporal difference models and reward-related learning in the human brain.
+  \textit{Neuron}, \textbf{38~(2)}, 329--37.
+
+\bibitem[{O'Doherty et~al.(2004)O'Doherty, Dayan, Schultz, Deichmann, Friston,
+  and Dolan}]{ODoherty:2004p1269}
+O'Doherty, J.~P., P.~Dayan, J.~Schultz, R.~Deichmann, K.~Friston, and R.~J.
+  Dolan, 2004: Dissociable roles of ventral and dorsal striatum in instrumental
+  conditioning. \textit{Science}, \textbf{304~(5669)}, 452--4.
+
+\bibitem[{O'Doherty et~al.(2001)O'Doherty, Kringelbach, Rolls, Hornak, and
+  Andrews}]{ODoherty:2001p2423}
+O'Doherty, J.~P., M.~L. Kringelbach, E.~T. Rolls, J.~Hornak, and C.~Andrews,
+  2001: Abstract reward and punishment representations in the human
+  orbitofrontal cortex. \textit{Nat Neurosci}, \textbf{4~(1)}, 95--102.
+
+\bibitem[{O'Reilly et~al.(2007)O'Reilly, Frank, Hazy, and
+  Watz}]{OReilly:2007p827}
+O'Reilly, R., M.~J. Frank, T.~Hazy, and B.~Watz, 2007: Pvlv: the primary value
+  and learned value pavlovian learning algorithm. \textit{Behav. Neurosci}.
+
+\bibitem[{Packard and Knowlton(2002)}]{Packard:2002p5074}
+Packard, M.~G. and B.~J. Knowlton, 2002: Learning and memory functions of the
+  basal ganglia. \textit{Annu Rev Neurosci}, \textbf{25}, 563--93.
+
+\bibitem[{Pearl(2010)}]{Pearl:2010p9726}
+Pearl, J., 2010: An introduction to causal inference. \textit{Int J Biostat},
+  \textbf{6~(2)}, Article 7.
+
+\bibitem[{Phillips et~al.(1998)}]{Phillips:1998p9834}
+Phillips, M.~L., et~al., 1998: Neural responses to facial and vocal expressions
+  of fear and disgust. \textit{Proc Biol Sci}, \textbf{265~(1408)}, 1809--17.
+
+\bibitem[{Pizzagalli et~al.(2008)Pizzagalli, Evins, Schetter, Frank, Pajtas,
+  Santesso, and Culhane}]{Pizzagalli:2008p6521}
+Pizzagalli, D.~A., A.~E. Evins, E.~C. Schetter, M.~J. Frank, P.~E. Pajtas,
+  D.~L. Santesso, and M.~Culhane, 2008: Single dose of a dopamine agonist
+  impairs reinforcement learning in humans: Behavioral evidence from a
+  laboratory-based measure of reward responsiveness. \textit{Psychopharmacology
+  (Berl)}, \textbf{196~(2)}, 221--232.
+
+\bibitem[{Poldrack(2006)}]{Poldrack:2006p9841}
+Poldrack, R.~A., 2006: Region of interest analysis for fmri. \textit{Social
+  Cognitive and Affective Neuroscience}, \textbf{2~(1)}, 67--70.
+
+\bibitem[{Poldrack(2007)}]{Poldrack:2007p8572}
+Poldrack, R.~A., 2007: Region of interest analysis for fmri. \textit{Social
+  Cognitive and Affective Neuroscience}, \textbf{2~(1)}, 67--70.
+
+\bibitem[{Poldrack et~al.(2008)Poldrack, Fletcher, Henson, Worsley, Brett, and
+  Nichols}]{Poldrack:2008p6570}
+Poldrack, R.~A., P.~C. Fletcher, R.~N. Henson, K.~J. Worsley, M.~Brett, and
+  T.~E. Nichols, 2008: Guidelines for reporting an fmri study.
+  \textit{Neuroimage}, \textbf{40~(2)}, 409--14.
+
+\bibitem[{Poldrack and Foerde(2008)}]{Poldrack:2008p6839}
+Poldrack, R.~A. and K.~Foerde, 2008: Category learning and the memory systems
+  debate. \textit{Neuroscience and Biobehavioral Reviews}, \textbf{32~(2)},
+  197--205.
+
+\bibitem[{Quilodran et~al.(2008)Quilodran, Roth{\'e}, and
+  Procyk}]{Quilodran:2008p2645}
+Quilodran, R., M.~Roth{\'e}, and E.~Procyk, 2008: Behavioral shifts and action
+  valuation in the anterior cingulate cortex. \textit{Neuron}, \textbf{57~(2)},
+  314--25.
+
+\bibitem[{Ramnani et~al.(2004)Ramnani, Elliott, Athwal, and
+  Passingham}]{Ramnani:2004p5390}
+Ramnani, N., R.~Elliott, B.~S. Athwal, and R.~E. Passingham, 2004: Prediction
+  error for free monetary reward in the human prefrontal cortex.
+  \textit{Neuroimage}, \textbf{23~(3)}, 777--86.
+
+\bibitem[{Ramnani et~al.(2000)Ramnani, Toni, Josephs, Ashburner, and
+  Passingham}]{Ramnani:2000p6515}
+Ramnani, N., I.~Toni, O.~Josephs, J.~Ashburner, and R.~E. Passingham, 2000:
+  Learning- and expectation-related changes in the human brain during motor
+  learning. \textit{J Physiol.}, \textbf{84~(6)}, 3026--35.
+
+\bibitem[{Rao et~al.(2001)Rao, Wu, Konishi, and Mukerjee}]{Rao:2001p9457}
+Rao, C.~R., Y.~Wu, S.~Konishi, and R.~Mukerjee, 2001: On model selection.
+  \textit{Lecture Notes-Monograph Series, Model Selection}, \textbf{38}, 1--64.
+
+\bibitem[{Redish(2004)}]{Redish:2004p2531}
+Redish, A.~D., 2004: Addiction as a computational process gone awry.
+  \textit{Science}, \textbf{306~(5703)}, 1944--7.
+
+\bibitem[{Reed(1992)}]{Reed:1992p9094}
+Reed, P., 1992: Signalled delay of reward: Overshadowing versus sign- tracking
+  explanations. \textit{Learning and Motivation}, \textbf{23~(1)}, 27--42.
+
+\bibitem[{Rescorla(1988)}]{Rescorla:1988p8743}
+Rescorla, R.~A., 1988: Pavlovian conditioning. it's not what you think it is.
+  \textit{Am Psychol}, \textbf{43~(3)}, 151--60.
+
+\bibitem[{Rizley and Rescorla(1972)}]{Rizley:1972p9858}
+Rizley, R.~C. and R.~A. Rescorla, 1972: Associations in second-order
+  conditioning and sensory preconditioning. \textit{J Comp Physiol Psychol},
+  \textbf{81~(1)}, 1--11.
+
+\bibitem[{Robinson and Berridge(1993)}]{Robinson:1993p8987}
+Robinson, T.~E. and K.~C. Berridge, 1993: The neural basis of drug craving: an
+  incentive-sensitization theory of addiction. \textit{Brain Res Brain Res
+  Rev}, \textbf{18~(3)}, 247--91.
+
+\bibitem[{Roesch et~al.(2007)Roesch, Calu, and Schoenbaum}]{Roesch:2007p2519}
+Roesch, M.~R., D.~J. Calu, and G.~Schoenbaum, 2007: Dopamine neurons encode the
+  better option in rats deciding between differently delayed or sized rewards.
+  \textit{Nat Neurosci}, \textbf{10~(12)}, 1615--24.
+
+\bibitem[{Roesch and Olson(2007)}]{Roesch:2007p7182}
+Roesch, M.~R. and C.~R. Olson, 2007: Neuronal activity related to anticipated
+  reward in frontal cortex: does it represent value or reflect motivation?
+  \textit{Annals of the New York Academy of Sciences}, \textbf{1121}, 431--46.
+
+\bibitem[{Rolls et~al.(2008)Rolls, McCabe, and Redoute}]{Rolls:2008p7577}
+Rolls, E.~T., C.~McCabe, and J.~Redoute, 2008: Expected value, reward outcome,
+  and temporal difference error representations in a probabilistic decision
+  task. \textit{Cereb Cortex}, \textbf{18~(3)}, 652--63.
+
+\bibitem[{Rosch(1973)}]{Rosch:1973p9108}
+Rosch, E.~H., 1973: Natural categories. \textit{Cognitive Psychology},
+  \textbf{4~(3)}, 328--350.
+
+\bibitem[{Rossee(2002)}]{Rossee:2002p9112}
+Rossee, Y., 2002: Mixture models of categorization. \textit{Journal of
+  Mathematical Psychology}, \textbf{46~(2)}, 178--210.
+
+\bibitem[{Rossi et~al.(2010)}]{Rossi:2010p7252}
+Rossi, S., et~al., 2010: Effects of caffeine on striatal neurotransmission:
+  Focus on cannabinoid cb1 receptors. \textit{Molecular Nutrition {\&} Food
+  Research}, \textbf{54~(4)}, 525--531.
+
+\bibitem[{Rudebeck et~al.(2008)Rudebeck, Behrens, Kennerley, Baxter, Buckley,
+  Walton, and Rushworth}]{Rudebeck:2008p4712}
+Rudebeck, P.~H., T.~E. Behrens, S.~W. Kennerley, M.~G. Baxter, M.~J. Buckley,
+  M.~E. Walton, and M.~F.~S. Rushworth, 2008: Frontal cortex subregions play
+  distinct roles in choices between actions and stimuli. \textit{J Neurosci},
+  \textbf{28~(51)}, 13\,775--85.
+
+\bibitem[{Salamone et~al.(2005)Salamone, Correa, Mingote, and
+  Weber}]{Salamone:2005p8774}
+Salamone, J.~D., M.~Correa, S.~M. Mingote, and S.~M. Weber, 2005: Beyond the
+  reward hypothesis: alternative functions of nucleus accumbens dopamine.
+  \textit{Curr Opin Pharmacol}, \textbf{5~(1)}, 34--41.
+
+\bibitem[{Schmitzer-Torbert and Redish(2004)}]{SchmitzerTorbert:2004p5410}
+Schmitzer-Torbert, N. and A.~D. Redish, 2004: Neuronal activity in the rodent
+  dorsal striatum in sequential navigation: separation of spatial and reward
+  responses on the multiple t task. \textit{J Physiol.}, \textbf{91~(5)},
+  2259--72.
+
+\bibitem[{Sch{\"o}nberg et~al.(2007)Sch{\"o}nberg, Daw, Joel, and
+  O'Doherty}]{Schonberg:2007p518}
+Sch{\"o}nberg, T., N.~D. Daw, D.~Joel, and J.~P. O'Doherty, 2007: Reinforcement
+  learning signals in the human striatum distinguish learners from nonlearners
+  during reward-based decision making. \textit{J Neurosci}, \textbf{27~(47)},
+  12\,860--7.
+
+\bibitem[{Schonberg et~al.(2009)Schonberg, O'Doherty, Joel, Inzelberg, Segev,
+  and Daw}]{Schonberg:2009p6669}
+Schonberg, T., J.~P. O'Doherty, D.~Joel, R.~Inzelberg, Y.~Segev, and N.~D. Daw,
+  2009: Selective impairment of prediction error signaling in human
+  dorsolateral but not ventral striatum in parkinson's disease patients:
+  evidence from a model-based fmri study. \textit{Neuroimage}.
+
+\bibitem[{Schultz(2007)}]{schultz:2007aa}
+Schultz, W., 2007: Behavioral dopamine signals. \textit{Trends Neurosci.},
+  \textbf{30~(5)}, 203--210.
+
+\bibitem[{Schweimer and Hauber(2006)}]{Schweimer:2006p9780}
+Schweimer, J. and W.~Hauber, 2006: Dopamine d1 receptors in the anterior
+  cingulate cortex regulate effort-based decision making. \textit{Learn Mem},
+  \textbf{13~(6)}, 777--82.
+
+\bibitem[{Seger(2008)}]{Seger:2008p6401}
+Seger, C.~A., 2008: How do the basal ganglia contribute to categorization?
+  their roles in generalization, response selection, and learning via feedback.
+  \textit{Neuroscience and Biobehavioral Reviews}, \textbf{32~(2)}, 265--78.
+
+\bibitem[{Seger and Cincotta(2005)}]{Seger:2005pd}
+Seger, C.~A. and C.~Cincotta, 2005: The roles of the caudate nucleus in human
+  classification learning. \textit{J Neurosci}, \textbf{25~(11)}, 2941--2951.
+
+\bibitem[{Seger and Cincotta(2006)}]{Seger:2006p5447}
+Seger, C.~A. and C.~M. Cincotta, 2006: Dynamics of frontal, striatal, and
+  hippocampal systems during rule learning. \textit{Cereb Cortex},
+  \textbf{16~(11)}, 1546--55.
+
+\bibitem[{Seger and Miller(2010)}]{Seger:2010p7189}
+Seger, C.~A. and E.~K. Miller, 2010: Category learning in the brain.
+  \textit{Annu Rev Neurosci}, \textbf{33}, 203--19.
+
+\bibitem[{Seger et~al.(2010)Seger, Peterson, Cincotta, Lopez-Paniagua, and
+  Anderson}]{Seger:2010p7188}
+Seger, C.~A., E.~J. Peterson, C.~M. Cincotta, D.~Lopez-Paniagua, and C.~W.
+  Anderson, 2010: Dissociating the contributions of independent corticostriatal
+  systems to visual categorization learning through the use of reinforcement
+  learning modeling and granger causality modeling. \textit{Neuroimage},
+  \textbf{50~(2)}, 644--56.
+
+\bibitem[{Seymour et~al.(2007)Seymour, Daw, Dayan, Singer, and
+  Dolan}]{Seymour:2007p7585}
+Seymour, B., N.~D. Daw, P.~Dayan, T.~Singer, and R.~J. Dolan, 2007:
+  Differential encoding of losses and gains in the human striatum.
+  \textit{Journal of Neuroscience}, \textbf{27~(18)}, 4826.
+
+\bibitem[{Seymour et~al.(2004)Seymour, O'Doherty, Dyan, Koltzenburg, Jones,
+  Dolan, Friston, and Frackowaik}]{seymour:2004aa}
+Seymour, B., J.~P. O'Doherty, P.~Dyan, M.~Koltzenburg, J.~K. Jones, R.~J.
+  Dolan, K.~J. Friston, and R.~S. Frackowaik, 2004: Temporal difference models
+  describe higher-order learning in humans. \textit{Nature}, \textbf{429}, 664
+  -- 667.
+
+\bibitem[{Shepard(1987)}]{Shepard:1987p9102}
+Shepard, R., 1987: Toward a universal law of generalization for psychological
+  science. \textit{Science}, \textbf{237~(4820)}, 1317--1323.
+
+\bibitem[{Simmons(2008)}]{Simmons:2008p8405}
+Simmons, S., 2008: Individual differences in the perception of similarity and
+  difference. \textit{Cognition}.
+
+\bibitem[{Smith et~al.(2006)Smith, Li, Becker, and Kapur}]{Smith:2006p7627}
+Smith, A., M.~Li, S.~Becker, and S.~Kapur, 2006: Dopamine, prediction error and
+  associative learning: a model-based account. \textit{Network},
+  \textbf{17~(1)}, 61--84.
+
+\bibitem[{Smith and Grossman(2008)}]{Smith:2008p2803}
+Smith, E.~E. and M.~Grossman, 2008: Multiple systems of category learning.
+  \textit{Neuroscience and Biobehavioral Reviews}, \textbf{32~(2)}, 249--64.
+
+\bibitem[{Smith et~al.(2011{\natexlab{a}})Smith, Ashby, Berg, Murphy, Spiering,
+  Cook, and Grace}]{Smith:2011p9101}
+Smith, J.~D., F.~G. Ashby, M.~E. Berg, M.~S. Murphy, B.~Spiering, R.~G. Cook,
+  and R.~C. Grace, 2011{\natexlab{a}}: Pigeons' categorization may be
+  exclusively nonanalytic. \textit{Psychonomic Belletin {\&} Review},
+  \textbf{18~(2)}, 414--421.
+
+\bibitem[{Smith et~al.(2010)Smith, Beran, Crossley, Boomer, and
+  Ashby}]{Smith:2010p9713}
+Smith, J.~D., M.~J. Beran, M.~J. Crossley, J.~Boomer, and F.~G. Ashby, 2010:
+  Implicit and explicit category learning by macaques (macaca mulatta) and
+  humans (homo sapiens). \textit{J Exp Psychol Anim Behav Process},
+  \textbf{36~(1)}, 54--65.
+
+\bibitem[{Smith et~al.(2011{\natexlab{b}})Smith, Berridge, and
+  Aldridge}]{Smith:2011p8133}
+Smith, K.~S., K.~C. Berridge, and J.~W. Aldridge, 2011{\natexlab{b}}:
+  Disentangling pleasure from incentive salience and learning signals in brain
+  reward circuitry. \textit{Proc Natl Acad Sci USA}, \textbf{108~(27)},
+  E255--64.
+
+\bibitem[{Spanagel and Weiss(1999)}]{Spanagel:1999p8515}
+Spanagel, R. and F.~Weiss, 1999: The dopamine hypothesis of reward: past and
+  current status. \textit{Trends Neurosci.}, \textbf{22~(11)}, 521--7.
+
+\bibitem[{Spiering and Ashby(2008)}]{Spiering:2008p5008}
+Spiering, B.~J. and F.~G. Ashby, 2008: Response processes in
+  information-integration category learning. \textit{Neurobiol Learn Mem},
+  \textbf{90~(2)}, 330--8.
+
+\bibitem[{Surmeier et~al.(2007)Surmeier, Ding, Day, Wang, and
+  Shen}]{Surmeier:2007p4435}
+Surmeier, D.~J., J.~Ding, M.~Day, Z.~Wang, and W.~Shen, 2007: D1 and d2
   dopamine-receptor modulation of striatal glutamatergic signaling in striatal
-  medium spiny neurons}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Trends Neurosci.}{30}{5}{228--35}.
-\PrintBackRefs{\CurrentBib}
+  medium spiny neurons. \textit{Trends Neurosci.}, \textbf{30~(5)}, 228--35.
 
-\bibitem[\protect\citeauthoryear{%
-Sutton%
-\ \BBA{} Barto%
-}{%
-Sutton%
-\ \BBA{} Barto%
-}{%
-{\protect\APACyear{1998}}%
-}]{%
-Sutton:1998p9247}%
-\APACinsertmetastar{%
-Sutton:1998p9247}%
-Sutton, R\BPBI S.%
-\BCBT{}\ \BBA{} Barto, A\BPBI G.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1998}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Reinforcement Learning: An Introduction}{Reinforcement
-  learning: An introduction}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{MIT Press}{}{}{}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Sutton and Barto(1998)}]{Sutton:1998p9247}
+Sutton, R.~S. and A.~G. Barto, 1998: Reinforcement learning: An introduction.
+  \textit{MIT Press}.
 
-\bibitem[\protect\citeauthoryear{%
-Tanaka%
-, Balleine%
-\BCBL{}\ \BBA{} O'Doherty%
-}{%
-Tanaka%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Tanaka:2008p3265}%
-\APACinsertmetastar{%
-Tanaka:2008p3265}%
-Tanaka, S\BPBI C.%
-, Balleine, B\BPBI W.%
-\BCBL{}\ \BBA{} O'Doherty, J\BPBI P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Calculating consequences: brain systems that encode the
-  causal effects of actions}{Calculating consequences: brain systems that
-  encode the causal effects of actions}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{28}{26}{6750--5}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Tanaka et~al.(2008)Tanaka, Balleine, and
+  O'Doherty}]{Tanaka:2008p3265}
+Tanaka, S.~C., B.~W. Balleine, and J.~P. O'Doherty, 2008: Calculating
+  consequences: brain systems that encode the causal effects of actions.
+  \textit{J Neurosci}, \textbf{28~(26)}, 6750--5.
 
-\bibitem[\protect\citeauthoryear{%
-Tanaka%
-\ \protect\BOthers{.}}{%
-Tanaka%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2006}}%
-}]{%
-Tanaka:2006fk}%
-\APACinsertmetastar{%
-Tanaka:2006fk}%
-Tanaka, S\BPBI C.%
-, Samejima, K.%
-, Okada, G.%
-, Ueda, K.%
-, Okamoto, Y.%
-, Yamawaki, S.%
-\BCBL{}\ \BOthersPeriod{.}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Brain mechanism of reward prediction under predictable
-  and unpredictable environmental dynamics}{Brain mechanism of reward
-  prediction under predictable and unpredictable environmental
-  dynamics}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neural Networks}{19}{8}{1233--1241}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Tanaka et~al.(2006)Tanaka, Samejima, Okada, Ueda, Okamoto, Yamawaki,
+  and Doya}]{Tanaka:2006fk}
+Tanaka, S.~C., K.~Samejima, G.~Okada, K.~Ueda, Y.~Okamoto, S.~Yamawaki, and
+  K.~Doya, 2006: Brain mechanism of reward prediction under predictable and
+  unpredictable environmental dynamics. \textit{Neural Networks},
+  \textbf{19~(8)}, 1233--1241.
 
-\bibitem[\protect\citeauthoryear{%
-Tobler%
-, Christopoulos%
-, O'Doherty%
-, Dolan%
-\BCBL{}\ \BBA{} Schultz%
-}{%
-Tobler%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2009}}%
-}]{%
-Tobler:2009p8297}%
-\APACinsertmetastar{%
-Tobler:2009p8297}%
-Tobler, P\BPBI N.%
-, Christopoulos, G\BPBI I.%
-, O'Doherty, J\BPBI P.%
-, Dolan, R\BPBI J.%
-\BCBL{}\ \BBA{} Schultz, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Risk-dependent reward value signal in human prefrontal
-  cortex}{Risk-dependent reward value signal in human prefrontal
-  cortex}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Proceedings of the National Academy of
-  Sciences}{106}{17}{7185--7190}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Tobler et~al.(2009)Tobler, Christopoulos, O'Doherty, Dolan, and
+  Schultz}]{Tobler:2009p8297}
+Tobler, P.~N., G.~I. Christopoulos, J.~P. O'Doherty, R.~J. Dolan, and
+  W.~Schultz, 2009: Risk-dependent reward value signal in human prefrontal
+  cortex. \textit{Proceedings of the National Academy of Sciences},
+  \textbf{106~(17)}, 7185--7190.
 
-\bibitem[\protect\citeauthoryear{%
-Tobler%
-, Fiorillo%
-\BCBL{}\ \BBA{} Schultz%
-}{%
-Tobler%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2005}}%
-}]{%
-Tobler:2005p6373}%
-\APACinsertmetastar{%
-Tobler:2005p6373}%
-Tobler, P\BPBI N.%
-, Fiorillo, C\BPBI D.%
-\BCBL{}\ \BBA{} Schultz, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{Mar}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Adaptive coding of reward value by dopamine
-  neurons}{Adaptive coding of reward value by dopamine neurons}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Science}{307}{5715}{1642--5}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Tobler et~al.(2005)Tobler, Fiorillo, and Schultz}]{Tobler:2005p6373}
+Tobler, P.~N., C.~D. Fiorillo, and W.~Schultz, 2005: Adaptive coding of reward
+  value by dopamine neurons. \textit{Science}, \textbf{307~(5715)}, 1642--5.
 
-\bibitem[\protect\citeauthoryear{%
-Tobler%
-, O'Doherty%
-, Dolan%
-\BCBL{}\ \BBA{} Schultz%
-}{%
-Tobler%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Tobler:2007p1562}%
-\APACinsertmetastar{%
-Tobler:2007p1562}%
-Tobler, P\BPBI N.%
-, O'Doherty, J\BPBI P.%
-, Dolan, R\BPBI J.%
-\BCBL{}\ \BBA{} Schultz, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Reward value coding distinct from risk attitude-related
-  uncertainty coding in human reward systems}{Reward value coding distinct from
-  risk attitude-related uncertainty coding in human reward systems}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Physiol.}{97}{2}{1621--32}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Tobler et~al.(2007)Tobler, O'Doherty, Dolan, and
+  Schultz}]{Tobler:2007p1562}
+Tobler, P.~N., J.~P. O'Doherty, R.~J. Dolan, and W.~Schultz, 2007: Reward value
+  coding distinct from risk attitude-related uncertainty coding in human reward
+  systems. \textit{J Physiol.}, \textbf{97~(2)}, 1621--32.
 
-\bibitem[\protect\citeauthoryear{%
-Tricomi%
-\ \BBA{} Fiez%
-}{%
-Tricomi%
-\ \BBA{} Fiez%
-}{%
-{\protect\APACyear{2008}}%
-}]{%
-Tricomi:2008p6663}%
-\APACinsertmetastar{%
-Tricomi:2008p6663}%
-Tricomi, E.%
-\BCBT{}\ \BBA{} Fiez, J\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Feedback signals in the caudate reflect goal achievement
-  on a declarative memory task}{Feedback signals in the caudate reflect goal
-  achievement on a declarative memory task}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{41}{3}{1154--67}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Tricomi and Fiez(2008)}]{Tricomi:2008p6663}
+Tricomi, E. and J.~A. Fiez, 2008: Feedback signals in the caudate reflect goal
+  achievement on a declarative memory task. \textit{Neuroimage},
+  \textbf{41~(3)}, 1154--67.
 
-\bibitem[\protect\citeauthoryear{%
-Urcuioli%
-}{%
-Urcuioli%
-}{%
-{\protect\APACyear{2001}}%
-}]{%
-Urcuioli:2001p8359}%
-\APACinsertmetastar{%
-Urcuioli:2001p8359}%
-Urcuioli, P.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Categorization and acquired equivalence}{Categorization
-  and acquired equivalence}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Avian visual cognition [On-line]. Available: www.
-  {\ldots}}{}{}{}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Urcuioli(2001)}]{Urcuioli:2001p8359}
+Urcuioli, P., 2001: Categorization and acquired equivalence. \textit{Avian
+  visual cognition [On-line]. Available: www. {\ldots}}.
 
-\bibitem[\protect\citeauthoryear{%
-Waelti%
-, Dickinson%
-\BCBL{}\ \BBA{} Schultz%
-}{%
-Waelti%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2001}}%
-}]{%
-Waelti:2001p6523}%
-\APACinsertmetastar{%
-Waelti:2001p6523}%
-Waelti, P.%
-, Dickinson, A.%
-\BCBL{}\ \BBA{} Schultz, W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Dopamine responses comply with basic assumptions of
-  formal learning theory}{Dopamine responses comply with basic assumptions of
-  formal learning theory}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nature}{412}{6842}{43--8}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Waelti et~al.(2001)Waelti, Dickinson, and Schultz}]{Waelti:2001p6523}
+Waelti, P., A.~Dickinson, and W.~Schultz, 2001: Dopamine responses comply with
+  basic assumptions of formal learning theory. \textit{Nature},
+  \textbf{412~(6842)}, 43--8.
 
-\bibitem[\protect\citeauthoryear{%
-Wagenmakers%
-\ \BBA{} Farrell%
-}{%
-Wagenmakers%
-\ \BBA{} Farrell%
-}{%
-{\protect\APACyear{2004}}%
-}]{%
-Wagenmakers:2004p9472}%
-\APACinsertmetastar{%
-Wagenmakers:2004p9472}%
-Wagenmakers, E\BHBI J.%
-\BCBT{}\ \BBA{} Farrell, S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{AIC model selection using Akaike weights}{Aic model
-  selection using akaike weights}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Psychon Bull Rev}{11}{1}{192--6}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Wagenmakers and Farrell(2004)}]{Wagenmakers:2004p9472}
+Wagenmakers, E.-J. and S.~Farrell, 2004: Aic model selection using akaike
+  weights. \textit{Psychon Bull Rev}, \textbf{11~(1)}, 192--6.
 
-\bibitem[\protect\citeauthoryear{%
-Wager%
-\ \BBA{} Nichols%
-}{%
-Wager%
-\ \BBA{} Nichols%
-}{%
-{\protect\APACyear{2003}}%
-}]{%
-Wager:2003p2980}%
-\APACinsertmetastar{%
-Wager:2003p2980}%
-Wager, T\BPBI D.%
-\BCBT{}\ \BBA{} Nichols, T\BPBI E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Optimization of experimental design in fMRI: a general
-  framework using a genetic algorithm}{Optimization of experimental design in
-  fmri: a general framework using a genetic algorithm}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{18}{2}{293--309}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Wager and Nichols(2003)}]{Wager:2003p2980}
+Wager, T.~D. and T.~E. Nichols, 2003: Optimization of experimental design in
+  fmri: a general framework using a genetic algorithm. \textit{Neuroimage},
+  \textbf{18~(2)}, 293--309.
 
-\bibitem[\protect\citeauthoryear{%
-Wallis%
-, Anderson%
-\BCBL{}\ \BBA{} Miller%
-}{%
-Wallis%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2001}}%
-}]{%
-Wallis:2001p8129}%
-\APACinsertmetastar{%
-Wallis:2001p8129}%
-Wallis, J\BPBI D.%
-, Anderson, K\BPBI C.%
-\BCBL{}\ \BBA{} Miller, E\BPBI K.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Single neurons in prefrontal cortex encode abstract
-  rules}{Single neurons in prefrontal cortex encode abstract rules}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nature}{411}{6840}{953--6}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Wallis et~al.(2001)Wallis, Anderson, and Miller}]{Wallis:2001p8129}
+Wallis, J.~D., K.~C. Anderson, and E.~K. Miller, 2001: Single neurons in
+  prefrontal cortex encode abstract rules. \textit{Nature},
+  \textbf{411~(6840)}, 953--6.
 
-\bibitem[\protect\citeauthoryear{%
-Wimmer%
-, Daw%
-\BCBL{}\ \BBA{} Shohamy%
-}{%
-Wimmer%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2012}}%
-}]{%
-Wimmer:2012p8836}%
-\APACinsertmetastar{%
-Wimmer:2012p8836}%
-Wimmer, G\BPBI E.%
-, Daw, N\BPBI D.%
-\BCBL{}\ \BBA{} Shohamy, D.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2012}{Apr}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Generalization of value in reinforcement learning by
-  humans}{Generalization of value in reinforcement learning by humans}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Eur J Neurosci}{35}{7}{1092--104}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Wimmer et~al.(2012)Wimmer, Daw, and Shohamy}]{Wimmer:2012p8836}
+Wimmer, G.~E., N.~D. Daw, and D.~Shohamy, 2012: Generalization of value in
+  reinforcement learning by humans. \textit{Eur J Neurosci}, \textbf{35~(7)},
+  1092--104.
 
-\bibitem[\protect\citeauthoryear{%
-Winterbauer%
-\ \BBA{} Balleine%
-}{%
-Winterbauer%
-\ \BBA{} Balleine%
-}{%
-{\protect\APACyear{2007}}%
-}]{%
-Winterbauer:2007p6352}%
-\APACinsertmetastar{%
-Winterbauer:2007p6352}%
-Winterbauer, N\BPBI E.%
-\BCBT{}\ \BBA{} Balleine, B\BPBI W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The influence of amphetamine on sensory and conditioned
-  reinforcement: evidence for the re-selection hypothesis of dopamine
-  function}{The influence of amphetamine on sensory and conditioned
-  reinforcement: evidence for the re-selection hypothesis of dopamine
-  function}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Frontiers in integrative neuroscience}{1}{}{9}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Winterbauer and Balleine(2007)}]{Winterbauer:2007p6352}
+Winterbauer, N.~E. and B.~W. Balleine, 2007: The influence of amphetamine on
+  sensory and conditioned reinforcement: evidence for the re-selection
+  hypothesis of dopamine function. \textit{Frontiers in integrative
+  neuroscience}, \textbf{1}, 9.
 
-\bibitem[\protect\citeauthoryear{%
-Wise%
-}{%
-Wise%
-}{%
-{\protect\APACyear{1978}}%
-}]{%
-Wise:1978p8771}%
-\APACinsertmetastar{%
-Wise:1978p8771}%
-Wise, R\BPBI A.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1978}{Aug}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Catecholamine theories of reward: a critical
-  review}{Catecholamine theories of reward: a critical review}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Brain Res}{152}{2}{215--47}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Wise(1978)}]{Wise:1978p8771}
+Wise, R.~A., 1978: Catecholamine theories of reward: a critical review.
+  \textit{Brain Res}, \textbf{152~(2)}, 215--47.
 
-\bibitem[\protect\citeauthoryear{%
-Wittmann%
-, Bunzeck%
-, Dolan%
-\BCBL{}\ \BBA{} D{\"u}zel%
-}{%
-Wittmann%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2007}}%
-}]{%
-Wittmann:2007p3328}%
-\APACinsertmetastar{%
-Wittmann:2007p3328}%
-Wittmann, B\BPBI C.%
-, Bunzeck, N.%
-, Dolan, R\BPBI J.%
-\BCBL{}\ \BBA{} D{\"u}zel, E.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{Oct}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Anticipation of novelty recruits reward system and
-  hippocampus while promoting recollection}{Anticipation of novelty recruits
-  reward system and hippocampus while promoting recollection}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{38}{1}{194--202}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Wittmann et~al.(2007)Wittmann, Bunzeck, Dolan, and
+  D{\"u}zel}]{Wittmann:2007p3328}
+Wittmann, B.~C., N.~Bunzeck, R.~J. Dolan, and E.~D{\"u}zel, 2007: Anticipation
+  of novelty recruits reward system and hippocampus while promoting
+  recollection. \textit{Neuroimage}, \textbf{38~(1)}, 194--202.
 
-\bibitem[\protect\citeauthoryear{%
-Wittmann%
-, Daw%
-, Seymour%
-\BCBL{}\ \BBA{} Dolan%
-}{%
-Wittmann%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Wittmann:2008p541}%
-\APACinsertmetastar{%
-Wittmann:2008p541}%
-Wittmann, B\BPBI C.%
-, Daw, N\BPBI D.%
-, Seymour, B.%
-\BCBL{}\ \BBA{} Dolan, R\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Striatal activity underlies novelty-based choice in
-  humans}{Striatal activity underlies novelty-based choice in humans}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{58}{6}{967--73}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Wittmann et~al.(2008)Wittmann, Daw, Seymour, and
+  Dolan}]{Wittmann:2008p541}
+Wittmann, B.~C., N.~D. Daw, B.~Seymour, and R.~J. Dolan, 2008: Striatal
+  activity underlies novelty-based choice in humans. \textit{Neuron},
+  \textbf{58~(6)}, 967--73.
 
-\bibitem[\protect\citeauthoryear{%
-Worsley%
-\ \protect\BOthers{.}}{%
-Worsley%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{1996}}%
-}]{%
-Worsley:1996p9367}%
-\APACinsertmetastar{%
-Worsley:1996p9367}%
-Worsley, K\BPBI J.%
-, Marrett, S.%
-, Neelin, P.%
-, Vandal, A\BPBI C.%
-, Friston, K\BPBI J.%
-\BCBL{}\ \BBA{} Evans, A\BPBI C.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1996}{Jan}{}.
-\newblock
-\BBOQ{}\APACrefatitle{A unified statistical approach for determining
-  significant signals in images of cerebral activation}{A unified statistical
-  approach for determining significant signals in images of cerebral
-  activation}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Hum Brain Mapp}{4}{1}{58--73}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Worsley et~al.(1996)Worsley, Marrett, Neelin, Vandal, Friston, and
+  Evans}]{Worsley:1996p9367}
+Worsley, K.~J., S.~Marrett, P.~Neelin, A.~C. Vandal, K.~J. Friston, and A.~C.
+  Evans, 1996: A unified statistical approach for determining significant
+  signals in images of cerebral activation. \textit{Hum Brain Mapp},
+  \textbf{4~(1)}, 58--73.
 
-\bibitem[\protect\citeauthoryear{%
-Yin%
-\ \BBA{} Knowlton%
-}{%
-Yin%
-\ \BBA{} Knowlton%
-}{%
-{\protect\APACyear{2006}}%
-}]{%
-Yin:2006p5080}%
-\APACinsertmetastar{%
-Yin:2006p5080}%
-Yin, H\BPBI H.%
-\BCBT{}\ \BBA{} Knowlton, B\BPBI J.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Jun}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The role of the basal ganglia in habit formation}{The
-  role of the basal ganglia in habit formation}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Nat Rev Neurosci}{7}{6}{464--76}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Yin and Knowlton(2006)}]{Yin:2006p5080}
+Yin, H.~H. and B.~J. Knowlton, 2006: The role of the basal ganglia in habit
+  formation. \textit{Nat Rev Neurosci}, \textbf{7~(6)}, 464--76.
 
-\bibitem[\protect\citeauthoryear{%
-Yin%
-, Ostlund%
-\BCBL{}\ \BBA{} Balleine%
-}{%
-Yin%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2008}}%
-}]{%
-Yin:2008p6347}%
-\APACinsertmetastar{%
-Yin:2008p6347}%
-Yin, H\BPBI H.%
-, Ostlund, S\BPBI B.%
-\BCBL{}\ \BBA{} Balleine, B\BPBI W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{Oct}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Reward-guided learning beyond dopamine in the nucleus
-  accumbens: the integrative functions of cortico-basal ganglia
-  networks}{Reward-guided learning beyond dopamine in the nucleus accumbens:
-  the integrative functions of cortico-basal ganglia networks}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Eur J Neurosci}{28}{8}{1437--48}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Yin et~al.(2008)Yin, Ostlund, and Balleine}]{Yin:2008p6347}
+Yin, H.~H., S.~B. Ostlund, and B.~W. Balleine, 2008: Reward-guided learning
+  beyond dopamine in the nucleus accumbens: the integrative functions of
+  cortico-basal ganglia networks. \textit{Eur J Neurosci}, \textbf{28~(8)},
+  1437--48.
 
-\bibitem[\protect\citeauthoryear{%
-Yin%
-, Ostlund%
-, Knowlton%
-\BCBL{}\ \BBA{} Balleine%
-}{%
-Yin%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2005}}%
-}]{%
-Yin:2005p5101}%
-\APACinsertmetastar{%
-Yin:2005p5101}%
-Yin, H\BPBI H.%
-, Ostlund, S\BPBI B.%
-, Knowlton, B\BPBI J.%
-\BCBL{}\ \BBA{} Balleine, B\BPBI W.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{Jul}{}.
-\newblock
-\BBOQ{}\APACrefatitle{The role of the dorsomedial striatum in instrumental
-  conditioning}{The role of the dorsomedial striatum in instrumental
-  conditioning}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Eur J Neurosci}{22}{2}{513--23}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Yin et~al.(2005)Yin, Ostlund, Knowlton, and Balleine}]{Yin:2005p5101}
+Yin, H.~H., S.~B. Ostlund, B.~J. Knowlton, and B.~W. Balleine, 2005: The role
+  of the dorsomedial striatum in instrumental conditioning. \textit{Eur J
+  Neurosci}, \textbf{22~(2)}, 513--23.
 
-\bibitem[\protect\citeauthoryear{%
-Zink%
-, Pagnoni%
-, Chappelow%
-, Martin-Skurski%
-\BCBL{}\ \BBA{} Berns%
-}{%
-Zink%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2006}}%
-}]{%
-Zink:2006p7210}%
-\APACinsertmetastar{%
-Zink:2006p7210}%
-Zink, C\BPBI F.%
-, Pagnoni, G.%
-, Chappelow, J.%
-, Martin-Skurski, M.%
-\BCBL{}\ \BBA{} Berns, G\BPBI S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{Feb}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Human striatal activation reflects degree of stimulus
-  saliency}{Human striatal activation reflects degree of stimulus
-  saliency}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuroimage}{29}{3}{977--83}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Zink et~al.(2006)Zink, Pagnoni, Chappelow, Martin-Skurski, and
+  Berns}]{Zink:2006p7210}
+Zink, C.~F., G.~Pagnoni, J.~Chappelow, M.~Martin-Skurski, and G.~S. Berns,
+  2006: Human striatal activation reflects degree of stimulus saliency.
+  \textit{Neuroimage}, \textbf{29~(3)}, 977--83.
 
-\bibitem[\protect\citeauthoryear{%
-Zink%
-, Pagnoni%
-, Martin%
-, Dhamala%
-\BCBL{}\ \BBA{} Berns%
-}{%
-Zink%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2003}}%
-}]{%
-Zink:2003p5107}%
-\APACinsertmetastar{%
-Zink:2003p5107}%
-Zink, C\BPBI F.%
-, Pagnoni, G.%
-, Martin, M\BPBI E.%
-, Dhamala, M.%
-\BCBL{}\ \BBA{} Berns, G\BPBI S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{Sep}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Human striatal response to salient nonrewarding
-  stimuli}{Human striatal response to salient nonrewarding stimuli}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{J Neurosci}{23}{22}{8092--7}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Zink et~al.(2003)Zink, Pagnoni, Martin, Dhamala, and
+  Berns}]{Zink:2003p5107}
+Zink, C.~F., G.~Pagnoni, M.~E. Martin, M.~Dhamala, and G.~S. Berns, 2003: Human
+  striatal response to salient nonrewarding stimuli. \textit{J Neurosci},
+  \textbf{23~(22)}, 8092--7.
 
-\bibitem[\protect\citeauthoryear{%
-Zink%
-, Pagnoni%
-, Martin-Skurski%
-, Chappelow%
-\BCBL{}\ \BBA{} Berns%
-}{%
-Zink%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2004}}%
-}]{%
-Zink:2004p5108}%
-\APACinsertmetastar{%
-Zink:2004p5108}%
-Zink, C\BPBI F.%
-, Pagnoni, G.%
-, Martin-Skurski, M\BPBI E.%
-, Chappelow, J\BPBI C.%
-\BCBL{}\ \BBA{} Berns, G\BPBI S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{May}{}.
-\newblock
-\BBOQ{}\APACrefatitle{Human striatal responses to monetary reward depend on
-  saliency}{Human striatal responses to monetary reward depend on
-  saliency}.\BBCQ{}
-\newblock
-\APACjournalVolNumPages{Neuron}{42}{3}{509--17}.
-\PrintBackRefs{\CurrentBib}
+\bibitem[{Zink et~al.(2004)Zink, Pagnoni, Martin-Skurski, Chappelow, and
+  Berns}]{Zink:2004p5108}
+Zink, C.~F., G.~Pagnoni, M.~E. Martin-Skurski, J.~C. Chappelow, and G.~S.
+  Berns, 2004: Human striatal responses to monetary reward depend on saliency.
+  \textit{Neuron}, \textbf{42~(3)}, 509--17.
 
 \end{thebibliography}

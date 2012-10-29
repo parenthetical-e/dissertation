@@ -1,20 +1,56 @@
-\contentsline {section}{Introduction}{4}
-\contentsline {subsection}{Classics, Expectations, and Tissues}{6}
-\contentsline {subsection}{Bad Prediction, No Cookie}{15}
-\contentsline {subsection}{Thinking About Thinking Rewarding Thoughts}{19}
-\contentsline {subsection}{Generally Generalizable.}{22}
-\contentsline {subsection}{Why Are We Here Again?}{26}
-\contentsline {section}{Chapter 2 -- Task and Models}{29}
-\contentsline {subsection}{On Task}{29}
-\contentsline {subsection}{3 Models and 2 Codes}{38}
-\contentsline {section}{Chapter 3 -- fMRI analyses}{51}
-\contentsline {subsection}{An Acquisition}{51}
-\contentsline {subsection}{Mobs of Blobs}{54}
-\contentsline {subsection}{Regions and Models}{55}
-\contentsline {subsection}{Model Results}{68}
-\contentsline {section}{Discussion}{91}
-\contentsline {subsection}{Taking Us to Can}{91}
-\contentsline {subsection}{Are, Reflected in Error(s)}{94}
-\contentsline {subsection}{The Big Conclusions}{99}
-\contentsline {subsection}{Future Work}{100}
-\contentsline {section}{References}{102}
+\contentsline {text}{ABSTRACT}{ii}{Doc-Start}
+\contentsline {text}{\uppercase {Acknowledgements}}{iii}{Doc-Start}
+\contentsline {text}{TABLE OF CONTENTS}{v}{Doc-Start}
+\contentsline {section}{Introduction}{1}{section*.1}
+\contentsline {subsection}{Classics, Expectations, and Tissues}{2}{section*.2}
+\contentsline {subsubsection}{A pleasurable start}{2}{section*.3}
+\contentsline {subsubsection}{Networked plausibility}{5}{section*.4}
+\contentsline {subsubsection}{Selecting striatum}{6}{section*.5}
+\contentsline {subsubsection}{Linking with the limbic}{7}{section*.6}
+\contentsline {subsubsection}{Front and center, lateral too}{8}{section*.7}
+\contentsline {subsection}{Bad Prediction, No Cookie}{9}{section*.8}
+\contentsline {subsubsection}{Not cortex, colliculus}{9}{section*.9}
+\contentsline {subsubsection}{They want, I want}{11}{section*.10}
+\contentsline {subsection}{Thinking About Thinking Rewarding Thoughts}{13}{section*.11}
+\contentsline {subsection}{Generally Generalizable.}{15}{section*.12}
+\contentsline {subsubsection}{Needed similarities}{15}{section*.13}
+\contentsline {subsubsection}{Birds do it}{16}{section*.14}
+\contentsline {subsubsection}{Curves and categories}{16}{section*.15}
+\contentsline {subsection}{Why Are We Here Again?}{18}{section*.16}
+\contentsline {section}{Chapter 2 -- Task and Models}{20}{section*.17}
+\contentsline {subsection}{On Task}{20}{section*.18}
+\contentsline {subsubsection}{What they did, and when}{20}{section*.19}
+\contentsline {subsubsection}{Well behaved results}{24}{section*.24}
+\contentsline {subsection}{3 Models and 2 Codes}{27}{section*.27}
+\contentsline {subsubsection}{Our three models}{27}{section*.28}
+\contentsline {subsubsection}{Codes and fits}{29}{section*.29}
+\contentsline {subsubsection}{The incantations}{29}{section*.30}
+\contentsline {subsubsection}{Fits and plots}{31}{section*.31}
+\contentsline {section}{Chapter 3 -- fMRI analyses}{40}{section*.41}
+\contentsline {subsection}{An Acquisition}{40}{section*.42}
+\contentsline {subsubsection}{Data details}{40}{section*.43}
+\contentsline {subsubsection}{Preprocessed (model) food}{41}{section*.44}
+\contentsline {subsubsection}{The best of all possible signals}{42}{section*.45}
+\contentsline {subsection}{Mobs of Blobs}{42}{section*.46}
+\contentsline {subsection}{Regions and Models}{43}{section*.50}
+\contentsline {subsubsection}{The right chunks}{43}{section*.51}
+\contentsline {subsubsection}{A way to(o) many}{47}{section*.52}
+\contentsline {subsubsection}{Information on information}{48}{section*.53}
+\contentsline {subsubsection}{F-them}{50}{section*.54}
+\contentsline {subsubsection}{Code, BOLD, and models.}{51}{section*.55}
+\contentsline {subsubsection}{Our kinds of models}{52}{section*.56}
+\contentsline {subsection}{Model Results}{55}{section*.57}
+\contentsline {subsubsection}{From up high}{55}{section*.58}
+\contentsline {subsubsection}{Under cortical}{56}{section*.59}
+\contentsline {subsubsection}{On that thinking sheet}{57}{section*.66}
+\contentsline {section}{Discussion}{76}{section*.79}
+\contentsline {subsection}{Taking Us to Can}{76}{section*.80}
+\contentsline {subsubsection}{A fit inconsistency, made consistent}{77}{section*.81}
+\contentsline {subsection}{Are, Reflected in Error(s)}{78}{section*.82}
+\contentsline {subsubsection}{A known pair's logic}{78}{section*.83}
+\contentsline {subsubsection}{Categories, in all the right spots}{79}{section*.84}
+\contentsline {subsubsection}{Not always categories; not a disagreement}{80}{section*.85}
+\contentsline {subsubsection}{Back to the secondary}{81}{section*.86}
+\contentsline {subsection}{The Big Conclusions}{82}{section*.87}
+\contentsline {subsection}{Future Work}{83}{section*.88}
+\contentsline {text}{\uppercase {REFERENCES}}{98}{section*.89}
