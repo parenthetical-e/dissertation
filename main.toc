@@ -4,53 +4,53 @@
 \contentsline {section}{Introduction}{1}{section*.1}
 \contentsline {subsection}{Classics, Expectations, and Tissues}{2}{section*.2}
 \contentsline {subsubsection}{A pleasurable start}{2}{section*.3}
-\contentsline {subsubsection}{Networked plausibility}{5}{section*.4}
+\contentsline {subsubsection}{Networked plausibility}{6}{section*.4}
 \contentsline {subsubsection}{Selecting striatum}{6}{section*.5}
 \contentsline {subsubsection}{Linking with the limbic}{7}{section*.6}
 \contentsline {subsubsection}{Front and center, lateral too}{8}{section*.7}
 \contentsline {subsection}{Bad Prediction, No Cookie}{9}{section*.8}
-\contentsline {subsubsection}{Not cortex, colliculus}{9}{section*.9}
+\contentsline {subsubsection}{Not cortex, colliculus}{10}{section*.9}
 \contentsline {subsubsection}{They want, I want}{11}{section*.10}
 \contentsline {subsection}{Thinking About Thinking Rewarding Thoughts}{13}{section*.11}
 \contentsline {subsection}{Generally Generalizable.}{15}{section*.12}
 \contentsline {subsubsection}{Needed similarities}{15}{section*.13}
 \contentsline {subsubsection}{Birds do it}{16}{section*.14}
-\contentsline {subsubsection}{Curves and categories}{16}{section*.15}
-\contentsline {subsection}{Why Are We Here Again?}{18}{section*.16}
-\contentsline {section}{Chapter 2 -- Task and Models}{20}{section*.17}
-\contentsline {subsection}{On Task}{20}{section*.18}
-\contentsline {subsubsection}{What they did, and when}{20}{section*.19}
+\contentsline {subsubsection}{Curves and categories}{17}{section*.15}
+\contentsline {subsection}{Why Are We Here Again?}{19}{section*.16}
+\contentsline {section}{Chapter 2 -- Task and Models}{21}{section*.17}
+\contentsline {subsection}{On Task}{21}{section*.18}
+\contentsline {subsubsection}{What they did, and when}{21}{section*.19}
 \contentsline {subsubsection}{Well behaved results}{24}{section*.24}
-\contentsline {subsection}{3 Models and 2 Codes}{27}{section*.27}
-\contentsline {subsubsection}{Our three models}{27}{section*.28}
+\contentsline {subsection}{3 Models and 2 Codes}{28}{section*.27}
+\contentsline {subsubsection}{Our three models}{28}{section*.28}
 \contentsline {subsubsection}{Codes and fits}{29}{section*.29}
-\contentsline {subsubsection}{The incantations}{29}{section*.30}
+\contentsline {subsubsection}{The incantations}{30}{section*.30}
 \contentsline {subsubsection}{Fits and plots}{31}{section*.31}
-\contentsline {section}{Chapter 3 -- fMRI analyses}{40}{section*.41}
-\contentsline {subsection}{An Acquisition}{40}{section*.42}
-\contentsline {subsubsection}{Data details}{40}{section*.43}
-\contentsline {subsubsection}{Preprocessed (model) food}{41}{section*.44}
-\contentsline {subsubsection}{The best of all possible signals}{42}{section*.45}
-\contentsline {subsection}{Mobs of Blobs}{42}{section*.46}
-\contentsline {subsection}{Regions and Models}{43}{section*.50}
-\contentsline {subsubsection}{The right chunks}{43}{section*.51}
-\contentsline {subsubsection}{A way to(o) many}{47}{section*.52}
-\contentsline {subsubsection}{Information on information}{48}{section*.53}
-\contentsline {subsubsection}{F-them}{50}{section*.54}
-\contentsline {subsubsection}{Code, BOLD, and models.}{51}{section*.55}
-\contentsline {subsubsection}{Our kinds of models}{52}{section*.56}
-\contentsline {subsection}{Model Results}{55}{section*.57}
-\contentsline {subsubsection}{From up high}{55}{section*.58}
-\contentsline {subsubsection}{Under cortical}{56}{section*.59}
-\contentsline {subsubsection}{On that thinking sheet}{57}{section*.66}
-\contentsline {section}{Discussion}{76}{section*.79}
-\contentsline {subsection}{Taking Us to Can}{76}{section*.80}
-\contentsline {subsubsection}{A fit inconsistency, made consistent}{77}{section*.81}
-\contentsline {subsection}{Are, Reflected in Error(s)}{78}{section*.82}
-\contentsline {subsubsection}{A known pair's logic}{78}{section*.83}
-\contentsline {subsubsection}{Categories, in all the right spots}{79}{section*.84}
-\contentsline {subsubsection}{Not always categories; not a disagreement}{80}{section*.85}
-\contentsline {subsubsection}{Back to the secondary}{81}{section*.86}
-\contentsline {subsection}{The Big Conclusions}{82}{section*.87}
-\contentsline {subsection}{Future Work}{83}{section*.88}
-\contentsline {text}{\uppercase {REFERENCES}}{98}{section*.89}
+\contentsline {section}{Chapter 3 -- fMRI analyses}{41}{section*.41}
+\contentsline {subsection}{An Acquisition}{41}{section*.42}
+\contentsline {subsubsection}{Data details}{41}{section*.43}
+\contentsline {subsubsection}{Preprocessed (model) food}{42}{section*.44}
+\contentsline {subsubsection}{The best of all possible signals}{43}{section*.45}
+\contentsline {subsection}{Mobs of Blobs}{44}{section*.46}
+\contentsline {subsection}{Regions and Models}{48}{section*.50}
+\contentsline {subsubsection}{The right chunks}{48}{section*.51}
+\contentsline {subsubsection}{A way to(o) many}{48}{section*.52}
+\contentsline {subsubsection}{Information on information}{50}{section*.53}
+\contentsline {subsubsection}{F-them}{51}{section*.54}
+\contentsline {subsubsection}{Code, BOLD, and models.}{52}{section*.55}
+\contentsline {subsubsection}{Our kinds of models}{53}{section*.56}
+\contentsline {subsection}{Model Results}{57}{section*.57}
+\contentsline {subsubsection}{From up high}{57}{section*.58}
+\contentsline {subsubsection}{Under cortical}{58}{section*.59}
+\contentsline {subsubsection}{On that thinking sheet}{59}{section*.66}
+\contentsline {section}{Discussion}{79}{section*.79}
+\contentsline {subsection}{Taking Us to Can}{79}{section*.80}
+\contentsline {subsubsection}{A fit inconsistency, made consistent}{80}{section*.81}
+\contentsline {subsection}{Are, Reflected in Error(s)}{81}{section*.82}
+\contentsline {subsubsection}{A known pair's logic}{81}{section*.83}
+\contentsline {subsubsection}{Categories, in all the right spots}{82}{section*.84}
+\contentsline {subsubsection}{Not always categories; not a disagreement}{83}{section*.85}
+\contentsline {subsubsection}{Back to the secondary}{84}{section*.86}
+\contentsline {subsection}{The Big Conclusions}{85}{section*.87}
+\contentsline {subsection}{Future Work}{86}{section*.88}
+\contentsline {text}{\uppercase {REFERENCES}}{101}{section*.89}
