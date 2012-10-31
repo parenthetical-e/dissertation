@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  30 OCT 2012 18:04
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  30 OCT 2012 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -506,19 +506,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [5] (./main.lot)
-\tf@lot=\write5
-\openout5 = `main.lot'.
-
- [6] (./main.lof [7] [8])
-\tf@lof=\write6
-\openout6 = `main.lof'.
-
- [9]
+ [5]
 \openout2 = `intro.aux'.
 
-
-(./intro.tex [1
+ (./intro.tex [1
 
 ] [2] [3] [4] [5] [6]
 Overfull \hbox (1.4762pt too wide) in paragraph at lines 44--45
@@ -550,37 +541,38 @@ es in the brain as-sumes that dopamine,
 
 
 
-] [22] <f_task.png, id=1099, 1027.84pt x 770.88pt>
+] [22] <f_task.png, id=921, 1027.84pt x 770.88pt>
 File: f_task.png Graphic file (type png)
  <use f_task.png>
 Package pdftex.def Info: f_task.png used on input line 22.
 (pdftex.def)             Requested size: 468.0pt x 350.99797pt.
  [23]
-<f_II.pdf, id=1105, 289.08pt x 216.81pt>
+<f_II.pdf, id=928, 289.08pt x 216.81pt>
 File: f_II.pdf Graphic file (type pdf)
  <use f_II.pdf>
 Package pdftex.def Info: f_II.pdf used on input line 29.
 (pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
 
-<f_all_sS_acc.pdf, id=1106, 289.08pt x 505.89pt>
+<f_all_sS_acc.pdf, id=929, 289.08pt x 505.89pt>
 File: f_all_sS_acc.pdf Graphic file (type pdf)
  <use f_all_sS_acc.pdf>
 Package pdftex.def Info: f_all_sS_acc.pdf used on input line 37.
 (pdftex.def)             Requested size: 289.07928pt x 505.88875pt.
 
-<f_all_sS_rt.pdf, id=1107, 289.08pt x 505.89pt>
+<f_all_sS_rt.pdf, id=930, 289.08pt x 505.89pt>
 File: f_all_sS_rt.pdf Graphic file (type pdf)
  <use f_all_sS_rt.pdf>
 Package pdftex.def Info: f_all_sS_rt.pdf used on input line 44.
 (pdftex.def)             Requested size: 289.07928pt x 505.88875pt.
  [24 <./f_task.png>] [25 <./f_II.pdf>] [26 <./f_all_sS_acc.pdf>] [27 <./f_all_s
-S_rt.pdf>] <f_all_mean_acc.pdf, id=1259, 144.54pt x 144.54pt>
+S_rt.pdf>]
+<f_all_mean_acc.pdf, id=1086, 144.54pt x 144.54pt>
 File: f_all_mean_acc.pdf Graphic file (type pdf)
  <use f_all_mean_acc.pdf>
 Package pdftex.def Info: f_all_mean_acc.pdf used on input line 55.
 (pdftex.def)             Requested size: 144.53963pt x 144.53963pt.
 
-<f_all_mean_rt.pdf, id=1260, 144.54pt x 144.54pt>
+<f_all_mean_rt.pdf, id=1087, 144.54pt x 144.54pt>
 File: f_all_mean_rt.pdf Graphic file (type pdf)
  <use f_all_mean_rt.pdf>
 Package pdftex.def Info: f_all_mean_rt.pdf used on input line 62.
@@ -592,67 +584,55 @@ Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 122.
 
-[31] <f_logL.pdf, id=1377, 216.81pt x 144.54pt>
+[31] <f_logL.pdf, id=1206, 216.81pt x 144.54pt>
 File: f_logL.pdf Graphic file (type pdf)
  <use f_logL.pdf>
 Package pdftex.def Info: f_logL.pdf used on input line 138.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
-<f_alpha.pdf, id=1378, 216.81pt x 144.54pt>
+<f_alpha.pdf, id=1207, 216.81pt x 144.54pt>
 File: f_alpha.pdf Graphic file (type pdf)
  <use f_alpha.pdf>
 Package pdftex.def Info: f_alpha.pdf used on input line 145.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
 
-<f_beta.pdf, id=1379, 216.81pt x 144.54pt>
+<f_beta.pdf, id=1208, 216.81pt x 144.54pt>
 File: f_beta.pdf Graphic file (type pdf)
  <use f_beta.pdf>
 Package pdftex.def Info: f_beta.pdf used on input line 152.
 (pdftex.def)             Requested size: 216.80946pt x 144.53963pt.
  [32 <./f_logL.pdf>] [33 <./f_alpha.pdf> <./f_beta.pdf>] [34]
-<f_rpe_acc.pdf, id=1445, 433.62pt x 867.24pt>
+<f_rpe_acc.pdf, id=1280, 433.62pt x 867.24pt>
 File: f_rpe_acc.pdf Graphic file (type pdf)
  <use f_rpe_acc.pdf>
 Package pdftex.def Info: f_rpe_acc.pdf used on input line 169.
-(pdftex.def)             Requested size: 281.85587pt x 563.73903pt.
+(pdftex.def)             Requested size: 234.8775pt x 469.75827pt.
 
-
-LaTeX Warning: Float too large for page by 19.29893pt on input line 173.
-
-<f_rpe_gl.pdf, id=1446, 433.62pt x 867.24pt>
+<f_rpe_gl.pdf, id=1281, 433.62pt x 867.24pt>
 File: f_rpe_gl.pdf Graphic file (type pdf)
  <use f_rpe_gl.pdf>
 Package pdftex.def Info: f_rpe_gl.pdf used on input line 175.
-(pdftex.def)             Requested size: 281.85587pt x 563.73903pt.
+(pdftex.def)             Requested size: 234.8775pt x 469.75827pt.
 
-
-LaTeX Warning: Float too large for page by 19.29893pt on input line 179.
-
-<f_value_acc.pdf, id=1447, 433.62pt x 867.24pt>
+<f_value_acc.pdf, id=1282, 433.62pt x 867.24pt>
 File: f_value_acc.pdf Graphic file (type pdf)
  <use f_value_acc.pdf>
 Package pdftex.def Info: f_value_acc.pdf used on input line 182.
-(pdftex.def)             Requested size: 281.85587pt x 563.73903pt.
+(pdftex.def)             Requested size: 234.8775pt x 469.75827pt.
 
-
-LaTeX Warning: Float too large for page by 19.29893pt on input line 186.
-
-<f_value_gl.pdf, id=1448, 433.62pt x 867.24pt>
+<f_value_gl.pdf, id=1283, 433.62pt x 867.24pt>
 File: f_value_gl.pdf Graphic file (type pdf)
  <use f_value_gl.pdf>
 Package pdftex.def Info: f_value_gl.pdf used on input line 188.
-(pdftex.def)             Requested size: 281.85587pt x 563.73903pt.
+(pdftex.def)             Requested size: 234.8775pt x 469.75827pt.
 
-
-LaTeX Warning: Float too large for page by 19.29893pt on input line 192.
-
-<f_density_rpe.pdf, id=1449, 433.62pt x 216.81pt>
+<f_density_rpe.pdf, id=1284, 433.62pt x 216.81pt>
 File: f_density_rpe.pdf Graphic file (type pdf)
  <use f_density_rpe.pdf>
 Package pdftex.def Info: f_density_rpe.pdf used on input line 194.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-<f_density_value.pdf, id=1450, 433.62pt x 216.81pt>
+<f_density_value.pdf, id=1285, 433.62pt x 216.81pt>
 File: f_density_value.pdf Graphic file (type pdf)
  <use f_density_value.pdf>
 Package pdftex.def Info: f_density_value.pdf used on input line 201.
@@ -667,20 +647,20 @@ Package pdftex.def Info: f_density_value.pdf used on input line 201.
 
 
 
-] [42] [43] <f_map_gl_p05.pdf, id=1607, 803.0pt x 602.25pt>
+] [42] [43] <f_map_gl_p05.pdf, id=1443, 803.0pt x 602.25pt>
 File: f_map_gl_p05.pdf Graphic file (type pdf)
 
 <use f_map_gl_p05.pdf>
 Package pdftex.def Info: f_map_gl_p05.pdf used on input line 30.
 (pdftex.def)             Requested size: 468.0pt x 351.00531pt.
 
-<f_map_gl_raw_t.pdf, id=1610, 388.45125pt x 563.10374pt>
+<f_map_gl_raw_t.pdf, id=1446, 388.45125pt x 563.10374pt>
 File: f_map_gl_raw_t.pdf Graphic file (type pdf)
 
 <use f_map_gl_raw_t.pdf>
 Package pdftex.def Info: f_map_gl_raw_t.pdf used on input line 37.
 (pdftex.def)             Requested size: 388.45029pt x 563.10237pt.
- <f_map_gxl_p05.pdf, id=1611, 803.0pt x 602.25pt>
+ <f_map_gxl_p05.pdf, id=1447, 803.0pt x 602.25pt>
 File: f_map_gxl_p05.pdf Graphic file (type pdf)
 
 <use f_map_gxl_p05.pdf>
@@ -698,7 +678,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--125
  []
 
 [55] [56] [57] [58]
-<f_meanbar_run4_c_aic_w_bilat_Caudate.pdf, id=1892, 433.62pt x 433.62pt>
+<f_meanbar_run4_c_aic_w_bilat_Caudate.pdf, id=1736, 433.62pt x 433.62pt>
 File: f_meanbar_run4_c_aic_w_bilat_Caudate.pdf Graphic file (type pdf)
 
 <use f_meanbar_run4_c_aic_w_bilat_Caudate.pdf>
@@ -706,7 +686,7 @@ Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Caudate.pdf used on input
  line 154.
 (pdftex.def)             Requested size: 468.0pt x 468.02473pt.
 
-<f_plot_run4_c_fvalue_bilat_Caudate.pdf, id=1895, 433.62pt x 433.62pt>
+<f_plot_run4_c_fvalue_bilat_Caudate.pdf, id=1739, 433.62pt x 433.62pt>
 File: f_plot_run4_c_fvalue_bilat_Caudate.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_bilat_Caudate.pdf>
@@ -714,7 +694,7 @@ Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Caudate.pdf used on input l
 ine 160.
 (pdftex.def)             Requested size: 468.0pt x 468.02473pt.
 
-<f_meanbar_run4_c_aic_w_bilat_Putamen.pdf, id=1898, 433.62pt x 433.62pt>
+<f_meanbar_run4_c_aic_w_bilat_Putamen.pdf, id=1742, 433.62pt x 433.62pt>
 File: f_meanbar_run4_c_aic_w_bilat_Putamen.pdf Graphic file (type pdf)
 
 <use f_meanbar_run4_c_aic_w_bilat_Putamen.pdf>
@@ -722,7 +702,7 @@ Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Putamen.pdf used on input
  line 167.
 (pdftex.def)             Requested size: 468.0pt x 468.02473pt.
 
-<f_plot_run4_c_fvalue_bilat_Putamen.pdf, id=1901, 433.62pt x 433.62pt>
+<f_plot_run4_c_fvalue_bilat_Putamen.pdf, id=1745, 433.62pt x 433.62pt>
 File: f_plot_run4_c_fvalue_bilat_Putamen.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_bilat_Putamen.pdf>
@@ -730,7 +710,7 @@ Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Putamen.pdf used on input l
 ine 173.
 (pdftex.def)             Requested size: 468.0pt x 468.02473pt.
 
-<f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf, id=1904, 433.62pt x 433.62pt>
+<f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf, id=1748, 433.62pt x 433.62pt>
 File: f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf Graphic file (type pdf)
 
 <use f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf>
@@ -738,7 +718,7 @@ Package pdftex.def Info: f_meanbar_run4_c_aic_w_bilat_Accumbens.pdf used on inp
 ut line 183.
 (pdftex.def)             Requested size: 468.0pt x 468.02473pt.
 
-<f_plot_run4_c_fvalue_bilat_Accumbens.pdf, id=1907, 433.62pt x 433.62pt>
+<f_plot_run4_c_fvalue_bilat_Accumbens.pdf, id=1751, 433.62pt x 433.62pt>
 File: f_plot_run4_c_fvalue_bilat_Accumbens.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_bilat_Accumbens.pdf>
@@ -749,7 +729,7 @@ Package pdftex.def Info: f_plot_run4_c_fvalue_bilat_Accumbens.pdf used on input
 alue_bilat_Caudate.pdf>] [62 <./f_meanbar_run4_c_aic_w_bilat_Putamen.pdf>] [63 
 <./f_plot_run4_c_fvalue_bilat_Putamen.pdf>] [64 <./f_meanbar_run4_c_aic_w_bilat
 _Accumbens.pdf>] [65 <./f_plot_run4_c_fvalue_bilat_Accumbens.pdf>]
-<f_meanbar_run4_c_aic_w_Insular_Cortex.pdf, id=2000, 433.62pt x 252.945pt>
+<f_meanbar_run4_c_aic_w_Insular_Cortex.pdf, id=1854, 433.62pt x 252.945pt>
 File: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf Graphic file (type pdf)
 
 <use f_meanbar_run4_c_aic_w_Insular_Cortex.pdf>
@@ -757,7 +737,7 @@ Package pdftex.def Info: f_meanbar_run4_c_aic_w_Insular_Cortex.pdf used on inpu
 t line 208.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_plot_run4_c_fvalue_Insular_Cortex.pdf, id=2003, 433.62pt x 252.945pt>
+<f_plot_run4_c_fvalue_Insular_Cortex.pdf, id=1857, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Insular_Cortex.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_Insular_Cortex.pdf>
@@ -765,7 +745,7 @@ Package pdftex.def Info: f_plot_run4_c_fvalue_Insular_Cortex.pdf used on input
 line 214.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf, id=2006, 433.62p
+<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf, id=1860, 433.62p
 t x 252.945pt>
 File: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_division.pdf Graphic file
  (type pdf)
@@ -775,7 +755,7 @@ Package pdftex.def Info: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_anterior_divisi
 on.pdf used on input line 224.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf, id=2009, 433.62pt 
+<f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf, id=1863, 433.62pt 
 x 252.945pt>
 File: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division.pdf Graphic file (
 type pdf)
@@ -784,7 +764,7 @@ Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_anterior_division
 .pdf used on input line 230.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf, id=2012, 433.62
+<f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf, id=1866, 433.62
 pt x 252.945pt>
 File: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_division.pdf Graphic fil
 e (type pdf)
@@ -794,7 +774,7 @@ Package pdftex.def Info: f_meanbar_run4_c_aic_w_Cingulate_Gyrus_posterior_divis
 ion.pdf used on input line 240.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf, id=2015, 433.62pt
+<f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf, id=1869, 433.62pt
  x 252.945pt>
 File: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_division.pdf Graphic file 
 (type pdf)
@@ -804,7 +784,7 @@ Package pdftex.def Info: f_plot_run4_c_fvalue_Cingulate_Gyrus_posterior_divisio
 n.pdf used on input line 246.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf, id=2018, 433.62pt x 252.945
+<f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf, id=1872, 433.62pt x 252.945
 pt>
 File: f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
 
@@ -813,7 +793,7 @@ Package pdftex.def Info: f_meanbar_run4_c_aic_w_Frontal_Orbital_Cortex.pdf used
  on input line 255.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf, id=2021, 433.62pt x 252.945pt
+<f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf, id=1875, 433.62pt x 252.945pt
 >
 File: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf Graphic file (type pdf)
  <use f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf>
@@ -821,7 +801,7 @@ Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Orbital_Cortex.pdf used o
 n input line 261.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf, id=2024, 433.62pt x 252.945p
+<f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf, id=1878, 433.62pt x 252.945p
 t>
 File: f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
  <use f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf>
@@ -829,14 +809,14 @@ Package pdftex.def Info: f_meanbar_run4_c_aic_w_Frontal_Medial_Cortex.pdf used
 on input line 271.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf, id=2027, 433.62pt x 252.945pt>
+<f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf, id=1881, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf Graphic file (type pdf)
 <use f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf>
 Package pdftex.def Info: f_plot_run4_c_fvalue_Frontal_Medial_Cortex.pdf used on
  input line 277.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf, id=2030, 433.62pt x 252.945pt
+<f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf, id=1884, 433.62pt x 252.945pt
 >
 File: f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
  <use f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf>
@@ -844,7 +824,7 @@ Package pdftex.def Info: f_meanbar_run4_c_aic_w_Middle_Frontal_Gyrus.pdf used o
 n input line 286.
 (pdftex.def)             Requested size: 468.0pt x 273.01442pt.
 
-<f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf, id=2033, 433.62pt x 252.945pt>
+<f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf, id=1887, 433.62pt x 252.945pt>
 File: f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf Graphic file (type pdf)
 
 <use f_plot_run4_c_fvalue_Middle_Frontal_Gyrus.pdf>
@@ -897,9 +877,9 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 9290 strings out of 493633
- 145315 string characters out of 3143378
- 259679 words of memory out of 3000000
+ 9280 strings out of 493633
+ 145240 string characters out of 3143378
+ 249570 words of memory out of 3000000
  11991 multiletter control sequences out of 15000+200000
  11276 words of font info for 45 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
@@ -984,10 +964,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2011/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2011/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (110 pages, 2628695 bytes).
+Output written on main.pdf (106 pages, 2618171 bytes).
 PDF statistics:
- 2644 PDF objects out of 2984 (max. 8388607)
- 2349 compressed objects within 24 object streams
- 431 named destinations out of 1000 (max. 500000)
+ 2501 PDF objects out of 2984 (max. 8388607)
+ 2211 compressed objects within 23 object streams
+ 427 named destinations out of 1000 (max. 500000)
  629 words of extra memory for PDF output out of 10000 (max. 10000000)
 
